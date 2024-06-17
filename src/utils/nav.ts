@@ -95,7 +95,7 @@ export const getAllNavs = async (funds: Fund[]): Promise<void> => {
         const hasRegistrationDate = fund.regis_date && fund.regis_date !== '-';
         const isUnregistered = fund.regis_date && fund.regis_date > today;
         const isCancelledFund = fund.cancel_date && fund.cancel_date !== '-' && today > fund.cancel_date;
-        const isAlreadyFetched = fund.regis_date === lowerBound && upperBound <= today;
+        const isAlreadyFetched = fund.regis_date === lowerBound && upperBound === today;
 
         if (!hasRegistrationDate || isUnregistered || isCancelledFund || isAlreadyFetched) {
             continue;
