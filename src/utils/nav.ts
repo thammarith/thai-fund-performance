@@ -66,11 +66,14 @@ export const getAllNavs = async (funds: Fund[]): Promise<void> => {
     const whiteListedFunds = [
         'M0264_2564', // KFGG-A
         'M0458_2559', // KFAFIX-A
+        'M0369_2564', // B-SIPSSF
     ];
 
     const whiteListedAcms = [
         'C0000000239', // SCBAM
         'C0000005025', // Kiatnakin
+        'C0000000021', // Kasikorn
+        'C0000000569', // One
     ];
 
     for (const fund of funds) {
