@@ -37,7 +37,7 @@ export const writeFile = async ({ path, data, nextUpdate }: WriteFileProps): Pro
                 lastUpdate: new Date().valueOf(),
                 nextUpdate: nextUpdate?.valueOf(),
                 data,
-            }),
+            }, null, 4),
             {
                 create: true,
             }
