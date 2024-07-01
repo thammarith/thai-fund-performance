@@ -1,0 +1,53 @@
+{
+    "lastUpdate": 1719836399697,
+    "nextUpdate": 1719921005183,
+    "data": {
+        "lastNav": "2024-05-31",
+        "fund": {
+            "proj_id": "M0764_2566",
+            "regis_id": "MF0488_2566",
+            "regis_date": "2023-11-22",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิดเค พันธบัตร 1 ปี M",
+            "proj_name_en": "K Government Bond 1 Year M Fund",
+            "proj_abbr_name": "KGB1YM",
+            "fund_status": "RG",
+            "unique_id": "C0000000021",
+            "permit_us_investment": null,
+            "invest_country_flag": "3",
+            "last_upd_date": "2024-06-14T07:03:09.317"
+        },
+        "navs": [
+            {
+                "nav_date": "2024-05-31",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KGB1YM",
+                "net_asset": 3187898514.09,
+                "last_val": 10.1159,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-01T07:02:16"
+            },
+            {
+                "nav_date": "2024-06-28",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KGB1YM",
+                "net_asset": 3192599228.79,
+                "last_val": 10.1308,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-01T07:02:16"
+            }
+        ]
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "lastUpdate": 1719835715112,
+    "nextUpdate": 1719921005183,
+    "data": {
+        "lastNav": "2024-05-31",
+        "fund": {
+            "proj_id": "M0734_2565",
+            "regis_id": "MF0427_2565",
+            "regis_date": "2022-12-23",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิดเค ตราสารหนี้ 2 ปี A ห้ามขายผู้ลงทุนรายย่อย",
+            "proj_name_en": "K Fixed Income 2 Years A Fund Not for Retail Investors",
+            "proj_abbr_name": "KFI2YA-BR",
+            "fund_status": "RG",
+            "unique_id": "C0000000021",
+            "permit_us_investment": null,
+            "invest_country_flag": "4",
+            "last_upd_date": "2024-06-14T07:03:09.317"
+        },
+        "navs": [
+            {
+                "nav_date": "2024-05-31",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KFI2YA-BR",
+                "net_asset": 3522998873.11,
+                "last_val": 10.328,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-01T07:02:16"
+            },
+            {
+                "nav_date": "2024-06-28",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KFI2YA-BR",
+                "net_asset": 3528671775.4,
+                "last_val": 10.3447,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-01T07:02:16"
+            }
+        ]
+    }
+}
