@@ -38,5 +38,5 @@ I haven't set up proper path. To temporary use this:
 
 - For funds with spaces in the name, replace a space with `%20`
   - E.g., `SCB%20DPLUS%20A` instead of `SCB DPLUS A`
-- For funds with `/` in the name, replace a slack with `--`
+- For funds with `/` in the name, replace a slash (`/`) with `--`
   - E.g., `ONE-OPPORTUNITY6--2` instead of `ONE-OPPORTUNITY6/2`
