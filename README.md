@@ -33,3 +33,10 @@ I haven't set up proper path. To temporary use this:
 - Date format: *leave blank; it's using the sensible ISO-8601*
 - Path to close: `$.data.navs[*].last_val`
 - For the rest, leave blank
+
+### Note
+
+- For funds with spaces in the name, replace a space with `%20`
+  - E.g., `SCB%20DPLUS%20A` instead of `SCB DPLUS A`
+- For funds with `/` in the name, replace a slack with `--`
+  - E.g., `ONE-OPPORTUNITY6--2` instead of `ONE-OPPORTUNITY6/2`

@@ -44,7 +44,8 @@ const processNavs = (fund: Fund, navs: FundDailyNav[]) => {
 };
 
 const processNav = async (fund: Fund, nav: FundDailyNav) => {
-    const fileName = NAV_PATH.replace('{nav}', nav.class_abbr_name);
+    const navName = nav.class_abbr_name.replaceAll('/', '--');
+    const fileName = NAV_PATH.replace('{nav}', navName);
 
     const cachedFunds = await readFile<CompositedFundNav>(fileName, `Nav for ${nav.class_abbr_name}`);
 
