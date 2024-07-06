@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1719919703421,
-    "nextUpdate": 1720002438845,
+    "lastUpdate": 1720245993278,
+    "nextUpdate": 1720332016937,
     "data": {
-        "lastNav": "2020-09-23",
+        "lastNav": "2024-07-04",
         "fund": {
             "proj_id": "M0768_2546",
             "regis_id": "027_2547",
@@ -13502,6 +13502,36 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-02T07:02:02"
+            },
+            {
+                "nav_date": "2024-07-03",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-EC14-RA",
+                "net_asset": 8185351.73,
+                "last_val": 8.7837,
+                "previous_val": 0,
+                "sell_price": 8.7838,
+                "buy_price": 8.7837,
+                "sell_swap_price": 8.7837,
+                "buy_swap_price": 8.7838,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-04",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-EC14-RA",
+                "net_asset": 8228602.7,
+                "last_val": 8.8301,
+                "previous_val": 0,
+                "sell_price": 8.8302,
+                "buy_price": 8.8301,
+                "sell_swap_price": 8.8301,
+                "buy_swap_price": 8.8302,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-06T07:01:32"
             }
         ]
     }

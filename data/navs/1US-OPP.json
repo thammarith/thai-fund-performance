@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1719903263494,
-    "nextUpdate": 1719979140861,
+    "lastUpdate": 1720245963797,
+    "nextUpdate": 1720332016937,
     "data": {
-        "lastNav": "2021-04-20",
+        "lastNav": "2024-07-03",
         "fund": {
             "proj_id": "M0235_2551",
             "regis_id": "266_2551",
@@ -11462,6 +11462,21 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-02T07:02:02"
+            },
+            {
+                "nav_date": "2024-07-03",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "1US-OPP",
+                "net_asset": 80201909.18,
+                "last_val": 20.4516,
+                "previous_val": 0,
+                "sell_price": 20.7586,
+                "buy_price": 20.4516,
+                "sell_swap_price": 20.4516,
+                "buy_swap_price": 20.7586,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-06T07:01:32"
             }
         ]
     }

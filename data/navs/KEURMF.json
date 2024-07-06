@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1719832703417,
-    "nextUpdate": 1719918995006,
+    "lastUpdate": 1720245743158,
+    "nextUpdate": 1720332016937,
     "data": {
-        "lastNav": "2021-04-21",
+        "lastNav": "2024-07-03",
         "fund": {
             "proj_id": "M0679_2557",
             "regis_id": "MF0797_2557",
@@ -10337,6 +10337,21 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-01T07:02:16"
+            },
+            {
+                "nav_date": "2024-07-03",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KEURMF",
+                "net_asset": 1238383655.77,
+                "last_val": 20.3534,
+                "previous_val": 0,
+                "sell_price": 20.3535,
+                "buy_price": 20.3534,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-06T07:01:32"
             }
         ]
     }

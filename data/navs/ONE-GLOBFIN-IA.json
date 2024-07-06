@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1719919055446,
-    "nextUpdate": 1720002438845,
+    "lastUpdate": 1720245990573,
+    "nextUpdate": 1720332016937,
     "data": {
-        "lastNav": "2021-04-05",
+        "lastNav": "2024-07-03",
         "fund": {
             "proj_id": "M0664_2560",
             "regis_id": "MF0039_2561",
@@ -11447,6 +11447,21 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-02T07:02:02"
+            },
+            {
+                "nav_date": "2024-07-03",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-GLOBFIN-IA",
+                "net_asset": 14109312.27,
+                "last_val": 13.2043,
+                "previous_val": 0,
+                "sell_price": 13.3457,
+                "buy_price": 13.2043,
+                "sell_swap_price": 13.2043,
+                "buy_swap_price": 13.3457,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-06T07:01:32"
             }
         ]
     }

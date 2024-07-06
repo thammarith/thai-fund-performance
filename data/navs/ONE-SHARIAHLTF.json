@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1719911965182,
-    "nextUpdate": 1719993578927,
+    "lastUpdate": 1720245981030,
+    "nextUpdate": 1720332016937,
     "data": {
-        "lastNav": "2016-11-21",
+        "lastNav": "2024-07-04",
         "fund": {
             "proj_id": "M0518_2559",
             "regis_id": "MF0507_2559",
@@ -26882,6 +26882,36 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-02T07:02:02"
+            },
+            {
+                "nav_date": "2024-07-03",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-SHARIAHLTF",
+                "net_asset": 9169008.35,
+                "last_val": 6.3365,
+                "previous_val": 0,
+                "sell_price": 6.3365,
+                "buy_price": 6.3365,
+                "sell_swap_price": 6.3365,
+                "buy_swap_price": 6.3365,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-04",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-SHARIAHLTF",
+                "net_asset": 9207782.89,
+                "last_val": 6.3632,
+                "previous_val": 0,
+                "sell_price": 6.3634,
+                "buy_price": 6.3632,
+                "sell_swap_price": 6.3632,
+                "buy_swap_price": 6.3634,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-06T07:01:32"
             }
         ]
     }

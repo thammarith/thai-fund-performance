@@ -1,0 +1,53 @@
+{
+    "lastUpdate": 1720245943042,
+    "nextUpdate": 1720332016937,
+    "data": {
+        "lastNav": "2024-07-04",
+        "fund": {
+            "proj_id": "M0021_2536",
+            "regis_id": "007_2537",
+            "regis_date": "1994-01-26",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิดธนาวรรณ ",
+            "proj_name_en": "THANA ONE FUND",
+            "proj_abbr_name": "THANA1",
+            "fund_status": "RG",
+            "unique_id": "C0000000569",
+            "permit_us_investment": null,
+            "invest_country_flag": "3",
+            "last_upd_date": "2024-06-14T07:03:09.317"
+        },
+        "navs": [
+            {
+                "nav_date": "2024-07-03",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "THANA1",
+                "net_asset": 95066350.73,
+                "last_val": 9.4847,
+                "previous_val": 0,
+                "sell_price": 9.5863,
+                "buy_price": 9.4847,
+                "sell_swap_price": 9.4847,
+                "buy_swap_price": 9.5863,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-04",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "THANA1",
+                "net_asset": 95466382.9,
+                "last_val": 9.5246,
+                "previous_val": 0,
+                "sell_price": 9.6266,
+                "buy_price": 9.5246,
+                "sell_swap_price": 9.5246,
+                "buy_swap_price": 9.6266,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-06T07:01:32"
+            }
+        ]
+    }
+}

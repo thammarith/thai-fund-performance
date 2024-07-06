@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1719904742819,
-    "nextUpdate": 1719979140861,
+    "lastUpdate": 1720245966501,
+    "nextUpdate": 1720332016937,
     "data": {
-        "lastNav": "2007-09-13",
+        "lastNav": "2024-07-04",
         "fund": {
             "proj_id": "M0259_2550",
             "regis_id": "271_2550",
@@ -60047,6 +60047,36 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-02T07:02:02"
+            },
+            {
+                "nav_date": "2024-07-03",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "TDEX",
+                "net_asset": 3478035525.21,
+                "last_val": 7.8688,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-04",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "TDEX",
+                "net_asset": 3494985980.77,
+                "last_val": 7.9071,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-06T07:01:32"
             }
         ]
     }

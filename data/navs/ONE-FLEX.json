@@ -1,0 +1,53 @@
+{
+    "lastUpdate": 1720245955113,
+    "nextUpdate": 1720332016937,
+    "data": {
+        "lastNav": "2024-07-04",
+        "fund": {
+            "proj_id": "M0114_2542",
+            "regis_id": "027_2542",
+            "regis_date": "1999-08-26",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิดวรรณเฟล็กซิเบิล ",
+            "proj_name_en": "ONE  FLEXIBLE FUND",
+            "proj_abbr_name": "ONE-FLEX",
+            "fund_status": "RG",
+            "unique_id": "C0000000569",
+            "permit_us_investment": null,
+            "invest_country_flag": "3",
+            "last_upd_date": "2024-06-14T07:03:09.317"
+        },
+        "navs": [
+            {
+                "nav_date": "2024-07-03",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-FLEX",
+                "net_asset": 26452798.25,
+                "last_val": 13.194,
+                "previous_val": 0,
+                "sell_price": 13.1941,
+                "buy_price": 13.194,
+                "sell_swap_price": 13.194,
+                "buy_swap_price": 13.1941,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-04",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-FLEX",
+                "net_asset": 26564550.64,
+                "last_val": 13.2497,
+                "previous_val": 0,
+                "sell_price": 13.2498,
+                "buy_price": 13.2497,
+                "sell_swap_price": 13.2497,
+                "buy_swap_price": 13.2498,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-06T07:01:32"
+            }
+        ]
+    }
+}

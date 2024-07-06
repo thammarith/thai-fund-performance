@@ -1,0 +1,53 @@
+{
+    "lastUpdate": 1720245942407,
+    "nextUpdate": 1720332016937,
+    "data": {
+        "lastNav": "2024-07-04",
+        "fund": {
+            "proj_id": "M0017_2535",
+            "regis_id": "005_2535",
+            "regis_date": "1992-07-31",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิดเอกทวีคูณ ",
+            "proj_name_en": "ONE MULTIPLE GROWTH FUND",
+            "proj_abbr_name": "ONE-G",
+            "fund_status": "RG",
+            "unique_id": "C0000000569",
+            "permit_us_investment": null,
+            "invest_country_flag": "3",
+            "last_upd_date": "2024-06-14T07:03:09.317"
+        },
+        "navs": [
+            {
+                "nav_date": "2024-07-03",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-G",
+                "net_asset": 60689343.13,
+                "last_val": 41.7186,
+                "previous_val": 0,
+                "sell_price": 42.1358,
+                "buy_price": 41.7186,
+                "sell_swap_price": 41.7186,
+                "buy_swap_price": 42.1358,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-04",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-G",
+                "net_asset": 60961803.93,
+                "last_val": 41.9059,
+                "previous_val": 0,
+                "sell_price": 42.325,
+                "buy_price": 41.9059,
+                "sell_swap_price": 41.9059,
+                "buy_swap_price": 42.325,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-06T07:01:32"
+            }
+        ]
+    }
+}

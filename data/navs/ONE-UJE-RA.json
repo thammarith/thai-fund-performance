@@ -1,0 +1,38 @@
+{
+    "lastUpdate": 1720245954329,
+    "nextUpdate": 1720332016937,
+    "data": {
+        "lastNav": "2024-07-03",
+        "fund": {
+            "proj_id": "M0107_2564",
+            "regis_id": "MF0160_2564",
+            "regis_date": "2021-05-14",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิด วรรณ อัลติเมท เจแปน อิควิตี้",
+            "proj_name_en": "ONE ULTIMATE JAPAN EQUITY FUND",
+            "proj_abbr_name": "ONE-UJE",
+            "fund_status": "RG",
+            "unique_id": "C0000000569",
+            "permit_us_investment": null,
+            "invest_country_flag": "1",
+            "last_upd_date": "2024-06-14T07:03:09.317"
+        },
+        "navs": [
+            {
+                "nav_date": "2024-07-03",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-UJE-RA",
+                "net_asset": 117434617.9,
+                "last_val": 13.3432,
+                "previous_val": 0,
+                "sell_price": 13.5434,
+                "buy_price": 13.3432,
+                "sell_swap_price": 13.3432,
+                "buy_swap_price": 13.5434,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-06T07:01:32"
+            }
+        ]
+    }
+}

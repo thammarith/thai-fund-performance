@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1719836646046,
-    "nextUpdate": 1719921005183,
+    "lastUpdate": 1720245749809,
+    "nextUpdate": 1720332016937,
     "data": {
-        "lastNav": "2021-04-21",
+        "lastNav": "2024-07-03",
         "fund": {
             "proj_id": "M0798_2557",
             "regis_id": "MF0796_2557",
@@ -10262,6 +10262,21 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-01T07:02:16"
+            },
+            {
+                "nav_date": "2024-07-03",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GHEALTH",
+                "net_asset": 3497224149.67,
+                "last_val": 11.8039,
+                "previous_val": 0,
+                "sell_price": 11.9811,
+                "buy_price": 11.8039,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-06T07:01:32"
             }
         ]
     }

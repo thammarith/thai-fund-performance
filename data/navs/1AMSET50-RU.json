@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1719910378020,
-    "nextUpdate": 1719993578927,
+    "lastUpdate": 1720245980412,
+    "nextUpdate": 1720332016937,
     "data": {
-        "lastNav": "2020-09-23",
+        "lastNav": "2024-07-04",
         "fund": {
             "proj_id": "M0512_2546",
             "regis_id": "073_2546",
@@ -13502,6 +13502,36 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-02T07:02:02"
+            },
+            {
+                "nav_date": "2024-07-03",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "1AMSET50-RU",
+                "net_asset": 251402988,
+                "last_val": 53.4634,
+                "previous_val": 0,
+                "sell_price": 53.7494,
+                "buy_price": 53.4634,
+                "sell_swap_price": 53.4634,
+                "buy_swap_price": 53.7494,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-04",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "1AMSET50-RU",
+                "net_asset": 251110685.88,
+                "last_val": 53.7143,
+                "previous_val": 0,
+                "sell_price": 54.0018,
+                "buy_price": 53.7143,
+                "sell_swap_price": 53.7143,
+                "buy_swap_price": 54.0018,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-06T07:01:32"
             }
         ]
     }

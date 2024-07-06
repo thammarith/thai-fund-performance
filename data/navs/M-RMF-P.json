@@ -1,0 +1,53 @@
+{
+    "lastUpdate": 1720245948691,
+    "nextUpdate": 1720332016937,
+    "data": {
+        "lastNav": "2024-07-04",
+        "fund": {
+            "proj_id": "M0068_2544",
+            "regis_id": "045_2544",
+            "regis_date": "2001-12-25",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิด ตราสารการเงินคุณค่า เพื่อการเลี้ยงชีพ ",
+            "proj_name_en": "MONEY PLUS RETIREMENT MUTUAL FUND",
+            "proj_abbr_name": "M-RMF",
+            "fund_status": "RG",
+            "unique_id": "C0000000569",
+            "permit_us_investment": null,
+            "invest_country_flag": "3",
+            "last_upd_date": "2024-06-14T07:03:09.317"
+        },
+        "navs": [
+            {
+                "nav_date": "2024-07-03",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "M-RMF-P",
+                "net_asset": 11268188.96,
+                "last_val": 14.1277,
+                "previous_val": 0,
+                "sell_price": 14.1278,
+                "buy_price": 14.1277,
+                "sell_swap_price": 14.1277,
+                "buy_swap_price": 14.1278,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-04",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "M-RMF-P",
+                "net_asset": 11118756.74,
+                "last_val": 14.1285,
+                "previous_val": 0,
+                "sell_price": 14.1286,
+                "buy_price": 14.1285,
+                "sell_swap_price": 14.1285,
+                "buy_swap_price": 14.1286,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-06T07:01:32"
+            }
+        ]
+    }
+}

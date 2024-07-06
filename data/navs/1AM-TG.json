@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1719916878151,
-    "nextUpdate": 1720002438845,
+    "lastUpdate": 1720245987504,
+    "nextUpdate": 1720332016937,
     "data": {
-        "lastNav": "2008-11-27",
+        "lastNav": "2024-07-04",
         "fund": {
             "proj_id": "M0626_2551",
             "regis_id": "545_2551",
@@ -55652,6 +55652,36 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-02T07:02:02"
+            },
+            {
+                "nav_date": "2024-07-03",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "1AM-TG",
+                "net_asset": 380838935.06,
+                "last_val": 12.4191,
+                "previous_val": 0,
+                "sell_price": 12.4192,
+                "buy_price": 12.4191,
+                "sell_swap_price": 12.4191,
+                "buy_swap_price": 12.4192,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-04",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "1AM-TG",
+                "net_asset": 379859874.81,
+                "last_val": 12.4198,
+                "previous_val": 0,
+                "sell_price": 12.4199,
+                "buy_price": 12.4198,
+                "sell_swap_price": 12.4198,
+                "buy_swap_price": 12.4199,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-06T07:01:32"
             }
         ]
     }

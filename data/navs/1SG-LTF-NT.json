@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1719905799833,
-    "nextUpdate": 1719979140861,
+    "lastUpdate": 1720245972147,
+    "nextUpdate": 1720332016937,
     "data": {
-        "lastNav": "2020-09-23",
+        "lastNav": "2024-07-04",
         "fund": {
             "proj_id": "M0364_2548",
             "regis_id": "075_2548",
@@ -13517,6 +13517,36 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-02T07:02:02"
+            },
+            {
+                "nav_date": "2024-07-03",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "1SG-LTF-NT",
+                "net_asset": 92489.97,
+                "last_val": 30.8928,
+                "previous_val": 0,
+                "sell_price": 31.2235,
+                "buy_price": 30.8928,
+                "sell_swap_price": 30.8928,
+                "buy_swap_price": 31.2235,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-04",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "1SG-LTF-NT",
+                "net_asset": 92917.21,
+                "last_val": 31.0354,
+                "previous_val": 0,
+                "sell_price": 31.3676,
+                "buy_price": 31.0354,
+                "sell_swap_price": 31.0354,
+                "buy_swap_price": 31.3676,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-06T07:01:32"
             }
         ]
     }

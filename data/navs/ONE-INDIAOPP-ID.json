@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1719914538685,
-    "nextUpdate": 1719993578927,
+    "lastUpdate": 1720245984719,
+    "nextUpdate": 1720332016937,
     "data": {
-        "lastNav": "2021-04-05",
+        "lastNav": "2024-07-03",
         "fund": {
             "proj_id": "M0609_2560",
             "regis_id": "MF0068_2561",
@@ -11447,6 +11447,21 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-02T07:02:02"
+            },
+            {
+                "nav_date": "2024-07-03",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-INDIAOPP-ID",
+                "net_asset": 27787073.14,
+                "last_val": 11.0931,
+                "previous_val": 0,
+                "sell_price": 11.2119,
+                "buy_price": 11.0931,
+                "sell_swap_price": 11.0931,
+                "buy_swap_price": 11.2119,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-06T07:01:32"
             }
         ]
     }

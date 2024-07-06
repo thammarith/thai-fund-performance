@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1719905328741,
-    "nextUpdate": 1719979140861,
+    "lastUpdate": 1720245968850,
+    "nextUpdate": 1720332016937,
     "data": {
-        "lastNav": "2021-08-06",
+        "lastNav": "2024-07-03",
         "fund": {
             "proj_id": "M0291_2564",
             "regis_id": "MF0250_2564",
@@ -10412,6 +10412,21 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-02T07:02:02"
+            },
+            {
+                "nav_date": "2024-07-03",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-APACESG",
+                "net_asset": 228170934.47,
+                "last_val": 6.8499,
+                "previous_val": 0,
+                "sell_price": 6.9528,
+                "buy_price": 6.8499,
+                "sell_swap_price": 6.8499,
+                "buy_swap_price": 6.9528,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-06T07:01:32"
             }
         ]
     }

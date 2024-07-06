@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1719903470475,
-    "nextUpdate": 1719979140861,
+    "lastUpdate": 1720245964427,
+    "nextUpdate": 1720332016937,
     "data": {
-        "lastNav": "2021-04-05",
+        "lastNav": "2024-07-03",
         "fund": {
             "proj_id": "M0240_2561",
             "regis_id": "MF0273_2561",
@@ -11477,6 +11477,21 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-02T07:02:02"
+            },
+            {
+                "nav_date": "2024-07-03",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-ALLCHINA-RA",
+                "net_asset": 518918621.81,
+                "last_val": 7.2613,
+                "previous_val": 0,
+                "sell_price": 7.3703,
+                "buy_price": 7.2613,
+                "sell_swap_price": 7.2613,
+                "buy_swap_price": 7.3703,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-06T07:01:32"
             }
         ]
     }

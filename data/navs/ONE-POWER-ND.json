@@ -1,0 +1,53 @@
+{
+    "lastUpdate": 1720245941268,
+    "nextUpdate": 1720332016937,
+    "data": {
+        "lastNav": "2024-07-04",
+        "fund": {
+            "proj_id": "M0016_2560",
+            "regis_id": "MF0076_2560",
+            "regis_date": "2017-02-27",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิด วรรณ พาวเวอร์ เอ็นเนอร์จี",
+            "proj_name_en": "ONE POWER ENERGY FUND",
+            "proj_abbr_name": "ONE-POWER",
+            "fund_status": "RG",
+            "unique_id": "C0000000569",
+            "permit_us_investment": null,
+            "invest_country_flag": "3",
+            "last_upd_date": "2024-06-14T07:03:09.317"
+        },
+        "navs": [
+            {
+                "nav_date": "2024-07-03",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-POWER-ND",
+                "net_asset": 8508709.68,
+                "last_val": 8.1663,
+                "previous_val": 0,
+                "sell_price": 8.2482,
+                "buy_price": 8.1663,
+                "sell_swap_price": 8.1663,
+                "buy_swap_price": 8.2482,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-04",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-POWER-ND",
+                "net_asset": 8514034.91,
+                "last_val": 8.1715,
+                "previous_val": 0,
+                "sell_price": 8.2532,
+                "buy_price": 8.1715,
+                "sell_swap_price": 8.1715,
+                "buy_swap_price": 8.2532,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-06T07:01:32"
+            }
+        ]
+    }
+}

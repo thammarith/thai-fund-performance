@@ -1,0 +1,53 @@
+{
+    "lastUpdate": 1720245751832,
+    "nextUpdate": 1720332016937,
+    "data": {
+        "lastNav": "2024-07-04",
+        "fund": {
+            "proj_id": "M0867_2548",
+            "regis_id": "195_2548",
+            "regis_date": "2005-11-29",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิดเค 70:30 หุ้นระยะยาวปันผล",
+            "proj_name_en": "K Equity 70:30 LTF",
+            "proj_abbr_name": "K70LTF",
+            "fund_status": "RG",
+            "unique_id": "C0000000021",
+            "permit_us_investment": null,
+            "invest_country_flag": "3",
+            "last_upd_date": "2024-06-14T07:03:09.317"
+        },
+        "navs": [
+            {
+                "nav_date": "2024-07-03",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K70LTF-C(L)",
+                "net_asset": 13784253077.52,
+                "last_val": 12.2837,
+                "previous_val": 0,
+                "sell_price": 12.2838,
+                "buy_price": 12.2837,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-04",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K70LTF-C(L)",
+                "net_asset": 13833355619.77,
+                "last_val": 12.3362,
+                "previous_val": 0,
+                "sell_price": 12.3363,
+                "buy_price": 12.3362,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-06T07:01:32"
+            }
+        ]
+    }
+}

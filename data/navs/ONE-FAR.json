@@ -1,0 +1,53 @@
+{
+    "lastUpdate": 1720245938773,
+    "nextUpdate": 1720332016937,
+    "data": {
+        "lastNav": "2024-07-04",
+        "fund": {
+            "proj_id": "M0001_2540",
+            "regis_id": "007_2540",
+            "regis_date": "1997-03-19",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิดเอกตราสารหนี้คืนกำไร  ",
+            "proj_name_en": "ONE  FIXED INCOME AUTOMATIC REDEMPTION FUND ",
+            "proj_abbr_name": "ONE-FAR",
+            "fund_status": "RG",
+            "unique_id": "C0000000569",
+            "permit_us_investment": null,
+            "invest_country_flag": "3",
+            "last_upd_date": "2024-06-14T07:03:09.317"
+        },
+        "navs": [
+            {
+                "nav_date": "2024-07-03",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-FAR",
+                "net_asset": 332095108.24,
+                "last_val": 26.7266,
+                "previous_val": 0,
+                "sell_price": 26.7267,
+                "buy_price": 26.7266,
+                "sell_swap_price": 26.7266,
+                "buy_swap_price": 26.7267,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-04",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-FAR",
+                "net_asset": 332152317.69,
+                "last_val": 26.7288,
+                "previous_val": 0,
+                "sell_price": 26.7289,
+                "buy_price": 26.7288,
+                "sell_swap_price": 26.7288,
+                "buy_swap_price": 26.7289,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-06T07:01:32"
+            }
+        ]
+    }
+}

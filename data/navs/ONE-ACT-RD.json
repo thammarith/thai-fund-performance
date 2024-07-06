@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1719896291160,
-    "nextUpdate": 1719979140861,
+    "lastUpdate": 1720245959580,
+    "nextUpdate": 1720332016937,
     "data": {
-        "lastNav": "2023-02-23",
+        "lastNav": "2024-07-04",
         "fund": {
             "proj_id": "M0148_2559",
             "regis_id": "MF0193_2559",
@@ -4832,6 +4832,36 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-02T07:02:02"
+            },
+            {
+                "nav_date": "2024-07-03",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-ACT-RD",
+                "net_asset": 87155444.09,
+                "last_val": 7.1391,
+                "previous_val": 0,
+                "sell_price": 7.2107,
+                "buy_price": 7.1391,
+                "sell_swap_price": 7.1391,
+                "buy_swap_price": 7.2107,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-04",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-ACT-RD",
+                "net_asset": 87313257.89,
+                "last_val": 7.1543,
+                "previous_val": 0,
+                "sell_price": 7.2259,
+                "buy_price": 7.1543,
+                "sell_swap_price": 7.1543,
+                "buy_swap_price": 7.2259,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-06T07:01:32"
             }
         ]
     }

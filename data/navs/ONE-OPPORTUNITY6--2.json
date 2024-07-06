@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1719907518459,
-    "nextUpdate": 1719993578927,
+    "lastUpdate": 1720245973438,
+    "nextUpdate": 1720332016937,
     "data": {
-        "lastNav": "2018-10-09",
+        "lastNav": "2024-07-04",
         "fund": {
             "proj_id": "M0394_2561",
             "regis_id": "MF0308_2561",
@@ -19412,6 +19412,36 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-02T07:02:02"
+            },
+            {
+                "nav_date": "2024-07-03",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-OPPORTUNITY6/2",
+                "net_asset": 22848698.12,
+                "last_val": 6.8922,
+                "previous_val": 0,
+                "sell_price": 6.9661,
+                "buy_price": 6.8922,
+                "sell_swap_price": 6.8922,
+                "buy_swap_price": 6.9661,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-04",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-OPPORTUNITY6/2",
+                "net_asset": 22946339.69,
+                "last_val": 6.9217,
+                "previous_val": 0,
+                "sell_price": 6.9958,
+                "buy_price": 6.9217,
+                "sell_swap_price": 6.9217,
+                "buy_swap_price": 6.9958,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-06T07:01:32"
             }
         ]
     }

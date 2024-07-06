@@ -1,0 +1,38 @@
+{
+    "lastUpdate": 1720245757617,
+    "nextUpdate": 1720332016937,
+    "data": {
+        "lastNav": "2024-07-03",
+        "fund": {
+            "proj_id": "M1261_2557",
+            "regis_id": "MF0464_2558",
+            "regis_date": "2015-09-08",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิดเค ดัชนีหุ้นจีน",
+            "proj_name_en": "K Chinese Equity Index Fund",
+            "proj_abbr_name": "K-CHX",
+            "fund_status": "RG",
+            "unique_id": "C0000000021",
+            "permit_us_investment": null,
+            "invest_country_flag": "1",
+            "last_upd_date": "2024-06-14T07:03:09.317"
+        },
+        "navs": [
+            {
+                "nav_date": "2024-07-03",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-CHX",
+                "net_asset": 2076552002.43,
+                "last_val": 10.4925,
+                "previous_val": 0,
+                "sell_price": 10.5032,
+                "buy_price": 10.4769,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-06T07:01:32"
+            }
+        ]
+    }
+}

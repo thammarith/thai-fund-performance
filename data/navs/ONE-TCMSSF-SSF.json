@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1719895604322,
-    "nextUpdate": 1719979140861,
+    "lastUpdate": 1720245957051,
+    "nextUpdate": 1720332016937,
     "data": {
-        "lastNav": "2020-09-23",
+        "lastNav": "2024-07-04",
         "fund": {
             "proj_id": "M0136_2563",
             "regis_id": "MF0105_2563",
@@ -13502,6 +13502,36 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-02T07:02:02"
+            },
+            {
+                "nav_date": "2024-07-03",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-TCMSSF-SSF",
+                "net_asset": 16014779.86,
+                "last_val": 9.0053,
+                "previous_val": 0,
+                "sell_price": 9.0053,
+                "buy_price": 9.0053,
+                "sell_swap_price": 9.0053,
+                "buy_swap_price": 9.0053,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-04",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-TCMSSF-SSF",
+                "net_asset": 16049850.68,
+                "last_val": 9.0402,
+                "previous_val": 0,
+                "sell_price": 9.0403,
+                "buy_price": 9.0402,
+                "sell_swap_price": 9.0402,
+                "buy_swap_price": 9.0403,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-06T07:01:32"
             }
         ]
     }

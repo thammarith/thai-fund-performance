@@ -1,0 +1,53 @@
+{
+    "lastUpdate": 1720245943672,
+    "nextUpdate": 1720332016937,
+    "data": {
+        "lastNav": "2024-07-04",
+        "fund": {
+            "proj_id": "M0022_2562",
+            "regis_id": "MF0061_2562",
+            "regis_date": "2019-02-18",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิด วรรณ เซ็ท ไฮ ดิวิเดนด์ หุ้นทุน",
+            "proj_name_en": "ONE SET HIGH DIVIDEND EQUITY FUND",
+            "proj_abbr_name": "ONE-SETHD",
+            "fund_status": "RG",
+            "unique_id": "C0000000569",
+            "permit_us_investment": null,
+            "invest_country_flag": "3",
+            "last_upd_date": "2024-06-14T07:03:09.317"
+        },
+        "navs": [
+            {
+                "nav_date": "2024-07-03",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-SETHD",
+                "net_asset": 67162366.67,
+                "last_val": 8.6486,
+                "previous_val": 0,
+                "sell_price": 8.7413,
+                "buy_price": 8.6486,
+                "sell_swap_price": 8.6486,
+                "buy_swap_price": 8.7413,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-04",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-SETHD",
+                "net_asset": 67334298.89,
+                "last_val": 8.6799,
+                "previous_val": 0,
+                "sell_price": 8.7728,
+                "buy_price": 8.6799,
+                "sell_swap_price": 8.6799,
+                "buy_swap_price": 8.7728,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-06T07:01:32"
+            }
+        ]
+    }
+}

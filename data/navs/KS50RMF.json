@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1719836384992,
-    "nextUpdate": 1719921005183,
+    "lastUpdate": 1720245747590,
+    "nextUpdate": 1720332016937,
     "data": {
-        "lastNav": "2013-11-29",
+        "lastNav": "2024-07-04",
         "fund": {
             "proj_id": "M0738_2556",
             "regis_id": "MF0750_2556",
@@ -37757,6 +37757,36 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-01T07:02:16"
+            },
+            {
+                "nav_date": "2024-07-03",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KS50RMF",
+                "net_asset": 3382384095.94,
+                "last_val": 11.1155,
+                "previous_val": 0,
+                "sell_price": 11.1156,
+                "buy_price": 11.1155,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-04",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KS50RMF",
+                "net_asset": 3397704063.92,
+                "last_val": 11.1694,
+                "previous_val": 0,
+                "sell_price": 11.1694,
+                "buy_price": 11.1694,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-06T07:01:32"
             }
         ]
     }

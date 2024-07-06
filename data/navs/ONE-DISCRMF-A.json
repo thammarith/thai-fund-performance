@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1719909660083,
-    "nextUpdate": 1719993578927,
+    "lastUpdate": 1720245978290,
+    "nextUpdate": 1720332016937,
     "data": {
-        "lastNav": "2021-11-12",
+        "lastNav": "2024-07-03",
         "fund": {
             "proj_id": "M0475_2563",
             "regis_id": "MF0380_2564",
@@ -9452,6 +9452,21 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-02T07:02:02"
+            },
+            {
+                "nav_date": "2024-07-03",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-DISCRMF-A",
+                "net_asset": 14897470.35,
+                "last_val": 4.2575,
+                "previous_val": 0,
+                "sell_price": 4.2576,
+                "buy_price": 4.2575,
+                "sell_swap_price": 4.2575,
+                "buy_swap_price": 4.2576,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-06T07:01:32"
             }
         ]
     }

@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1719834752697,
-    "nextUpdate": 1719921005183,
+    "lastUpdate": 1720245744570,
+    "nextUpdate": 1720332016937,
     "data": {
-        "lastNav": "2005-12-02",
+        "lastNav": "2024-07-04",
         "fund": {
             "proj_id": "M0705_2548",
             "regis_id": "203_2548",
@@ -66887,6 +66887,36 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-01T07:02:16"
+            },
+            {
+                "nav_date": "2024-07-03",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-CASH",
+                "net_asset": 53026739266.57,
+                "last_val": 13.6084,
+                "previous_val": 0,
+                "sell_price": 13.6084,
+                "buy_price": 13.6084,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-04",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-CASH",
+                "net_asset": 52983146677.66,
+                "last_val": 13.6091,
+                "previous_val": 0,
+                "sell_price": 13.6092,
+                "buy_price": 13.6091,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-06T07:01:32"
             }
         ]
     }

@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1719908603491,
-    "nextUpdate": 1719993578927,
+    "lastUpdate": 1720245975293,
+    "nextUpdate": 1720332016937,
     "data": {
-        "lastNav": "2011-08-10",
+        "lastNav": "2024-07-04",
         "fund": {
             "proj_id": "M0437_2554",
             "regis_id": "MF0442_2554",
@@ -46112,6 +46112,36 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-02T07:02:02"
+            },
+            {
+                "nav_date": "2024-07-03",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "1DIV",
+                "net_asset": 165212874.96,
+                "last_val": 9.7184,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-04",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "1DIV",
+                "net_asset": 166044191.81,
+                "last_val": 9.7673,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-06T07:01:32"
             }
         ]
     }

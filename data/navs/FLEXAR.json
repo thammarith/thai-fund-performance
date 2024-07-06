@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1719895372236,
-    "nextUpdate": 1719979140861,
+    "lastUpdate": 1720245956405,
+    "nextUpdate": 1720332016937,
     "data": {
-        "lastNav": "2003-06-06",
+        "lastNav": "2024-07-04",
         "fund": {
             "proj_id": "M0134_2546",
             "regis_id": "025_2546",
@@ -75557,6 +75557,36 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-02T07:02:02"
+            },
+            {
+                "nav_date": "2024-07-03",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "FLEXAR",
+                "net_asset": 270102547.23,
+                "last_val": 29.0558,
+                "previous_val": 0,
+                "sell_price": 29.0559,
+                "buy_price": 29.0558,
+                "sell_swap_price": 29.0558,
+                "buy_swap_price": 29.0559,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-04",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "FLEXAR",
+                "net_asset": 271253019.75,
+                "last_val": 29.1795,
+                "previous_val": 0,
+                "sell_price": 29.1796,
+                "buy_price": 29.1795,
+                "sell_swap_price": 29.1795,
+                "buy_swap_price": 29.1796,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-06T07:01:32"
             }
         ]
     }

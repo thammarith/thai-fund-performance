@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1719914088425,
-    "nextUpdate": 1719993578927,
+    "lastUpdate": 1720245984223,
+    "nextUpdate": 1720332016937,
     "data": {
-        "lastNav": "2020-09-23",
+        "lastNav": "2024-07-04",
         "fund": {
             "proj_id": "M0609_2559",
             "regis_id": "MF0039_2560",
@@ -13487,6 +13487,36 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-02T07:02:02"
+            },
+            {
+                "nav_date": "2024-07-03",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-FIXED-P",
+                "net_asset": 0,
+                "last_val": 10.9314,
+                "previous_val": 0,
+                "sell_price": 10.9315,
+                "buy_price": 10.9314,
+                "sell_swap_price": 10.9314,
+                "buy_swap_price": 10.9315,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-04",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-FIXED-P",
+                "net_asset": 0,
+                "last_val": 10.933,
+                "previous_val": 0,
+                "sell_price": 10.9331,
+                "buy_price": 10.933,
+                "sell_swap_price": 10.933,
+                "buy_swap_price": 10.9331,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-06T07:01:32"
             }
         ]
     }

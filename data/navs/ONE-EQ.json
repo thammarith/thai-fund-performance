@@ -1,0 +1,53 @@
+{
+    "lastUpdate": 1720245944928,
+    "nextUpdate": 1720332016937,
+    "data": {
+        "lastNav": "2024-07-04",
+        "fund": {
+            "proj_id": "M0025_2536",
+            "regis_id": "004_2537",
+            "regis_date": "1994-01-20",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิด วรรณ อิควิตี้",
+            "proj_name_en": "ONE EQUITY FUND ",
+            "proj_abbr_name": "ONE-EQ",
+            "fund_status": "RG",
+            "unique_id": "C0000000569",
+            "permit_us_investment": null,
+            "invest_country_flag": "3",
+            "last_upd_date": "2024-06-14T07:03:09.317"
+        },
+        "navs": [
+            {
+                "nav_date": "2024-07-03",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-EQ",
+                "net_asset": 51357271.65,
+                "last_val": 10.9978,
+                "previous_val": 0,
+                "sell_price": 11.1156,
+                "buy_price": 10.9978,
+                "sell_swap_price": 10.9978,
+                "buy_swap_price": 11.1156,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-04",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-EQ",
+                "net_asset": 51576157.1,
+                "last_val": 11.0447,
+                "previous_val": 0,
+                "sell_price": 11.163,
+                "buy_price": 11.0447,
+                "sell_swap_price": 11.0447,
+                "buy_swap_price": 11.163,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-06T07:01:32"
+            }
+        ]
+    }
+}

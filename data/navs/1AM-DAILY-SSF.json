@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1719919475773,
-    "nextUpdate": 1720002438845,
+    "lastUpdate": 1720245992650,
+    "nextUpdate": 1720332016937,
     "data": {
-        "lastNav": "2020-12-14",
+        "lastNav": "2024-07-04",
         "fund": {
             "proj_id": "M0746_2550",
             "regis_id": "353_2550",
@@ -12692,6 +12692,36 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-02T07:02:02"
+            },
+            {
+                "nav_date": "2024-07-03",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "1AM-DAILY-SSF",
+                "net_asset": 84380322.51,
+                "last_val": 12.6852,
+                "previous_val": 0,
+                "sell_price": 12.6853,
+                "buy_price": 12.6852,
+                "sell_swap_price": 12.6852,
+                "buy_swap_price": 12.6853,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-04",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "1AM-DAILY-SSF",
+                "net_asset": 84243138.2,
+                "last_val": 12.6859,
+                "previous_val": 0,
+                "sell_price": 12.686,
+                "buy_price": 12.6859,
+                "sell_swap_price": 12.6859,
+                "buy_swap_price": 12.686,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-06T07:01:32"
             }
         ]
     }

@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1719918838541,
-    "nextUpdate": 1720002438845,
+    "lastUpdate": 1720245989454,
+    "nextUpdate": 1720332016937,
     "data": {
-        "lastNav": "2017-12-19",
+        "lastNav": "2024-07-04",
         "fund": {
             "proj_id": "M0638_2560",
             "regis_id": "MF0506_2560",
@@ -23012,6 +23012,36 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-02T07:02:02"
+            },
+            {
+                "nav_date": "2024-07-03",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-TOP5M",
+                "net_asset": 27533086.37,
+                "last_val": 6.4447,
+                "previous_val": 0,
+                "sell_price": 6.4448,
+                "buy_price": 6.4447,
+                "sell_swap_price": 6.4447,
+                "buy_swap_price": 6.4448,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-04",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-TOP5M",
+                "net_asset": 27651432.89,
+                "last_val": 6.4725,
+                "previous_val": 0,
+                "sell_price": 6.4725,
+                "buy_price": 6.4725,
+                "sell_swap_price": 6.4725,
+                "buy_swap_price": 6.4725,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-06T07:01:32"
             }
         ]
     }

@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1719919475769,
-    "nextUpdate": 1720002438845,
+    "lastUpdate": 1720245992646,
+    "nextUpdate": 1720332016937,
     "data": {
-        "lastNav": "2020-12-14",
+        "lastNav": "2024-07-04",
         "fund": {
             "proj_id": "M0746_2550",
             "regis_id": "353_2550",
@@ -12692,6 +12692,36 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-02T07:02:02"
+            },
+            {
+                "nav_date": "2024-07-03",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "1AM-DAILY-RA",
+                "net_asset": 1542858424.44,
+                "last_val": 12.6865,
+                "previous_val": 0,
+                "sell_price": 12.6866,
+                "buy_price": 12.6865,
+                "sell_swap_price": 12.6865,
+                "buy_swap_price": 12.6866,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-04",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "1AM-DAILY-RA",
+                "net_asset": 1549776794.05,
+                "last_val": 12.6872,
+                "previous_val": 0,
+                "sell_price": 12.6873,
+                "buy_price": 12.6872,
+                "sell_swap_price": 12.6872,
+                "buy_swap_price": 12.6873,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-06T07:01:32"
             }
         ]
     }

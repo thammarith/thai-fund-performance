@@ -1,0 +1,53 @@
+{
+    "lastUpdate": 1720245947455,
+    "nextUpdate": 1720332016937,
+    "data": {
+        "lastNav": "2024-07-04",
+        "fund": {
+            "proj_id": "M0041_2536",
+            "regis_id": "001_2537",
+            "regis_date": "1994-01-04",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิดเอกเอเซียพูนผล",
+            "proj_name_en": "ONE FAS PROSPERITY FUND ",
+            "proj_abbr_name": "ONE-FAS",
+            "fund_status": "RG",
+            "unique_id": "C0000000569",
+            "permit_us_investment": null,
+            "invest_country_flag": "3",
+            "last_upd_date": "2024-06-14T07:03:09.317"
+        },
+        "navs": [
+            {
+                "nav_date": "2024-07-03",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-FAS",
+                "net_asset": 67161793.54,
+                "last_val": 5.8177,
+                "previous_val": 0,
+                "sell_price": 5.8178,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 5.8178,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-04",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-FAS",
+                "net_asset": 67449003.14,
+                "last_val": 5.8426,
+                "previous_val": 0,
+                "sell_price": 5.8426,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 5.8426,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-06T07:01:32"
+            }
+        ]
+    }
+}

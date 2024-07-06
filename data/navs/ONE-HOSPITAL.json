@@ -1,0 +1,38 @@
+{
+    "lastUpdate": 1720245950540,
+    "nextUpdate": 1720332016937,
+    "data": {
+        "lastNav": "2024-07-03",
+        "fund": {
+            "proj_id": "M0076_2559",
+            "regis_id": "MF0115_2559",
+            "regis_date": "2016-03-18",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิด วรรณ โฮสพีทอล",
+            "proj_name_en": "ONE HOSPITAL FUND",
+            "proj_abbr_name": "ONE-HOSPITAL",
+            "fund_status": "RG",
+            "unique_id": "C0000000569",
+            "permit_us_investment": null,
+            "invest_country_flag": "4",
+            "last_upd_date": "2024-06-14T07:03:09.317"
+        },
+        "navs": [
+            {
+                "nav_date": "2024-07-03",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-HOSPITAL",
+                "net_asset": 28506310.85,
+                "last_val": 10.8234,
+                "previous_val": 0,
+                "sell_price": 10.9316,
+                "buy_price": 10.8234,
+                "sell_swap_price": 10.8234,
+                "buy_swap_price": 10.9316,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-06T07:01:32"
+            }
+        ]
+    }
+}

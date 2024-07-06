@@ -1,0 +1,53 @@
+{
+    "lastUpdate": 1720245950080,
+    "nextUpdate": 1720332016937,
+    "data": {
+        "lastNav": "2024-07-04",
+        "fund": {
+            "proj_id": "M0070_2544",
+            "regis_id": "047_2544",
+            "regis_date": "2001-12-25",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิด หุ้นคุณค่า เพื่อการเลี้ยงชีพ ",
+            "proj_name_en": "VALUED STOCK RETIREMENT MUTUAL FUND",
+            "proj_abbr_name": "V-RMF",
+            "fund_status": "RG",
+            "unique_id": "C0000000569",
+            "permit_us_investment": null,
+            "invest_country_flag": "3",
+            "last_upd_date": "2024-06-14T07:03:09.317"
+        },
+        "navs": [
+            {
+                "nav_date": "2024-07-03",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "V-RMF-A",
+                "net_asset": 586573771.52,
+                "last_val": 72.483,
+                "previous_val": 0,
+                "sell_price": 72.483,
+                "buy_price": 72.483,
+                "sell_swap_price": 72.483,
+                "buy_swap_price": 72.483,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-04",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "V-RMF-A",
+                "net_asset": 588492574.97,
+                "last_val": 72.8127,
+                "previous_val": 0,
+                "sell_price": 72.8127,
+                "buy_price": 72.8127,
+                "sell_swap_price": 72.8127,
+                "buy_swap_price": 72.8127,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-06T07:01:32"
+            }
+        ]
+    }
+}
