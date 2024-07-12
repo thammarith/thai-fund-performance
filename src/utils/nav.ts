@@ -29,7 +29,8 @@ const fetchNavByProjId = (fund: Fund, date: Date) =>
         .catch((err) => {
             console.log(err.message);
             console.error(err);
-            return [] as FundDailyNav[];
+            throw err;
+            // return [] as FundDailyNav[];
         });
 
 const processNavs = (fund: Fund, navs: FundDailyNav[]) => {
