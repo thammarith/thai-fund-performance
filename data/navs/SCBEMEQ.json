@@ -1,0 +1,113 @@
+{
+    "lastUpdate": 1722101483490,
+    "nextUpdate": 1722187421338,
+    "data": {
+        "lastNav": "2024-07-23",
+        "fund": {
+            "proj_id": "M0792_2555",
+            "regis_id": "MF0820_2555",
+            "regis_date": "2012-12-18",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิดไทยพาณิชย์หุ้นยั่งยืนตลาดเกิดใหม่",
+            "proj_name_en": "SCB Sustainable Emerging Markets Equity Fund",
+            "proj_abbr_name": "SCBEMEQFUND",
+            "fund_status": "RG",
+            "unique_id": "C0000000239",
+            "permit_us_investment": null,
+            "invest_country_flag": "1",
+            "last_upd_date": "2024-07-27T07:02:17.43"
+        },
+        "navs": [
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBEMEQ",
+                "net_asset": 148963310.17,
+                "last_val": 7.5603,
+                "previous_val": 0,
+                "sell_price": 7.6008,
+                "buy_price": 7.5603,
+                "sell_swap_price": 7.5603,
+                "buy_swap_price": 7.6008,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBEMEQ",
+                "net_asset": 148043292.98,
+                "last_val": 7.5127,
+                "previous_val": 0,
+                "sell_price": 7.553,
+                "buy_price": 7.5127,
+                "sell_swap_price": 7.5127,
+                "buy_swap_price": 7.553,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBEMEQ",
+                "net_asset": 146904238.42,
+                "last_val": 7.4548,
+                "previous_val": 0,
+                "sell_price": 7.4948,
+                "buy_price": 7.4548,
+                "sell_swap_price": 7.4548,
+                "buy_swap_price": 7.4948,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBEMEQ",
+                "net_asset": 145966702.05,
+                "last_val": 7.4072,
+                "previous_val": 0,
+                "sell_price": 7.4469,
+                "buy_price": 7.4072,
+                "sell_swap_price": 7.4072,
+                "buy_swap_price": 7.4469,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBEMEQ",
+                "net_asset": 144457738.48,
+                "last_val": 7.3306,
+                "previous_val": 0,
+                "sell_price": 7.3699,
+                "buy_price": 7.3306,
+                "sell_swap_price": 7.3306,
+                "buy_swap_price": 7.3699,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBEMEQ",
+                "net_asset": 143963077.87,
+                "last_val": 7.3139,
+                "previous_val": 0,
+                "sell_price": 7.3531,
+                "buy_price": 7.3139,
+                "sell_swap_price": 7.3139,
+                "buy_swap_price": 7.3531,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
+            }
+        ]
+    }
+}

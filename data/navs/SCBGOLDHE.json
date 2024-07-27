@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720245923716,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722101497632,
+    "nextUpdate": 1722187421338,
     "data": {
-        "lastNav": "2024-07-04",
+        "lastNav": "2024-07-25",
         "fund": {
             "proj_id": "M0856_2553",
             "regis_id": "MF0478_2554",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000239",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -13457,6 +13457,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGOLDHE",
+                "net_asset": 31953943.14,
+                "last_val": 12.0788,
+                "previous_val": 0,
+                "sell_price": 12.097,
+                "buy_price": 12.0478,
+                "sell_swap_price": 12.0478,
+                "buy_swap_price": 12.097,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGOLDHE",
+                "net_asset": 32504471.02,
+                "last_val": 12.2777,
+                "previous_val": 0,
+                "sell_price": 12.2962,
+                "buy_price": 12.2462,
+                "sell_swap_price": 12.2462,
+                "buy_swap_price": 12.2962,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGOLDHE",
+                "net_asset": 32416996.76,
+                "last_val": 12.2398,
+                "previous_val": 0,
+                "sell_price": 12.2583,
+                "buy_price": 12.2083,
+                "sell_swap_price": 12.2083,
+                "buy_swap_price": 12.2583,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGOLDHE",
+                "net_asset": 31863474.4,
+                "last_val": 12.023,
+                "previous_val": 0,
+                "sell_price": 12.0411,
+                "buy_price": 11.9921,
+                "sell_swap_price": 11.9921,
+                "buy_swap_price": 12.0411,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGOLDHE",
+                "net_asset": 31792461.53,
+                "last_val": 11.9216,
+                "previous_val": 0,
+                "sell_price": 11.9396,
+                "buy_price": 11.8909,
+                "sell_swap_price": 11.8909,
+                "buy_swap_price": 11.9396,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGOLDHE",
+                "net_asset": 32088367.57,
+                "last_val": 11.9754,
+                "previous_val": 0,
+                "sell_price": 11.9935,
+                "buy_price": 11.9446,
+                "sell_swap_price": 11.9446,
+                "buy_swap_price": 11.9935,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGOLDHE",
+                "net_asset": 31578482.28,
+                "last_val": 11.8,
+                "previous_val": 0,
+                "sell_price": 11.8178,
+                "buy_price": 11.7697,
+                "sell_swap_price": 11.7697,
+                "buy_swap_price": 11.8178,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

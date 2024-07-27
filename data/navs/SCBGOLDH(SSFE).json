@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720245923714,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722101497630,
+    "nextUpdate": 1722187421338,
     "data": {
-        "lastNav": "2024-07-04",
+        "lastNav": "2024-07-25",
         "fund": {
             "proj_id": "M0856_2553",
             "regis_id": "MF0478_2554",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000239",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -7397,6 +7397,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGOLDH(SSFE)",
+                "net_asset": 23489891.36,
+                "last_val": 11.9367,
+                "previous_val": 0,
+                "sell_price": 11.9547,
+                "buy_price": 11.9188,
+                "sell_swap_price": 11.9188,
+                "buy_swap_price": 11.9547,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGOLDH(SSFE)",
+                "net_asset": 24228271.99,
+                "last_val": 12.1334,
+                "previous_val": 0,
+                "sell_price": 12.1517,
+                "buy_price": 12.1152,
+                "sell_swap_price": 12.1152,
+                "buy_swap_price": 12.1517,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGOLDH(SSFE)",
+                "net_asset": 23923594.7,
+                "last_val": 12.0959,
+                "previous_val": 0,
+                "sell_price": 12.1141,
+                "buy_price": 12.0778,
+                "sell_swap_price": 12.0778,
+                "buy_swap_price": 12.1141,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGOLDH(SSFE)",
+                "net_asset": 23574050.48,
+                "last_val": 11.8817,
+                "previous_val": 0,
+                "sell_price": 11.8996,
+                "buy_price": 11.8639,
+                "sell_swap_price": 11.8639,
+                "buy_swap_price": 11.8996,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGOLDH(SSFE)",
+                "net_asset": 23365528.76,
+                "last_val": 11.7814,
+                "previous_val": 0,
+                "sell_price": 11.7992,
+                "buy_price": 11.7637,
+                "sell_swap_price": 11.7637,
+                "buy_swap_price": 11.7992,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGOLDH(SSFE)",
+                "net_asset": 23578321.81,
+                "last_val": 11.8347,
+                "previous_val": 0,
+                "sell_price": 11.8526,
+                "buy_price": 11.8169,
+                "sell_swap_price": 11.8169,
+                "buy_swap_price": 11.8526,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGOLDH(SSFE)",
+                "net_asset": 23307517.79,
+                "last_val": 11.6613,
+                "previous_val": 0,
+                "sell_price": 11.6789,
+                "buy_price": 11.6438,
+                "sell_swap_price": 11.6438,
+                "buy_swap_price": 11.6789,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

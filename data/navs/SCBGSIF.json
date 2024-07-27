@@ -1,0 +1,113 @@
+{
+    "lastUpdate": 1722101506100,
+    "nextUpdate": 1722187421338,
+    "data": {
+        "lastNav": "2024-07-23",
+        "fund": {
+            "proj_id": "M0874_2554",
+            "regis_id": "MF0473_2555",
+            "regis_date": "2012-07-30",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิดไทยพาณิชย์ โกลบอล สตราทีจิก อินเวสเมนท์",
+            "proj_name_en": "SCB GLOBAL STRATEGIC INVESTMENT FUND",
+            "proj_abbr_name": "SCBGSIFUND",
+            "fund_status": "RG",
+            "unique_id": "C0000000239",
+            "permit_us_investment": null,
+            "invest_country_flag": "1",
+            "last_upd_date": "2024-07-27T07:02:17.43"
+        },
+        "navs": [
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGSIF",
+                "net_asset": 1571127069.43,
+                "last_val": 11.7984,
+                "previous_val": 0,
+                "sell_price": 11.8616,
+                "buy_price": 11.7984,
+                "sell_swap_price": 11.7984,
+                "buy_swap_price": 11.8616,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGSIF",
+                "net_asset": 1575804789.55,
+                "last_val": 11.823,
+                "previous_val": 0,
+                "sell_price": 11.8864,
+                "buy_price": 11.823,
+                "sell_swap_price": 11.823,
+                "buy_swap_price": 11.8864,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGSIF",
+                "net_asset": 1555670447.85,
+                "last_val": 11.8157,
+                "previous_val": 0,
+                "sell_price": 11.879,
+                "buy_price": 11.8157,
+                "sell_swap_price": 11.8157,
+                "buy_swap_price": 11.879,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGSIF",
+                "net_asset": 1524412896.79,
+                "last_val": 11.8064,
+                "previous_val": 0,
+                "sell_price": 11.8697,
+                "buy_price": 11.8064,
+                "sell_swap_price": 11.8064,
+                "buy_swap_price": 11.8697,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGSIF",
+                "net_asset": 1491243504.61,
+                "last_val": 11.7832,
+                "previous_val": 0,
+                "sell_price": 11.8463,
+                "buy_price": 11.7832,
+                "sell_swap_price": 11.7832,
+                "buy_swap_price": 11.8463,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGSIF",
+                "net_asset": 1500416869.29,
+                "last_val": 11.7862,
+                "previous_val": 0,
+                "sell_price": 11.8494,
+                "buy_price": 11.7862,
+                "sell_swap_price": 11.7862,
+                "buy_swap_price": 11.8494,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
+            }
+        ]
+    }
+}

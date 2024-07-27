@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720245917426,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722101472039,
+    "nextUpdate": 1722187421338,
     "data": {
-        "lastNav": "2024-07-04",
+        "lastNav": "2024-07-25",
         "fund": {
             "proj_id": "M0772_2558",
             "regis_id": "MF0112_2559",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000239",
             "permit_us_investment": null,
             "invest_country_flag": "4",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -13472,6 +13472,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBPLUSA",
+                "net_asset": 33014177.36,
+                "last_val": 10.5153,
+                "previous_val": 0,
+                "sell_price": 10.5829,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 10.5829,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBPLUSA",
+                "net_asset": 33004500.67,
+                "last_val": 10.512,
+                "previous_val": 0,
+                "sell_price": 10.5796,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 10.5796,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBPLUSA",
+                "net_asset": 33038607.93,
+                "last_val": 10.5197,
+                "previous_val": 0,
+                "sell_price": 10.5873,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 10.5873,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBPLUSA",
+                "net_asset": 33035499.15,
+                "last_val": 10.5187,
+                "previous_val": 0,
+                "sell_price": 10.5863,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 10.5863,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBPLUSA",
+                "net_asset": 33001154.58,
+                "last_val": 10.5078,
+                "previous_val": 0,
+                "sell_price": 10.5754,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 10.5754,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBPLUSA",
+                "net_asset": 33020826.13,
+                "last_val": 10.514,
+                "previous_val": 0,
+                "sell_price": 10.5816,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 10.5816,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBPLUSA",
+                "net_asset": 34089924.14,
+                "last_val": 10.5067,
+                "previous_val": 0,
+                "sell_price": 10.5743,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 10.5743,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

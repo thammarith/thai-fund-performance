@@ -1,0 +1,113 @@
+{
+    "lastUpdate": 1722101486258,
+    "nextUpdate": 1722187421338,
+    "data": {
+        "lastNav": "2024-07-23",
+        "fund": {
+            "proj_id": "M0828_2554",
+            "regis_id": "MF0681_2554",
+            "regis_date": "2011-12-23",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิดไทยพาณิชย์ โกลบอล เวลท์",
+            "proj_name_en": "SCB GLOBAL WEALTH OPEN END FUND",
+            "proj_abbr_name": "SCBGLOWFUND",
+            "fund_status": "RG",
+            "unique_id": "C0000000239",
+            "permit_us_investment": null,
+            "invest_country_flag": "1",
+            "last_upd_date": "2024-07-27T07:02:17.43"
+        },
+        "navs": [
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000000239",
+                "class_abbr_name": " SCBGLOW",
+                "net_asset": 12039639.51,
+                "last_val": 12.6958,
+                "previous_val": 0,
+                "sell_price": 12.7638,
+                "buy_price": 12.6958,
+                "sell_swap_price": 12.6958,
+                "buy_swap_price": 12.7638,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000239",
+                "class_abbr_name": " SCBGLOW",
+                "net_asset": 12070761.03,
+                "last_val": 12.7286,
+                "previous_val": 0,
+                "sell_price": 12.7968,
+                "buy_price": 12.7286,
+                "sell_swap_price": 12.7286,
+                "buy_swap_price": 12.7968,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000239",
+                "class_abbr_name": " SCBGLOW",
+                "net_asset": 12013450.98,
+                "last_val": 12.6681,
+                "previous_val": 0,
+                "sell_price": 12.736,
+                "buy_price": 12.6681,
+                "sell_swap_price": 12.6681,
+                "buy_swap_price": 12.736,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000239",
+                "class_abbr_name": " SCBGLOW",
+                "net_asset": 12480365.28,
+                "last_val": 12.6373,
+                "previous_val": 0,
+                "sell_price": 12.705,
+                "buy_price": 12.6373,
+                "sell_swap_price": 12.6373,
+                "buy_swap_price": 12.705,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000239",
+                "class_abbr_name": " SCBGLOW",
+                "net_asset": 12461598.28,
+                "last_val": 12.6183,
+                "previous_val": 0,
+                "sell_price": 12.6859,
+                "buy_price": 12.6183,
+                "sell_swap_price": 12.6183,
+                "buy_swap_price": 12.6859,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": " SCBGLOW",
+                "net_asset": 12464276.48,
+                "last_val": 12.621,
+                "previous_val": 0,
+                "sell_price": 12.6886,
+                "buy_price": 12.621,
+                "sell_swap_price": 12.621,
+                "buy_swap_price": 12.6886,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
+            }
+        ]
+    }
+}

@@ -1,0 +1,113 @@
+{
+    "lastUpdate": 1722101510947,
+    "nextUpdate": 1722187421338,
+    "data": {
+        "lastNav": "2024-07-23",
+        "fund": {
+            "proj_id": "M0909_2555",
+            "regis_id": "MF0107_2556",
+            "regis_date": "2013-02-14",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิดไทยพาณิชย์โกลบอล อิควิตี้",
+            "proj_name_en": "SCB GLOBAL EQUITY FUND",
+            "proj_abbr_name": "SCBGEQFUND",
+            "fund_status": "RG",
+            "unique_id": "C0000000239",
+            "permit_us_investment": null,
+            "invest_country_flag": "1",
+            "last_upd_date": "2024-07-27T07:02:17.43"
+        },
+        "navs": [
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGEQ",
+                "net_asset": 277055461.32,
+                "last_val": 14.9701,
+                "previous_val": 0,
+                "sell_price": 15.0503,
+                "buy_price": 14.9701,
+                "sell_swap_price": 14.9701,
+                "buy_swap_price": 15.0503,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGEQ",
+                "net_asset": 276232954.68,
+                "last_val": 14.9179,
+                "previous_val": 0,
+                "sell_price": 14.9978,
+                "buy_price": 14.9179,
+                "sell_swap_price": 14.9179,
+                "buy_swap_price": 14.9978,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGEQ",
+                "net_asset": 278477110.65,
+                "last_val": 15.0386,
+                "previous_val": 0,
+                "sell_price": 15.1192,
+                "buy_price": 15.0386,
+                "sell_swap_price": 15.0386,
+                "buy_swap_price": 15.1192,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGEQ",
+                "net_asset": 279527744.52,
+                "last_val": 15.0406,
+                "previous_val": 0,
+                "sell_price": 15.1212,
+                "buy_price": 15.0406,
+                "sell_swap_price": 15.0406,
+                "buy_swap_price": 15.1212,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGEQ",
+                "net_asset": 275302583.74,
+                "last_val": 14.8218,
+                "previous_val": 0,
+                "sell_price": 14.9012,
+                "buy_price": 14.8218,
+                "sell_swap_price": 14.8218,
+                "buy_swap_price": 14.9012,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGEQ",
+                "net_asset": 276030797.43,
+                "last_val": 14.861,
+                "previous_val": 0,
+                "sell_price": 14.9406,
+                "buy_price": 14.861,
+                "sell_swap_price": 14.861,
+                "buy_swap_price": 14.9406,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
+            }
+        ]
+    }
+}

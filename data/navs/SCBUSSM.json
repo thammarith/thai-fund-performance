@@ -1,0 +1,113 @@
+{
+    "lastUpdate": 1722101429142,
+    "nextUpdate": 1722187421338,
+    "data": {
+        "lastNav": "2024-07-23",
+        "fund": {
+            "proj_id": "M0641_2558",
+            "regis_id": "MF0227_2559",
+            "regis_date": "2016-05-31",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิดไทยพาณิชย์ ยูเอสสมอลแคป",
+            "proj_name_en": "SCB US SMALL CAP EQUITY FUND",
+            "proj_abbr_name": "SCBUSSMFUND",
+            "fund_status": "RG",
+            "unique_id": "C0000000239",
+            "permit_us_investment": null,
+            "invest_country_flag": "1",
+            "last_upd_date": "2024-07-27T07:02:17.43"
+        },
+        "navs": [
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBUSSM",
+                "net_asset": 504303839.29,
+                "last_val": 10.499,
+                "previous_val": 0,
+                "sell_price": 10.6676,
+                "buy_price": 10.499,
+                "sell_swap_price": 10.499,
+                "buy_swap_price": 10.6676,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBUSSM",
+                "net_asset": 525125315.37,
+                "last_val": 10.8799,
+                "previous_val": 0,
+                "sell_price": 11.0546,
+                "buy_price": 10.8799,
+                "sell_swap_price": 10.8799,
+                "buy_swap_price": 11.0546,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBUSSM",
+                "net_asset": 530286862.52,
+                "last_val": 10.6267,
+                "previous_val": 0,
+                "sell_price": 10.7974,
+                "buy_price": 10.6267,
+                "sell_swap_price": 10.6267,
+                "buy_swap_price": 10.7974,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBUSSM",
+                "net_asset": 521718770.38,
+                "last_val": 10.4201,
+                "previous_val": 0,
+                "sell_price": 10.5874,
+                "buy_price": 10.4201,
+                "sell_swap_price": 10.4201,
+                "buy_swap_price": 10.5874,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBUSSM",
+                "net_asset": 554455552.93,
+                "last_val": 10.4328,
+                "previous_val": 0,
+                "sell_price": 10.6003,
+                "buy_price": 10.4328,
+                "sell_swap_price": 10.4328,
+                "buy_swap_price": 10.6003,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBUSSM",
+                "net_asset": 583087156.26,
+                "last_val": 10.7466,
+                "previous_val": 0,
+                "sell_price": 10.9192,
+                "buy_price": 10.7466,
+                "sell_swap_price": 10.7466,
+                "buy_swap_price": 10.9192,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
+            }
+        ]
+    }
+}

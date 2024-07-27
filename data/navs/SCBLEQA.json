@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720245914696,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722101458725,
+    "nextUpdate": 1722187421338,
     "data": {
-        "lastNav": "2024-07-03",
+        "lastNav": "2024-07-24",
         "fund": {
             "proj_id": "M0749_2558",
             "regis_id": "MF0176_2559",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000239",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -11387,6 +11387,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBLEQA",
+                "net_asset": 1415180380.88,
+                "last_val": 16.7984,
+                "previous_val": 0,
+                "sell_price": 17.0681,
+                "buy_price": 16.7984,
+                "sell_swap_price": 16.7984,
+                "buy_swap_price": 17.0681,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBLEQA",
+                "net_asset": 1421599626.18,
+                "last_val": 16.849,
+                "previous_val": 0,
+                "sell_price": 17.1195,
+                "buy_price": 16.849,
+                "sell_swap_price": 16.849,
+                "buy_swap_price": 17.1195,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBLEQA",
+                "net_asset": 1430548398.85,
+                "last_val": 16.7134,
+                "previous_val": 0,
+                "sell_price": 16.9818,
+                "buy_price": 16.7134,
+                "sell_swap_price": 16.7134,
+                "buy_swap_price": 16.9818,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBLEQA",
+                "net_asset": 1427195666.98,
+                "last_val": 16.5773,
+                "previous_val": 0,
+                "sell_price": 16.8435,
+                "buy_price": 16.5773,
+                "sell_swap_price": 16.5773,
+                "buy_swap_price": 16.8435,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBLEQA",
+                "net_asset": 1431371409.31,
+                "last_val": 16.5229,
+                "previous_val": 0,
+                "sell_price": 16.7882,
+                "buy_price": 16.5229,
+                "sell_swap_price": 16.5229,
+                "buy_swap_price": 16.7882,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBLEQA",
+                "net_asset": 1453818202.71,
+                "last_val": 16.6723,
+                "previous_val": 0,
+                "sell_price": 16.94,
+                "buy_price": 16.6723,
+                "sell_swap_price": 16.6723,
+                "buy_swap_price": 16.94,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBLEQA",
+                "net_asset": 1460866853.68,
+                "last_val": 16.4285,
+                "previous_val": 0,
+                "sell_price": 16.6923,
+                "buy_price": 16.4285,
+                "sell_swap_price": 16.4285,
+                "buy_swap_price": 16.6923,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

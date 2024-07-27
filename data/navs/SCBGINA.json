@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720245910859,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722101442244,
+    "nextUpdate": 1722187421338,
     "data": {
-        "lastNav": "2024-07-03",
+        "lastNav": "2024-07-24",
         "fund": {
             "proj_id": "M0684_2559",
             "regis_id": "MF0029_2560",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000239",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -11387,6 +11387,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGINA",
+                "net_asset": 44761500.64,
+                "last_val": 11.2308,
+                "previous_val": 0,
+                "sell_price": 11.4112,
+                "buy_price": 11.2308,
+                "sell_swap_price": 11.2308,
+                "buy_swap_price": 11.4112,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGINA",
+                "net_asset": 44729873.51,
+                "last_val": 11.2237,
+                "previous_val": 0,
+                "sell_price": 11.4039,
+                "buy_price": 11.2237,
+                "sell_swap_price": 11.2237,
+                "buy_swap_price": 11.4039,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGINA",
+                "net_asset": 44719221.94,
+                "last_val": 11.2207,
+                "previous_val": 0,
+                "sell_price": 11.4009,
+                "buy_price": 11.2207,
+                "sell_swap_price": 11.2207,
+                "buy_swap_price": 11.4009,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGINA",
+                "net_asset": 43613605.6,
+                "last_val": 11.2003,
+                "previous_val": 0,
+                "sell_price": 11.3802,
+                "buy_price": 11.2003,
+                "sell_swap_price": 11.2003,
+                "buy_swap_price": 11.3802,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGINA",
+                "net_asset": 43581374.84,
+                "last_val": 11.1801,
+                "previous_val": 0,
+                "sell_price": 11.3596,
+                "buy_price": 11.1801,
+                "sell_swap_price": 11.1801,
+                "buy_swap_price": 11.3596,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGINA",
+                "net_asset": 53277724.41,
+                "last_val": 11.1814,
+                "previous_val": 0,
+                "sell_price": 11.361,
+                "buy_price": 11.1814,
+                "sell_swap_price": 11.1814,
+                "buy_swap_price": 11.361,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGINA",
+                "net_asset": 53428155.8,
+                "last_val": 11.1717,
+                "previous_val": 0,
+                "sell_price": 11.3511,
+                "buy_price": 11.1717,
+                "sell_swap_price": 11.1717,
+                "buy_swap_price": 11.3511,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }
