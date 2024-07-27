@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720245674063,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722099397899,
+    "nextUpdate": 1722185596794,
     "data": {
-        "lastNav": "2024-07-03",
+        "lastNav": "2024-07-24",
         "fund": {
             "proj_id": "M0237_2552",
             "regis_id": "320_2552",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -10997,6 +10997,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-OIL",
+                "net_asset": 1137373661.35,
+                "last_val": 5.8988,
+                "previous_val": 0,
+                "sell_price": 5.9048,
+                "buy_price": 5.89,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-OIL",
+                "net_asset": 1124392577.27,
+                "last_val": 5.8306,
+                "previous_val": 0,
+                "sell_price": 5.8365,
+                "buy_price": 5.8219,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-OIL",
+                "net_asset": 1136410773.73,
+                "last_val": 5.8862,
+                "previous_val": 0,
+                "sell_price": 5.8922,
+                "buy_price": 5.8774,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-OIL",
+                "net_asset": 1132756926.87,
+                "last_val": 5.8677,
+                "previous_val": 0,
+                "sell_price": 5.8737,
+                "buy_price": 5.8589,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-OIL",
+                "net_asset": 1118847042.15,
+                "last_val": 5.7402,
+                "previous_val": 0,
+                "sell_price": 5.746,
+                "buy_price": 5.7316,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-OIL",
+                "net_asset": 1099017270.74,
+                "last_val": 5.6487,
+                "previous_val": 0,
+                "sell_price": 5.6544,
+                "buy_price": 5.6402,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-OIL",
+                "net_asset": 1111103610.89,
+                "last_val": 5.6697,
+                "previous_val": 0,
+                "sell_price": 5.6755,
+                "buy_price": 5.6612,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

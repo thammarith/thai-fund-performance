@@ -1,0 +1,113 @@
+{
+    "lastUpdate": 1722099980484,
+    "nextUpdate": 1722185596794,
+    "data": {
+        "lastNav": "2024-07-23",
+        "fund": {
+            "proj_id": "M0207_2549",
+            "regis_id": "210_2549",
+            "regis_date": "2006-09-04",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิดไทยพาณิชย์ แพลทตินัม โกลบอล ฟันด์",
+            "proj_name_en": "SCB PLATINUM GLOBAL OPEN END FUND   ",
+            "proj_abbr_name": "SCBPGFUND",
+            "fund_status": "RG",
+            "unique_id": "C0000000239",
+            "permit_us_investment": null,
+            "invest_country_flag": "1",
+            "last_upd_date": "2024-07-27T07:02:17.43"
+        },
+        "navs": [
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBPGF",
+                "net_asset": 608646832.3,
+                "last_val": 22.7072,
+                "previous_val": 0,
+                "sell_price": 22.9503,
+                "buy_price": 22.7072,
+                "sell_swap_price": 22.7072,
+                "buy_swap_price": 22.9503,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBPGF",
+                "net_asset": 606872948.81,
+                "last_val": 22.6862,
+                "previous_val": 0,
+                "sell_price": 22.929,
+                "buy_price": 22.6862,
+                "sell_swap_price": 22.6862,
+                "buy_swap_price": 22.929,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBPGF",
+                "net_asset": 614358094.23,
+                "last_val": 23.0744,
+                "previous_val": 0,
+                "sell_price": 23.3214,
+                "buy_price": 23.0744,
+                "sell_swap_price": 23.0744,
+                "buy_swap_price": 23.3214,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBPGF",
+                "net_asset": 615212366.68,
+                "last_val": 23.2169,
+                "previous_val": 0,
+                "sell_price": 23.4654,
+                "buy_price": 23.2169,
+                "sell_swap_price": 23.2169,
+                "buy_swap_price": 23.4654,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBPGF",
+                "net_asset": 606764752.3,
+                "last_val": 22.9367,
+                "previous_val": 0,
+                "sell_price": 23.1822,
+                "buy_price": 22.9367,
+                "sell_swap_price": 22.9367,
+                "buy_swap_price": 23.1822,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBPGF",
+                "net_asset": 604610295.97,
+                "last_val": 22.7602,
+                "previous_val": 0,
+                "sell_price": 23.0038,
+                "buy_price": 22.7602,
+                "sell_swap_price": 22.7602,
+                "buy_swap_price": 23.0038,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
+            }
+        ]
+    }
+}

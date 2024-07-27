@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720245700208,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722099505959,
+    "nextUpdate": 1722185596794,
     "data": {
-        "lastNav": "2024-07-04",
+        "lastNav": "2024-07-25",
         "fund": {
             "proj_id": "M0383_2566",
             "regis_id": "MF0324_2566",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -3077,6 +3077,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KTFT6",
+                "net_asset": 261222830.73,
+                "last_val": 8.4538,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 8.4538,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-16T09:00:21.347"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KTFT6",
+                "net_asset": 260003499.88,
+                "last_val": 8.4144,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 8.4144,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KTFT6",
+                "net_asset": 257897869.79,
+                "last_val": 8.3467,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 8.3467,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KTFT6",
+                "net_asset": 257741840.85,
+                "last_val": 8.3467,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 8.3467,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KTFT6",
+                "net_asset": 256839907.79,
+                "last_val": 8.3175,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 8.3175,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KTFT6",
+                "net_asset": 251827697.76,
+                "last_val": 8.1942,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 8.1942,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KTFT6",
+                "net_asset": 252086510.46,
+                "last_val": 8.2292,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 8.2292,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-25",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KTFT6",
+                "net_asset": 249793312.98,
+                "last_val": 8.163,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 8.163,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720245822181,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722100032303,
+    "nextUpdate": 1722185596794,
     "data": {
-        "lastNav": "2024-07-03",
+        "lastNav": "2024-07-24",
         "fund": {
             "proj_id": "M0274_2564",
             "regis_id": "MF0232_2564",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000239",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -7352,6 +7352,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBEUROPE(SSFE)",
+                "net_asset": 6835563.1,
+                "last_val": 8.301,
+                "previous_val": 0,
+                "sell_price": 8.3011,
+                "buy_price": 8.301,
+                "sell_swap_price": 8.301,
+                "buy_swap_price": 8.3011,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBEUROPE(SSFE)",
+                "net_asset": 6795173.55,
+                "last_val": 8.2446,
+                "previous_val": 0,
+                "sell_price": 8.2447,
+                "buy_price": 8.2446,
+                "sell_swap_price": 8.2446,
+                "buy_swap_price": 8.2447,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBEUROPE(SSFE)",
+                "net_asset": 6758285.18,
+                "last_val": 8.1745,
+                "previous_val": 0,
+                "sell_price": 8.1746,
+                "buy_price": 8.1745,
+                "sell_swap_price": 8.1745,
+                "buy_swap_price": 8.1746,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBEUROPE(SSFE)",
+                "net_asset": 6802449.04,
+                "last_val": 8.2261,
+                "previous_val": 0,
+                "sell_price": 8.2262,
+                "buy_price": 8.2261,
+                "sell_swap_price": 8.2261,
+                "buy_swap_price": 8.2262,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBEUROPE(SSFE)",
+                "net_asset": 6687144.16,
+                "last_val": 8.1018,
+                "previous_val": 0,
+                "sell_price": 8.1019,
+                "buy_price": 8.1018,
+                "sell_swap_price": 8.1018,
+                "buy_swap_price": 8.1019,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBEUROPE(SSFE)",
+                "net_asset": 6790641.94,
+                "last_val": 8.2325,
+                "previous_val": 0,
+                "sell_price": 8.2326,
+                "buy_price": 8.2325,
+                "sell_swap_price": 8.2325,
+                "buy_swap_price": 8.2326,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBEUROPE(SSFE)",
+                "net_asset": 6723834.86,
+                "last_val": 8.1574,
+                "previous_val": 0,
+                "sell_price": 8.1575,
+                "buy_price": 8.1574,
+                "sell_swap_price": 8.1574,
+                "buy_swap_price": 8.1575,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

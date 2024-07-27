@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720245637321,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722099268281,
+    "nextUpdate": 1722185596794,
     "data": {
-        "lastNav": "2024-07-04",
+        "lastNav": "2024-07-25",
         "fund": {
             "proj_id": "M0063_2544",
             "regis_id": "009_2545",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -80897,6 +80897,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KSFRMF",
+                "net_asset": 10660291341.34,
+                "last_val": 14.6534,
+                "previous_val": 0,
+                "sell_price": 14.6535,
+                "buy_price": 14.6534,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-16T09:00:21.347"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KSFRMF",
+                "net_asset": 10678634677.76,
+                "last_val": 14.6554,
+                "previous_val": 0,
+                "sell_price": 14.6555,
+                "buy_price": 14.6554,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KSFRMF",
+                "net_asset": 10669386468.12,
+                "last_val": 14.6567,
+                "previous_val": 0,
+                "sell_price": 14.6568,
+                "buy_price": 14.6567,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KSFRMF",
+                "net_asset": 10671977084.24,
+                "last_val": 14.6576,
+                "previous_val": 0,
+                "sell_price": 14.6577,
+                "buy_price": 14.6576,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KSFRMF",
+                "net_asset": 10673683009.21,
+                "last_val": 14.6576,
+                "previous_val": 0,
+                "sell_price": 14.6577,
+                "buy_price": 14.6576,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KSFRMF",
+                "net_asset": 10682328710.36,
+                "last_val": 14.6598,
+                "previous_val": 0,
+                "sell_price": 14.6599,
+                "buy_price": 14.6598,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KSFRMF",
+                "net_asset": 10696349403.5,
+                "last_val": 14.6607,
+                "previous_val": 0,
+                "sell_price": 14.6608,
+                "buy_price": 14.6607,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-25",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KSFRMF",
+                "net_asset": 10699993494.23,
+                "last_val": 14.6632,
+                "previous_val": 0,
+                "sell_price": 14.6633,
+                "buy_price": 14.6632,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

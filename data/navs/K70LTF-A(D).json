@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720245751831,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722099740101,
+    "nextUpdate": 1722185596794,
     "data": {
-        "lastNav": "2024-07-04",
+        "lastNav": "2024-07-25",
         "fund": {
             "proj_id": "M0867_2548",
             "regis_id": "195_2548",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -47,6 +47,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K70LTF-A(D)",
+                "net_asset": 8859953.58,
+                "last_val": 13.4112,
+                "previous_val": 0,
+                "sell_price": 13.5454,
+                "buy_price": 13.4112,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-16T09:00:21.347"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K70LTF-A(D)",
+                "net_asset": 8808304,
+                "last_val": 13.3487,
+                "previous_val": 0,
+                "sell_price": 13.4823,
+                "buy_price": 13.3487,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K70LTF-A(D)",
+                "net_asset": 8811984.18,
+                "last_val": 13.3565,
+                "previous_val": 0,
+                "sell_price": 13.4902,
+                "buy_price": 13.3565,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K70LTF-A(D)",
+                "net_asset": 8869800.49,
+                "last_val": 13.4349,
+                "previous_val": 0,
+                "sell_price": 13.5694,
+                "buy_price": 13.4349,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K70LTF-A(D)",
+                "net_asset": 8837262.18,
+                "last_val": 13.3857,
+                "previous_val": 0,
+                "sell_price": 13.5197,
+                "buy_price": 13.3857,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K70LTF-A(D)",
+                "net_asset": 8774861.91,
+                "last_val": 13.2913,
+                "previous_val": 0,
+                "sell_price": 13.4243,
+                "buy_price": 13.2913,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K70LTF-A(D)",
+                "net_asset": 8749893.59,
+                "last_val": 13.2535,
+                "previous_val": 0,
+                "sell_price": 13.3861,
+                "buy_price": 13.2535,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-25",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K70LTF-A(D)",
+                "net_asset": 8731673.28,
+                "last_val": 13.2259,
+                "previous_val": 0,
+                "sell_price": 13.3583,
+                "buy_price": 13.2259,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

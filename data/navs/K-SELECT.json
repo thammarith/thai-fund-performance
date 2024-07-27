@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720245622981,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722099218024,
+    "nextUpdate": 1722185596794,
     "data": {
-        "lastNav": "2024-07-04",
+        "lastNav": "2024-07-25",
         "fund": {
             "proj_id": "M0014_2536",
             "regis_id": "018_2536",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -111182,6 +111182,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-SELECT",
+                "net_asset": 452407442.51,
+                "last_val": 5.8671,
+                "previous_val": 0,
+                "sell_price": 5.9259,
+                "buy_price": 5.8671,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-16T09:00:21.347"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-SELECT",
+                "net_asset": 448818760.09,
+                "last_val": 5.8229,
+                "previous_val": 0,
+                "sell_price": 5.8812,
+                "buy_price": 5.8229,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-SELECT",
+                "net_asset": 445430620.93,
+                "last_val": 5.7788,
+                "previous_val": 0,
+                "sell_price": 5.8367,
+                "buy_price": 5.7788,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-SELECT",
+                "net_asset": 443434050.76,
+                "last_val": 5.7777,
+                "previous_val": 0,
+                "sell_price": 5.8356,
+                "buy_price": 5.7777,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-SELECT",
+                "net_asset": 439096266.04,
+                "last_val": 5.7243,
+                "previous_val": 0,
+                "sell_price": 5.7816,
+                "buy_price": 5.7243,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-SELECT",
+                "net_asset": 427701692.85,
+                "last_val": 5.5766,
+                "previous_val": 0,
+                "sell_price": 5.6325,
+                "buy_price": 5.5766,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-SELECT",
+                "net_asset": 428384681.22,
+                "last_val": 5.5876,
+                "previous_val": 0,
+                "sell_price": 5.6436,
+                "buy_price": 5.5876,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-25",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-SELECT",
+                "net_asset": 422985774.76,
+                "last_val": 5.5187,
+                "previous_val": 0,
+                "sell_price": 5.574,
+                "buy_price": 5.5187,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

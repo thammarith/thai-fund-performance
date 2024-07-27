@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720245824578,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722100037904,
+    "nextUpdate": 1722185596794,
     "data": {
-        "lastNav": "2024-07-04",
+        "lastNav": "2024-07-25",
         "fund": {
             "proj_id": "M0279_2561",
             "regis_id": "MF0242_2561",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000239",
             "permit_us_investment": null,
             "invest_country_flag": "4",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -13487,6 +13487,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBPINA",
+                "net_asset": 3677900483.3,
+                "last_val": 9.6614,
+                "previous_val": 0,
+                "sell_price": 9.7649,
+                "buy_price": 9.6614,
+                "sell_swap_price": 9.6614,
+                "buy_swap_price": 9.7649,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBPINA",
+                "net_asset": 3667922906.19,
+                "last_val": 9.6376,
+                "previous_val": 0,
+                "sell_price": 9.7408,
+                "buy_price": 9.6376,
+                "sell_swap_price": 9.6376,
+                "buy_swap_price": 9.7408,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBPINA",
+                "net_asset": 3701544097.14,
+                "last_val": 9.7155,
+                "previous_val": 0,
+                "sell_price": 9.8196,
+                "buy_price": 9.7155,
+                "sell_swap_price": 9.7155,
+                "buy_swap_price": 9.8196,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBPINA",
+                "net_asset": 3682153971.97,
+                "last_val": 9.676,
+                "previous_val": 0,
+                "sell_price": 9.7796,
+                "buy_price": 9.676,
+                "sell_swap_price": 9.676,
+                "buy_swap_price": 9.7796,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBPINA",
+                "net_asset": 3674063468.37,
+                "last_val": 9.6524,
+                "previous_val": 0,
+                "sell_price": 9.7558,
+                "buy_price": 9.6524,
+                "sell_swap_price": 9.6524,
+                "buy_swap_price": 9.7558,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBPINA",
+                "net_asset": 3676268442.49,
+                "last_val": 9.6581,
+                "previous_val": 0,
+                "sell_price": 9.7615,
+                "buy_price": 9.6581,
+                "sell_swap_price": 9.6581,
+                "buy_swap_price": 9.7615,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBPINA",
+                "net_asset": 3638464920,
+                "last_val": 9.5612,
+                "previous_val": 0,
+                "sell_price": 9.6636,
+                "buy_price": 9.5612,
+                "sell_swap_price": 9.5612,
+                "buy_swap_price": 9.6636,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

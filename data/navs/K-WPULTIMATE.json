@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720245686238,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722099447033,
+    "nextUpdate": 1722185596794,
     "data": {
-        "lastNav": "2024-07-03",
+        "lastNav": "2024-07-24",
         "fund": {
             "proj_id": "M0281_2564",
             "regis_id": "MF0269_2564",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "4",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -8282,6 +8282,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-WPULTIMATE",
+                "net_asset": 2956392566.47,
+                "last_val": 9.816,
+                "previous_val": 0,
+                "sell_price": 9.8652,
+                "buy_price": 9.816,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-WPULTIMATE",
+                "net_asset": 3018295141.86,
+                "last_val": 9.7907,
+                "previous_val": 0,
+                "sell_price": 9.8398,
+                "buy_price": 9.7907,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-WPULTIMATE",
+                "net_asset": 3043035247.33,
+                "last_val": 9.6992,
+                "previous_val": 0,
+                "sell_price": 9.7478,
+                "buy_price": 9.6992,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-WPULTIMATE",
+                "net_asset": 3177041048.47,
+                "last_val": 9.7055,
+                "previous_val": 0,
+                "sell_price": 9.7541,
+                "buy_price": 9.7055,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-WPULTIMATE",
+                "net_asset": 3250500346.81,
+                "last_val": 9.673,
+                "previous_val": 0,
+                "sell_price": 9.7215,
+                "buy_price": 9.673,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-WPULTIMATE",
+                "net_asset": 3382101104.02,
+                "last_val": 9.6896,
+                "previous_val": 0,
+                "sell_price": 9.7381,
+                "buy_price": 9.6896,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-WPULTIMATE",
+                "net_asset": 3389560078.41,
+                "last_val": 9.5992,
+                "previous_val": 0,
+                "sell_price": 9.6473,
+                "buy_price": 9.5992,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

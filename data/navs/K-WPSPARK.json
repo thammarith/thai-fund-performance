@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720245687442,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722099451959,
+    "nextUpdate": 1722185596794,
     "data": {
-        "lastNav": "2024-07-03",
+        "lastNav": "2024-07-24",
         "fund": {
             "proj_id": "M0282_2564",
             "regis_id": "MF0267_2564",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "4",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -8267,6 +8267,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-WPSPARK",
+                "net_asset": 1537218596.09,
+                "last_val": 9.8783,
+                "previous_val": 0,
+                "sell_price": 9.9278,
+                "buy_price": 9.8783,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-WPSPARK",
+                "net_asset": 1508682351.59,
+                "last_val": 9.8673,
+                "previous_val": 0,
+                "sell_price": 9.9167,
+                "buy_price": 9.8673,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-WPSPARK",
+                "net_asset": 1473015000.94,
+                "last_val": 9.8216,
+                "previous_val": 0,
+                "sell_price": 9.8708,
+                "buy_price": 9.8216,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-WPSPARK",
+                "net_asset": 1467601623.59,
+                "last_val": 9.8258,
+                "previous_val": 0,
+                "sell_price": 9.875,
+                "buy_price": 9.8258,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-WPSPARK",
+                "net_asset": 1567246213.92,
+                "last_val": 9.8033,
+                "previous_val": 0,
+                "sell_price": 9.8524,
+                "buy_price": 9.8033,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-WPSPARK",
+                "net_asset": 1599276139.14,
+                "last_val": 9.8096,
+                "previous_val": 0,
+                "sell_price": 9.8587,
+                "buy_price": 9.8096,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-WPSPARK",
+                "net_asset": 1589239480.98,
+                "last_val": 9.7664,
+                "previous_val": 0,
+                "sell_price": 9.8153,
+                "buy_price": 9.7664,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

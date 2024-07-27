@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720245713730,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722099564801,
+    "nextUpdate": 1722185596794,
     "data": {
-        "lastNav": "2024-07-04",
+        "lastNav": "2024-07-25",
         "fund": {
             "proj_id": "M0434_2562",
             "regis_id": "MF0377_2562",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -2897,6 +2897,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KPVDFI",
+                "net_asset": 1485661002.89,
+                "last_val": 11.0336,
+                "previous_val": 0,
+                "sell_price": 11.0337,
+                "buy_price": 11.0336,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-16T09:00:21.347"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KPVDFI",
+                "net_asset": 1477646655.09,
+                "last_val": 11.0394,
+                "previous_val": 0,
+                "sell_price": 11.0395,
+                "buy_price": 11.0394,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KPVDFI",
+                "net_asset": 1477411494.06,
+                "last_val": 11.0377,
+                "previous_val": 0,
+                "sell_price": 11.0378,
+                "buy_price": 11.0377,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KPVDFI",
+                "net_asset": 1477462597.94,
+                "last_val": 11.0381,
+                "previous_val": 0,
+                "sell_price": 11.0382,
+                "buy_price": 11.0381,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KPVDFI",
+                "net_asset": 1477149177.49,
+                "last_val": 11.0357,
+                "previous_val": 0,
+                "sell_price": 11.0358,
+                "buy_price": 11.0357,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KPVDFI",
+                "net_asset": 1477471878.9,
+                "last_val": 11.0381,
+                "previous_val": 0,
+                "sell_price": 11.0382,
+                "buy_price": 11.0381,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KPVDFI",
+                "net_asset": 1477702254.15,
+                "last_val": 11.0399,
+                "previous_val": 0,
+                "sell_price": 11.04,
+                "buy_price": 11.0399,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-25",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KPVDFI",
+                "net_asset": 1478360850.67,
+                "last_val": 11.0448,
+                "previous_val": 0,
+                "sell_price": 11.0449,
+                "buy_price": 11.0448,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

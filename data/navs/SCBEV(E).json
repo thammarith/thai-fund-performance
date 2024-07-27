@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720245764772,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722099792420,
+    "nextUpdate": 1722185596794,
     "data": {
-        "lastNav": "2024-07-03",
+        "lastNav": "2024-07-24",
         "fund": {
             "proj_id": "M0017_2565",
             "regis_id": "MF0051_2565",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000239",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -8207,6 +8207,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBEV(E)",
+                "net_asset": 9681927.53,
+                "last_val": 4.6702,
+                "previous_val": 0,
+                "sell_price": 4.6726,
+                "buy_price": 4.6629,
+                "sell_swap_price": 4.6629,
+                "buy_swap_price": 4.6726,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBEV(E)",
+                "net_asset": 9728144.03,
+                "last_val": 4.7007,
+                "previous_val": 0,
+                "sell_price": 4.7032,
+                "buy_price": 4.6933,
+                "sell_swap_price": 4.6933,
+                "buy_swap_price": 4.7032,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBEV(E)",
+                "net_asset": 9624806.43,
+                "last_val": 4.652,
+                "previous_val": 0,
+                "sell_price": 4.6544,
+                "buy_price": 4.6447,
+                "sell_swap_price": 4.6447,
+                "buy_swap_price": 4.6544,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBEV(E)",
+                "net_asset": 9470200.85,
+                "last_val": 4.5766,
+                "previous_val": 0,
+                "sell_price": 4.579,
+                "buy_price": 4.5694,
+                "sell_swap_price": 4.5694,
+                "buy_swap_price": 4.579,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBEV(E)",
+                "net_asset": 9414472.7,
+                "last_val": 4.5499,
+                "previous_val": 0,
+                "sell_price": 4.5523,
+                "buy_price": 4.5427,
+                "sell_swap_price": 4.5427,
+                "buy_swap_price": 4.5523,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBEV(E)",
+                "net_asset": 9135256.47,
+                "last_val": 4.4222,
+                "previous_val": 0,
+                "sell_price": 4.4245,
+                "buy_price": 4.4153,
+                "sell_swap_price": 4.4153,
+                "buy_swap_price": 4.4245,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBEV(E)",
+                "net_asset": 8925525.76,
+                "last_val": 4.3232,
+                "previous_val": 0,
+                "sell_price": 4.3255,
+                "buy_price": 4.3164,
+                "sell_swap_price": 4.3164,
+                "buy_swap_price": 4.3255,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

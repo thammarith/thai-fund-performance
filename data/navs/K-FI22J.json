@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720245650487,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722099307243,
+    "nextUpdate": 1722185596794,
     "data": {
-        "lastNav": "2024-07-04",
+        "lastNav": "2024-07-25",
         "fund": {
             "proj_id": "M0103_2564",
             "regis_id": "MF0169_2564",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "4",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -7412,6 +7412,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-FI22J",
+                "net_asset": 409113317.58,
+                "last_val": 9.9635,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 9.9635,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-16T09:00:21.347"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-FI22J",
+                "net_asset": 409256749.72,
+                "last_val": 9.967,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 9.967,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-FI22J",
+                "net_asset": 409243519.47,
+                "last_val": 9.9667,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 9.9667,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-FI22J",
+                "net_asset": 408943522.56,
+                "last_val": 9.9667,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 9.9667,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-FI22J",
+                "net_asset": 408908706.89,
+                "last_val": 9.9658,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 9.9658,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-FI22J",
+                "net_asset": 409009939.85,
+                "last_val": 9.9683,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 9.9683,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-FI22J",
+                "net_asset": 409082772.01,
+                "last_val": 9.97,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 9.97,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-25",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-FI22J",
+                "net_asset": 409177399.98,
+                "last_val": 9.9724,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 9.9724,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

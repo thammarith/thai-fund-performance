@@ -1,0 +1,113 @@
+{
+    "lastUpdate": 1722099758028,
+    "nextUpdate": 1722185596794,
+    "data": {
+        "lastNav": "2024-07-24",
+        "fund": {
+            "proj_id": "M1168_2557",
+            "regis_id": "MF0853_2557",
+            "regis_date": "2014-12-19",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิดเค ญี่ปุ่น หุ้นทุน",
+            "proj_name_en": "K Japan Equity Fund",
+            "proj_abbr_name": "K-JP",
+            "fund_status": "RG",
+            "unique_id": "C0000000021",
+            "permit_us_investment": null,
+            "invest_country_flag": "1",
+            "last_upd_date": "2024-07-27T07:02:17.43"
+        },
+        "navs": [
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-JP-A(D)",
+                "net_asset": 1696868908.73,
+                "last_val": 11.7841,
+                "previous_val": 0,
+                "sell_price": 11.961,
+                "buy_price": 11.7841,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-JP-A(D)",
+                "net_asset": 1680051077.84,
+                "last_val": 11.687,
+                "previous_val": 0,
+                "sell_price": 11.8624,
+                "buy_price": 11.687,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-JP-A(D)",
+                "net_asset": 1675631206.75,
+                "last_val": 11.7067,
+                "previous_val": 0,
+                "sell_price": 11.8824,
+                "buy_price": 11.7067,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-JP-A(D)",
+                "net_asset": 1653778027.06,
+                "last_val": 11.6405,
+                "previous_val": 0,
+                "sell_price": 11.8152,
+                "buy_price": 11.6405,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-JP-A(D)",
+                "net_asset": 1631828531.65,
+                "last_val": 11.5579,
+                "previous_val": 0,
+                "sell_price": 11.7314,
+                "buy_price": 11.5579,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-JP-A(D)",
+                "net_asset": 1599917189.33,
+                "last_val": 11.3343,
+                "previous_val": 0,
+                "sell_price": 11.5044,
+                "buy_price": 11.3343,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
+            }
+        ]
+    }
+}

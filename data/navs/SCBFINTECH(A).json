@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720245791253,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722099919930,
+    "nextUpdate": 1722185596794,
     "data": {
-        "lastNav": "2024-07-03",
+        "lastNav": "2024-07-24",
         "fund": {
             "proj_id": "M0152_2564",
             "regis_id": "MF0277_2564",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000239",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -10187,6 +10187,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBFINTECH(A)",
+                "net_asset": 93302237.31,
+                "last_val": 5.6852,
+                "previous_val": 0,
+                "sell_price": 5.7422,
+                "buy_price": 5.6852,
+                "sell_swap_price": 5.6852,
+                "buy_swap_price": 5.7422,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBFINTECH(A)",
+                "net_asset": 95182444.37,
+                "last_val": 5.7996,
+                "previous_val": 0,
+                "sell_price": 5.8577,
+                "buy_price": 5.7996,
+                "sell_swap_price": 5.7996,
+                "buy_swap_price": 5.8577,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBFINTECH(A)",
+                "net_asset": 94576237.11,
+                "last_val": 5.7054,
+                "previous_val": 0,
+                "sell_price": 5.7626,
+                "buy_price": 5.7054,
+                "sell_swap_price": 5.7054,
+                "buy_swap_price": 5.7626,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBFINTECH(A)",
+                "net_asset": 89917256.4,
+                "last_val": 5.5806,
+                "previous_val": 0,
+                "sell_price": 5.6365,
+                "buy_price": 5.5806,
+                "sell_swap_price": 5.5806,
+                "buy_swap_price": 5.6365,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBFINTECH(A)",
+                "net_asset": 90603372.21,
+                "last_val": 5.6303,
+                "previous_val": 0,
+                "sell_price": 5.6867,
+                "buy_price": 5.6303,
+                "sell_swap_price": 5.6303,
+                "buy_swap_price": 5.6867,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBFINTECH(A)",
+                "net_asset": 90608933.43,
+                "last_val": 5.6303,
+                "previous_val": 0,
+                "sell_price": 5.6867,
+                "buy_price": 5.6303,
+                "sell_swap_price": 5.6303,
+                "buy_swap_price": 5.6867,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBFINTECH(A)",
+                "net_asset": 87157784.04,
+                "last_val": 5.4109,
+                "previous_val": 0,
+                "sell_price": 5.4651,
+                "buy_price": 5.4109,
+                "sell_swap_price": 5.4109,
+                "buy_swap_price": 5.4651,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

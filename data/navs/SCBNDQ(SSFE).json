@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720245837586,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722100082787,
+    "nextUpdate": 1722185596794,
     "data": {
-        "lastNav": "2024-07-03",
+        "lastNav": "2024-07-24",
         "fund": {
             "proj_id": "M0311_2564",
             "regis_id": "MF0288_2564",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000239",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -7322,6 +7322,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBNDQ(SSFE)",
+                "net_asset": 113247924.39,
+                "last_val": 12.5221,
+                "previous_val": 0,
+                "sell_price": 12.5278,
+                "buy_price": 12.5165,
+                "sell_swap_price": 12.5165,
+                "buy_swap_price": 12.5278,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBNDQ(SSFE)",
+                "net_asset": 113544217.66,
+                "last_val": 12.5231,
+                "previous_val": 0,
+                "sell_price": 12.5288,
+                "buy_price": 12.5175,
+                "sell_swap_price": 12.5175,
+                "buy_swap_price": 12.5288,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBNDQ(SSFE)",
+                "net_asset": 110338908.47,
+                "last_val": 12.1634,
+                "previous_val": 0,
+                "sell_price": 12.169,
+                "buy_price": 12.1579,
+                "sell_swap_price": 12.1579,
+                "buy_swap_price": 12.169,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBNDQ(SSFE)",
+                "net_asset": 109874274.58,
+                "last_val": 12.101,
+                "previous_val": 0,
+                "sell_price": 12.1065,
+                "buy_price": 12.0956,
+                "sell_swap_price": 12.0956,
+                "buy_swap_price": 12.1065,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBNDQ(SSFE)",
+                "net_asset": 108641550.74,
+                "last_val": 11.9989,
+                "previous_val": 0,
+                "sell_price": 12.0044,
+                "buy_price": 11.9935,
+                "sell_swap_price": 11.9935,
+                "buy_swap_price": 12.0044,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBNDQ(SSFE)",
+                "net_asset": 109986543.83,
+                "last_val": 12.1294,
+                "previous_val": 0,
+                "sell_price": 12.135,
+                "buy_price": 12.1239,
+                "sell_swap_price": 12.1239,
+                "buy_swap_price": 12.135,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBNDQ(SSFE)",
+                "net_asset": 106564952.92,
+                "last_val": 11.7065,
+                "previous_val": 0,
+                "sell_price": 11.7119,
+                "buy_price": 11.7012,
+                "sell_swap_price": 11.7012,
+                "buy_swap_price": 11.7119,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

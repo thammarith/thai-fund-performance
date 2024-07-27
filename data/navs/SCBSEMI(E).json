@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720245810247,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722099994461,
+    "nextUpdate": 1722185596794,
     "data": {
-        "lastNav": "2024-07-03",
+        "lastNav": "2024-07-24",
         "fund": {
             "proj_id": "M0232_2564",
             "regis_id": "MF0200_2564",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000239",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -10847,6 +10847,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSEMI(E)",
+                "net_asset": 226843682.43,
+                "last_val": 18.7876,
+                "previous_val": 0,
+                "sell_price": 18.7877,
+                "buy_price": 18.7675,
+                "sell_swap_price": 18.7675,
+                "buy_swap_price": 18.7877,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSEMI(E)",
+                "net_asset": 225032922.26,
+                "last_val": 18.5598,
+                "previous_val": 0,
+                "sell_price": 18.5599,
+                "buy_price": 18.5399,
+                "sell_swap_price": 18.5399,
+                "buy_swap_price": 18.5599,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSEMI(E)",
+                "net_asset": 215491405.37,
+                "last_val": 17.653,
+                "previous_val": 0,
+                "sell_price": 17.6531,
+                "buy_price": 17.6341,
+                "sell_swap_price": 17.6341,
+                "buy_swap_price": 17.6531,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSEMI(E)",
+                "net_asset": 207766141.26,
+                "last_val": 16.873,
+                "previous_val": 0,
+                "sell_price": 16.8731,
+                "buy_price": 16.8549,
+                "sell_swap_price": 16.8549,
+                "buy_swap_price": 16.8731,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSEMI(E)",
+                "net_asset": 204191205.57,
+                "last_val": 16.8789,
+                "previous_val": 0,
+                "sell_price": 16.879,
+                "buy_price": 16.8608,
+                "sell_swap_price": 16.8608,
+                "buy_swap_price": 16.879,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSEMI(E)",
+                "net_asset": 209092808.72,
+                "last_val": 17.2651,
+                "previous_val": 0,
+                "sell_price": 17.2652,
+                "buy_price": 17.2466,
+                "sell_swap_price": 17.2466,
+                "buy_swap_price": 17.2652,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSEMI(E)",
+                "net_asset": 204506558.09,
+                "last_val": 16.585,
+                "previous_val": 0,
+                "sell_price": 16.5851,
+                "buy_price": 16.5673,
+                "sell_swap_price": 16.5673,
+                "buy_swap_price": 16.5851,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

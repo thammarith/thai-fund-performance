@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720245743781,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722099705375,
+    "nextUpdate": 1722185596794,
     "data": {
-        "lastNav": "2024-07-03",
+        "lastNav": "2024-07-24",
         "fund": {
             "proj_id": "M0688_2562",
             "regis_id": "MF0004_2563",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -10982,6 +10982,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-WORLDX",
+                "net_asset": 2816197548.11,
+                "last_val": 13.8938,
+                "previous_val": 0,
+                "sell_price": 13.9078,
+                "buy_price": 13.873,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-WORLDX",
+                "net_asset": 2800705267.37,
+                "last_val": 13.9631,
+                "previous_val": 0,
+                "sell_price": 13.9772,
+                "buy_price": 13.9422,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-WORLDX",
+                "net_asset": 2778596123.4,
+                "last_val": 13.7791,
+                "previous_val": 0,
+                "sell_price": 13.793,
+                "buy_price": 13.7584,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-WORLDX",
+                "net_asset": 2768371420.88,
+                "last_val": 13.6647,
+                "previous_val": 0,
+                "sell_price": 13.6785,
+                "buy_price": 13.6442,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-WORLDX",
+                "net_asset": 2786891919.55,
+                "last_val": 13.5829,
+                "previous_val": 0,
+                "sell_price": 13.5966,
+                "buy_price": 13.5625,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-WORLDX",
+                "net_asset": 2809819404.01,
+                "last_val": 13.6703,
+                "previous_val": 0,
+                "sell_price": 13.6841,
+                "buy_price": 13.6498,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-WORLDX",
+                "net_asset": 2767724616.69,
+                "last_val": 13.4025,
+                "previous_val": 0,
+                "sell_price": 13.416,
+                "buy_price": 13.3824,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720245705723,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722099530470,
+    "nextUpdate": 1722185596794,
     "data": {
-        "lastNav": "2024-07-04",
+        "lastNav": "2024-07-25",
         "fund": {
             "proj_id": "M0405_2549",
             "regis_id": "332_2549",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "4",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -63122,6 +63122,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KSTARRMF",
+                "net_asset": 10476384625.79,
+                "last_val": 27.5832,
+                "previous_val": 0,
+                "sell_price": 27.5833,
+                "buy_price": 27.5832,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-16T09:00:21.347"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KSTARRMF",
+                "net_asset": 10414573072.35,
+                "last_val": 27.4326,
+                "previous_val": 0,
+                "sell_price": 27.4327,
+                "buy_price": 27.4326,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KSTARRMF",
+                "net_asset": 10416221508.23,
+                "last_val": 27.4458,
+                "previous_val": 0,
+                "sell_price": 27.4459,
+                "buy_price": 27.4458,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KSTARRMF",
+                "net_asset": 10485418207.34,
+                "last_val": 27.6432,
+                "previous_val": 0,
+                "sell_price": 27.6433,
+                "buy_price": 27.6432,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KSTARRMF",
+                "net_asset": 10428264866.81,
+                "last_val": 27.4977,
+                "previous_val": 0,
+                "sell_price": 27.4978,
+                "buy_price": 27.4977,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KSTARRMF",
+                "net_asset": 10304819881.77,
+                "last_val": 27.1836,
+                "previous_val": 0,
+                "sell_price": 27.1837,
+                "buy_price": 27.1836,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KSTARRMF",
+                "net_asset": 10273526069.39,
+                "last_val": 27.1104,
+                "previous_val": 0,
+                "sell_price": 27.1105,
+                "buy_price": 27.1104,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-25",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KSTARRMF",
+                "net_asset": 10227934791.09,
+                "last_val": 26.9922,
+                "previous_val": 0,
+                "sell_price": 26.9923,
+                "buy_price": 26.9922,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

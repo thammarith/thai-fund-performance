@@ -1,0 +1,113 @@
+{
+    "lastUpdate": 1722099483250,
+    "nextUpdate": 1722185596794,
+    "data": {
+        "lastNav": "2024-07-23",
+        "fund": {
+            "proj_id": "M0350_2563",
+            "regis_id": "MF0245_2563",
+            "regis_date": "2020-08-27",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิดเค เอเชีย คอนโทรล โวลาติลิตี้",
+            "proj_name_en": "K Asia Controlled Volatility Fund",
+            "proj_abbr_name": "K-ASIACV",
+            "fund_status": "RG",
+            "unique_id": "C0000000021",
+            "permit_us_investment": null,
+            "invest_country_flag": "1",
+            "last_upd_date": "2024-07-27T07:02:17.43"
+        },
+        "navs": [
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-ASIACV-A(A)",
+                "net_asset": 1776731127.72,
+                "last_val": 6.2444,
+                "previous_val": 0,
+                "sell_price": 6.3382,
+                "buy_price": 6.2444,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-ASIACV-A(A)",
+                "net_asset": 1772512071.42,
+                "last_val": 6.2294,
+                "previous_val": 0,
+                "sell_price": 6.3229,
+                "buy_price": 6.2294,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-ASIACV-A(A)",
+                "net_asset": 1753944484.39,
+                "last_val": 6.1665,
+                "previous_val": 0,
+                "sell_price": 6.2591,
+                "buy_price": 6.1665,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-ASIACV-A(A)",
+                "net_asset": 1748629365.55,
+                "last_val": 6.1489,
+                "previous_val": 0,
+                "sell_price": 6.2412,
+                "buy_price": 6.1489,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-ASIACV-A(A)",
+                "net_asset": 1714658612.27,
+                "last_val": 6.068,
+                "previous_val": 0,
+                "sell_price": 6.1591,
+                "buy_price": 6.068,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-ASIACV-A(A)",
+                "net_asset": 1706393992.43,
+                "last_val": 6.0388,
+                "previous_val": 0,
+                "sell_price": 6.1295,
+                "buy_price": 6.0388,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
+            }
+        ]
+    }
+}

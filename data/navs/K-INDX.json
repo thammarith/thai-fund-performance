@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720245675278,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722099404381,
+    "nextUpdate": 1722185596794,
     "data": {
-        "lastNav": "2024-07-03",
+        "lastNav": "2024-07-24",
         "fund": {
             "proj_id": "M0253_2558",
             "regis_id": "MF0433_2558",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -10997,6 +10997,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-INDX",
+                "net_asset": 760198911,
+                "last_val": 17.445,
+                "previous_val": 0,
+                "sell_price": 17.4625,
+                "buy_price": 17.4188,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-INDX",
+                "net_asset": 763023055.31,
+                "last_val": 17.5786,
+                "previous_val": 0,
+                "sell_price": 17.5963,
+                "buy_price": 17.5522,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-INDX",
+                "net_asset": 769198108.56,
+                "last_val": 17.4734,
+                "previous_val": 0,
+                "sell_price": 17.491,
+                "buy_price": 17.4472,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-INDX",
+                "net_asset": 773057915.29,
+                "last_val": 17.567,
+                "previous_val": 0,
+                "sell_price": 17.5847,
+                "buy_price": 17.5406,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-INDX",
+                "net_asset": 762955852.67,
+                "last_val": 17.352,
+                "previous_val": 0,
+                "sell_price": 17.3695,
+                "buy_price": 17.326,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-INDX",
+                "net_asset": 753552797.21,
+                "last_val": 17.1122,
+                "previous_val": 0,
+                "sell_price": 17.1294,
+                "buy_price": 17.0865,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-INDX",
+                "net_asset": 750771654.76,
+                "last_val": 17.0313,
+                "previous_val": 0,
+                "sell_price": 17.0484,
+                "buy_price": 17.0058,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

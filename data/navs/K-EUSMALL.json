@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720245631645,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722099250800,
+    "nextUpdate": 1722185596794,
     "data": {
-        "lastNav": "2024-07-03",
+        "lastNav": "2024-07-24",
         "fund": {
             "proj_id": "M0045_2561",
             "regis_id": "MF0073_2561",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -10217,6 +10217,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-EUSMALL",
+                "net_asset": 780804904.42,
+                "last_val": 14.9437,
+                "previous_val": 0,
+                "sell_price": 15.168,
+                "buy_price": 14.9437,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-EUSMALL",
+                "net_asset": 775317184.79,
+                "last_val": 14.8541,
+                "previous_val": 0,
+                "sell_price": 15.077,
+                "buy_price": 14.8541,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-EUSMALL",
+                "net_asset": 805564668.9,
+                "last_val": 14.8741,
+                "previous_val": 0,
+                "sell_price": 15.0973,
+                "buy_price": 14.8741,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-EUSMALL",
+                "net_asset": 753536532.4,
+                "last_val": 14.9139,
+                "previous_val": 0,
+                "sell_price": 15.1377,
+                "buy_price": 14.9139,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-EUSMALL",
+                "net_asset": 726070680.82,
+                "last_val": 14.9029,
+                "previous_val": 0,
+                "sell_price": 15.1265,
+                "buy_price": 14.9029,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-EUSMALL",
+                "net_asset": 722956140.67,
+                "last_val": 14.9141,
+                "previous_val": 0,
+                "sell_price": 15.1379,
+                "buy_price": 14.9141,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-EUSMALL",
+                "net_asset": 733465352.69,
+                "last_val": 14.8215,
+                "previous_val": 0,
+                "sell_price": 15.0439,
+                "buy_price": 14.8215,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

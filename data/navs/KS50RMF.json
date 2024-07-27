@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720245747590,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722099722045,
+    "nextUpdate": 1722185596794,
     "data": {
-        "lastNav": "2024-07-04",
+        "lastNav": "2024-07-25",
         "fund": {
             "proj_id": "M0738_2556",
             "regis_id": "MF0750_2556",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -37787,6 +37787,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KS50RMF",
+                "net_asset": 3455355293.16,
+                "last_val": 11.4077,
+                "previous_val": 0,
+                "sell_price": 11.4078,
+                "buy_price": 11.4077,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-16T09:00:21.347"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KS50RMF",
+                "net_asset": 3446762382.41,
+                "last_val": 11.3591,
+                "previous_val": 0,
+                "sell_price": 11.3592,
+                "buy_price": 11.3591,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KS50RMF",
+                "net_asset": 3452804254.5,
+                "last_val": 11.3813,
+                "previous_val": 0,
+                "sell_price": 11.3814,
+                "buy_price": 11.3813,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KS50RMF",
+                "net_asset": 3466214793.1,
+                "last_val": 11.4321,
+                "previous_val": 0,
+                "sell_price": 11.4322,
+                "buy_price": 11.4321,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KS50RMF",
+                "net_asset": 3444880821.03,
+                "last_val": 11.3635,
+                "previous_val": 0,
+                "sell_price": 11.3636,
+                "buy_price": 11.3635,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KS50RMF",
+                "net_asset": 3416823665.43,
+                "last_val": 11.2714,
+                "previous_val": 0,
+                "sell_price": 11.2715,
+                "buy_price": 11.2714,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KS50RMF",
+                "net_asset": 3396982312.95,
+                "last_val": 11.2313,
+                "previous_val": 0,
+                "sell_price": 11.2314,
+                "buy_price": 11.2313,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-25",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KS50RMF",
+                "net_asset": 3387217355.93,
+                "last_val": 11.2001,
+                "previous_val": 0,
+                "sell_price": 11.2002,
+                "buy_price": 11.2001,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

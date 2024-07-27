@@ -1,0 +1,113 @@
+{
+    "lastUpdate": 1722099503376,
+    "nextUpdate": 1722185596794,
+    "data": {
+        "lastNav": "2024-07-23",
+        "fund": {
+            "proj_id": "M0381_2563",
+            "regis_id": "MF0262_2563",
+            "regis_date": "2020-09-17",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิดเค Planetary Transition",
+            "proj_name_en": "K Planetary Transition Fund",
+            "proj_abbr_name": "K-PLANET",
+            "fund_status": "RG",
+            "unique_id": "C0000000021",
+            "permit_us_investment": null,
+            "invest_country_flag": "1",
+            "last_upd_date": "2024-07-27T07:02:17.43"
+        },
+        "navs": [
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-PLANET-A(A)",
+                "net_asset": 1914762032.52,
+                "last_val": 11.4323,
+                "previous_val": 0,
+                "sell_price": 11.6039,
+                "buy_price": 11.4323,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-PLANET-A(A)",
+                "net_asset": 1913845542.93,
+                "last_val": 11.4794,
+                "previous_val": 0,
+                "sell_price": 11.6517,
+                "buy_price": 11.4794,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-PLANET-A(A)",
+                "net_asset": 1893406700.79,
+                "last_val": 11.3707,
+                "previous_val": 0,
+                "sell_price": 11.5414,
+                "buy_price": 11.3707,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-PLANET-A(A)",
+                "net_asset": 1869235208.19,
+                "last_val": 11.2803,
+                "previous_val": 0,
+                "sell_price": 11.4496,
+                "buy_price": 11.2803,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-PLANET-A(A)",
+                "net_asset": 1857567869.41,
+                "last_val": 11.2103,
+                "previous_val": 0,
+                "sell_price": 11.3786,
+                "buy_price": 11.2103,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-PLANET-A(A)",
+                "net_asset": 1872454432.82,
+                "last_val": 11.3006,
+                "previous_val": 0,
+                "sell_price": 11.4702,
+                "buy_price": 11.3006,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
+            }
+        ]
+    }
+}

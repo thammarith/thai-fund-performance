@@ -1,0 +1,113 @@
+{
+    "lastUpdate": 1722099260313,
+    "nextUpdate": 1722185596794,
+    "data": {
+        "lastNav": "2024-07-24",
+        "fund": {
+            "proj_id": "M0059_2554",
+            "regis_id": "MF0278_2554",
+            "regis_date": "2011-06-02",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิดเค อินเดีย หุ้นทุน",
+            "proj_name_en": "K India Equity Fund",
+            "proj_abbr_name": "K-INDIA",
+            "fund_status": "RG",
+            "unique_id": "C0000000021",
+            "permit_us_investment": null,
+            "invest_country_flag": "1",
+            "last_upd_date": "2024-07-27T07:02:17.43"
+        },
+        "navs": [
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-INDIA-A(D)",
+                "net_asset": 2004322843.06,
+                "last_val": 13.6024,
+                "previous_val": 0,
+                "sell_price": 13.8065,
+                "buy_price": 13.6024,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-INDIA-A(D)",
+                "net_asset": 2008089997.37,
+                "last_val": 13.6212,
+                "previous_val": 0,
+                "sell_price": 13.8256,
+                "buy_price": 13.6212,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-INDIA-A(D)",
+                "net_asset": 2018821129.81,
+                "last_val": 13.6136,
+                "previous_val": 0,
+                "sell_price": 13.8179,
+                "buy_price": 13.6136,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-INDIA-A(D)",
+                "net_asset": 1993808018.65,
+                "last_val": 13.3936,
+                "previous_val": 0,
+                "sell_price": 13.5946,
+                "buy_price": 13.3936,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-INDIA-A(D)",
+                "net_asset": 2010197303.48,
+                "last_val": 13.4803,
+                "previous_val": 0,
+                "sell_price": 13.6826,
+                "buy_price": 13.4803,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-INDIA-A(D)",
+                "net_asset": 2031476588.87,
+                "last_val": 13.5446,
+                "previous_val": 0,
+                "sell_price": 13.7479,
+                "buy_price": 13.5446,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
+            }
+        ]
+    }
+}

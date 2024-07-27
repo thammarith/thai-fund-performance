@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720245837109,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722100080044,
+    "nextUpdate": 1722185596794,
     "data": {
-        "lastNav": "2024-07-04",
+        "lastNav": "2024-07-25",
         "fund": {
             "proj_id": "M0311_2555",
             "regis_id": "MF0618_2555",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000239",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -7382,6 +7382,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSMART2(SSFE)",
+                "net_asset": 2409692.3,
+                "last_val": 10.1336,
+                "previous_val": 0,
+                "sell_price": 10.1337,
+                "buy_price": 10.1336,
+                "sell_swap_price": 10.1336,
+                "buy_swap_price": 10.1337,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSMART2(SSFE)",
+                "net_asset": 2354267.61,
+                "last_val": 9.9844,
+                "previous_val": 0,
+                "sell_price": 9.9845,
+                "buy_price": 9.9844,
+                "sell_swap_price": 9.9844,
+                "buy_swap_price": 9.9845,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSMART2(SSFE)",
+                "net_asset": 2360069.49,
+                "last_val": 10.009,
+                "previous_val": 0,
+                "sell_price": 10.0091,
+                "buy_price": 10.009,
+                "sell_swap_price": 10.009,
+                "buy_swap_price": 10.0091,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSMART2(SSFE)",
+                "net_asset": 2356459.98,
+                "last_val": 9.9937,
+                "previous_val": 0,
+                "sell_price": 9.9938,
+                "buy_price": 9.9937,
+                "sell_swap_price": 9.9937,
+                "buy_swap_price": 9.9938,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSMART2(SSFE)",
+                "net_asset": 2349705.86,
+                "last_val": 9.965,
+                "previous_val": 0,
+                "sell_price": 9.9651,
+                "buy_price": 9.965,
+                "sell_swap_price": 9.965,
+                "buy_swap_price": 9.9651,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSMART2(SSFE)",
+                "net_asset": 2350844.8,
+                "last_val": 9.9693,
+                "previous_val": 0,
+                "sell_price": 9.9694,
+                "buy_price": 9.9693,
+                "sell_swap_price": 9.9693,
+                "buy_swap_price": 9.9694,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSMART2(SSFE)",
+                "net_asset": 2347150.4,
+                "last_val": 9.9537,
+                "previous_val": 0,
+                "sell_price": 9.9538,
+                "buy_price": 9.9537,
+                "sell_swap_price": 9.9537,
+                "buy_swap_price": 9.9538,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

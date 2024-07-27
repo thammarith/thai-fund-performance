@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720245693584,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722099476218,
+    "nextUpdate": 1722185596794,
     "data": {
-        "lastNav": "2024-07-04",
+        "lastNav": "2024-07-25",
         "fund": {
             "proj_id": "M0337_2550",
             "regis_id": "300_2550",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "4",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -60212,6 +60212,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-MONEY",
+                "net_asset": 25431506274.14,
+                "last_val": 12.5692,
+                "previous_val": 0,
+                "sell_price": 12.5693,
+                "buy_price": 12.5692,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-16T09:00:21.347"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-MONEY",
+                "net_asset": 25371191678.74,
+                "last_val": 12.5699,
+                "previous_val": 0,
+                "sell_price": 12.57,
+                "buy_price": 12.5699,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-MONEY",
+                "net_asset": 25349195966.64,
+                "last_val": 12.5704,
+                "previous_val": 0,
+                "sell_price": 12.5705,
+                "buy_price": 12.5704,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-MONEY",
+                "net_asset": 25340716927.78,
+                "last_val": 12.5709,
+                "previous_val": 0,
+                "sell_price": 12.571,
+                "buy_price": 12.5709,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-MONEY",
+                "net_asset": 25244345088.74,
+                "last_val": 12.5714,
+                "previous_val": 0,
+                "sell_price": 12.5715,
+                "buy_price": 12.5714,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-MONEY",
+                "net_asset": 25238457465.96,
+                "last_val": 12.5736,
+                "previous_val": 0,
+                "sell_price": 12.5737,
+                "buy_price": 12.5736,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-MONEY",
+                "net_asset": 25279148030.68,
+                "last_val": 12.5743,
+                "previous_val": 0,
+                "sell_price": 12.5744,
+                "buy_price": 12.5743,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-25",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-MONEY",
+                "net_asset": 25284570416.69,
+                "last_val": 12.5751,
+                "previous_val": 0,
+                "sell_price": 12.5752,
+                "buy_price": 12.5751,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

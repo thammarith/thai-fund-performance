@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720245724464,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722099605335,
+    "nextUpdate": 1722185596794,
     "data": {
-        "lastNav": "2024-07-03",
+        "lastNav": "2024-07-25",
         "fund": {
             "proj_id": "M0511_2565",
             "regis_id": "MF0355_2565",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -5507,6 +5507,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-VIETNAM-SSF",
+                "net_asset": 1037913791.92,
+                "last_val": 12.4998,
+                "previous_val": 0,
+                "sell_price": 12.4999,
+                "buy_price": 12.4998,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-16T09:00:21.347"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-VIETNAM-SSF",
+                "net_asset": 1040713986.79,
+                "last_val": 12.516,
+                "previous_val": 0,
+                "sell_price": 12.5161,
+                "buy_price": 12.516,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-VIETNAM-SSF",
+                "net_asset": 1035244749.21,
+                "last_val": 12.428,
+                "previous_val": 0,
+                "sell_price": 12.4281,
+                "buy_price": 12.428,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-VIETNAM-SSF",
+                "net_asset": 1041766904.14,
+                "last_val": 12.5008,
+                "previous_val": 0,
+                "sell_price": 12.5009,
+                "buy_price": 12.5008,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-VIETNAM-SSF",
+                "net_asset": 1044596468.66,
+                "last_val": 12.518,
+                "previous_val": 0,
+                "sell_price": 12.5181,
+                "buy_price": 12.518,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-VIETNAM-SSF",
+                "net_asset": 1020938689.85,
+                "last_val": 12.2214,
+                "previous_val": 0,
+                "sell_price": 12.2215,
+                "buy_price": 12.2214,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-VIETNAM-SSF",
+                "net_asset": 1021276424.48,
+                "last_val": 12.2149,
+                "previous_val": 0,
+                "sell_price": 12.215,
+                "buy_price": 12.2149,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-25",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-VIETNAM-SSF",
+                "net_asset": 1019205848.45,
+                "last_val": 12.1803,
+                "previous_val": 0,
+                "sell_price": 12.1804,
+                "buy_price": 12.1803,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

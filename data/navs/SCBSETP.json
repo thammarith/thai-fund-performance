@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720245766218,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722099798628,
+    "nextUpdate": 1722185596794,
     "data": {
-        "lastNav": "2024-07-04",
+        "lastNav": "2024-07-25",
         "fund": {
             "proj_id": "M0026_2539",
             "regis_id": "045_2539",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000239",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -13472,6 +13472,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSETP",
+                "net_asset": 430693719.45,
+                "last_val": 18.6799,
+                "previous_val": 0,
+                "sell_price": 18.68,
+                "buy_price": 18.6799,
+                "sell_swap_price": 18.6799,
+                "buy_swap_price": 18.68,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSETP",
+                "net_asset": 429014926.37,
+                "last_val": 18.6686,
+                "previous_val": 0,
+                "sell_price": 18.6687,
+                "buy_price": 18.6686,
+                "sell_swap_price": 18.6686,
+                "buy_swap_price": 18.6687,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSETP",
+                "net_asset": 430982241.48,
+                "last_val": 18.7542,
+                "previous_val": 0,
+                "sell_price": 18.7543,
+                "buy_price": 18.7542,
+                "sell_swap_price": 18.7542,
+                "buy_swap_price": 18.7543,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSETP",
+                "net_asset": 428456927.93,
+                "last_val": 18.6444,
+                "previous_val": 0,
+                "sell_price": 18.6445,
+                "buy_price": 18.6444,
+                "sell_swap_price": 18.6444,
+                "buy_swap_price": 18.6445,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSETP",
+                "net_asset": 423423988.11,
+                "last_val": 18.4253,
+                "previous_val": 0,
+                "sell_price": 18.4254,
+                "buy_price": 18.4253,
+                "sell_swap_price": 18.4253,
+                "buy_swap_price": 18.4254,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSETP",
+                "net_asset": 422170180.46,
+                "last_val": 18.3708,
+                "previous_val": 0,
+                "sell_price": 18.3709,
+                "buy_price": 18.3708,
+                "sell_swap_price": 18.3708,
+                "buy_swap_price": 18.3709,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSETP",
+                "net_asset": 418602398.59,
+                "last_val": 18.2853,
+                "previous_val": 0,
+                "sell_price": 18.2854,
+                "buy_price": 18.2853,
+                "sell_swap_price": 18.2853,
+                "buy_swap_price": 18.2854,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

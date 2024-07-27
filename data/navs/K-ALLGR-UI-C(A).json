@@ -1,0 +1,113 @@
+{
+    "lastUpdate": 1722099612441,
+    "nextUpdate": 1722185596794,
+    "data": {
+        "lastNav": "2024-07-23",
+        "fund": {
+            "proj_id": "M0521_2562",
+            "regis_id": "MF0468_2562",
+            "regis_date": "2019-10-02",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิดเค ALL-GR ห้ามขายผู้ลงทุนรายย่อย",
+            "proj_name_en": "K All Roads Growth Fund Not for Retail Investors",
+            "proj_abbr_name": "K-ALLGR-UI",
+            "fund_status": "RG",
+            "unique_id": "C0000000021",
+            "permit_us_investment": null,
+            "invest_country_flag": "1",
+            "last_upd_date": "2024-07-27T07:02:17.43"
+        },
+        "navs": [
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-ALLGR-UI-C(A)",
+                "net_asset": 119721736.31,
+                "last_val": 11.0012,
+                "previous_val": 0,
+                "sell_price": 11.0013,
+                "buy_price": 11.0012,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-ALLGR-UI-C(A)",
+                "net_asset": 119906710.4,
+                "last_val": 11.0182,
+                "previous_val": 0,
+                "sell_price": 11.0183,
+                "buy_price": 11.0182,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-ALLGR-UI-C(A)",
+                "net_asset": 119039403.18,
+                "last_val": 10.9385,
+                "previous_val": 0,
+                "sell_price": 10.9386,
+                "buy_price": 10.9385,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-ALLGR-UI-C(A)",
+                "net_asset": 118282128.95,
+                "last_val": 10.8689,
+                "previous_val": 0,
+                "sell_price": 10.869,
+                "buy_price": 10.8689,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-ALLGR-UI-C(A)",
+                "net_asset": 117030143.41,
+                "last_val": 10.7539,
+                "previous_val": 0,
+                "sell_price": 10.754,
+                "buy_price": 10.7539,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-ALLGR-UI-C(A)",
+                "net_asset": 117141186.15,
+                "last_val": 10.7641,
+                "previous_val": 0,
+                "sell_price": 10.7642,
+                "buy_price": 10.7641,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
+            }
+        ]
+    }
+}

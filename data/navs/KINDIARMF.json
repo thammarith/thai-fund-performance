@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720245754070,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722099747799,
+    "nextUpdate": 1722185596794,
     "data": {
-        "lastNav": "2024-07-03",
+        "lastNav": "2024-07-24",
         "fund": {
             "proj_id": "M0907_2566",
             "regis_id": "MF0129_2567",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -32,6 +32,96 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KINDIARMF",
+                "net_asset": 212255917.59,
+                "last_val": 11.6741,
+                "previous_val": 0,
+                "sell_price": 11.6742,
+                "buy_price": 11.6741,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KINDIARMF",
+                "net_asset": 215242276.74,
+                "last_val": 11.6898,
+                "previous_val": 0,
+                "sell_price": 11.6899,
+                "buy_price": 11.6898,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KINDIARMF",
+                "net_asset": 219546851.14,
+                "last_val": 11.6837,
+                "previous_val": 0,
+                "sell_price": 11.6838,
+                "buy_price": 11.6837,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KINDIARMF",
+                "net_asset": 212014251.64,
+                "last_val": 11.4967,
+                "previous_val": 0,
+                "sell_price": 11.4968,
+                "buy_price": 11.4967,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KINDIARMF",
+                "net_asset": 217736867.05,
+                "last_val": 11.5696,
+                "previous_val": 0,
+                "sell_price": 11.5697,
+                "buy_price": 11.5696,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KINDIARMF",
+                "net_asset": 220490349.36,
+                "last_val": 11.6232,
+                "previous_val": 0,
+                "sell_price": 11.6233,
+                "buy_price": 11.6232,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

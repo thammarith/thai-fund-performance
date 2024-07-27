@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720245736681,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722099672524,
+    "nextUpdate": 1722185596794,
     "data": {
-        "lastNav": "2024-07-04",
+        "lastNav": "2024-07-25",
         "fund": {
             "proj_id": "M0596_2562",
             "regis_id": "MF0532_2562",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "4",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -15797,6 +15797,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KPROPIRMF",
+                "net_asset": 430691261.9,
+                "last_val": 8.3403,
+                "previous_val": 0,
+                "sell_price": 8.3404,
+                "buy_price": 8.3403,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-16T09:00:21.347"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KPROPIRMF",
+                "net_asset": 433165874.43,
+                "last_val": 8.3728,
+                "previous_val": 0,
+                "sell_price": 8.3729,
+                "buy_price": 8.3728,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KPROPIRMF",
+                "net_asset": 434377834.18,
+                "last_val": 8.3975,
+                "previous_val": 0,
+                "sell_price": 8.3976,
+                "buy_price": 8.3975,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KPROPIRMF",
+                "net_asset": 435853790.41,
+                "last_val": 8.4504,
+                "previous_val": 0,
+                "sell_price": 8.4505,
+                "buy_price": 8.4504,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KPROPIRMF",
+                "net_asset": 434194857.85,
+                "last_val": 8.4174,
+                "previous_val": 0,
+                "sell_price": 8.4175,
+                "buy_price": 8.4174,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KPROPIRMF",
+                "net_asset": 431600765.15,
+                "last_val": 8.3687,
+                "previous_val": 0,
+                "sell_price": 8.3688,
+                "buy_price": 8.3687,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KPROPIRMF",
+                "net_asset": 430161042.68,
+                "last_val": 8.3434,
+                "previous_val": 0,
+                "sell_price": 8.3435,
+                "buy_price": 8.3434,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-25",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KPROPIRMF",
+                "net_asset": 423807773.38,
+                "last_val": 8.2231,
+                "previous_val": 0,
+                "sell_price": 8.2232,
+                "buy_price": 8.2231,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

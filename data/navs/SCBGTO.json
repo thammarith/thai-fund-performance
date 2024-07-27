@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720245820015,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722100026726,
+    "nextUpdate": 1722185596794,
     "data": {
-        "lastNav": "2024-07-03",
+        "lastNav": "2024-07-24",
         "fund": {
             "proj_id": "M0262_2564",
             "regis_id": "MF0244_2564",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000239",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -10397,6 +10397,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGTO",
+                "net_asset": 109297352.43,
+                "last_val": 9.5948,
+                "previous_val": 0,
+                "sell_price": 9.712,
+                "buy_price": 9.5804,
+                "sell_swap_price": 9.5804,
+                "buy_swap_price": 9.712,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGTO",
+                "net_asset": 109042036.39,
+                "last_val": 9.6142,
+                "previous_val": 0,
+                "sell_price": 9.7316,
+                "buy_price": 9.5998,
+                "sell_swap_price": 9.5998,
+                "buy_swap_price": 9.7316,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGTO",
+                "net_asset": 107040310.09,
+                "last_val": 9.439,
+                "previous_val": 0,
+                "sell_price": 9.5543,
+                "buy_price": 9.4248,
+                "sell_swap_price": 9.4248,
+                "buy_swap_price": 9.5543,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGTO",
+                "net_asset": 106817227.54,
+                "last_val": 9.4193,
+                "previous_val": 0,
+                "sell_price": 9.5343,
+                "buy_price": 9.4052,
+                "sell_swap_price": 9.4052,
+                "buy_swap_price": 9.5343,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGTO",
+                "net_asset": 107100282.56,
+                "last_val": 9.4444,
+                "previous_val": 0,
+                "sell_price": 9.5598,
+                "buy_price": 9.4302,
+                "sell_swap_price": 9.4302,
+                "buy_swap_price": 9.5598,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGTO",
+                "net_asset": 107816038.9,
+                "last_val": 9.5075,
+                "previous_val": 0,
+                "sell_price": 9.6236,
+                "buy_price": 9.4932,
+                "sell_swap_price": 9.4932,
+                "buy_swap_price": 9.6236,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGTO",
+                "net_asset": 105253344.35,
+                "last_val": 9.3229,
+                "previous_val": 0,
+                "sell_price": 9.4368,
+                "buy_price": 9.3089,
+                "sell_swap_price": 9.3089,
+                "buy_swap_price": 9.4368,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

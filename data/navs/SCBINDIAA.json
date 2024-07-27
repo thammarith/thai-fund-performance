@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720245770961,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722099825430,
+    "nextUpdate": 1722185596794,
     "data": {
-        "lastNav": "2024-07-03",
+        "lastNav": "2024-07-24",
         "fund": {
             "proj_id": "M0065_2558",
             "regis_id": "MF0179_2558",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000239",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -10262,6 +10262,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBINDIAA",
+                "net_asset": 183082430.09,
+                "last_val": 16.054,
+                "previous_val": 0,
+                "sell_price": 16.1424,
+                "buy_price": 16.046,
+                "sell_swap_price": 16.046,
+                "buy_swap_price": 16.1424,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBINDIAA",
+                "net_asset": 187266741.32,
+                "last_val": 16.1713,
+                "previous_val": 0,
+                "sell_price": 16.2604,
+                "buy_price": 16.1632,
+                "sell_swap_price": 16.1632,
+                "buy_swap_price": 16.2604,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBINDIAA",
+                "net_asset": 190329914.74,
+                "last_val": 16.0632,
+                "previous_val": 0,
+                "sell_price": 16.1516,
+                "buy_price": 16.0552,
+                "sell_swap_price": 16.0552,
+                "buy_swap_price": 16.1516,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBINDIAA",
+                "net_asset": 189624381.31,
+                "last_val": 16.1516,
+                "previous_val": 0,
+                "sell_price": 16.2406,
+                "buy_price": 16.1435,
+                "sell_swap_price": 16.1435,
+                "buy_swap_price": 16.2406,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBINDIAA",
+                "net_asset": 189345431.28,
+                "last_val": 15.9677,
+                "previous_val": 0,
+                "sell_price": 16.0556,
+                "buy_price": 15.9597,
+                "sell_swap_price": 15.9597,
+                "buy_swap_price": 16.0556,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBINDIAA",
+                "net_asset": 186451189.44,
+                "last_val": 15.7489,
+                "previous_val": 0,
+                "sell_price": 15.8356,
+                "buy_price": 15.741,
+                "sell_swap_price": 15.741,
+                "buy_swap_price": 15.8356,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBINDIAA",
+                "net_asset": 185088878.83,
+                "last_val": 15.6736,
+                "previous_val": 0,
+                "sell_price": 15.7599,
+                "buy_price": 15.6658,
+                "sell_swap_price": 15.6658,
+                "buy_swap_price": 15.7599,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

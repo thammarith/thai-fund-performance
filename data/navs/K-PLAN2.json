@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720245732413,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722099648508,
+    "nextUpdate": 1722185596794,
     "data": {
-        "lastNav": "2024-07-04",
+        "lastNav": "2024-07-25",
         "fund": {
             "proj_id": "M0574_2552",
             "regis_id": "497_2552",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "4",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -52727,6 +52727,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-PLAN2",
+                "net_asset": 2294179221.89,
+                "last_val": 17.2839,
+                "previous_val": 0,
+                "sell_price": 17.3704,
+                "buy_price": 17.2839,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-16T09:00:21.347"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-PLAN2",
+                "net_asset": 2270591418.08,
+                "last_val": 17.2631,
+                "previous_val": 0,
+                "sell_price": 17.3495,
+                "buy_price": 17.2631,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-PLAN2",
+                "net_asset": 2270607893.08,
+                "last_val": 17.2416,
+                "previous_val": 0,
+                "sell_price": 17.3279,
+                "buy_price": 17.2416,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-PLAN2",
+                "net_asset": 2254268156.12,
+                "last_val": 17.2142,
+                "previous_val": 0,
+                "sell_price": 17.3004,
+                "buy_price": 17.2142,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-PLAN2",
+                "net_asset": 2244892253.42,
+                "last_val": 17.2088,
+                "previous_val": 0,
+                "sell_price": 17.2949,
+                "buy_price": 17.2088,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-PLAN2",
+                "net_asset": 2229806383.92,
+                "last_val": 17.1711,
+                "previous_val": 0,
+                "sell_price": 17.2571,
+                "buy_price": 17.1711,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-PLAN2",
+                "net_asset": 2224098311.59,
+                "last_val": 17.158,
+                "previous_val": 0,
+                "sell_price": 17.2439,
+                "buy_price": 17.158,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-25",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-PLAN2",
+                "net_asset": 2202229612.8,
+                "last_val": 17.0823,
+                "previous_val": 0,
+                "sell_price": 17.1678,
+                "buy_price": 17.0823,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

@@ -1,0 +1,113 @@
+{
+    "lastUpdate": 1722099623094,
+    "nextUpdate": 1722185596794,
+    "data": {
+        "lastNav": "2024-07-23",
+        "fund": {
+            "proj_id": "M0527_2564",
+            "regis_id": "MF0065_2565",
+            "regis_date": "2022-03-09",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิดเค ALL-EN ห้ามขายผู้ลงทุนรายย่อย",
+            "proj_name_en": "K All Roads Enhanced Fund Not for Retail Investors",
+            "proj_abbr_name": "K-ALLEN-UI",
+            "fund_status": "RG",
+            "unique_id": "C0000000021",
+            "permit_us_investment": null,
+            "invest_country_flag": "1",
+            "last_upd_date": "2024-07-27T07:02:17.43"
+        },
+        "navs": [
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-ALLEN-UI-C(A)",
+                "net_asset": 514555488.62,
+                "last_val": 10.8277,
+                "previous_val": 0,
+                "sell_price": 10.8278,
+                "buy_price": 10.8277,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-ALLEN-UI-C(A)",
+                "net_asset": 515631004.68,
+                "last_val": 10.8504,
+                "previous_val": 0,
+                "sell_price": 10.8505,
+                "buy_price": 10.8504,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-ALLEN-UI-C(A)",
+                "net_asset": 511473833.7,
+                "last_val": 10.7629,
+                "previous_val": 0,
+                "sell_price": 10.763,
+                "buy_price": 10.7629,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-ALLEN-UI-C(A)",
+                "net_asset": 507202437.57,
+                "last_val": 10.673,
+                "previous_val": 0,
+                "sell_price": 10.6731,
+                "buy_price": 10.673,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-ALLEN-UI-C(A)",
+                "net_asset": 499737019.8,
+                "last_val": 10.5159,
+                "previous_val": 0,
+                "sell_price": 10.516,
+                "buy_price": 10.5159,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-ALLEN-UI-C(A)",
+                "net_asset": 500190144.99,
+                "last_val": 10.5254,
+                "previous_val": 0,
+                "sell_price": 10.5255,
+                "buy_price": 10.5254,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
+            }
+        ]
+    }
+}

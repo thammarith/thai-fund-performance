@@ -1,0 +1,113 @@
+{
+    "lastUpdate": 1722099904431,
+    "nextUpdate": 1722185596794,
+    "data": {
+        "lastNav": "2024-07-23",
+        "fund": {
+            "proj_id": "M0144_2567",
+            "regis_id": "MF0249_2567",
+            "regis_date": "2024-05-17",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิดไทยพาณิชย์ Senior Loan ห้ามขายผู้ลงทุนรายย่อย",
+            "proj_name_en": "SCB Senior Loan Not for Retail Investors",
+            "proj_abbr_name": "SCBSNLOAN",
+            "fund_status": "RG",
+            "unique_id": "C0000000239",
+            "permit_us_investment": null,
+            "invest_country_flag": "1",
+            "last_upd_date": "2024-07-27T07:02:17.43"
+        },
+        "navs": [
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSNLOAN(D)",
+                "net_asset": 221655138.07,
+                "last_val": 10.0201,
+                "previous_val": 0,
+                "sell_price": 10.1274,
+                "buy_price": 10.0201,
+                "sell_swap_price": 10.0201,
+                "buy_swap_price": 10.1274,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSNLOAN(D)",
+                "net_asset": 225056225.78,
+                "last_val": 10.0394,
+                "previous_val": 0,
+                "sell_price": 10.1469,
+                "buy_price": 10.0394,
+                "sell_swap_price": 10.0394,
+                "buy_swap_price": 10.1469,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSNLOAN(D)",
+                "net_asset": 224682816.3,
+                "last_val": 9.9354,
+                "previous_val": 0,
+                "sell_price": 10.0418,
+                "buy_price": 9.9354,
+                "sell_swap_price": 9.9354,
+                "buy_swap_price": 10.0418,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSNLOAN(D)",
+                "net_asset": 230869347.69,
+                "last_val": 9.989,
+                "previous_val": 0,
+                "sell_price": 10.096,
+                "buy_price": 9.989,
+                "sell_swap_price": 9.989,
+                "buy_swap_price": 10.096,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSNLOAN(D)",
+                "net_asset": 231069367,
+                "last_val": 9.9976,
+                "previous_val": 0,
+                "sell_price": 10.1047,
+                "buy_price": 9.9976,
+                "sell_swap_price": 9.9976,
+                "buy_swap_price": 10.1047,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSNLOAN(D)",
+                "net_asset": 231179687.16,
+                "last_val": 10.0024,
+                "previous_val": 0,
+                "sell_price": 10.1095,
+                "buy_price": 10.0024,
+                "sell_swap_price": 10.0024,
+                "buy_swap_price": 10.1095,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
+            }
+        ]
+    }
+}

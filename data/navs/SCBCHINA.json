@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720245772897,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722099834673,
+    "nextUpdate": 1722185596794,
     "data": {
-        "lastNav": "2024-07-03",
+        "lastNav": "2024-07-24",
         "fund": {
             "proj_id": "M0079_2564",
             "regis_id": "MF0099_2564",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000239",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -11387,6 +11387,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBCHINA",
+                "net_asset": 527254127.18,
+                "last_val": 4.5566,
+                "previous_val": 0,
+                "sell_price": 4.6298,
+                "buy_price": 4.5566,
+                "sell_swap_price": 4.5566,
+                "buy_swap_price": 4.6298,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBCHINA",
+                "net_asset": 519752222.03,
+                "last_val": 4.4915,
+                "previous_val": 0,
+                "sell_price": 4.5637,
+                "buy_price": 4.4915,
+                "sell_swap_price": 4.4915,
+                "buy_swap_price": 4.5637,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBCHINA",
+                "net_asset": 519749327.05,
+                "last_val": 4.4875,
+                "previous_val": 0,
+                "sell_price": 4.5596,
+                "buy_price": 4.4875,
+                "sell_swap_price": 4.4875,
+                "buy_swap_price": 4.5596,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBCHINA",
+                "net_asset": 520504395.75,
+                "last_val": 4.4952,
+                "previous_val": 0,
+                "sell_price": 4.5674,
+                "buy_price": 4.4952,
+                "sell_swap_price": 4.4952,
+                "buy_swap_price": 4.5674,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBCHINA",
+                "net_asset": 515936423.02,
+                "last_val": 4.4556,
+                "previous_val": 0,
+                "sell_price": 4.5272,
+                "buy_price": 4.4556,
+                "sell_swap_price": 4.4556,
+                "buy_swap_price": 4.5272,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBCHINA",
+                "net_asset": 512868841.93,
+                "last_val": 4.4328,
+                "previous_val": 0,
+                "sell_price": 4.504,
+                "buy_price": 4.4328,
+                "sell_swap_price": 4.4328,
+                "buy_swap_price": 4.504,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBCHINA",
+                "net_asset": 506945330.27,
+                "last_val": 4.3819,
+                "previous_val": 0,
+                "sell_price": 4.4523,
+                "buy_price": 4.3819,
+                "sell_swap_price": 4.3819,
+                "buy_swap_price": 4.4523,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

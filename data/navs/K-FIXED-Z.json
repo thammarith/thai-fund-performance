@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720245623624,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722099220614,
+    "nextUpdate": 1722185596794,
     "data": {
-        "lastNav": "2024-07-04",
+        "lastNav": "2024-07-25",
         "fund": {
             "proj_id": "M0017_2538",
             "regis_id": "025_2538",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -8117,6 +8117,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-FIXED-Z",
+                "net_asset": 2723953902.81,
+                "last_val": 13.5213,
+                "previous_val": 0,
+                "sell_price": 13.5214,
+                "buy_price": 13.5213,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-16T09:00:21.347"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-FIXED-Z",
+                "net_asset": 2724629248.08,
+                "last_val": 13.5286,
+                "previous_val": 0,
+                "sell_price": 13.5287,
+                "buy_price": 13.5286,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-FIXED-Z",
+                "net_asset": 2724291177.83,
+                "last_val": 13.5269,
+                "previous_val": 0,
+                "sell_price": 13.527,
+                "buy_price": 13.5269,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-FIXED-Z",
+                "net_asset": 2661508188.29,
+                "last_val": 13.5263,
+                "previous_val": 0,
+                "sell_price": 13.5264,
+                "buy_price": 13.5263,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-FIXED-Z",
+                "net_asset": 2661090037.12,
+                "last_val": 13.5242,
+                "previous_val": 0,
+                "sell_price": 13.5243,
+                "buy_price": 13.5242,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-FIXED-Z",
+                "net_asset": 2662181232.27,
+                "last_val": 13.5274,
+                "previous_val": 0,
+                "sell_price": 13.5275,
+                "buy_price": 13.5274,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-FIXED-Z",
+                "net_asset": 2662659608.6,
+                "last_val": 13.5306,
+                "previous_val": 0,
+                "sell_price": 13.5307,
+                "buy_price": 13.5306,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-25",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-FIXED-Z",
+                "net_asset": 2663556028.24,
+                "last_val": 13.5351,
+                "previous_val": 0,
+                "sell_price": 13.5352,
+                "buy_price": 13.5351,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720245652556,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722099317075,
+    "nextUpdate": 1722185596794,
     "data": {
-        "lastNav": "2024-07-04",
+        "lastNav": "2024-07-25",
         "fund": {
             "proj_id": "M0130_2545",
             "regis_id": "059_2545",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -76757,6 +76757,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KACB",
+                "net_asset": 3260341260.23,
+                "last_val": 17.9215,
+                "previous_val": 0,
+                "sell_price": 18.056,
+                "buy_price": 17.9215,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-16T09:00:21.347"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KACB",
+                "net_asset": 3260023930.29,
+                "last_val": 17.9267,
+                "previous_val": 0,
+                "sell_price": 18.0613,
+                "buy_price": 17.9267,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KACB",
+                "net_asset": 3259591160.7,
+                "last_val": 17.9277,
+                "previous_val": 0,
+                "sell_price": 18.0623,
+                "buy_price": 17.9277,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KACB",
+                "net_asset": 3196207824.4,
+                "last_val": 17.9275,
+                "previous_val": 0,
+                "sell_price": 18.0621,
+                "buy_price": 17.9275,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KACB",
+                "net_asset": 3195835190.78,
+                "last_val": 17.9254,
+                "previous_val": 0,
+                "sell_price": 18.0599,
+                "buy_price": 17.9254,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KACB",
+                "net_asset": 3196782137.37,
+                "last_val": 17.9307,
+                "previous_val": 0,
+                "sell_price": 18.0653,
+                "buy_price": 17.9307,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KACB",
+                "net_asset": 3197083311.26,
+                "last_val": 17.9345,
+                "previous_val": 0,
+                "sell_price": 18.0691,
+                "buy_price": 17.9345,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-25",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KACB",
+                "net_asset": 3197677815.91,
+                "last_val": 17.9379,
+                "previous_val": 0,
+                "sell_price": 18.0725,
+                "buy_price": 17.9379,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

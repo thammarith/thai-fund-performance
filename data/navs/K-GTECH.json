@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1719836451108,
-    "nextUpdate": 1719921005183,
+    "lastUpdate": 1722099729420,
+    "nextUpdate": 1722185596794,
     "data": {
-        "lastNav": "2023-10-03",
+        "lastNav": "2024-07-23",
         "fund": {
             "proj_id": "M0767_2565",
             "regis_id": "MF0389_2566",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -2417,6 +2417,96 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-01T07:02:16"
+            },
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GTECH",
+                "net_asset": 665708150.95,
+                "last_val": 13.5884,
+                "previous_val": 0,
+                "sell_price": 13.7923,
+                "buy_price": 13.5884,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GTECH",
+                "net_asset": 663304947.21,
+                "last_val": 13.677,
+                "previous_val": 0,
+                "sell_price": 13.8823,
+                "buy_price": 13.677,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GTECH",
+                "net_asset": 612679289.08,
+                "last_val": 13.2297,
+                "previous_val": 0,
+                "sell_price": 13.4282,
+                "buy_price": 13.2297,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GTECH",
+                "net_asset": 572654334.13,
+                "last_val": 13.1031,
+                "previous_val": 0,
+                "sell_price": 13.2997,
+                "buy_price": 13.1031,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GTECH",
+                "net_asset": 561963263.27,
+                "last_val": 12.975,
+                "previous_val": 0,
+                "sell_price": 13.1697,
+                "buy_price": 12.975,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GTECH",
+                "net_asset": 579333378.34,
+                "last_val": 13.2063,
+                "previous_val": 0,
+                "sell_price": 13.4045,
+                "buy_price": 13.2063,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

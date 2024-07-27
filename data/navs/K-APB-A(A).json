@@ -1,0 +1,113 @@
+{
+    "lastUpdate": 1722099665409,
+    "nextUpdate": 1722185596794,
+    "data": {
+        "lastNav": "2024-07-23",
+        "fund": {
+            "proj_id": "M0588_2560",
+            "regis_id": "MF0496_2560",
+            "regis_date": "2017-12-07",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิดเค เอเชีย แปซิฟิก บอนด์",
+            "proj_name_en": "K Asia Pacific Bond Fund",
+            "proj_abbr_name": "K-APB",
+            "fund_status": "RG",
+            "unique_id": "C0000000021",
+            "permit_us_investment": null,
+            "invest_country_flag": "1",
+            "last_upd_date": "2024-07-27T07:02:17.43"
+        },
+        "navs": [
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-APB-A(A)",
+                "net_asset": 2969211850.77,
+                "last_val": 9.5552,
+                "previous_val": 0,
+                "sell_price": 9.6031,
+                "buy_price": 9.5552,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-APB-A(A)",
+                "net_asset": 2972983039.6,
+                "last_val": 9.5659,
+                "previous_val": 0,
+                "sell_price": 9.6138,
+                "buy_price": 9.5659,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-APB-A(A)",
+                "net_asset": 2978098271.82,
+                "last_val": 9.5639,
+                "previous_val": 0,
+                "sell_price": 9.6118,
+                "buy_price": 9.5639,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-APB-A(A)",
+                "net_asset": 2977033893.81,
+                "last_val": 9.5627,
+                "previous_val": 0,
+                "sell_price": 9.6106,
+                "buy_price": 9.5627,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-APB-A(A)",
+                "net_asset": 2966690689.49,
+                "last_val": 9.563,
+                "previous_val": 0,
+                "sell_price": 9.6109,
+                "buy_price": 9.563,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-APB-A(A)",
+                "net_asset": 2980633230.08,
+                "last_val": 9.5681,
+                "previous_val": 0,
+                "sell_price": 9.616,
+                "buy_price": 9.5681,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
+            }
+        ]
+    }
+}

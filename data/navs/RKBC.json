@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720245624348,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722099223400,
+    "nextUpdate": 1722185596794,
     "data": {
-        "lastNav": "2024-07-04",
+        "lastNav": "2024-07-25",
         "fund": {
             "proj_id": "M0021_2538",
             "regis_id": "011_2539",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -101567,6 +101567,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "RKBC",
+                "net_asset": 188687813.38,
+                "last_val": 26.9684,
+                "previous_val": 0,
+                "sell_price": 27.1033,
+                "buy_price": 26.8336,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-16T09:00:21.347"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "RKBC",
+                "net_asset": 188120901.92,
+                "last_val": 26.8876,
+                "previous_val": 0,
+                "sell_price": 27.0221,
+                "buy_price": 26.7532,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "RKBC",
+                "net_asset": 187778416.59,
+                "last_val": 26.8775,
+                "previous_val": 0,
+                "sell_price": 27.012,
+                "buy_price": 26.7431,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "RKBC",
+                "net_asset": 188756123.71,
+                "last_val": 27.0175,
+                "previous_val": 0,
+                "sell_price": 27.1527,
+                "buy_price": 26.8824,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "RKBC",
+                "net_asset": 188316271.15,
+                "last_val": 26.9531,
+                "previous_val": 0,
+                "sell_price": 27.088,
+                "buy_price": 26.8183,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "RKBC",
+                "net_asset": 186965279.48,
+                "last_val": 26.7595,
+                "previous_val": 0,
+                "sell_price": 26.8934,
+                "buy_price": 26.6257,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "RKBC",
+                "net_asset": 186764208.51,
+                "last_val": 26.7384,
+                "previous_val": 0,
+                "sell_price": 26.8722,
+                "buy_price": 26.6047,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-25",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "RKBC",
+                "net_asset": 186506927.17,
+                "last_val": 26.6956,
+                "previous_val": 0,
+                "sell_price": 26.8292,
+                "buy_price": 26.5621,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

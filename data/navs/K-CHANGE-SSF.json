@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720245653071,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722099319429,
+    "nextUpdate": 1722185596794,
     "data": {
-        "lastNav": "2024-07-03",
+        "lastNav": "2024-07-24",
         "fund": {
             "proj_id": "M0131_2562",
             "regis_id": "MF0216_2562",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -10772,6 +10772,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-CHANGE-SSF",
+                "net_asset": 4711751400.48,
+                "last_val": 18.1783,
+                "previous_val": 0,
+                "sell_price": 18.1784,
+                "buy_price": 18.1783,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-CHANGE-SSF",
+                "net_asset": 4695359896.65,
+                "last_val": 18.1161,
+                "previous_val": 0,
+                "sell_price": 18.1162,
+                "buy_price": 18.1161,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-CHANGE-SSF",
+                "net_asset": 4691416189.94,
+                "last_val": 18.1016,
+                "previous_val": 0,
+                "sell_price": 18.1017,
+                "buy_price": 18.1016,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-CHANGE-SSF",
+                "net_asset": 4609517315.41,
+                "last_val": 17.7884,
+                "previous_val": 0,
+                "sell_price": 17.7885,
+                "buy_price": 17.7884,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-CHANGE-SSF",
+                "net_asset": 4522181406.92,
+                "last_val": 17.4505,
+                "previous_val": 0,
+                "sell_price": 17.4506,
+                "buy_price": 17.4505,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-CHANGE-SSF",
+                "net_asset": 4539715175.93,
+                "last_val": 17.5223,
+                "previous_val": 0,
+                "sell_price": 17.5224,
+                "buy_price": 17.5223,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-CHANGE-SSF",
+                "net_asset": 4538659260.52,
+                "last_val": 17.5218,
+                "previous_val": 0,
+                "sell_price": 17.5219,
+                "buy_price": 17.5218,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

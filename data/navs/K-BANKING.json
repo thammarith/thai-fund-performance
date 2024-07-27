@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720245698404,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722099499101,
+    "nextUpdate": 1722185596794,
     "data": {
-        "lastNav": "2024-07-04",
+        "lastNav": "2024-07-25",
         "fund": {
             "proj_id": "M0373_2558",
             "regis_id": "MF0476_2558",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -31292,6 +31292,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-BANKING",
+                "net_asset": 410442222.9,
+                "last_val": 10.9741,
+                "previous_val": 0,
+                "sell_price": 10.9852,
+                "buy_price": 10.9631,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-16T09:00:21.347"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-BANKING",
+                "net_asset": 413681215.22,
+                "last_val": 11.0186,
+                "previous_val": 0,
+                "sell_price": 11.0297,
+                "buy_price": 11.0076,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-BANKING",
+                "net_asset": 414661165.15,
+                "last_val": 10.9666,
+                "previous_val": 0,
+                "sell_price": 10.9777,
+                "buy_price": 10.9556,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-BANKING",
+                "net_asset": 416134705.83,
+                "last_val": 11.0059,
+                "previous_val": 0,
+                "sell_price": 11.017,
+                "buy_price": 10.9949,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-BANKING",
+                "net_asset": 412512783.33,
+                "last_val": 10.9118,
+                "previous_val": 0,
+                "sell_price": 10.9228,
+                "buy_price": 10.9009,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-BANKING",
+                "net_asset": 412866020.61,
+                "last_val": 10.9086,
+                "previous_val": 0,
+                "sell_price": 10.9196,
+                "buy_price": 10.8977,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-BANKING",
+                "net_asset": 409504276.85,
+                "last_val": 10.8213,
+                "previous_val": 0,
+                "sell_price": 10.8322,
+                "buy_price": 10.8105,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-25",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-BANKING",
+                "net_asset": 409217723.77,
+                "last_val": 10.8101,
+                "previous_val": 0,
+                "sell_price": 10.821,
+                "buy_price": 10.7993,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

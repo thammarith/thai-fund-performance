@@ -1,0 +1,38 @@
+{
+    "lastUpdate": 1722099594598,
+    "nextUpdate": 1722185596794,
+    "data": {
+        "lastNav": "2024-06-28",
+        "fund": {
+            "proj_id": "M0481_2567",
+            "regis_id": "MF0321_2567",
+            "regis_date": "2024-06-20",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิดเค พันธบัตร 6 เดือน BE",
+            "proj_name_en": "K Government Bond 6 Months BE Fund",
+            "proj_abbr_name": "KGB6MBE",
+            "fund_status": "RG",
+            "unique_id": "C0000000021",
+            "permit_us_investment": null,
+            "invest_country_flag": "3",
+            "last_upd_date": "2024-07-27T07:02:17.43"
+        },
+        "navs": [
+            {
+                "nav_date": "2024-06-28",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KGB6MBE",
+                "net_asset": 7300015606.44,
+                "last_val": 10.0041,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-12T13:26:17.37"
+            }
+        ]
+    }
+}

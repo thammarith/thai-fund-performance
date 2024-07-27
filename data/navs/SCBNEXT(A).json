@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720245795042,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722099936273,
+    "nextUpdate": 1722185596794,
     "data": {
-        "lastNav": "2024-07-03",
+        "lastNav": "2024-07-24",
         "fund": {
             "proj_id": "M0163_2564",
             "regis_id": "MF0278_2564",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000239",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -10172,6 +10172,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBNEXT(A)",
+                "net_asset": 254002102.41,
+                "last_val": 5.9411,
+                "previous_val": 0,
+                "sell_price": 6.0006,
+                "buy_price": 5.9411,
+                "sell_swap_price": 5.9411,
+                "buy_swap_price": 6.0006,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBNEXT(A)",
+                "net_asset": 255666096.64,
+                "last_val": 6.014,
+                "previous_val": 0,
+                "sell_price": 6.0742,
+                "buy_price": 6.014,
+                "sell_swap_price": 6.014,
+                "buy_swap_price": 6.0742,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBNEXT(A)",
+                "net_asset": 211531901.37,
+                "last_val": 5.8597,
+                "previous_val": 0,
+                "sell_price": 5.9184,
+                "buy_price": 5.8597,
+                "sell_swap_price": 5.8597,
+                "buy_swap_price": 5.9184,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBNEXT(A)",
+                "net_asset": 192539131.11,
+                "last_val": 5.7809,
+                "previous_val": 0,
+                "sell_price": 5.8388,
+                "buy_price": 5.7809,
+                "sell_swap_price": 5.7809,
+                "buy_swap_price": 5.8388,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBNEXT(A)",
+                "net_asset": 195774592.5,
+                "last_val": 5.7795,
+                "previous_val": 0,
+                "sell_price": 5.8374,
+                "buy_price": 5.7795,
+                "sell_swap_price": 5.7795,
+                "buy_swap_price": 5.8374,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBNEXT(A)",
+                "net_asset": 168106227,
+                "last_val": 5.824,
+                "previous_val": 0,
+                "sell_price": 5.8823,
+                "buy_price": 5.824,
+                "sell_swap_price": 5.824,
+                "buy_swap_price": 5.8823,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBNEXT(A)",
+                "net_asset": 156448759.5,
+                "last_val": 5.565,
+                "previous_val": 0,
+                "sell_price": 5.6208,
+                "buy_price": 5.565,
+                "sell_swap_price": 5.565,
+                "buy_swap_price": 5.6208,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

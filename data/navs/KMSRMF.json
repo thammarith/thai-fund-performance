@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720245713132,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722099561480,
+    "nextUpdate": 1722185596794,
     "data": {
-        "lastNav": "2024-07-04",
+        "lastNav": "2024-07-25",
         "fund": {
             "proj_id": "M0433_2558",
             "regis_id": "MF0501_2558",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -31187,6 +31187,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KMSRMF",
+                "net_asset": 3865635926.1,
+                "last_val": 15.4382,
+                "previous_val": 0,
+                "sell_price": 15.4383,
+                "buy_price": 15.4382,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-16T09:00:21.347"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KMSRMF",
+                "net_asset": 3836936900.8,
+                "last_val": 15.3466,
+                "previous_val": 0,
+                "sell_price": 15.3467,
+                "buy_price": 15.3466,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KMSRMF",
+                "net_asset": 3802618670.81,
+                "last_val": 15.2124,
+                "previous_val": 0,
+                "sell_price": 15.2125,
+                "buy_price": 15.2124,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KMSRMF",
+                "net_asset": 3843751254.99,
+                "last_val": 15.3856,
+                "previous_val": 0,
+                "sell_price": 15.3857,
+                "buy_price": 15.3856,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KMSRMF",
+                "net_asset": 3814132245.2,
+                "last_val": 15.2714,
+                "previous_val": 0,
+                "sell_price": 15.2715,
+                "buy_price": 15.2714,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KMSRMF",
+                "net_asset": 3744762223.71,
+                "last_val": 14.9968,
+                "previous_val": 0,
+                "sell_price": 14.9969,
+                "buy_price": 14.9968,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KMSRMF",
+                "net_asset": 3767655345.14,
+                "last_val": 15.0974,
+                "previous_val": 0,
+                "sell_price": 15.0975,
+                "buy_price": 15.0974,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-25",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KMSRMF",
+                "net_asset": 3746635701.07,
+                "last_val": 15.0197,
+                "previous_val": 0,
+                "sell_price": 15.0198,
+                "buy_price": 15.0197,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

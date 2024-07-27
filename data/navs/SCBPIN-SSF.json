@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720245824585,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722100037912,
+    "nextUpdate": 1722185596794,
     "data": {
-        "lastNav": "2024-07-04",
+        "lastNav": "2024-07-25",
         "fund": {
             "proj_id": "M0279_2561",
             "regis_id": "MF0242_2561",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000239",
             "permit_us_investment": null,
             "invest_country_flag": "4",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -13487,6 +13487,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBPIN-SSF",
+                "net_asset": 84843685.68,
+                "last_val": 9.1905,
+                "previous_val": 0,
+                "sell_price": 9.1906,
+                "buy_price": 9.1905,
+                "sell_swap_price": 9.1905,
+                "buy_swap_price": 9.1906,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBPIN-SSF",
+                "net_asset": 84647183.11,
+                "last_val": 9.1679,
+                "previous_val": 0,
+                "sell_price": 9.168,
+                "buy_price": 9.1679,
+                "sell_swap_price": 9.1679,
+                "buy_swap_price": 9.168,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBPIN-SSF",
+                "net_asset": 85335905.28,
+                "last_val": 9.2419,
+                "previous_val": 0,
+                "sell_price": 9.242,
+                "buy_price": 9.2419,
+                "sell_swap_price": 9.2419,
+                "buy_swap_price": 9.242,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBPIN-SSF",
+                "net_asset": 84992405.56,
+                "last_val": 9.2044,
+                "previous_val": 0,
+                "sell_price": 9.2045,
+                "buy_price": 9.2044,
+                "sell_swap_price": 9.2044,
+                "buy_swap_price": 9.2045,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBPIN-SSF",
+                "net_asset": 84809401.48,
+                "last_val": 9.1819,
+                "previous_val": 0,
+                "sell_price": 9.182,
+                "buy_price": 9.1819,
+                "sell_swap_price": 9.1819,
+                "buy_swap_price": 9.182,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBPIN-SSF",
+                "net_asset": 84900477.97,
+                "last_val": 9.1874,
+                "previous_val": 0,
+                "sell_price": 9.1875,
+                "buy_price": 9.1874,
+                "sell_swap_price": 9.1874,
+                "buy_swap_price": 9.1875,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBPIN-SSF",
+                "net_asset": 84062911.51,
+                "last_val": 9.0952,
+                "previous_val": 0,
+                "sell_price": 9.0953,
+                "buy_price": 9.0952,
+                "sell_swap_price": 9.0952,
+                "buy_swap_price": 9.0953,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

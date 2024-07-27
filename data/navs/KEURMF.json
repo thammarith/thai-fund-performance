@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720245743158,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722099702802,
+    "nextUpdate": 1722185596794,
     "data": {
-        "lastNav": "2024-07-03",
+        "lastNav": "2024-07-24",
         "fund": {
             "proj_id": "M0679_2557",
             "regis_id": "MF0797_2557",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -10352,6 +10352,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KEURMF",
+                "net_asset": 1256249808.44,
+                "last_val": 20.7059,
+                "previous_val": 0,
+                "sell_price": 20.706,
+                "buy_price": 20.7059,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KEURMF",
+                "net_asset": 1235779662.19,
+                "last_val": 20.3605,
+                "previous_val": 0,
+                "sell_price": 20.3606,
+                "buy_price": 20.3605,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KEURMF",
+                "net_asset": 1220974388.36,
+                "last_val": 20.1278,
+                "previous_val": 0,
+                "sell_price": 20.1279,
+                "buy_price": 20.1278,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KEURMF",
+                "net_asset": 1212962768.99,
+                "last_val": 20.0301,
+                "previous_val": 0,
+                "sell_price": 20.0302,
+                "buy_price": 20.0301,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KEURMF",
+                "net_asset": 1194157659.32,
+                "last_val": 19.7299,
+                "previous_val": 0,
+                "sell_price": 19.73,
+                "buy_price": 19.7299,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KEURMF",
+                "net_asset": 1202468935.73,
+                "last_val": 19.879,
+                "previous_val": 0,
+                "sell_price": 19.8791,
+                "buy_price": 19.879,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KEURMF",
+                "net_asset": 1195525247.18,
+                "last_val": 19.7664,
+                "previous_val": 0,
+                "sell_price": 19.7665,
+                "buy_price": 19.7664,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

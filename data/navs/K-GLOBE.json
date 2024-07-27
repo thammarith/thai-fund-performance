@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720245666080,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722099365694,
+    "nextUpdate": 1722185596794,
     "data": {
-        "lastNav": "2024-07-03",
+        "lastNav": "2024-07-24",
         "fund": {
             "proj_id": "M0204_2549",
             "regis_id": "182_2549",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -10892,6 +10892,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GLOBE",
+                "net_asset": 7125362941.38,
+                "last_val": 12.6894,
+                "previous_val": 0,
+                "sell_price": 12.8798,
+                "buy_price": 12.6894,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GLOBE",
+                "net_asset": 7125212611.82,
+                "last_val": 12.6869,
+                "previous_val": 0,
+                "sell_price": 12.8773,
+                "buy_price": 12.6869,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GLOBE",
+                "net_asset": 6841939339.63,
+                "last_val": 12.3826,
+                "previous_val": 0,
+                "sell_price": 12.5684,
+                "buy_price": 12.3826,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GLOBE",
+                "net_asset": 6845276336.11,
+                "last_val": 12.3596,
+                "previous_val": 0,
+                "sell_price": 12.5451,
+                "buy_price": 12.3596,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GLOBE",
+                "net_asset": 6891468403.02,
+                "last_val": 12.3494,
+                "previous_val": 0,
+                "sell_price": 12.5347,
+                "buy_price": 12.3494,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GLOBE",
+                "net_asset": 6911803109.54,
+                "last_val": 12.4497,
+                "previous_val": 0,
+                "sell_price": 12.6365,
+                "buy_price": 12.4497,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GLOBE",
+                "net_asset": 6742114366.35,
+                "last_val": 12.1402,
+                "previous_val": 0,
+                "sell_price": 12.3224,
+                "buy_price": 12.1402,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

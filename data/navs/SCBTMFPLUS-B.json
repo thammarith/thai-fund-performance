@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720245861328,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722101126065,
+    "nextUpdate": 1722187421338,
     "data": {
-        "lastNav": "2024-07-04",
+        "lastNav": "2024-07-25",
         "fund": {
             "proj_id": "M0400_2555",
             "regis_id": "MF0557_2555",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000239",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -13487,6 +13487,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBTMFPLUS-B",
+                "net_asset": 806418163.47,
+                "last_val": 11.3958,
+                "previous_val": 0,
+                "sell_price": 11.3959,
+                "buy_price": 11.3958,
+                "sell_swap_price": 11.3958,
+                "buy_swap_price": 11.3959,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBTMFPLUS-B",
+                "net_asset": 810767440.67,
+                "last_val": 11.3964,
+                "previous_val": 0,
+                "sell_price": 11.3965,
+                "buy_price": 11.3964,
+                "sell_swap_price": 11.3964,
+                "buy_swap_price": 11.3965,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBTMFPLUS-B",
+                "net_asset": 806765511.67,
+                "last_val": 11.397,
+                "previous_val": 0,
+                "sell_price": 11.3971,
+                "buy_price": 11.397,
+                "sell_swap_price": 11.397,
+                "buy_swap_price": 11.3971,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBTMFPLUS-B",
+                "net_asset": 806709743.08,
+                "last_val": 11.3977,
+                "previous_val": 0,
+                "sell_price": 11.3978,
+                "buy_price": 11.3977,
+                "sell_swap_price": 11.3977,
+                "buy_swap_price": 11.3978,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBTMFPLUS-B",
+                "net_asset": 803716668.46,
+                "last_val": 11.4002,
+                "previous_val": 0,
+                "sell_price": 11.4003,
+                "buy_price": 11.4002,
+                "sell_swap_price": 11.4002,
+                "buy_swap_price": 11.4003,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBTMFPLUS-B",
+                "net_asset": 813288107.61,
+                "last_val": 11.401,
+                "previous_val": 0,
+                "sell_price": 11.4011,
+                "buy_price": 11.401,
+                "sell_swap_price": 11.401,
+                "buy_swap_price": 11.4011,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBTMFPLUS-B",
+                "net_asset": 815390573.11,
+                "last_val": 11.4015,
+                "previous_val": 0,
+                "sell_price": 11.4016,
+                "buy_price": 11.4015,
+                "sell_swap_price": 11.4015,
+                "buy_swap_price": 11.4016,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }
