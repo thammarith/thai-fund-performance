@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720245963327,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722101645713,
+    "nextUpdate": 1722187421338,
     "data": {
-        "lastNav": "2024-07-04",
+        "lastNav": "2024-07-25",
         "fund": {
             "proj_id": "M0214_2542",
             "regis_id": "009_2543",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000569",
             "permit_us_investment": null,
             "invest_country_flag": "4",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -32072,6 +32072,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-DI",
+                "net_asset": 260261151.92,
+                "last_val": 10.7978,
+                "previous_val": 0,
+                "sell_price": 10.7979,
+                "buy_price": 10.7978,
+                "sell_swap_price": 10.7978,
+                "buy_swap_price": 10.7979,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-16T09:00:21.347"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-DI",
+                "net_asset": 254464757.25,
+                "last_val": 10.7997,
+                "previous_val": 0,
+                "sell_price": 10.7998,
+                "buy_price": 10.7997,
+                "sell_swap_price": 10.7997,
+                "buy_swap_price": 10.7998,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-DI",
+                "net_asset": 254478927.55,
+                "last_val": 10.8001,
+                "previous_val": 0,
+                "sell_price": 10.8002,
+                "buy_price": 10.8001,
+                "sell_swap_price": 10.8001,
+                "buy_swap_price": 10.8002,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-DI",
+                "net_asset": 254476222.4,
+                "last_val": 10.8,
+                "previous_val": 0,
+                "sell_price": 10.8001,
+                "buy_price": 10.8,
+                "sell_swap_price": 10.8,
+                "buy_swap_price": 10.8001,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-DI",
+                "net_asset": 254460534.69,
+                "last_val": 10.7993,
+                "previous_val": 0,
+                "sell_price": 10.7994,
+                "buy_price": 10.7993,
+                "sell_swap_price": 10.7993,
+                "buy_swap_price": 10.7994,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-DI",
+                "net_asset": 254501595.15,
+                "last_val": 10.8011,
+                "previous_val": 0,
+                "sell_price": 10.8012,
+                "buy_price": 10.8011,
+                "sell_swap_price": 10.8011,
+                "buy_swap_price": 10.8012,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-DI",
+                "net_asset": 254513179.84,
+                "last_val": 10.8015,
+                "previous_val": 0,
+                "sell_price": 10.8016,
+                "buy_price": 10.8015,
+                "sell_swap_price": 10.8015,
+                "buy_swap_price": 10.8016,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-25",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-DI",
+                "net_asset": 254552192.21,
+                "last_val": 10.8032,
+                "previous_val": 0,
+                "sell_price": 10.8033,
+                "buy_price": 10.8032,
+                "sell_swap_price": 10.8032,
+                "buy_swap_price": 10.8033,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

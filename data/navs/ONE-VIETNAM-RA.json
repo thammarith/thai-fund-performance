@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720245946649,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722101571884,
+    "nextUpdate": 1722187421338,
     "data": {
-        "lastNav": "2024-07-03",
+        "lastNav": "2024-07-24",
         "fund": {
             "proj_id": "M0038_2561",
             "regis_id": "MF0063_2561",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000569",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -32,6 +32,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-VIETNAM-RA",
+                "net_asset": 521939485.97,
+                "last_val": 8.6048,
+                "previous_val": 0,
+                "sell_price": 8.734,
+                "buy_price": 8.6048,
+                "sell_swap_price": 8.6048,
+                "buy_swap_price": 8.734,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-VIETNAM-RA",
+                "net_asset": 522750895.78,
+                "last_val": 8.6194,
+                "previous_val": 0,
+                "sell_price": 8.7488,
+                "buy_price": 8.6194,
+                "sell_swap_price": 8.6194,
+                "buy_swap_price": 8.7488,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-VIETNAM-RA",
+                "net_asset": 517238657.84,
+                "last_val": 8.533,
+                "previous_val": 0,
+                "sell_price": 8.6611,
+                "buy_price": 8.533,
+                "sell_swap_price": 8.533,
+                "buy_swap_price": 8.6611,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-VIETNAM-RA",
+                "net_asset": 519856088.15,
+                "last_val": 8.5759,
+                "previous_val": 0,
+                "sell_price": 8.7046,
+                "buy_price": 8.5759,
+                "sell_swap_price": 8.5759,
+                "buy_swap_price": 8.7046,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-VIETNAM-RA",
+                "net_asset": 517887504.72,
+                "last_val": 8.5426,
+                "previous_val": 0,
+                "sell_price": 8.6708,
+                "buy_price": 8.5426,
+                "sell_swap_price": 8.5426,
+                "buy_swap_price": 8.6708,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-VIETNAM-RA",
+                "net_asset": 507588394.85,
+                "last_val": 8.3628,
+                "previous_val": 0,
+                "sell_price": 8.4883,
+                "buy_price": 8.3628,
+                "sell_swap_price": 8.3628,
+                "buy_swap_price": 8.4883,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-VIETNAM-RA",
+                "net_asset": 506725971.39,
+                "last_val": 8.35,
+                "previous_val": 0,
+                "sell_price": 8.4754,
+                "buy_price": 8.35,
+                "sell_swap_price": 8.35,
+                "buy_swap_price": 8.4754,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

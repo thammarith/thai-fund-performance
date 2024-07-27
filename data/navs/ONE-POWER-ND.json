@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720245941268,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722101551517,
+    "nextUpdate": 1722187421338,
     "data": {
-        "lastNav": "2024-07-04",
+        "lastNav": "2024-07-25",
         "fund": {
             "proj_id": "M0016_2560",
             "regis_id": "MF0076_2560",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000569",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -47,6 +47,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-POWER-ND",
+                "net_asset": 8599590.73,
+                "last_val": 8.2536,
+                "previous_val": 0,
+                "sell_price": 8.3362,
+                "buy_price": 8.2536,
+                "sell_swap_price": 8.2536,
+                "buy_swap_price": 8.3362,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-16T09:00:21.347"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-POWER-ND",
+                "net_asset": 8486425.67,
+                "last_val": 8.145,
+                "previous_val": 0,
+                "sell_price": 8.2266,
+                "buy_price": 8.145,
+                "sell_swap_price": 8.145,
+                "buy_swap_price": 8.2266,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-POWER-ND",
+                "net_asset": 8559844.13,
+                "last_val": 8.2154,
+                "previous_val": 0,
+                "sell_price": 8.2977,
+                "buy_price": 8.2154,
+                "sell_swap_price": 8.2154,
+                "buy_swap_price": 8.2977,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-POWER-ND",
+                "net_asset": 8606898.44,
+                "last_val": 8.2606,
+                "previous_val": 0,
+                "sell_price": 8.3433,
+                "buy_price": 8.2606,
+                "sell_swap_price": 8.2606,
+                "buy_swap_price": 8.3433,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-POWER-ND",
+                "net_asset": 8550187.75,
+                "last_val": 8.2062,
+                "previous_val": 0,
+                "sell_price": 8.2884,
+                "buy_price": 8.2062,
+                "sell_swap_price": 8.2062,
+                "buy_swap_price": 8.2884,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-POWER-ND",
+                "net_asset": 8448620.62,
+                "last_val": 8.1087,
+                "previous_val": 0,
+                "sell_price": 8.1899,
+                "buy_price": 8.1087,
+                "sell_swap_price": 8.1087,
+                "buy_swap_price": 8.1899,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-POWER-ND",
+                "net_asset": 8395304.34,
+                "last_val": 8.0582,
+                "previous_val": 0,
+                "sell_price": 8.1389,
+                "buy_price": 8.0582,
+                "sell_swap_price": 8.0582,
+                "buy_swap_price": 8.1389,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-25",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-POWER-ND",
+                "net_asset": 8324459.86,
+                "last_val": 7.9902,
+                "previous_val": 0,
+                "sell_price": 8.0702,
+                "buy_price": 7.9902,
+                "sell_swap_price": 7.9902,
+                "buy_swap_price": 8.0702,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

@@ -1,0 +1,113 @@
+{
+    "lastUpdate": 1722101592854,
+    "nextUpdate": 1722187421338,
+    "data": {
+        "lastNav": "2024-07-23",
+        "fund": {
+            "proj_id": "M0078_2561",
+            "regis_id": "MF0074_2561",
+            "regis_date": "2018-03-27",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิด วรรณ ยูโรเปี้ยน อิควิตี้",
+            "proj_name_en": "ONE EUROPEAN EQUITY FUND",
+            "proj_abbr_name": "ONE-EUROEQ",
+            "fund_status": "RG",
+            "unique_id": "C0000000569",
+            "permit_us_investment": null,
+            "invest_country_flag": "1",
+            "last_upd_date": "2024-07-27T07:02:17.43"
+        },
+        "navs": [
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-EUROEQ",
+                "net_asset": 986525578.88,
+                "last_val": 16.6511,
+                "previous_val": 0,
+                "sell_price": 16.901,
+                "buy_price": 16.6511,
+                "sell_swap_price": 16.6511,
+                "buy_swap_price": 16.901,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-EUROEQ",
+                "net_asset": 972272848.88,
+                "last_val": 16.6358,
+                "previous_val": 0,
+                "sell_price": 16.8854,
+                "buy_price": 16.6358,
+                "sell_swap_price": 16.6358,
+                "buy_swap_price": 16.8854,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-EUROEQ",
+                "net_asset": 961168925.32,
+                "last_val": 16.4549,
+                "previous_val": 0,
+                "sell_price": 16.7018,
+                "buy_price": 16.4549,
+                "sell_swap_price": 16.4549,
+                "buy_swap_price": 16.7018,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-EUROEQ",
+                "net_asset": 876899057.45,
+                "last_val": 16.362,
+                "previous_val": 0,
+                "sell_price": 16.6075,
+                "buy_price": 16.362,
+                "sell_swap_price": 16.362,
+                "buy_swap_price": 16.6075,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-EUROEQ",
+                "net_asset": 858745580.06,
+                "last_val": 16.3165,
+                "previous_val": 0,
+                "sell_price": 16.5613,
+                "buy_price": 16.3165,
+                "sell_swap_price": 16.3165,
+                "buy_swap_price": 16.5613,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-EUROEQ",
+                "net_asset": 783159478.17,
+                "last_val": 16.5617,
+                "previous_val": 0,
+                "sell_price": 16.8102,
+                "buy_price": 16.5617,
+                "sell_swap_price": 16.5617,
+                "buy_swap_price": 16.8102,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
+            }
+        ]
+    }
+}

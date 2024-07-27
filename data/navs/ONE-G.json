@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720245942407,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722101554080,
+    "nextUpdate": 1722187421338,
     "data": {
-        "lastNav": "2024-07-04",
+        "lastNav": "2024-07-25",
         "fund": {
             "proj_id": "M0017_2535",
             "regis_id": "005_2535",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000569",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -47,6 +47,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-G",
+                "net_asset": 61996753.54,
+                "last_val": 42.6173,
+                "previous_val": 0,
+                "sell_price": 43.0436,
+                "buy_price": 42.6173,
+                "sell_swap_price": 42.6173,
+                "buy_swap_price": 43.0436,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-16T09:00:21.347"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-G",
+                "net_asset": 61751443.65,
+                "last_val": 42.4487,
+                "previous_val": 0,
+                "sell_price": 42.8733,
+                "buy_price": 42.4487,
+                "sell_swap_price": 42.4487,
+                "buy_swap_price": 42.8733,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-G",
+                "net_asset": 61736299.66,
+                "last_val": 42.4383,
+                "previous_val": 0,
+                "sell_price": 42.8628,
+                "buy_price": 42.4383,
+                "sell_swap_price": 42.4383,
+                "buy_swap_price": 42.8628,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-G",
+                "net_asset": 62207431.16,
+                "last_val": 42.7622,
+                "previous_val": 0,
+                "sell_price": 43.1899,
+                "buy_price": 42.7622,
+                "sell_swap_price": 42.7622,
+                "buy_swap_price": 43.1899,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-G",
+                "net_asset": 61859682.83,
+                "last_val": 42.5231,
+                "previous_val": 0,
+                "sell_price": 42.9484,
+                "buy_price": 42.5231,
+                "sell_swap_price": 42.5231,
+                "buy_swap_price": 42.9484,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-G",
+                "net_asset": 61326266.16,
+                "last_val": 42.1564,
+                "previous_val": 0,
+                "sell_price": 42.5781,
+                "buy_price": 42.1564,
+                "sell_swap_price": 42.1564,
+                "buy_swap_price": 42.5781,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-G",
+                "net_asset": 61122857.31,
+                "last_val": 42.0166,
+                "previous_val": 0,
+                "sell_price": 42.4369,
+                "buy_price": 42.0166,
+                "sell_swap_price": 42.0166,
+                "buy_swap_price": 42.4369,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-25",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-G",
+                "net_asset": 60898445.07,
+                "last_val": 41.8623,
+                "previous_val": 0,
+                "sell_price": 42.281,
+                "buy_price": 41.8623,
+                "sell_swap_price": 41.8623,
+                "buy_swap_price": 42.281,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720245948691,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722101581378,
+    "nextUpdate": 1722187421338,
     "data": {
-        "lastNav": "2024-07-04",
+        "lastNav": "2024-07-25",
         "fund": {
             "proj_id": "M0068_2544",
             "regis_id": "045_2544",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000569",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -47,6 +47,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "M-RMF-P",
+                "net_asset": 11125376.41,
+                "last_val": 14.1369,
+                "previous_val": 0,
+                "sell_price": 14.137,
+                "buy_price": 14.1369,
+                "sell_swap_price": 14.1369,
+                "buy_swap_price": 14.137,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-16T09:00:21.347"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "M-RMF-P",
+                "net_asset": 11125936.44,
+                "last_val": 14.1376,
+                "previous_val": 0,
+                "sell_price": 14.1377,
+                "buy_price": 14.1376,
+                "sell_swap_price": 14.1376,
+                "buy_swap_price": 14.1377,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "M-RMF-P",
+                "net_asset": 11126497.42,
+                "last_val": 14.1383,
+                "previous_val": 0,
+                "sell_price": 14.1384,
+                "buy_price": 14.1383,
+                "sell_swap_price": 14.1383,
+                "buy_swap_price": 14.1384,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "M-RMF-P",
+                "net_asset": 11127123.66,
+                "last_val": 14.1391,
+                "previous_val": 0,
+                "sell_price": 14.1392,
+                "buy_price": 14.1391,
+                "sell_swap_price": 14.1391,
+                "buy_swap_price": 14.1392,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "M-RMF-P",
+                "net_asset": 11127482.67,
+                "last_val": 14.1395,
+                "previous_val": 0,
+                "sell_price": 14.1396,
+                "buy_price": 14.1395,
+                "sell_swap_price": 14.1395,
+                "buy_swap_price": 14.1396,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "M-RMF-P",
+                "net_asset": 11130030.1,
+                "last_val": 14.1428,
+                "previous_val": 0,
+                "sell_price": 14.1429,
+                "buy_price": 14.1428,
+                "sell_swap_price": 14.1428,
+                "buy_swap_price": 14.1429,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "M-RMF-P",
+                "net_asset": 11130394.38,
+                "last_val": 14.1432,
+                "previous_val": 0,
+                "sell_price": 14.1433,
+                "buy_price": 14.1432,
+                "sell_swap_price": 14.1432,
+                "buy_swap_price": 14.1433,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-25",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "M-RMF-P",
+                "net_asset": 11131041.25,
+                "last_val": 14.1441,
+                "previous_val": 0,
+                "sell_price": 14.1442,
+                "buy_price": 14.1441,
+                "sell_swap_price": 14.1441,
+                "buy_swap_price": 14.1442,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

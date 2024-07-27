@@ -1,0 +1,113 @@
+{
+    "lastUpdate": 1722101600903,
+    "nextUpdate": 1722187421338,
+    "data": {
+        "lastNav": "2024-07-23",
+        "fund": {
+            "proj_id": "M0090_2564",
+            "regis_id": "MF0114_2564",
+            "regis_date": "2021-03-30",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิด วรรณ โกลบอล ท็อป 8M14",
+            "proj_name_en": "ONE GLOBAL TOP 8M14 FUND",
+            "proj_abbr_name": "ONE-GLOBALTOP8M14",
+            "fund_status": "RG",
+            "unique_id": "C0000000569",
+            "permit_us_investment": null,
+            "invest_country_flag": "1",
+            "last_upd_date": "2024-07-27T07:02:17.43"
+        },
+        "navs": [
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-GLOBALTOP8M14",
+                "net_asset": 191923975.48,
+                "last_val": 8.0724,
+                "previous_val": 0,
+                "sell_price": 8.1589,
+                "buy_price": 8.0724,
+                "sell_swap_price": 8.0724,
+                "buy_swap_price": 8.1589,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-GLOBALTOP8M14",
+                "net_asset": 192121607.19,
+                "last_val": 8.0808,
+                "previous_val": 0,
+                "sell_price": 8.1674,
+                "buy_price": 8.0808,
+                "sell_swap_price": 8.0808,
+                "buy_swap_price": 8.1674,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-GLOBALTOP8M14",
+                "net_asset": 190984501.72,
+                "last_val": 8.0329,
+                "previous_val": 0,
+                "sell_price": 8.119,
+                "buy_price": 8.0329,
+                "sell_swap_price": 8.0329,
+                "buy_swap_price": 8.119,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-GLOBALTOP8M14",
+                "net_asset": 188468513.27,
+                "last_val": 7.9271,
+                "previous_val": 0,
+                "sell_price": 8.012,
+                "buy_price": 7.9271,
+                "sell_swap_price": 7.9271,
+                "buy_swap_price": 8.012,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-GLOBALTOP8M14",
+                "net_asset": 186669180.32,
+                "last_val": 7.8514,
+                "previous_val": 0,
+                "sell_price": 7.9355,
+                "buy_price": 7.8514,
+                "sell_swap_price": 7.8514,
+                "buy_swap_price": 7.9355,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-GLOBALTOP8M14",
+                "net_asset": 188440109.87,
+                "last_val": 7.9259,
+                "previous_val": 0,
+                "sell_price": 8.0108,
+                "buy_price": 7.9259,
+                "sell_swap_price": 7.9259,
+                "buy_swap_price": 8.0108,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
+            }
+        ]
+    }
+}

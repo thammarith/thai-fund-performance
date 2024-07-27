@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720245951796,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722101595597,
+    "nextUpdate": 1722187421338,
     "data": {
-        "lastNav": "2024-07-03",
+        "lastNav": "2024-07-24",
         "fund": {
             "proj_id": "M0088_2562",
             "regis_id": "MF0149_2562",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000569",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -32,6 +32,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-GECOM",
+                "net_asset": 1083876334.84,
+                "last_val": 10.7686,
+                "previous_val": 0,
+                "sell_price": 10.9127,
+                "buy_price": 10.7686,
+                "sell_swap_price": 10.7686,
+                "buy_swap_price": 10.9127,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-GECOM",
+                "net_asset": 1108974546.63,
+                "last_val": 11.0271,
+                "previous_val": 0,
+                "sell_price": 11.1747,
+                "buy_price": 11.0271,
+                "sell_swap_price": 11.0271,
+                "buy_swap_price": 11.1747,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-GECOM",
+                "net_asset": 1077850453.73,
+                "last_val": 10.7191,
+                "previous_val": 0,
+                "sell_price": 10.8626,
+                "buy_price": 10.7191,
+                "sell_swap_price": 10.7191,
+                "buy_swap_price": 10.8626,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-GECOM",
+                "net_asset": 1056982699.17,
+                "last_val": 10.4986,
+                "previous_val": 0,
+                "sell_price": 10.6391,
+                "buy_price": 10.4986,
+                "sell_swap_price": 10.4986,
+                "buy_swap_price": 10.6391,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-GECOM",
+                "net_asset": 1054794819.13,
+                "last_val": 10.4639,
+                "previous_val": 0,
+                "sell_price": 10.604,
+                "buy_price": 10.4639,
+                "sell_swap_price": 10.4639,
+                "buy_swap_price": 10.604,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-GECOM",
+                "net_asset": 1064579569.93,
+                "last_val": 10.5639,
+                "previous_val": 0,
+                "sell_price": 10.7053,
+                "buy_price": 10.5639,
+                "sell_swap_price": 10.5639,
+                "buy_swap_price": 10.7053,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-GECOM",
+                "net_asset": 1034973289.46,
+                "last_val": 10.2756,
+                "previous_val": 0,
+                "sell_price": 10.4131,
+                "buy_price": 10.2756,
+                "sell_swap_price": 10.2756,
+                "buy_swap_price": 10.4131,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

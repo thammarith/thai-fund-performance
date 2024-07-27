@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720245958935,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722101625987,
+    "nextUpdate": 1722187421338,
     "data": {
-        "lastNav": "2024-07-04",
+        "lastNav": "2024-07-25",
         "fund": {
             "proj_id": "M0140_2556",
             "regis_id": "MF0164_2556",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000569",
             "permit_us_investment": null,
             "invest_country_flag": "4",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -4862,6 +4862,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONEPROP-RD",
+                "net_asset": 353637854.3,
+                "last_val": 6.7004,
+                "previous_val": 0,
+                "sell_price": 6.734,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 6.734,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-16T09:00:21.347"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONEPROP-RD",
+                "net_asset": 356018004.13,
+                "last_val": 6.7455,
+                "previous_val": 0,
+                "sell_price": 6.7793,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 6.7793,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONEPROP-RD",
+                "net_asset": 355091128.72,
+                "last_val": 6.7277,
+                "previous_val": 0,
+                "sell_price": 6.7614,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 6.7614,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONEPROP-RD",
+                "net_asset": 359876337.32,
+                "last_val": 6.8184,
+                "previous_val": 0,
+                "sell_price": 6.8526,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 6.8526,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONEPROP-RD",
+                "net_asset": 359085409.44,
+                "last_val": 6.8034,
+                "previous_val": 0,
+                "sell_price": 6.8375,
+                "buy_price": 6.7864,
+                "sell_swap_price": 6.7864,
+                "buy_swap_price": 6.8375,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONEPROP-RD",
+                "net_asset": 357060198.14,
+                "last_val": 6.765,
+                "previous_val": 0,
+                "sell_price": 6.7989,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 6.7989,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONEPROP-RD",
+                "net_asset": 359263081.84,
+                "last_val": 6.8068,
+                "previous_val": 0,
+                "sell_price": 6.8409,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 6.8409,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-25",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONEPROP-RD",
+                "net_asset": 355962996.57,
+                "last_val": 6.7443,
+                "previous_val": 0,
+                "sell_price": 6.7781,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 6.7781,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

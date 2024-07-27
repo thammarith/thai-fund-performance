@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720245943672,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722101559108,
+    "nextUpdate": 1722187421338,
     "data": {
-        "lastNav": "2024-07-04",
+        "lastNav": "2024-07-25",
         "fund": {
             "proj_id": "M0022_2562",
             "regis_id": "MF0061_2562",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000569",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -47,6 +47,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-SETHD",
+                "net_asset": 66568265.02,
+                "last_val": 8.7516,
+                "previous_val": 0,
+                "sell_price": 8.8453,
+                "buy_price": 8.7516,
+                "sell_swap_price": 8.7516,
+                "buy_swap_price": 8.8453,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-16T09:00:21.347"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-SETHD",
+                "net_asset": 66117025.44,
+                "last_val": 8.6923,
+                "previous_val": 0,
+                "sell_price": 8.7854,
+                "buy_price": 8.6923,
+                "sell_swap_price": 8.6923,
+                "buy_swap_price": 8.7854,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-SETHD",
+                "net_asset": 66250409.15,
+                "last_val": 8.7097,
+                "previous_val": 0,
+                "sell_price": 8.803,
+                "buy_price": 8.7097,
+                "sell_swap_price": 8.7097,
+                "buy_swap_price": 8.803,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-SETHD",
+                "net_asset": 61951191.24,
+                "last_val": 8.7694,
+                "previous_val": 0,
+                "sell_price": 8.8633,
+                "buy_price": 8.7694,
+                "sell_swap_price": 8.7694,
+                "buy_swap_price": 8.8633,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-SETHD",
+                "net_asset": 61014826.04,
+                "last_val": 8.6698,
+                "previous_val": 0,
+                "sell_price": 8.7627,
+                "buy_price": 8.6698,
+                "sell_swap_price": 8.6698,
+                "buy_swap_price": 8.7627,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-SETHD",
+                "net_asset": 60710430.74,
+                "last_val": 8.6268,
+                "previous_val": 0,
+                "sell_price": 8.7192,
+                "buy_price": 8.6268,
+                "sell_swap_price": 8.6268,
+                "buy_swap_price": 8.7192,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-SETHD",
+                "net_asset": 60223913.86,
+                "last_val": 8.5579,
+                "previous_val": 0,
+                "sell_price": 8.6496,
+                "buy_price": 8.5579,
+                "sell_swap_price": 8.5579,
+                "buy_swap_price": 8.6496,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-25",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-SETHD",
+                "net_asset": 60176696.65,
+                "last_val": 8.5512,
+                "previous_val": 0,
+                "sell_price": 8.6428,
+                "buy_price": 8.5512,
+                "sell_swap_price": 8.5512,
+                "buy_swap_price": 8.6428,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

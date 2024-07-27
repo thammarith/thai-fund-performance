@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720245957051,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722101617896,
+    "nextUpdate": 1722187421338,
     "data": {
-        "lastNav": "2024-07-04",
+        "lastNav": "2024-07-25",
         "fund": {
             "proj_id": "M0136_2563",
             "regis_id": "MF0105_2563",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000569",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -13532,6 +13532,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-TCMSSF-SSF",
+                "net_asset": 16249242.38,
+                "last_val": 9.1726,
+                "previous_val": 0,
+                "sell_price": 9.1727,
+                "buy_price": 9.1726,
+                "sell_swap_price": 9.1726,
+                "buy_swap_price": 9.1727,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-16T09:00:21.347"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-TCMSSF-SSF",
+                "net_asset": 16199092.51,
+                "last_val": 9.1414,
+                "previous_val": 0,
+                "sell_price": 9.1415,
+                "buy_price": 9.1414,
+                "sell_swap_price": 9.1414,
+                "buy_swap_price": 9.1415,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-TCMSSF-SSF",
+                "net_asset": 16175236.22,
+                "last_val": 9.1402,
+                "previous_val": 0,
+                "sell_price": 9.1403,
+                "buy_price": 9.1402,
+                "sell_swap_price": 9.1402,
+                "buy_swap_price": 9.1403,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-TCMSSF-SSF",
+                "net_asset": 16171459.41,
+                "last_val": 9.2042,
+                "previous_val": 0,
+                "sell_price": 9.2043,
+                "buy_price": 9.2042,
+                "sell_swap_price": 9.2042,
+                "buy_swap_price": 9.2043,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-TCMSSF-SSF",
+                "net_asset": 16123954.72,
+                "last_val": 9.1567,
+                "previous_val": 0,
+                "sell_price": 9.1568,
+                "buy_price": 9.1567,
+                "sell_swap_price": 9.1567,
+                "buy_swap_price": 9.1568,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-TCMSSF-SSF",
+                "net_asset": 16044548.7,
+                "last_val": 9.0805,
+                "previous_val": 0,
+                "sell_price": 9.0806,
+                "buy_price": 9.0805,
+                "sell_swap_price": 9.0805,
+                "buy_swap_price": 9.0806,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-TCMSSF-SSF",
+                "net_asset": 15998914.61,
+                "last_val": 9.0541,
+                "previous_val": 0,
+                "sell_price": 9.0542,
+                "buy_price": 9.0541,
+                "sell_swap_price": 9.0541,
+                "buy_swap_price": 9.0542,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-25",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-TCMSSF-SSF",
+                "net_asset": 15944813.81,
+                "last_val": 9.0224,
+                "previous_val": 0,
+                "sell_price": 9.0225,
+                "buy_price": 9.0224,
+                "sell_swap_price": 9.0224,
+                "buy_swap_price": 9.0225,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720245947455,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722101575154,
+    "nextUpdate": 1722187421338,
     "data": {
-        "lastNav": "2024-07-04",
+        "lastNav": "2024-07-25",
         "fund": {
             "proj_id": "M0041_2536",
             "regis_id": "001_2537",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000569",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -47,6 +47,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-FAS",
+                "net_asset": 68520723.28,
+                "last_val": 5.9354,
+                "previous_val": 0,
+                "sell_price": 5.9355,
+                "buy_price": 5.9354,
+                "sell_swap_price": 5.9354,
+                "buy_swap_price": 5.9355,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-16T09:00:21.347"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-FAS",
+                "net_asset": 68192216.58,
+                "last_val": 5.9121,
+                "previous_val": 0,
+                "sell_price": 5.9122,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 5.9122,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-FAS",
+                "net_asset": 68176735.77,
+                "last_val": 5.9107,
+                "previous_val": 0,
+                "sell_price": 5.9108,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 5.9108,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-FAS",
+                "net_asset": 68703291.03,
+                "last_val": 5.9564,
+                "previous_val": 0,
+                "sell_price": 5.9565,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 5.9565,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-FAS",
+                "net_asset": 68333300.83,
+                "last_val": 5.9243,
+                "previous_val": 0,
+                "sell_price": 5.9244,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 5.9244,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-FAS",
+                "net_asset": 67756153.9,
+                "last_val": 5.8743,
+                "previous_val": 0,
+                "sell_price": 5.8744,
+                "buy_price": 5.8743,
+                "sell_swap_price": 5.8743,
+                "buy_swap_price": 5.8744,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-FAS",
+                "net_asset": 67484327.43,
+                "last_val": 5.8558,
+                "previous_val": 0,
+                "sell_price": 5.8559,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 5.8559,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-25",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-FAS",
+                "net_asset": 67237576.67,
+                "last_val": 5.8344,
+                "previous_val": 0,
+                "sell_price": 5.8345,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 5.8345,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

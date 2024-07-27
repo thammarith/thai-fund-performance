@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720245950540,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722101589906,
+    "nextUpdate": 1722187421338,
     "data": {
-        "lastNav": "2024-07-03",
+        "lastNav": "2024-07-24",
         "fund": {
             "proj_id": "M0076_2559",
             "regis_id": "MF0115_2559",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000569",
             "permit_us_investment": null,
             "invest_country_flag": "4",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -32,6 +32,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-HOSPITAL",
+                "net_asset": 28975054.68,
+                "last_val": 10.9978,
+                "previous_val": 0,
+                "sell_price": 11.1079,
+                "buy_price": 10.9978,
+                "sell_swap_price": 10.9978,
+                "buy_swap_price": 11.1079,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-HOSPITAL",
+                "net_asset": 28934018.59,
+                "last_val": 10.9822,
+                "previous_val": 0,
+                "sell_price": 11.0921,
+                "buy_price": 10.9822,
+                "sell_swap_price": 10.9822,
+                "buy_swap_price": 11.0921,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-HOSPITAL",
+                "net_asset": 28840504.92,
+                "last_val": 10.9454,
+                "previous_val": 0,
+                "sell_price": 11.055,
+                "buy_price": 10.9454,
+                "sell_swap_price": 10.9454,
+                "buy_swap_price": 11.055,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-HOSPITAL",
+                "net_asset": 28984576.72,
+                "last_val": 11.0001,
+                "previous_val": 0,
+                "sell_price": 11.1102,
+                "buy_price": 11.0001,
+                "sell_swap_price": 11.0001,
+                "buy_swap_price": 11.1102,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-HOSPITAL",
+                "net_asset": 29003582.73,
+                "last_val": 11.007,
+                "previous_val": 0,
+                "sell_price": 11.1172,
+                "buy_price": 11.007,
+                "sell_swap_price": 11.007,
+                "buy_swap_price": 11.1172,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-HOSPITAL",
+                "net_asset": 28813126.7,
+                "last_val": 10.9716,
+                "previous_val": 0,
+                "sell_price": 11.0814,
+                "buy_price": 10.9716,
+                "sell_swap_price": 10.9716,
+                "buy_swap_price": 11.0814,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-HOSPITAL",
+                "net_asset": 28702026.61,
+                "last_val": 10.9293,
+                "previous_val": 0,
+                "sell_price": 11.0387,
+                "buy_price": 10.9293,
+                "sell_swap_price": 10.9293,
+                "buy_swap_price": 11.0387,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

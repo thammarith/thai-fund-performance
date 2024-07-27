@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720245955113,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722101609401,
+    "nextUpdate": 1722187421338,
     "data": {
-        "lastNav": "2024-07-04",
+        "lastNav": "2024-07-25",
         "fund": {
             "proj_id": "M0114_2542",
             "regis_id": "027_2542",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000569",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -47,6 +47,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-FLEX",
+                "net_asset": 26981377.96,
+                "last_val": 13.4576,
+                "previous_val": 0,
+                "sell_price": 13.4577,
+                "buy_price": 13.4576,
+                "sell_swap_price": 13.4576,
+                "buy_swap_price": 13.4577,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-16T09:00:21.347"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-FLEX",
+                "net_asset": 26886270.19,
+                "last_val": 13.4102,
+                "previous_val": 0,
+                "sell_price": 13.4103,
+                "buy_price": 13.4102,
+                "sell_swap_price": 13.4102,
+                "buy_swap_price": 13.4103,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-FLEX",
+                "net_asset": 26879781.46,
+                "last_val": 13.405,
+                "previous_val": 0,
+                "sell_price": 13.4051,
+                "buy_price": 13.405,
+                "sell_swap_price": 13.405,
+                "buy_swap_price": 13.4051,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-FLEX",
+                "net_asset": 27069707.58,
+                "last_val": 13.4997,
+                "previous_val": 0,
+                "sell_price": 13.4998,
+                "buy_price": 13.4997,
+                "sell_swap_price": 13.4997,
+                "buy_swap_price": 13.4998,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-FLEX",
+                "net_asset": 26930322.27,
+                "last_val": 13.4302,
+                "previous_val": 0,
+                "sell_price": 13.4303,
+                "buy_price": 13.4302,
+                "sell_swap_price": 13.4302,
+                "buy_swap_price": 13.4303,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-FLEX",
+                "net_asset": 26704017.42,
+                "last_val": 13.3173,
+                "previous_val": 0,
+                "sell_price": 13.3174,
+                "buy_price": 13.3173,
+                "sell_swap_price": 13.3173,
+                "buy_swap_price": 13.3174,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-FLEX",
+                "net_asset": 26620767.94,
+                "last_val": 13.2758,
+                "previous_val": 0,
+                "sell_price": 13.2759,
+                "buy_price": 13.2758,
+                "sell_swap_price": 13.2758,
+                "buy_swap_price": 13.2759,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-25",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-FLEX",
+                "net_asset": 26521920.54,
+                "last_val": 13.2265,
+                "previous_val": 0,
+                "sell_price": 13.2266,
+                "buy_price": 13.2265,
+                "sell_swap_price": 13.2265,
+                "buy_swap_price": 13.2266,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

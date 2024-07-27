@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720245944928,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722101564288,
+    "nextUpdate": 1722187421338,
     "data": {
-        "lastNav": "2024-07-04",
+        "lastNav": "2024-07-25",
         "fund": {
             "proj_id": "M0025_2536",
             "regis_id": "004_2537",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000569",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -47,6 +47,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-EQ",
+                "net_asset": 52435604.12,
+                "last_val": 11.2287,
+                "previous_val": 0,
+                "sell_price": 11.3489,
+                "buy_price": 11.2287,
+                "sell_swap_price": 11.2287,
+                "buy_swap_price": 11.3489,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-16T09:00:21.347"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-EQ",
+                "net_asset": 52241145.05,
+                "last_val": 11.1871,
+                "previous_val": 0,
+                "sell_price": 11.3069,
+                "buy_price": 11.1871,
+                "sell_swap_price": 11.1871,
+                "buy_swap_price": 11.3069,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-EQ",
+                "net_asset": 52241058.44,
+                "last_val": 11.1866,
+                "previous_val": 0,
+                "sell_price": 11.3064,
+                "buy_price": 11.1866,
+                "sell_swap_price": 11.1866,
+                "buy_swap_price": 11.3064,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-EQ",
+                "net_asset": 52641081.4,
+                "last_val": 11.2723,
+                "previous_val": 0,
+                "sell_price": 11.393,
+                "buy_price": 11.2723,
+                "sell_swap_price": 11.2723,
+                "buy_swap_price": 11.393,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-EQ",
+                "net_asset": 52348595.05,
+                "last_val": 11.2097,
+                "previous_val": 0,
+                "sell_price": 11.3297,
+                "buy_price": 11.2097,
+                "sell_swap_price": 11.2097,
+                "buy_swap_price": 11.3297,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-EQ",
+                "net_asset": 51523039.16,
+                "last_val": 11.1106,
+                "previous_val": 0,
+                "sell_price": 11.2296,
+                "buy_price": 11.1106,
+                "sell_swap_price": 11.1106,
+                "buy_swap_price": 11.2296,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-EQ",
+                "net_asset": 51358497.42,
+                "last_val": 11.0751,
+                "previous_val": 0,
+                "sell_price": 11.1937,
+                "buy_price": 11.0751,
+                "sell_swap_price": 11.0751,
+                "buy_swap_price": 11.1937,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-25",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-EQ",
+                "net_asset": 51166771.34,
+                "last_val": 11.0337,
+                "previous_val": 0,
+                "sell_price": 11.1519,
+                "buy_price": 11.0337,
+                "sell_swap_price": 11.0337,
+                "buy_swap_price": 11.1519,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }
