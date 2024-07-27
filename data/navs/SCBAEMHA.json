@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720245866275,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722101149583,
+    "nextUpdate": 1722187421338,
     "data": {
-        "lastNav": "2024-07-03",
+        "lastNav": "2024-07-24",
         "fund": {
             "proj_id": "M0416_2560",
             "regis_id": "MF0359_2560",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000239",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -11417,6 +11417,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBAEMHA",
+                "net_asset": 1443016520.17,
+                "last_val": 8.4682,
+                "previous_val": 0,
+                "sell_price": 8.5589,
+                "buy_price": 8.4682,
+                "sell_swap_price": 8.4682,
+                "buy_swap_price": 8.5589,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBAEMHA",
+                "net_asset": 1434497000.09,
+                "last_val": 8.4361,
+                "previous_val": 0,
+                "sell_price": 8.5265,
+                "buy_price": 8.4361,
+                "sell_swap_price": 8.4361,
+                "buy_swap_price": 8.5265,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBAEMHA",
+                "net_asset": 1419489051.52,
+                "last_val": 8.3455,
+                "previous_val": 0,
+                "sell_price": 8.4349,
+                "buy_price": 8.3455,
+                "sell_swap_price": 8.3455,
+                "buy_swap_price": 8.4349,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBAEMHA",
+                "net_asset": 1411645203.61,
+                "last_val": 8.2859,
+                "previous_val": 0,
+                "sell_price": 8.3747,
+                "buy_price": 8.2859,
+                "sell_swap_price": 8.2859,
+                "buy_swap_price": 8.3747,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBAEMHA",
+                "net_asset": 1384070000.05,
+                "last_val": 8.1283,
+                "previous_val": 0,
+                "sell_price": 8.2154,
+                "buy_price": 8.1283,
+                "sell_swap_price": 8.1283,
+                "buy_swap_price": 8.2154,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBAEMHA",
+                "net_asset": 1382588755.73,
+                "last_val": 8.1208,
+                "previous_val": 0,
+                "sell_price": 8.2078,
+                "buy_price": 8.1208,
+                "sell_swap_price": 8.1208,
+                "buy_swap_price": 8.2078,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBAEMHA",
+                "net_asset": 1376421098.39,
+                "last_val": 8.077,
+                "previous_val": 0,
+                "sell_price": 8.1635,
+                "buy_price": 8.077,
+                "sell_swap_price": 8.077,
+                "buy_swap_price": 8.1635,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

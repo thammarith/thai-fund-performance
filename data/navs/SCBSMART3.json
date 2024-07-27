@@ -1,0 +1,113 @@
+{
+    "lastUpdate": 1722101183855,
+    "nextUpdate": 1722187421338,
+    "data": {
+        "lastNav": "2024-07-23",
+        "fund": {
+            "proj_id": "M0448_2555",
+            "regis_id": "MF0619_2555",
+            "regis_date": "2012-09-26",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิดไทยพาณิชย์สมาร์ทแพลน 3",
+            "proj_name_en": "SCB SMART PLAN 3 OPEN END FUND",
+            "proj_abbr_name": "SCBSMART3FUND",
+            "fund_status": "RG",
+            "unique_id": "C0000000239",
+            "permit_us_investment": null,
+            "invest_country_flag": "4",
+            "last_upd_date": "2024-07-27T07:02:17.43"
+        },
+        "navs": [
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSMART3",
+                "net_asset": 82068126.83,
+                "last_val": 9.6364,
+                "previous_val": 0,
+                "sell_price": 9.7396,
+                "buy_price": 9.6364,
+                "sell_swap_price": 9.6364,
+                "buy_swap_price": 9.7396,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSMART3",
+                "net_asset": 82239755.93,
+                "last_val": 9.6565,
+                "previous_val": 0,
+                "sell_price": 9.7599,
+                "buy_price": 9.6565,
+                "sell_swap_price": 9.6565,
+                "buy_swap_price": 9.7599,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSMART3",
+                "net_asset": 81927640.69,
+                "last_val": 9.6199,
+                "previous_val": 0,
+                "sell_price": 9.7229,
+                "buy_price": 9.6199,
+                "sell_swap_price": 9.6199,
+                "buy_swap_price": 9.7229,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSMART3",
+                "net_asset": 81578646.72,
+                "last_val": 9.6294,
+                "previous_val": 0,
+                "sell_price": 9.7325,
+                "buy_price": 9.6294,
+                "sell_swap_price": 9.6294,
+                "buy_swap_price": 9.7325,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSMART3",
+                "net_asset": 81381231.48,
+                "last_val": 9.6061,
+                "previous_val": 0,
+                "sell_price": 9.709,
+                "buy_price": 9.6061,
+                "sell_swap_price": 9.6061,
+                "buy_swap_price": 9.709,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSMART3",
+                "net_asset": 81260298,
+                "last_val": 9.5982,
+                "previous_val": 0,
+                "sell_price": 9.701,
+                "buy_price": 9.5982,
+                "sell_swap_price": 9.5982,
+                "buy_swap_price": 9.701,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
+            }
+        ]
+    }
+}

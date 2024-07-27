@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720245902508,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722101403248,
+    "nextUpdate": 1722187421338,
     "data": {
-        "lastNav": "2024-07-04",
+        "lastNav": "2024-07-25",
         "fund": {
             "proj_id": "M0593_2552",
             "regis_id": "MF0342_2554",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000239",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -10352,6 +10352,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBENERGYA",
+                "net_asset": 13280003.33,
+                "last_val": 8.8537,
+                "previous_val": 0,
+                "sell_price": 8.9052,
+                "buy_price": 8.8466,
+                "sell_swap_price": 8.8466,
+                "buy_swap_price": 8.9052,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBENERGYA",
+                "net_asset": 13422792.14,
+                "last_val": 8.9445,
+                "previous_val": 0,
+                "sell_price": 8.9965,
+                "buy_price": 8.9373,
+                "sell_swap_price": 8.9373,
+                "buy_swap_price": 8.9965,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBENERGYA",
+                "net_asset": 13486542.66,
+                "last_val": 8.9835,
+                "previous_val": 0,
+                "sell_price": 9.0357,
+                "buy_price": 8.9763,
+                "sell_swap_price": 8.9763,
+                "buy_swap_price": 9.0357,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBENERGYA",
+                "net_asset": 13348352.86,
+                "last_val": 8.9211,
+                "previous_val": 0,
+                "sell_price": 8.9729,
+                "buy_price": 8.914,
+                "sell_swap_price": 8.914,
+                "buy_swap_price": 8.9729,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBENERGYA",
+                "net_asset": 13217462.29,
+                "last_val": 8.8336,
+                "previous_val": 0,
+                "sell_price": 8.885,
+                "buy_price": 8.8265,
+                "sell_swap_price": 8.8265,
+                "buy_swap_price": 8.885,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBENERGYA",
+                "net_asset": 13137137.32,
+                "last_val": 8.7627,
+                "previous_val": 0,
+                "sell_price": 8.8136,
+                "buy_price": 8.7557,
+                "sell_swap_price": 8.7557,
+                "buy_swap_price": 8.8136,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBENERGYA",
+                "net_asset": 13064018.34,
+                "last_val": 8.7121,
+                "previous_val": 0,
+                "sell_price": 8.7628,
+                "buy_price": 8.7051,
+                "sell_swap_price": 8.7051,
+                "buy_swap_price": 8.7628,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

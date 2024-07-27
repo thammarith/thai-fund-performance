@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720245880520,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722101239072,
+    "nextUpdate": 1722187421338,
     "data": {
-        "lastNav": "2024-07-04",
+        "lastNav": "2024-07-25",
         "fund": {
             "proj_id": "M0468_2562",
             "regis_id": "MF0387_2562",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000239",
             "permit_us_investment": null,
             "invest_country_flag": "4",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -3572,6 +3572,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "PVDFP",
+                "net_asset": 38511616857.82,
+                "last_val": 10.6985,
+                "previous_val": 0,
+                "sell_price": 10.6986,
+                "buy_price": 10.6985,
+                "sell_swap_price": 10.6985,
+                "buy_swap_price": 10.6986,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "PVDFP",
+                "net_asset": 38430905812.95,
+                "last_val": 10.6989,
+                "previous_val": 0,
+                "sell_price": 10.699,
+                "buy_price": 10.6989,
+                "sell_swap_price": 10.6989,
+                "buy_swap_price": 10.699,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "PVDFP",
+                "net_asset": 38433429606.02,
+                "last_val": 10.6996,
+                "previous_val": 0,
+                "sell_price": 10.6997,
+                "buy_price": 10.6996,
+                "sell_swap_price": 10.6996,
+                "buy_swap_price": 10.6997,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "PVDFP",
+                "net_asset": 38459557318.19,
+                "last_val": 10.6974,
+                "previous_val": 0,
+                "sell_price": 10.6975,
+                "buy_price": 10.6974,
+                "sell_swap_price": 10.6974,
+                "buy_swap_price": 10.6975,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "PVDFP",
+                "net_asset": 38457285761.65,
+                "last_val": 10.6968,
+                "previous_val": 0,
+                "sell_price": 10.6969,
+                "buy_price": 10.6968,
+                "sell_swap_price": 10.6968,
+                "buy_swap_price": 10.6969,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "PVDFP",
+                "net_asset": 38476720350.17,
+                "last_val": 10.7022,
+                "previous_val": 0,
+                "sell_price": 10.7023,
+                "buy_price": 10.7022,
+                "sell_swap_price": 10.7022,
+                "buy_swap_price": 10.7023,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "PVDFP",
+                "net_asset": 38440218933.01,
+                "last_val": 10.7034,
+                "previous_val": 0,
+                "sell_price": 10.7035,
+                "buy_price": 10.7034,
+                "sell_swap_price": 10.7034,
+                "buy_swap_price": 10.7035,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720245888208,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722101317319,
+    "nextUpdate": 1722187421338,
     "data": {
-        "lastNav": "2024-07-03",
+        "lastNav": "2024-07-24",
         "fund": {
             "proj_id": "M0522_2558",
             "regis_id": "MF0563_2558",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000239",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -11402,6 +11402,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBRMEU",
+                "net_asset": 305365065.14,
+                "last_val": 16.022,
+                "previous_val": 0,
+                "sell_price": 16.0221,
+                "buy_price": 16.022,
+                "sell_swap_price": 16.022,
+                "buy_swap_price": 16.0221,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBRMEU",
+                "net_asset": 304730116.84,
+                "last_val": 15.9799,
+                "previous_val": 0,
+                "sell_price": 15.98,
+                "buy_price": 15.9799,
+                "sell_swap_price": 15.9799,
+                "buy_swap_price": 15.98,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBRMEU",
+                "net_asset": 303682519.94,
+                "last_val": 15.9039,
+                "previous_val": 0,
+                "sell_price": 15.904,
+                "buy_price": 15.9039,
+                "sell_swap_price": 15.9039,
+                "buy_swap_price": 15.904,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBRMEU",
+                "net_asset": 302055354.21,
+                "last_val": 15.8538,
+                "previous_val": 0,
+                "sell_price": 15.8539,
+                "buy_price": 15.8538,
+                "sell_swap_price": 15.8538,
+                "buy_swap_price": 15.8539,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBRMEU",
+                "net_asset": 299544762.7,
+                "last_val": 15.7428,
+                "previous_val": 0,
+                "sell_price": 15.7429,
+                "buy_price": 15.7428,
+                "sell_swap_price": 15.7428,
+                "buy_swap_price": 15.7429,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBRMEU",
+                "net_asset": 302321491.28,
+                "last_val": 15.9166,
+                "previous_val": 0,
+                "sell_price": 15.9167,
+                "buy_price": 15.9166,
+                "sell_swap_price": 15.9166,
+                "buy_swap_price": 15.9167,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBRMEU",
+                "net_asset": 300149596.74,
+                "last_val": 15.805,
+                "previous_val": 0,
+                "sell_price": 15.8051,
+                "buy_price": 15.805,
+                "sell_swap_price": 15.805,
+                "buy_swap_price": 15.8051,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

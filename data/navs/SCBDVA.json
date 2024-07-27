@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720245876040,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722101203234,
+    "nextUpdate": 1722187421338,
     "data": {
-        "lastNav": "2024-07-04",
+        "lastNav": "2024-07-25",
         "fund": {
             "proj_id": "M0452_2546",
             "regis_id": "046_2546",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000239",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -10352,6 +10352,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBDVA",
+                "net_asset": 414446730.54,
+                "last_val": 8.5349,
+                "previous_val": 0,
+                "sell_price": 8.5807,
+                "buy_price": 8.5349,
+                "sell_swap_price": 8.5349,
+                "buy_swap_price": 8.5807,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBDVA",
+                "net_asset": 412640051.6,
+                "last_val": 8.5572,
+                "previous_val": 0,
+                "sell_price": 8.6031,
+                "buy_price": 8.5572,
+                "sell_swap_price": 8.5572,
+                "buy_swap_price": 8.6031,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBDVA",
+                "net_asset": 414730761.64,
+                "last_val": 8.6075,
+                "previous_val": 0,
+                "sell_price": 8.6537,
+                "buy_price": 8.6075,
+                "sell_swap_price": 8.6075,
+                "buy_swap_price": 8.6537,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBDVA",
+                "net_asset": 411834305.97,
+                "last_val": 8.5551,
+                "previous_val": 0,
+                "sell_price": 8.601,
+                "buy_price": 8.5551,
+                "sell_swap_price": 8.5551,
+                "buy_swap_price": 8.601,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBDVA",
+                "net_asset": 407848899.37,
+                "last_val": 8.4727,
+                "previous_val": 0,
+                "sell_price": 8.5181,
+                "buy_price": 8.4727,
+                "sell_swap_price": 8.4727,
+                "buy_swap_price": 8.5181,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBDVA",
+                "net_asset": 406015794.91,
+                "last_val": 8.4361,
+                "previous_val": 0,
+                "sell_price": 8.4813,
+                "buy_price": 8.4361,
+                "sell_swap_price": 8.4361,
+                "buy_swap_price": 8.4813,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBDVA",
+                "net_asset": 405153380.77,
+                "last_val": 8.4173,
+                "previous_val": 0,
+                "sell_price": 8.4624,
+                "buy_price": 8.4173,
+                "sell_swap_price": 8.4173,
+                "buy_swap_price": 8.4624,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

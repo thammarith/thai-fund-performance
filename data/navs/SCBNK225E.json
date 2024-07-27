@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720245870246,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722101165762,
+    "nextUpdate": 1722187421338,
     "data": {
-        "lastNav": "2024-07-04",
+        "lastNav": "2024-07-25",
         "fund": {
             "proj_id": "M0429_2556",
             "regis_id": "MF0631_2556",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000239",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -13487,6 +13487,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBNK225E",
+                "net_asset": 59843025.17,
+                "last_val": 31.748,
+                "previous_val": 0,
+                "sell_price": 31.7957,
+                "buy_price": 31.6664,
+                "sell_swap_price": 31.6664,
+                "buy_swap_price": 31.7957,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBNK225E",
+                "net_asset": 58901577.32,
+                "last_val": 31.6293,
+                "previous_val": 0,
+                "sell_price": 31.6768,
+                "buy_price": 31.5481,
+                "sell_swap_price": 31.5481,
+                "buy_swap_price": 31.6768,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBNK225E",
+                "net_asset": 57544737.11,
+                "last_val": 30.9354,
+                "previous_val": 0,
+                "sell_price": 30.9819,
+                "buy_price": 30.8559,
+                "sell_swap_price": 30.8559,
+                "buy_swap_price": 30.9819,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBNK225E",
+                "net_asset": 57105308.02,
+                "last_val": 30.8675,
+                "previous_val": 0,
+                "sell_price": 30.9139,
+                "buy_price": 30.7882,
+                "sell_swap_price": 30.7882,
+                "buy_swap_price": 30.9139,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBNK225E",
+                "net_asset": 56496230.11,
+                "last_val": 30.5564,
+                "previous_val": 0,
+                "sell_price": 30.6023,
+                "buy_price": 30.4779,
+                "sell_swap_price": 30.4779,
+                "buy_swap_price": 30.6023,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBNK225E",
+                "net_asset": 56603078.36,
+                "last_val": 30.2283,
+                "previous_val": 0,
+                "sell_price": 30.2737,
+                "buy_price": 30.1507,
+                "sell_swap_price": 30.1507,
+                "buy_swap_price": 30.2737,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBNK225E",
+                "net_asset": 55207988.96,
+                "last_val": 29.3855,
+                "previous_val": 0,
+                "sell_price": 29.4297,
+                "buy_price": 29.31,
+                "sell_swap_price": 29.31,
+                "buy_swap_price": 29.4297,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

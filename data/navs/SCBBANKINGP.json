@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720245901806,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722101400463,
+    "nextUpdate": 1722187421338,
     "data": {
-        "lastNav": "2024-07-04",
+        "lastNav": "2024-07-25",
         "fund": {
             "proj_id": "M0591_2552",
             "regis_id": "MF0344_2554",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000239",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -13487,6 +13487,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBBANKINGP",
+                "net_asset": 0,
+                "last_val": 8.2647,
+                "previous_val": 0,
+                "sell_price": 8.2714,
+                "buy_price": 8.2581,
+                "sell_swap_price": 8.2581,
+                "buy_swap_price": 8.2714,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBBANKINGP",
+                "net_asset": 0,
+                "last_val": 8.2256,
+                "previous_val": 0,
+                "sell_price": 8.2323,
+                "buy_price": 8.219,
+                "sell_swap_price": 8.219,
+                "buy_swap_price": 8.2323,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBBANKINGP",
+                "net_asset": 0,
+                "last_val": 8.2551,
+                "previous_val": 0,
+                "sell_price": 8.2618,
+                "buy_price": 8.2485,
+                "sell_swap_price": 8.2485,
+                "buy_swap_price": 8.2618,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBBANKINGP",
+                "net_asset": 0,
+                "last_val": 8.1847,
+                "previous_val": 0,
+                "sell_price": 8.1913,
+                "buy_price": 8.1782,
+                "sell_swap_price": 8.1782,
+                "buy_swap_price": 8.1913,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBBANKINGP",
+                "net_asset": 0,
+                "last_val": 8.1824,
+                "previous_val": 0,
+                "sell_price": 8.189,
+                "buy_price": 8.1759,
+                "sell_swap_price": 8.1759,
+                "buy_swap_price": 8.189,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBBANKINGP",
+                "net_asset": 0,
+                "last_val": 8.1154,
+                "previous_val": 0,
+                "sell_price": 8.122,
+                "buy_price": 8.1089,
+                "sell_swap_price": 8.1089,
+                "buy_swap_price": 8.122,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBBANKINGP",
+                "net_asset": 0,
+                "last_val": 8.107,
+                "previous_val": 0,
+                "sell_price": 8.1136,
+                "buy_price": 8.1005,
+                "sell_swap_price": 8.1005,
+                "buy_swap_price": 8.1136,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

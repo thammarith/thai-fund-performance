@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720245890700,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722101330036,
+    "nextUpdate": 1722187421338,
     "data": {
-        "lastNav": "2024-07-04",
+        "lastNav": "2024-07-25",
         "fund": {
             "proj_id": "M0529_2562",
             "regis_id": "MF0562_2562",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000239",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -5162,6 +5162,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBLARGEP",
+                "net_asset": 0,
+                "last_val": 9.4962,
+                "previous_val": 0,
+                "sell_price": 9.5014,
+                "buy_price": 9.4911,
+                "sell_swap_price": 9.4911,
+                "buy_swap_price": 9.5014,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBLARGEP",
+                "net_asset": 0,
+                "last_val": 9.4976,
+                "previous_val": 0,
+                "sell_price": 9.5028,
+                "buy_price": 9.4925,
+                "sell_swap_price": 9.4925,
+                "buy_swap_price": 9.5028,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBLARGEP",
+                "net_asset": 0,
+                "last_val": 9.5626,
+                "previous_val": 0,
+                "sell_price": 9.5678,
+                "buy_price": 9.5575,
+                "sell_swap_price": 9.5575,
+                "buy_swap_price": 9.5678,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBLARGEP",
+                "net_asset": 0,
+                "last_val": 9.5055,
+                "previous_val": 0,
+                "sell_price": 9.5107,
+                "buy_price": 9.5004,
+                "sell_swap_price": 9.5004,
+                "buy_swap_price": 9.5107,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBLARGEP",
+                "net_asset": 0,
+                "last_val": 9.4455,
+                "previous_val": 0,
+                "sell_price": 9.4507,
+                "buy_price": 9.4404,
+                "sell_swap_price": 9.4404,
+                "buy_swap_price": 9.4507,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBLARGEP",
+                "net_asset": 0,
+                "last_val": 9.3966,
+                "previous_val": 0,
+                "sell_price": 9.4017,
+                "buy_price": 9.3916,
+                "sell_swap_price": 9.3916,
+                "buy_swap_price": 9.4017,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBLARGEP",
+                "net_asset": 0,
+                "last_val": 9.3791,
+                "previous_val": 0,
+                "sell_price": 9.3842,
+                "buy_price": 9.3741,
+                "sell_swap_price": 9.3741,
+                "buy_swap_price": 9.3842,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

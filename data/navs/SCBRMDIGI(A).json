@@ -1,0 +1,113 @@
+{
+    "lastUpdate": 1722101205470,
+    "nextUpdate": 1722187421338,
+    "data": {
+        "lastNav": "2024-07-23",
+        "fund": {
+            "proj_id": "M0457_2565",
+            "regis_id": "MF0310_2565",
+            "regis_date": "2022-09-30",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิดไทยพาณิชย์ โกลบอลดิจิตอล เพื่อการเลี้ยงชีพ",
+            "proj_name_en": "SCB Global Digital RMF",
+            "proj_abbr_name": "SCBRMDIGI",
+            "fund_status": "RG",
+            "unique_id": "C0000000239",
+            "permit_us_investment": null,
+            "invest_country_flag": "1",
+            "last_upd_date": "2024-07-27T07:02:17.43"
+        },
+        "navs": [
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBRMDIGI(A)",
+                "net_asset": 121962429.91,
+                "last_val": 16.2469,
+                "previous_val": 0,
+                "sell_price": 16.247,
+                "buy_price": 16.2469,
+                "sell_swap_price": 16.2469,
+                "buy_swap_price": 16.247,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBRMDIGI(A)",
+                "net_asset": 122465494.33,
+                "last_val": 16.3139,
+                "previous_val": 0,
+                "sell_price": 16.314,
+                "buy_price": 16.3139,
+                "sell_swap_price": 16.3139,
+                "buy_swap_price": 16.314,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBRMDIGI(A)",
+                "net_asset": 117761662.77,
+                "last_val": 15.7544,
+                "previous_val": 0,
+                "sell_price": 15.7545,
+                "buy_price": 15.7544,
+                "sell_swap_price": 15.7544,
+                "buy_swap_price": 15.7545,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBRMDIGI(A)",
+                "net_asset": 116345909.9,
+                "last_val": 15.5254,
+                "previous_val": 0,
+                "sell_price": 15.5255,
+                "buy_price": 15.5254,
+                "sell_swap_price": 15.5254,
+                "buy_swap_price": 15.5255,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBRMDIGI(A)",
+                "net_asset": 115971915.89,
+                "last_val": 15.4597,
+                "previous_val": 0,
+                "sell_price": 15.4598,
+                "buy_price": 15.4597,
+                "sell_swap_price": 15.4597,
+                "buy_swap_price": 15.4598,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBRMDIGI(A)",
+                "net_asset": 116822873.03,
+                "last_val": 15.709,
+                "previous_val": 0,
+                "sell_price": 15.7091,
+                "buy_price": 15.709,
+                "sell_swap_price": 15.709,
+                "buy_swap_price": 15.7091,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
+            }
+        ]
+    }
+}

@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720245894705,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722101362031,
+    "nextUpdate": 1722187421338,
     "data": {
-        "lastNav": "2024-07-04",
+        "lastNav": "2024-07-25",
         "fund": {
             "proj_id": "M0539_2564",
             "regis_id": "MF0064_2565",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000239",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -8282,6 +8282,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBVIET(A)",
+                "net_asset": 2136993772.22,
+                "last_val": 7.584,
+                "previous_val": 0,
+                "sell_price": 7.6979,
+                "buy_price": 7.584,
+                "sell_swap_price": 7.584,
+                "buy_swap_price": 7.6979,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBVIET(A)",
+                "net_asset": 2116632968.72,
+                "last_val": 7.5073,
+                "previous_val": 0,
+                "sell_price": 7.62,
+                "buy_price": 7.5073,
+                "sell_swap_price": 7.5073,
+                "buy_swap_price": 7.62,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBVIET(A)",
+                "net_asset": 2130961479.59,
+                "last_val": 7.5756,
+                "previous_val": 0,
+                "sell_price": 7.6893,
+                "buy_price": 7.5756,
+                "sell_swap_price": 7.5756,
+                "buy_swap_price": 7.6893,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBVIET(A)",
+                "net_asset": 2135263595.8,
+                "last_val": 7.5862,
+                "previous_val": 0,
+                "sell_price": 7.7001,
+                "buy_price": 7.5862,
+                "sell_swap_price": 7.5862,
+                "buy_swap_price": 7.7001,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBVIET(A)",
+                "net_asset": 2100661825.92,
+                "last_val": 7.4312,
+                "previous_val": 0,
+                "sell_price": 7.5428,
+                "buy_price": 7.4312,
+                "sell_swap_price": 7.4312,
+                "buy_swap_price": 7.5428,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBVIET(A)",
+                "net_asset": 2083375372.27,
+                "last_val": 7.4406,
+                "previous_val": 0,
+                "sell_price": 7.5523,
+                "buy_price": 7.4406,
+                "sell_swap_price": 7.4406,
+                "buy_swap_price": 7.5523,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBVIET(A)",
+                "net_asset": 2072796861.74,
+                "last_val": 7.4072,
+                "previous_val": 0,
+                "sell_price": 7.5184,
+                "buy_price": 7.4072,
+                "sell_swap_price": 7.4072,
+                "buy_swap_price": 7.5184,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

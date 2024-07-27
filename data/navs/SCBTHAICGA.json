@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720245877308,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722101224227,
+    "nextUpdate": 1722187421338,
     "data": {
-        "lastNav": "2024-07-04",
+        "lastNav": "2024-07-25",
         "fund": {
             "proj_id": "M0462_2560",
             "regis_id": "MF0392_2560",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000239",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -13487,6 +13487,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBTHAICGA",
+                "net_asset": 330704832.73,
+                "last_val": 10.4951,
+                "previous_val": 0,
+                "sell_price": 10.6075,
+                "buy_price": 10.4951,
+                "sell_swap_price": 10.4951,
+                "buy_swap_price": 10.6075,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBTHAICGA",
+                "net_asset": 329769893.4,
+                "last_val": 10.4917,
+                "previous_val": 0,
+                "sell_price": 10.6041,
+                "buy_price": 10.4917,
+                "sell_swap_price": 10.4917,
+                "buy_swap_price": 10.6041,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBTHAICGA",
+                "net_asset": 329595630.22,
+                "last_val": 10.5217,
+                "previous_val": 0,
+                "sell_price": 10.6344,
+                "buy_price": 10.5217,
+                "sell_swap_price": 10.5217,
+                "buy_swap_price": 10.6344,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBTHAICGA",
+                "net_asset": 328399056.53,
+                "last_val": 10.4836,
+                "previous_val": 0,
+                "sell_price": 10.5959,
+                "buy_price": 10.4836,
+                "sell_swap_price": 10.4836,
+                "buy_swap_price": 10.5959,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBTHAICGA",
+                "net_asset": 324179769.37,
+                "last_val": 10.3489,
+                "previous_val": 0,
+                "sell_price": 10.4597,
+                "buy_price": 10.3489,
+                "sell_swap_price": 10.3489,
+                "buy_swap_price": 10.4597,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBTHAICGA",
+                "net_asset": 322379019.58,
+                "last_val": 10.3293,
+                "previous_val": 0,
+                "sell_price": 10.4399,
+                "buy_price": 10.3293,
+                "sell_swap_price": 10.3293,
+                "buy_swap_price": 10.4399,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBTHAICGA",
+                "net_asset": 327194858.35,
+                "last_val": 10.3118,
+                "previous_val": 0,
+                "sell_price": 10.4222,
+                "buy_price": 10.3118,
+                "sell_swap_price": 10.3118,
+                "buy_swap_price": 10.4222,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }
