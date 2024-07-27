@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720246008344,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722101862581,
+    "nextUpdate": 1722188075571,
     "data": {
-        "lastNav": "2024-07-03",
+        "lastNav": "2024-07-24",
         "fund": {
             "proj_id": "M0241_2564",
             "regis_id": "MF0228_2564",
@@ -15,7 +15,7 @@
             "unique_id": "C0000005025",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -10202,6 +10202,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SEMICON-H",
+                "net_asset": 1116735605.54,
+                "last_val": 16.0337,
+                "previous_val": 0,
+                "sell_price": 16.0338,
+                "buy_price": 16.0337,
+                "sell_swap_price": 16.0337,
+                "buy_swap_price": 16.0338,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SEMICON-H",
+                "net_asset": 1117475002.55,
+                "last_val": 16.1279,
+                "previous_val": 0,
+                "sell_price": 16.128,
+                "buy_price": 16.1279,
+                "sell_swap_price": 16.1279,
+                "buy_swap_price": 16.128,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SEMICON-H",
+                "net_asset": 1040712533.43,
+                "last_val": 14.9974,
+                "previous_val": 0,
+                "sell_price": 14.9975,
+                "buy_price": 14.9974,
+                "sell_swap_price": 14.9974,
+                "buy_swap_price": 14.9975,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SEMICON-H",
+                "net_asset": 1040462499.8,
+                "last_val": 15.0374,
+                "previous_val": 0,
+                "sell_price": 15.0375,
+                "buy_price": 15.0374,
+                "sell_swap_price": 15.0374,
+                "buy_swap_price": 15.0375,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SEMICON-H",
+                "net_asset": 958996591.92,
+                "last_val": 14.5875,
+                "previous_val": 0,
+                "sell_price": 14.5876,
+                "buy_price": 14.5875,
+                "sell_swap_price": 14.5875,
+                "buy_swap_price": 14.5876,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SEMICON-H",
+                "net_asset": 972982410.37,
+                "last_val": 14.9638,
+                "previous_val": 0,
+                "sell_price": 14.9639,
+                "buy_price": 14.9638,
+                "sell_swap_price": 14.9638,
+                "buy_swap_price": 14.9639,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SEMICON-H",
+                "net_asset": 795888924.74,
+                "last_val": 14.1767,
+                "previous_val": 0,
+                "sell_price": 14.1768,
+                "buy_price": 14.1767,
+                "sell_swap_price": 14.1767,
+                "buy_swap_price": 14.1768,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

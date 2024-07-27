@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720245967759,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722101681611,
+    "nextUpdate": 1722188075571,
     "data": {
-        "lastNav": "2024-07-04",
+        "lastNav": "2024-07-25",
         "fund": {
             "proj_id": "M0280_2548",
             "regis_id": "073_2548",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000569",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -4862,6 +4862,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "1VAL-RD",
+                "net_asset": 256291857.39,
+                "last_val": 11.5825,
+                "previous_val": 0,
+                "sell_price": 11.6136,
+                "buy_price": 11.5535,
+                "sell_swap_price": 11.5535,
+                "buy_swap_price": 11.6136,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-16T09:00:21.347"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "1VAL-RD",
+                "net_asset": 255468644.52,
+                "last_val": 11.5453,
+                "previous_val": 0,
+                "sell_price": 11.5763,
+                "buy_price": 11.5164,
+                "sell_swap_price": 11.5164,
+                "buy_swap_price": 11.5763,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "1VAL-RD",
+                "net_asset": 255897311.88,
+                "last_val": 11.5609,
+                "previous_val": 0,
+                "sell_price": 11.5919,
+                "buy_price": 11.532,
+                "sell_swap_price": 11.532,
+                "buy_swap_price": 11.5919,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "1VAL-RD",
+                "net_asset": 257449004.41,
+                "last_val": 11.6323,
+                "previous_val": 0,
+                "sell_price": 11.6635,
+                "buy_price": 11.6032,
+                "sell_swap_price": 11.6032,
+                "buy_swap_price": 11.6635,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "1VAL-RD",
+                "net_asset": 256131958.67,
+                "last_val": 11.5728,
+                "previous_val": 0,
+                "sell_price": 11.6039,
+                "buy_price": 11.5439,
+                "sell_swap_price": 11.5439,
+                "buy_swap_price": 11.6039,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "1VAL-RD",
+                "net_asset": 253864989.33,
+                "last_val": 11.4704,
+                "previous_val": 0,
+                "sell_price": 11.5012,
+                "buy_price": 11.4417,
+                "sell_swap_price": 11.4417,
+                "buy_swap_price": 11.5012,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "1VAL-RD",
+                "net_asset": 253020941.61,
+                "last_val": 11.4323,
+                "previous_val": 0,
+                "sell_price": 11.463,
+                "buy_price": 11.4037,
+                "sell_swap_price": 11.4037,
+                "buy_swap_price": 11.463,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-25",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "1VAL-RD",
+                "net_asset": 252056322.64,
+                "last_val": 11.3887,
+                "previous_val": 0,
+                "sell_price": 11.4193,
+                "buy_price": 11.3602,
+                "sell_swap_price": 11.3602,
+                "buy_swap_price": 11.4193,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

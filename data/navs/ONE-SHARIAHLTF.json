@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720245981030,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722101742497,
+    "nextUpdate": 1722188075571,
     "data": {
-        "lastNav": "2024-07-04",
+        "lastNav": "2024-07-25",
         "fund": {
             "proj_id": "M0518_2559",
             "regis_id": "MF0507_2559",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000569",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -26912,6 +26912,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-SHARIAHLTF",
+                "net_asset": 9403867.64,
+                "last_val": 6.4988,
+                "previous_val": 0,
+                "sell_price": 6.4989,
+                "buy_price": 6.4988,
+                "sell_swap_price": 6.4988,
+                "buy_swap_price": 6.4989,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-16T09:00:21.347"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-SHARIAHLTF",
+                "net_asset": 9348338.87,
+                "last_val": 6.4604,
+                "previous_val": 0,
+                "sell_price": 6.4605,
+                "buy_price": 6.4604,
+                "sell_swap_price": 6.4604,
+                "buy_swap_price": 6.4605,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-SHARIAHLTF",
+                "net_asset": 9350890.96,
+                "last_val": 6.4622,
+                "previous_val": 0,
+                "sell_price": 6.4623,
+                "buy_price": 6.4622,
+                "sell_swap_price": 6.4622,
+                "buy_swap_price": 6.4623,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-SHARIAHLTF",
+                "net_asset": 9435028.94,
+                "last_val": 6.5203,
+                "previous_val": 0,
+                "sell_price": 6.5204,
+                "buy_price": 6.5203,
+                "sell_swap_price": 6.5203,
+                "buy_swap_price": 6.5204,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-SHARIAHLTF",
+                "net_asset": 9379016.55,
+                "last_val": 6.4816,
+                "previous_val": 0,
+                "sell_price": 6.4817,
+                "buy_price": 6.4816,
+                "sell_swap_price": 6.4816,
+                "buy_swap_price": 6.4817,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-SHARIAHLTF",
+                "net_asset": 9286924.93,
+                "last_val": 6.418,
+                "previous_val": 0,
+                "sell_price": 6.4181,
+                "buy_price": 6.418,
+                "sell_swap_price": 6.418,
+                "buy_swap_price": 6.4181,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-SHARIAHLTF",
+                "net_asset": 9250642.84,
+                "last_val": 6.3929,
+                "previous_val": 0,
+                "sell_price": 6.393,
+                "buy_price": 6.3929,
+                "sell_swap_price": 6.3929,
+                "buy_swap_price": 6.393,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-25",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-SHARIAHLTF",
+                "net_asset": 9215858.84,
+                "last_val": 6.3689,
+                "previous_val": 0,
+                "sell_price": 6.369,
+                "buy_price": 6.3689,
+                "sell_swap_price": 6.3689,
+                "buy_swap_price": 6.369,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

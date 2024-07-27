@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720246000901,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722101830099,
+    "nextUpdate": 1722188075571,
     "data": {
-        "lastNav": "2024-07-04",
+        "lastNav": "2024-07-25",
         "fund": {
             "proj_id": "M0078_2559",
             "regis_id": "MF0124_2559",
@@ -15,7 +15,7 @@
             "unique_id": "C0000005025",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -9572,6 +9572,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SMART MV-SSF",
+                "net_asset": 8990839.05,
+                "last_val": 10.397,
+                "previous_val": 0,
+                "sell_price": 10.3971,
+                "buy_price": 10.397,
+                "sell_swap_price": 10.397,
+                "buy_swap_price": 10.3971,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-16T09:00:21.347"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SMART MV-SSF",
+                "net_asset": 8927649.17,
+                "last_val": 10.324,
+                "previous_val": 0,
+                "sell_price": 10.3241,
+                "buy_price": 10.324,
+                "sell_swap_price": 10.324,
+                "buy_swap_price": 10.3241,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SMART MV-SSF",
+                "net_asset": 8919010.94,
+                "last_val": 10.314,
+                "previous_val": 0,
+                "sell_price": 10.3141,
+                "buy_price": 10.314,
+                "sell_swap_price": 10.314,
+                "buy_swap_price": 10.3141,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SMART MV-SSF",
+                "net_asset": 8993243.05,
+                "last_val": 10.3998,
+                "previous_val": 0,
+                "sell_price": 10.3999,
+                "buy_price": 10.3998,
+                "sell_swap_price": 10.3998,
+                "buy_swap_price": 10.3999,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SMART MV-SSF",
+                "net_asset": 8950458.56,
+                "last_val": 10.3503,
+                "previous_val": 0,
+                "sell_price": 10.3504,
+                "buy_price": 10.3503,
+                "sell_swap_price": 10.3503,
+                "buy_swap_price": 10.3504,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SMART MV-SSF",
+                "net_asset": 8853870.39,
+                "last_val": 10.2387,
+                "previous_val": 0,
+                "sell_price": 10.2388,
+                "buy_price": 10.2387,
+                "sell_swap_price": 10.2387,
+                "buy_swap_price": 10.2388,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SMART MV-SSF",
+                "net_asset": 8815465.13,
+                "last_val": 10.1942,
+                "previous_val": 0,
+                "sell_price": 10.1943,
+                "buy_price": 10.1942,
+                "sell_swap_price": 10.1942,
+                "buy_swap_price": 10.1943,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-25",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SMART MV-SSF",
+                "net_asset": 8780974.63,
+                "last_val": 10.1544,
+                "previous_val": 0,
+                "sell_price": 10.1545,
+                "buy_price": 10.1544,
+                "sell_swap_price": 10.1544,
+                "buy_swap_price": 10.1545,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

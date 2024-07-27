@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720245984719,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722101758622,
+    "nextUpdate": 1722188075571,
     "data": {
-        "lastNav": "2024-07-03",
+        "lastNav": "2024-07-24",
         "fund": {
             "proj_id": "M0609_2560",
             "regis_id": "MF0068_2561",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000569",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -11462,6 +11462,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-INDIAOPP-ID",
+                "net_asset": 27859333.83,
+                "last_val": 11.122,
+                "previous_val": 0,
+                "sell_price": 11.2411,
+                "buy_price": 11.122,
+                "sell_swap_price": 11.122,
+                "buy_swap_price": 11.2411,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-INDIAOPP-ID",
+                "net_asset": 27831091.68,
+                "last_val": 11.1107,
+                "previous_val": 0,
+                "sell_price": 11.2297,
+                "buy_price": 11.1107,
+                "sell_swap_price": 11.1107,
+                "buy_swap_price": 11.2297,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-INDIAOPP-ID",
+                "net_asset": 27767346.4,
+                "last_val": 11.0853,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-INDIAOPP-ID",
+                "net_asset": 27657735.63,
+                "last_val": 11.0415,
+                "previous_val": 0,
+                "sell_price": 11.1597,
+                "buy_price": 11.0415,
+                "sell_swap_price": 11.0415,
+                "buy_swap_price": 11.1597,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-INDIAOPP-ID",
+                "net_asset": 27285764.81,
+                "last_val": 10.893,
+                "previous_val": 0,
+                "sell_price": 11.0097,
+                "buy_price": 10.893,
+                "sell_swap_price": 10.893,
+                "buy_swap_price": 11.0097,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-INDIAOPP-ID",
+                "net_asset": 27349502.32,
+                "last_val": 10.9185,
+                "previous_val": 0,
+                "sell_price": 11.0354,
+                "buy_price": 10.9185,
+                "sell_swap_price": 10.9185,
+                "buy_swap_price": 11.0354,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-INDIAOPP-ID",
+                "net_asset": 27487498.42,
+                "last_val": 10.9735,
+                "previous_val": 0,
+                "sell_price": 11.091,
+                "buy_price": 10.9735,
+                "sell_swap_price": 10.9735,
+                "buy_swap_price": 11.091,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

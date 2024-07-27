@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720245973438,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722101707030,
+    "nextUpdate": 1722188075571,
     "data": {
-        "lastNav": "2024-07-04",
+        "lastNav": "2024-07-25",
         "fund": {
             "proj_id": "M0394_2561",
             "regis_id": "MF0308_2561",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000569",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -19442,6 +19442,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-OPPORTUNITY6/2",
+                "net_asset": 23296756.91,
+                "last_val": 7.0317,
+                "previous_val": 0,
+                "sell_price": 7.107,
+                "buy_price": 7.0317,
+                "sell_swap_price": 7.0317,
+                "buy_swap_price": 7.107,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-16T09:00:21.347"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-OPPORTUNITY6/2",
+                "net_asset": 23210054.95,
+                "last_val": 7.0055,
+                "previous_val": 0,
+                "sell_price": 7.0806,
+                "buy_price": 7.0055,
+                "sell_swap_price": 7.0055,
+                "buy_swap_price": 7.0806,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-OPPORTUNITY6/2",
+                "net_asset": 23206107.53,
+                "last_val": 7.0043,
+                "previous_val": 0,
+                "sell_price": 7.0793,
+                "buy_price": 7.0043,
+                "sell_swap_price": 7.0043,
+                "buy_swap_price": 7.0793,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-OPPORTUNITY6/2",
+                "net_asset": 23380997.08,
+                "last_val": 7.0571,
+                "previous_val": 0,
+                "sell_price": 7.1327,
+                "buy_price": 7.0571,
+                "sell_swap_price": 7.0571,
+                "buy_swap_price": 7.1327,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-OPPORTUNITY6/2",
+                "net_asset": 23249916.44,
+                "last_val": 7.0176,
+                "previous_val": 0,
+                "sell_price": 7.0928,
+                "buy_price": 7.0176,
+                "sell_swap_price": 7.0176,
+                "buy_swap_price": 7.0928,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-OPPORTUNITY6/2",
+                "net_asset": 23045627.87,
+                "last_val": 6.9559,
+                "previous_val": 0,
+                "sell_price": 7.0304,
+                "buy_price": 6.9559,
+                "sell_swap_price": 6.9559,
+                "buy_swap_price": 7.0304,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-OPPORTUNITY6/2",
+                "net_asset": 22970132.75,
+                "last_val": 6.9331,
+                "previous_val": 0,
+                "sell_price": 7.0074,
+                "buy_price": 6.9331,
+                "sell_swap_price": 6.9331,
+                "buy_swap_price": 7.0074,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-25",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-OPPORTUNITY6/2",
+                "net_asset": 22884863.34,
+                "last_val": 6.9074,
+                "previous_val": 0,
+                "sell_price": 6.9814,
+                "buy_price": 6.9074,
+                "sell_swap_price": 6.9074,
+                "buy_swap_price": 6.9814,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

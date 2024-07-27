@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1719908695213,
-    "nextUpdate": 1719993578927,
+    "lastUpdate": 1722101718910,
+    "nextUpdate": 1722188075571,
     "data": {
-        "lastNav": "2023-02-06",
+        "lastNav": "2024-07-23",
         "fund": {
             "proj_id": "M0443_2565",
             "regis_id": "MF0035_2566",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000569",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -4997,6 +4997,96 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-02T07:02:02"
+            },
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-CHINATOP10M2",
+                "net_asset": 98929249.18,
+                "last_val": 7.7318,
+                "previous_val": 0,
+                "sell_price": 7.7319,
+                "buy_price": 7.7318,
+                "sell_swap_price": 7.7318,
+                "buy_swap_price": 7.7319,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-CHINATOP10M2",
+                "net_asset": 97950510.39,
+                "last_val": 7.6553,
+                "previous_val": 0,
+                "sell_price": 7.6554,
+                "buy_price": 7.6553,
+                "sell_swap_price": 7.6553,
+                "buy_swap_price": 7.6554,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-CHINATOP10M2",
+                "net_asset": 97471742.36,
+                "last_val": 7.6179,
+                "previous_val": 0,
+                "sell_price": 7.618,
+                "buy_price": 7.6179,
+                "sell_swap_price": 7.6179,
+                "buy_swap_price": 7.618,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-CHINATOP10M2",
+                "net_asset": 97710040.6,
+                "last_val": 7.6389,
+                "previous_val": 0,
+                "sell_price": 7.639,
+                "buy_price": 7.6389,
+                "sell_swap_price": 7.6389,
+                "buy_swap_price": 7.639,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-CHINATOP10M2",
+                "net_asset": 97072165.52,
+                "last_val": 7.589,
+                "previous_val": 0,
+                "sell_price": 7.5891,
+                "buy_price": 7.589,
+                "sell_swap_price": 7.589,
+                "buy_swap_price": 7.5891,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-CHINATOP10M2",
+                "net_asset": 96404316.9,
+                "last_val": 7.5368,
+                "previous_val": 0,
+                "sell_price": 7.5369,
+                "buy_price": 7.5368,
+                "sell_swap_price": 7.5368,
+                "buy_swap_price": 7.5369,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

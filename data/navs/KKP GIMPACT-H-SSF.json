@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720246005774,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722101852274,
+    "nextUpdate": 1722188075571,
     "data": {
-        "lastNav": "2024-07-03",
+        "lastNav": "2024-07-24",
         "fund": {
             "proj_id": "M0193_2564",
             "regis_id": "MF0252_2564",
@@ -15,7 +15,7 @@
             "unique_id": "C0000005025",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -9707,6 +9707,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP GIMPACT-H-SSF",
+                "net_asset": 7474649.91,
+                "last_val": 8.3289,
+                "previous_val": 0,
+                "sell_price": 8.329,
+                "buy_price": 8.3289,
+                "sell_swap_price": 8.3289,
+                "buy_swap_price": 8.329,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP GIMPACT-H-SSF",
+                "net_asset": 7557941.45,
+                "last_val": 8.4217,
+                "previous_val": 0,
+                "sell_price": 8.4218,
+                "buy_price": 8.4217,
+                "sell_swap_price": 8.4217,
+                "buy_swap_price": 8.4218,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP GIMPACT-H-SSF",
+                "net_asset": 7306960.05,
+                "last_val": 8.3158,
+                "previous_val": 0,
+                "sell_price": 8.3159,
+                "buy_price": 8.3158,
+                "sell_swap_price": 8.3158,
+                "buy_swap_price": 8.3159,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP GIMPACT-H-SSF",
+                "net_asset": 7233362.77,
+                "last_val": 8.232,
+                "previous_val": 0,
+                "sell_price": 8.2321,
+                "buy_price": 8.232,
+                "sell_swap_price": 8.232,
+                "buy_swap_price": 8.2321,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP GIMPACT-H-SSF",
+                "net_asset": 7213374.93,
+                "last_val": 8.2093,
+                "previous_val": 0,
+                "sell_price": 8.2094,
+                "buy_price": 8.2093,
+                "sell_swap_price": 8.2093,
+                "buy_swap_price": 8.2094,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP GIMPACT-H-SSF",
+                "net_asset": 7297524.99,
+                "last_val": 8.305,
+                "previous_val": 0,
+                "sell_price": 8.3051,
+                "buy_price": 8.305,
+                "sell_swap_price": 8.305,
+                "buy_swap_price": 8.3051,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP GIMPACT-H-SSF",
+                "net_asset": 7198379.56,
+                "last_val": 8.1911,
+                "previous_val": 0,
+                "sell_price": 8.1912,
+                "buy_price": 8.1911,
+                "sell_swap_price": 8.1911,
+                "buy_swap_price": 8.1912,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

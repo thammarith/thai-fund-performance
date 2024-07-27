@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720245998360,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722101818290,
+    "nextUpdate": 1722188075571,
     "data": {
-        "lastNav": "2024-07-04",
+        "lastNav": "2024-07-25",
         "fund": {
             "proj_id": "M0458_2559",
             "regis_id": "MF0463_2559",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000709",
             "permit_us_investment": null,
             "invest_country_flag": "4",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -10862,6 +10862,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000000709",
+                "class_abbr_name": "KFAFIX-C",
+                "net_asset": 830558037.86,
+                "last_val": 11.7644,
+                "previous_val": 0,
+                "sell_price": 11.7645,
+                "buy_price": 11.7644,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-16T09:00:21.347"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000709",
+                "class_abbr_name": "KFAFIX-C",
+                "net_asset": 830844397.58,
+                "last_val": 11.7684,
+                "previous_val": 0,
+                "sell_price": 11.7685,
+                "buy_price": 11.7684,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000709",
+                "class_abbr_name": "KFAFIX-C",
+                "net_asset": 830783951.2,
+                "last_val": 11.7676,
+                "previous_val": 0,
+                "sell_price": 11.7677,
+                "buy_price": 11.7676,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000709",
+                "class_abbr_name": "KFAFIX-C",
+                "net_asset": 828053849.82,
+                "last_val": 11.7678,
+                "previous_val": 0,
+                "sell_price": 11.7679,
+                "buy_price": 11.7678,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000709",
+                "class_abbr_name": "KFAFIX-C",
+                "net_asset": 810175176.36,
+                "last_val": 11.7668,
+                "previous_val": 0,
+                "sell_price": 11.7669,
+                "buy_price": 11.7668,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000709",
+                "class_abbr_name": "KFAFIX-C",
+                "net_asset": 795314495.13,
+                "last_val": 11.7689,
+                "previous_val": 0,
+                "sell_price": 11.769,
+                "buy_price": 11.7689,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000000709",
+                "class_abbr_name": "KFAFIX-C",
+                "net_asset": 794570431.45,
+                "last_val": 11.7727,
+                "previous_val": 0,
+                "sell_price": 11.7728,
+                "buy_price": 11.7727,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-25",
+                "unique_id": "C0000000709",
+                "class_abbr_name": "KFAFIX-C",
+                "net_asset": 807163986.65,
+                "last_val": 11.776,
+                "previous_val": 0,
+                "sell_price": 11.7761,
+                "buy_price": 11.776,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

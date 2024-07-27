@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720246026123,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722101956541,
+    "nextUpdate": 1722188075571,
     "data": {
-        "lastNav": "2024-07-03",
+        "lastNav": "2024-07-24",
         "fund": {
             "proj_id": "M0549_2564",
             "regis_id": "MF0088_2565",
@@ -15,7 +15,7 @@
             "unique_id": "C0000005025",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -7397,6 +7397,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP VGF-UI",
+                "net_asset": 6147755431.51,
+                "last_val": 9.5083,
+                "previous_val": 0,
+                "sell_price": 9.6225,
+                "buy_price": 9.5083,
+                "sell_swap_price": 9.5083,
+                "buy_swap_price": 9.6225,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP VGF-UI",
+                "net_asset": 6169273801.9,
+                "last_val": 9.5198,
+                "previous_val": 0,
+                "sell_price": 9.6341,
+                "buy_price": 9.5198,
+                "sell_swap_price": 9.5198,
+                "buy_swap_price": 9.6341,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP VGF-UI",
+                "net_asset": 6057872135.68,
+                "last_val": 9.3568,
+                "previous_val": 0,
+                "sell_price": 9.4692,
+                "buy_price": 9.3568,
+                "sell_swap_price": 9.3568,
+                "buy_swap_price": 9.4692,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP VGF-UI",
+                "net_asset": 6111494791.8,
+                "last_val": 9.4281,
+                "previous_val": 0,
+                "sell_price": 9.5413,
+                "buy_price": 9.4281,
+                "sell_swap_price": 9.4281,
+                "buy_swap_price": 9.5413,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP VGF-UI",
+                "net_asset": 6162814010.45,
+                "last_val": 9.4588,
+                "previous_val": 0,
+                "sell_price": 9.5724,
+                "buy_price": 9.4588,
+                "sell_swap_price": 9.4588,
+                "buy_swap_price": 9.5724,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP VGF-UI",
+                "net_asset": 6005778594.61,
+                "last_val": 9.2034,
+                "previous_val": 0,
+                "sell_price": 9.3139,
+                "buy_price": 9.2034,
+                "sell_swap_price": 9.2034,
+                "buy_swap_price": 9.3139,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP VGF-UI",
+                "net_asset": 6020276589.14,
+                "last_val": 9.2334,
+                "previous_val": 0,
+                "sell_price": 9.3443,
+                "buy_price": 9.2334,
+                "sell_swap_price": 9.2334,
+                "buy_swap_price": 9.3443,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

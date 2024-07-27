@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720245969490,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722101690931,
+    "nextUpdate": 1722188075571,
     "data": {
-        "lastNav": "2024-07-03",
+        "lastNav": "2024-07-24",
         "fund": {
             "proj_id": "M0293_2567",
             "regis_id": "MF0292_2567",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000569",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -257,6 +257,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-BTCETFOF-UI",
+                "net_asset": 113218241.99,
+                "last_val": 9.0005,
+                "previous_val": 0,
+                "sell_price": 9.1356,
+                "buy_price": 9.0005,
+                "sell_swap_price": 9.0005,
+                "buy_swap_price": 9.1356,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-BTCETFOF-UI",
+                "net_asset": 122184939.63,
+                "last_val": 9.2313,
+                "previous_val": 0,
+                "sell_price": 9.3699,
+                "buy_price": 9.2313,
+                "sell_swap_price": 9.2313,
+                "buy_swap_price": 9.3699,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-BTCETFOF-UI",
+                "net_asset": 119895706.72,
+                "last_val": 9.0666,
+                "previous_val": 0,
+                "sell_price": 9.2027,
+                "buy_price": 9.0666,
+                "sell_swap_price": 9.0666,
+                "buy_swap_price": 9.2027,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-BTCETFOF-UI",
+                "net_asset": 122409965.68,
+                "last_val": 8.955,
+                "previous_val": 0,
+                "sell_price": 9.0894,
+                "buy_price": 8.955,
+                "sell_swap_price": 8.955,
+                "buy_swap_price": 9.0894,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-BTCETFOF-UI",
+                "net_asset": 130664082.7,
+                "last_val": 9.5588,
+                "previous_val": 0,
+                "sell_price": 9.7023,
+                "buy_price": 9.5588,
+                "sell_swap_price": 9.5588,
+                "buy_swap_price": 9.7023,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-BTCETFOF-UI",
+                "net_asset": 127502147.9,
+                "last_val": 9.2925,
+                "previous_val": 0,
+                "sell_price": 9.432,
+                "buy_price": 9.2925,
+                "sell_swap_price": 9.2925,
+                "buy_swap_price": 9.432,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-BTCETFOF-UI",
+                "net_asset": 127611928.06,
+                "last_val": 9.3005,
+                "previous_val": 0,
+                "sell_price": 9.4401,
+                "buy_price": 9.3005,
+                "sell_swap_price": 9.3005,
+                "buy_swap_price": 9.4401,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

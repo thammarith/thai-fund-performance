@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720245968850,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722101687387,
+    "nextUpdate": 1722188075571,
     "data": {
-        "lastNav": "2024-07-03",
+        "lastNav": "2024-07-24",
         "fund": {
             "proj_id": "M0291_2564",
             "regis_id": "MF0250_2564",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000569",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -10427,6 +10427,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-APACESG",
+                "net_asset": 232567217.17,
+                "last_val": 6.9946,
+                "previous_val": 0,
+                "sell_price": 7.0996,
+                "buy_price": 6.9946,
+                "sell_swap_price": 6.9946,
+                "buy_swap_price": 7.0996,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-APACESG",
+                "net_asset": 233785183.78,
+                "last_val": 7.0313,
+                "previous_val": 0,
+                "sell_price": 7.1369,
+                "buy_price": 7.0313,
+                "sell_swap_price": 7.0313,
+                "buy_swap_price": 7.1369,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-APACESG",
+                "net_asset": 231777986.84,
+                "last_val": 6.9709,
+                "previous_val": 0,
+                "sell_price": 7.0756,
+                "buy_price": 6.9709,
+                "sell_swap_price": 6.9709,
+                "buy_swap_price": 7.0756,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-APACESG",
+                "net_asset": 230855023.6,
+                "last_val": 6.9431,
+                "previous_val": 0,
+                "sell_price": 7.0473,
+                "buy_price": 6.9431,
+                "sell_swap_price": 6.9431,
+                "buy_swap_price": 7.0473,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-APACESG",
+                "net_asset": 229351346.98,
+                "last_val": 6.8979,
+                "previous_val": 0,
+                "sell_price": 7.0015,
+                "buy_price": 6.8979,
+                "sell_swap_price": 6.8979,
+                "buy_swap_price": 7.0015,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-APACESG",
+                "net_asset": 227156172.09,
+                "last_val": 6.8319,
+                "previous_val": 0,
+                "sell_price": 6.9345,
+                "buy_price": 6.8319,
+                "sell_swap_price": 6.8319,
+                "buy_swap_price": 6.9345,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-APACESG",
+                "net_asset": 226076123.2,
+                "last_val": 6.7994,
+                "previous_val": 0,
+                "sell_price": 6.9015,
+                "buy_price": 6.7994,
+                "sell_swap_price": 6.7994,
+                "buy_swap_price": 6.9015,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

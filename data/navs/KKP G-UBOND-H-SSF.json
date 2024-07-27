@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720246023592,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722101937219,
+    "nextUpdate": 1722188075571,
     "data": {
-        "lastNav": "2024-07-03",
+        "lastNav": "2024-07-24",
         "fund": {
             "proj_id": "M0518_2560",
             "regis_id": "MF0471_2560",
@@ -15,7 +15,7 @@
             "unique_id": "C0000005025",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -8837,6 +8837,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP G-UBOND-H-SSF",
+                "net_asset": 4028504.92,
+                "last_val": 9.9343,
+                "previous_val": 0,
+                "sell_price": 9.9344,
+                "buy_price": 9.9343,
+                "sell_swap_price": 9.9343,
+                "buy_swap_price": 9.9344,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP G-UBOND-H-SSF",
+                "net_asset": 4045367.09,
+                "last_val": 9.9697,
+                "previous_val": 0,
+                "sell_price": 9.9698,
+                "buy_price": 9.9697,
+                "sell_swap_price": 9.9697,
+                "buy_swap_price": 9.9698,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP G-UBOND-H-SSF",
+                "net_asset": 4046952.33,
+                "last_val": 9.9736,
+                "previous_val": 0,
+                "sell_price": 9.9737,
+                "buy_price": 9.9736,
+                "sell_swap_price": 9.9736,
+                "buy_swap_price": 9.9737,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP G-UBOND-H-SSF",
+                "net_asset": 4082674.1,
+                "last_val": 9.9667,
+                "previous_val": 0,
+                "sell_price": 9.9668,
+                "buy_price": 9.9667,
+                "sell_swap_price": 9.9667,
+                "buy_swap_price": 9.9668,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP G-UBOND-H-SSF",
+                "net_asset": 4077001.5,
+                "last_val": 9.9529,
+                "previous_val": 0,
+                "sell_price": 9.953,
+                "buy_price": 9.9529,
+                "sell_swap_price": 9.9529,
+                "buy_swap_price": 9.953,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP G-UBOND-H-SSF",
+                "net_asset": 4069774.02,
+                "last_val": 9.9352,
+                "previous_val": 0,
+                "sell_price": 9.9353,
+                "buy_price": 9.9352,
+                "sell_swap_price": 9.9352,
+                "buy_swap_price": 9.9353,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP G-UBOND-H-SSF",
+                "net_asset": 4066196.18,
+                "last_val": 9.9241,
+                "previous_val": 0,
+                "sell_price": 9.9242,
+                "buy_price": 9.9241,
+                "sell_swap_price": 9.9241,
+                "buy_swap_price": 9.9242,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

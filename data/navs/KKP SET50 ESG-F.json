@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720246004683,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722101846625,
+    "nextUpdate": 1722188075571,
     "data": {
-        "lastNav": "2024-07-04",
+        "lastNav": "2024-07-25",
         "fund": {
             "proj_id": "M0164_2563",
             "regis_id": "MF0085_2563",
@@ -15,7 +15,7 @@
             "unique_id": "C0000005025",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -12692,6 +12692,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SET50 ESG-F",
+                "net_asset": 0,
+                "last_val": 11.3963,
+                "previous_val": 0,
+                "sell_price": 11.3964,
+                "buy_price": 11.3963,
+                "sell_swap_price": 11.3963,
+                "buy_swap_price": 11.3964,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-16T09:00:21.347"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SET50 ESG-F",
+                "net_asset": 0,
+                "last_val": 11.3681,
+                "previous_val": 0,
+                "sell_price": 11.3682,
+                "buy_price": 11.3681,
+                "sell_swap_price": 11.3681,
+                "buy_swap_price": 11.3682,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SET50 ESG-F",
+                "net_asset": 0,
+                "last_val": 11.3845,
+                "previous_val": 0,
+                "sell_price": 11.3846,
+                "buy_price": 11.3845,
+                "sell_swap_price": 11.3845,
+                "buy_swap_price": 11.3846,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SET50 ESG-F",
+                "net_asset": 0,
+                "last_val": 11.4399,
+                "previous_val": 0,
+                "sell_price": 11.44,
+                "buy_price": 11.4399,
+                "sell_swap_price": 11.4399,
+                "buy_swap_price": 11.44,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SET50 ESG-F",
+                "net_asset": 0,
+                "last_val": 11.3659,
+                "previous_val": 0,
+                "sell_price": 11.366,
+                "buy_price": 11.3659,
+                "sell_swap_price": 11.3659,
+                "buy_swap_price": 11.366,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SET50 ESG-F",
+                "net_asset": 0,
+                "last_val": 11.2732,
+                "previous_val": 0,
+                "sell_price": 11.2733,
+                "buy_price": 11.2732,
+                "sell_swap_price": 11.2732,
+                "buy_swap_price": 11.2733,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SET50 ESG-F",
+                "net_asset": 0,
+                "last_val": 11.232,
+                "previous_val": 0,
+                "sell_price": 11.2321,
+                "buy_price": 11.232,
+                "sell_swap_price": 11.232,
+                "buy_swap_price": 11.2321,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-25",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SET50 ESG-F",
+                "net_asset": 0,
+                "last_val": 11.2046,
+                "previous_val": 0,
+                "sell_price": 11.2047,
+                "buy_price": 11.2046,
+                "sell_swap_price": 11.2046,
+                "buy_swap_price": 11.2047,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

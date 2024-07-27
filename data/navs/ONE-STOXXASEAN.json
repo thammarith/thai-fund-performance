@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720245995873,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722101807094,
+    "nextUpdate": 1722188075571,
     "data": {
-        "lastNav": "2024-07-04",
+        "lastNav": "2024-07-25",
         "fund": {
             "proj_id": "M0853_2557",
             "regis_id": "MF0355_2558",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000569",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -31997,6 +31997,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-STOXXASEAN",
+                "net_asset": 32510022.02,
+                "last_val": 97.3003,
+                "previous_val": 0,
+                "sell_price": 98.5167,
+                "buy_price": 97.3003,
+                "sell_swap_price": 97.3003,
+                "buy_swap_price": 98.5167,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-16T09:00:21.347"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-STOXXASEAN",
+                "net_asset": 32227332.44,
+                "last_val": 96.4542,
+                "previous_val": 0,
+                "sell_price": 97.66,
+                "buy_price": 96.4542,
+                "sell_swap_price": 96.4542,
+                "buy_swap_price": 97.66,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-STOXXASEAN",
+                "net_asset": 32179872.65,
+                "last_val": 96.3122,
+                "previous_val": 0,
+                "sell_price": 97.5162,
+                "buy_price": 96.3122,
+                "sell_swap_price": 96.3122,
+                "buy_swap_price": 97.5162,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-STOXXASEAN",
+                "net_asset": 32498359.65,
+                "last_val": 97.331,
+                "previous_val": 0,
+                "sell_price": 98.5477,
+                "buy_price": 97.331,
+                "sell_swap_price": 97.331,
+                "buy_swap_price": 98.5477,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-STOXXASEAN",
+                "net_asset": 32436905.67,
+                "last_val": 97.1469,
+                "previous_val": 0,
+                "sell_price": 98.3613,
+                "buy_price": 97.1469,
+                "sell_swap_price": 97.1469,
+                "buy_swap_price": 98.3613,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-STOXXASEAN",
+                "net_asset": 32227540.4,
+                "last_val": 96.5199,
+                "previous_val": 0,
+                "sell_price": 97.7265,
+                "buy_price": 96.5199,
+                "sell_swap_price": 96.5199,
+                "buy_swap_price": 97.7265,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-STOXXASEAN",
+                "net_asset": 32105493.37,
+                "last_val": 96.1544,
+                "previous_val": 0,
+                "sell_price": 97.3564,
+                "buy_price": 96.1544,
+                "sell_swap_price": 96.1544,
+                "buy_swap_price": 97.3564,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-25",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-STOXXASEAN",
+                "net_asset": 31982934.53,
+                "last_val": 95.7873,
+                "previous_val": 0,
+                "sell_price": 96.9847,
+                "buy_price": 95.7873,
+                "sell_swap_price": 95.7873,
+                "buy_swap_price": 96.9847,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

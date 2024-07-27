@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1719929518876,
-    "nextUpdate": 1720002438845,
+    "lastUpdate": 1722101803898,
+    "nextUpdate": 1722188075571,
     "data": {
-        "lastNav": "2021-04-20",
+        "lastNav": "2024-07-23",
         "fund": {
             "proj_id": "M0843_2548",
             "regis_id": "205_2548",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000569",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -11447,6 +11447,96 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-02T07:02:02"
+            },
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-GEM",
+                "net_asset": 7518820.35,
+                "last_val": 10.3033,
+                "previous_val": 0,
+                "sell_price": 10.4136,
+                "buy_price": 10.2757,
+                "sell_swap_price": 10.2757,
+                "buy_swap_price": 10.4136,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-GEM",
+                "net_asset": 7519089.37,
+                "last_val": 10.3037,
+                "previous_val": 0,
+                "sell_price": 10.414,
+                "buy_price": 10.2761,
+                "sell_swap_price": 10.2761,
+                "buy_swap_price": 10.414,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-GEM",
+                "net_asset": 7417478.6,
+                "last_val": 10.1577,
+                "previous_val": 0,
+                "sell_price": 10.2665,
+                "buy_price": 10.1305,
+                "sell_swap_price": 10.1305,
+                "buy_swap_price": 10.2665,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-GEM",
+                "net_asset": 7402602.41,
+                "last_val": 10.1374,
+                "previous_val": 0,
+                "sell_price": 10.246,
+                "buy_price": 10.1103,
+                "sell_swap_price": 10.1103,
+                "buy_swap_price": 10.246,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-GEM",
+                "net_asset": 7338407.6,
+                "last_val": 10.0401,
+                "previous_val": 0,
+                "sell_price": 10.1476,
+                "buy_price": 10.0132,
+                "sell_swap_price": 10.0132,
+                "buy_swap_price": 10.1476,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-GEM",
+                "net_asset": 7303017.52,
+                "last_val": 9.9916,
+                "previous_val": 0,
+                "sell_price": 10.0986,
+                "buy_price": 9.9649,
+                "sell_swap_price": 9.9649,
+                "buy_swap_price": 10.0986,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

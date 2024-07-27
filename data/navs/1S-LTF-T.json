@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720245983591,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722101753172,
+    "nextUpdate": 1722188075571,
     "data": {
-        "lastNav": "2024-07-04",
+        "lastNav": "2024-07-25",
         "fund": {
             "proj_id": "M0597_2547",
             "regis_id": "069_2547",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000569",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -13517,6 +13517,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "1S-LTF-T",
+                "net_asset": 279687557.94,
+                "last_val": 18.7755,
+                "previous_val": 0,
+                "sell_price": 18.7756,
+                "buy_price": 18.7755,
+                "sell_swap_price": 18.7755,
+                "buy_swap_price": 18.7756,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-16T09:00:21.347"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "1S-LTF-T",
+                "net_asset": 278765104.88,
+                "last_val": 18.7146,
+                "previous_val": 0,
+                "sell_price": 18.7147,
+                "buy_price": 18.7146,
+                "sell_swap_price": 18.7146,
+                "buy_swap_price": 18.7147,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "1S-LTF-T",
+                "net_asset": 278780036.83,
+                "last_val": 18.7156,
+                "previous_val": 0,
+                "sell_price": 18.7157,
+                "buy_price": 18.7156,
+                "sell_swap_price": 18.7156,
+                "buy_swap_price": 18.7157,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "1S-LTF-T",
+                "net_asset": 280798138.11,
+                "last_val": 18.8511,
+                "previous_val": 0,
+                "sell_price": 18.8512,
+                "buy_price": 18.8511,
+                "sell_swap_price": 18.8511,
+                "buy_swap_price": 18.8512,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "1S-LTF-T",
+                "net_asset": 279264777.49,
+                "last_val": 18.7482,
+                "previous_val": 0,
+                "sell_price": 18.7483,
+                "buy_price": 18.7482,
+                "sell_swap_price": 18.7482,
+                "buy_swap_price": 18.7483,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "1S-LTF-T",
+                "net_asset": 276824369.22,
+                "last_val": 18.5843,
+                "previous_val": 0,
+                "sell_price": 18.5844,
+                "buy_price": 18.5843,
+                "sell_swap_price": 18.5843,
+                "buy_swap_price": 18.5844,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "1S-LTF-T",
+                "net_asset": 275941675.98,
+                "last_val": 18.5251,
+                "previous_val": 0,
+                "sell_price": 18.5252,
+                "buy_price": 18.5251,
+                "sell_swap_price": 18.5251,
+                "buy_swap_price": 18.5252,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-25",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "1S-LTF-T",
+                "net_asset": 274840256.32,
+                "last_val": 18.4557,
+                "previous_val": 0,
+                "sell_price": 18.4558,
+                "buy_price": 18.4557,
+                "sell_swap_price": 18.4557,
+                "buy_swap_price": 18.4558,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

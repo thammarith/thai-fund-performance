@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720245979076,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722101733115,
+    "nextUpdate": 1722188075571,
     "data": {
-        "lastNav": "2024-07-04",
+        "lastNav": "2024-07-25",
         "fund": {
             "proj_id": "M0486_2561",
             "regis_id": "MF0340_2562",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000569",
             "permit_us_investment": null,
             "invest_country_flag": "4",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -13532,6 +13532,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-DELIGHT-RA",
+                "net_asset": 22949698.25,
+                "last_val": 9.2258,
+                "previous_val": 0,
+                "sell_price": 9.249,
+                "buy_price": 9.2258,
+                "sell_swap_price": 9.2258,
+                "buy_swap_price": 9.249,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-16T09:00:21.347"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-DELIGHT-RA",
+                "net_asset": 22868071.21,
+                "last_val": 9.2379,
+                "previous_val": 0,
+                "sell_price": 9.2611,
+                "buy_price": 9.2379,
+                "sell_swap_price": 9.2379,
+                "buy_swap_price": 9.2611,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-DELIGHT-RA",
+                "net_asset": 22862884.96,
+                "last_val": 9.2358,
+                "previous_val": 0,
+                "sell_price": 9.259,
+                "buy_price": 9.2358,
+                "sell_swap_price": 9.2358,
+                "buy_swap_price": 9.259,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-DELIGHT-RA",
+                "net_asset": 22906153.49,
+                "last_val": 9.257,
+                "previous_val": 0,
+                "sell_price": 9.2802,
+                "buy_price": 9.257,
+                "sell_swap_price": 9.257,
+                "buy_swap_price": 9.2802,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-DELIGHT-RA",
+                "net_asset": 22908607.26,
+                "last_val": 9.258,
+                "previous_val": 0,
+                "sell_price": 9.2812,
+                "buy_price": 9.258,
+                "sell_swap_price": 9.258,
+                "buy_swap_price": 9.2812,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-DELIGHT-RA",
+                "net_asset": 22879595.04,
+                "last_val": 9.2463,
+                "previous_val": 0,
+                "sell_price": 9.2695,
+                "buy_price": 9.2463,
+                "sell_swap_price": 9.2463,
+                "buy_swap_price": 9.2695,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-DELIGHT-RA",
+                "net_asset": 22906578.06,
+                "last_val": 9.2572,
+                "previous_val": 0,
+                "sell_price": 9.2804,
+                "buy_price": 9.2572,
+                "sell_swap_price": 9.2572,
+                "buy_swap_price": 9.2804,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-25",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-DELIGHT-RA",
+                "net_asset": 22875046.63,
+                "last_val": 9.2444,
+                "previous_val": 0,
+                "sell_price": 9.2676,
+                "buy_price": 9.2444,
+                "sell_swap_price": 9.2444,
+                "buy_swap_price": 9.2676,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

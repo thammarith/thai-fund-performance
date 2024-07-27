@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720246018096,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722101901419,
+    "nextUpdate": 1722188075571,
     "data": {
-        "lastNav": "2024-07-04",
+        "lastNav": "2024-07-25",
         "fund": {
             "proj_id": "M0423_2547",
             "regis_id": "071_2547",
@@ -15,7 +15,7 @@
             "unique_id": "C0000005025",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -22907,6 +22907,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP BLRMF",
+                "net_asset": 282683348.68,
+                "last_val": 27.383,
+                "previous_val": 0,
+                "sell_price": 27.3831,
+                "buy_price": 27.383,
+                "sell_swap_price": 27.383,
+                "buy_swap_price": 27.3831,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-16T09:00:21.347"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP BLRMF",
+                "net_asset": 281943294.71,
+                "last_val": 27.3101,
+                "previous_val": 0,
+                "sell_price": 27.3102,
+                "buy_price": 27.3101,
+                "sell_swap_price": 27.3101,
+                "buy_swap_price": 27.3102,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP BLRMF",
+                "net_asset": 281825163.67,
+                "last_val": 27.2986,
+                "previous_val": 0,
+                "sell_price": 27.2987,
+                "buy_price": 27.2986,
+                "sell_swap_price": 27.2986,
+                "buy_swap_price": 27.2987,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP BLRMF",
+                "net_asset": 283514087.04,
+                "last_val": 27.4621,
+                "previous_val": 0,
+                "sell_price": 27.4622,
+                "buy_price": 27.4621,
+                "sell_swap_price": 27.4621,
+                "buy_swap_price": 27.4622,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP BLRMF",
+                "net_asset": 281661582.36,
+                "last_val": 27.2826,
+                "previous_val": 0,
+                "sell_price": 27.2827,
+                "buy_price": 27.2826,
+                "sell_swap_price": 27.2826,
+                "buy_swap_price": 27.2827,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP BLRMF",
+                "net_asset": 279414263.01,
+                "last_val": 27.0649,
+                "previous_val": 0,
+                "sell_price": 27.065,
+                "buy_price": 27.0649,
+                "sell_swap_price": 27.0649,
+                "buy_swap_price": 27.065,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP BLRMF",
+                "net_asset": 278779773.14,
+                "last_val": 27.0029,
+                "previous_val": 0,
+                "sell_price": 27.003,
+                "buy_price": 27.0029,
+                "sell_swap_price": 27.0029,
+                "buy_swap_price": 27.003,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-25",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP BLRMF",
+                "net_asset": 277997992.94,
+                "last_val": 26.9272,
+                "previous_val": 0,
+                "sell_price": 26.9273,
+                "buy_price": 26.9272,
+                "sell_swap_price": 26.9272,
+                "buy_swap_price": 26.9273,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

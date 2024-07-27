@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720245977819,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722101727507,
+    "nextUpdate": 1722188075571,
     "data": {
-        "lastNav": "2024-07-04",
+        "lastNav": "2024-07-25",
         "fund": {
             "proj_id": "M0473_2559",
             "regis_id": "MF0430_2559",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000569",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -27437,6 +27437,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-ACT70LTF",
+                "net_asset": 28380854.4,
+                "last_val": 7.6335,
+                "previous_val": 0,
+                "sell_price": 7.6336,
+                "buy_price": 7.6335,
+                "sell_swap_price": 7.6335,
+                "buy_swap_price": 7.6336,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-16T09:00:21.347"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-ACT70LTF",
+                "net_asset": 28301132.56,
+                "last_val": 7.6121,
+                "previous_val": 0,
+                "sell_price": 7.6122,
+                "buy_price": 7.6121,
+                "sell_swap_price": 7.6121,
+                "buy_swap_price": 7.6122,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-ACT70LTF",
+                "net_asset": 28350791.25,
+                "last_val": 7.6254,
+                "previous_val": 0,
+                "sell_price": 7.6255,
+                "buy_price": 7.6254,
+                "sell_swap_price": 7.6254,
+                "buy_swap_price": 7.6255,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-ACT70LTF",
+                "net_asset": 28182960.4,
+                "last_val": 7.6579,
+                "previous_val": 0,
+                "sell_price": 7.658,
+                "buy_price": 7.6579,
+                "sell_swap_price": 7.6579,
+                "buy_swap_price": 7.658,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-ACT70LTF",
+                "net_asset": 27874950.8,
+                "last_val": 7.617,
+                "previous_val": 0,
+                "sell_price": 7.6171,
+                "buy_price": 7.617,
+                "sell_swap_price": 7.617,
+                "buy_swap_price": 7.6171,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-ACT70LTF",
+                "net_asset": 27714018.93,
+                "last_val": 7.573,
+                "previous_val": 0,
+                "sell_price": 7.5731,
+                "buy_price": 7.573,
+                "sell_swap_price": 7.573,
+                "buy_swap_price": 7.5731,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-ACT70LTF",
+                "net_asset": 27611907.56,
+                "last_val": 7.5451,
+                "previous_val": 0,
+                "sell_price": 7.5452,
+                "buy_price": 7.5451,
+                "sell_swap_price": 7.5451,
+                "buy_swap_price": 7.5452,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-25",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-ACT70LTF",
+                "net_asset": 27603577.96,
+                "last_val": 7.5447,
+                "previous_val": 0,
+                "sell_price": 7.5448,
+                "buy_price": 7.5447,
+                "sell_swap_price": 7.5447,
+                "buy_swap_price": 7.5448,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

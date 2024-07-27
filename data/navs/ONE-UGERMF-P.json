@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720245988690,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722101775863,
+    "nextUpdate": 1722188075571,
     "data": {
-        "lastNav": "2024-07-03",
+        "lastNav": "2024-07-24",
         "fund": {
             "proj_id": "M0637_2559",
             "regis_id": "MF0576_2559",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000569",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -11462,6 +11462,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-UGERMF-P",
+                "net_asset": 30260943.89,
+                "last_val": 18.2038,
+                "previous_val": 0,
+                "sell_price": 18.2039,
+                "buy_price": 18.2038,
+                "sell_swap_price": 18.2038,
+                "buy_swap_price": 18.2039,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-UGERMF-P",
+                "net_asset": 29981145.33,
+                "last_val": 18.0355,
+                "previous_val": 0,
+                "sell_price": 18.0356,
+                "buy_price": 18.0355,
+                "sell_swap_price": 18.0355,
+                "buy_swap_price": 18.0356,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-UGERMF-P",
+                "net_asset": 29884414.84,
+                "last_val": 17.9773,
+                "previous_val": 0,
+                "sell_price": 17.9774,
+                "buy_price": 17.9773,
+                "sell_swap_price": 17.9773,
+                "buy_swap_price": 17.9774,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-UGERMF-P",
+                "net_asset": 29117482.89,
+                "last_val": 17.516,
+                "previous_val": 0,
+                "sell_price": 17.5161,
+                "buy_price": 17.516,
+                "sell_swap_price": 17.516,
+                "buy_swap_price": 17.5161,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-UGERMF-P",
+                "net_asset": 28817273.42,
+                "last_val": 17.3354,
+                "previous_val": 0,
+                "sell_price": 17.3355,
+                "buy_price": 17.3354,
+                "sell_swap_price": 17.3354,
+                "buy_swap_price": 17.3355,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-UGERMF-P",
+                "net_asset": 29170512.6,
+                "last_val": 17.5479,
+                "previous_val": 0,
+                "sell_price": 17.548,
+                "buy_price": 17.5479,
+                "sell_swap_price": 17.5479,
+                "buy_swap_price": 17.548,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-UGERMF-P",
+                "net_asset": 29108276.82,
+                "last_val": 17.5104,
+                "previous_val": 0,
+                "sell_price": 17.5105,
+                "buy_price": 17.5104,
+                "sell_swap_price": 17.5104,
+                "buy_swap_price": 17.5105,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

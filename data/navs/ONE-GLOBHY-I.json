@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1719908903992,
-    "nextUpdate": 1719993578927,
+    "lastUpdate": 1722101724495,
+    "nextUpdate": 1722188075571,
     "data": {
-        "lastNav": "2021-04-20",
+        "lastNav": "2024-07-23",
         "fund": {
             "proj_id": "M0454_2560",
             "regis_id": "MF0462_2560",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000569",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -11432,6 +11432,96 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-02T07:02:02"
+            },
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-GLOBHY-I",
+                "net_asset": 35700632.83,
+                "last_val": 11.6646,
+                "previous_val": 0,
+                "sell_price": 11.6939,
+                "buy_price": 11.6646,
+                "sell_swap_price": 11.6646,
+                "buy_swap_price": 11.6939,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-GLOBHY-I",
+                "net_asset": 35746109.61,
+                "last_val": 11.6795,
+                "previous_val": 0,
+                "sell_price": 11.7088,
+                "buy_price": 11.6795,
+                "sell_swap_price": 11.6795,
+                "buy_swap_price": 11.7088,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-GLOBHY-I",
+                "net_asset": 35145316.67,
+                "last_val": 11.6461,
+                "previous_val": 0,
+                "sell_price": 11.6753,
+                "buy_price": 11.6461,
+                "sell_swap_price": 11.6461,
+                "buy_swap_price": 11.6753,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-GLOBHY-I",
+                "net_asset": 34729061.21,
+                "last_val": 11.6738,
+                "previous_val": 0,
+                "sell_price": 11.7031,
+                "buy_price": 11.6738,
+                "sell_swap_price": 11.6738,
+                "buy_swap_price": 11.7031,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-GLOBHY-I",
+                "net_asset": 34728555.64,
+                "last_val": 11.6736,
+                "previous_val": 0,
+                "sell_price": 11.7029,
+                "buy_price": 11.6736,
+                "sell_swap_price": 11.6736,
+                "buy_swap_price": 11.7029,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-GLOBHY-I",
+                "net_asset": 34748953.15,
+                "last_val": 11.6805,
+                "previous_val": 0,
+                "sell_price": 11.7098,
+                "buy_price": 11.6805,
+                "sell_swap_price": 11.6805,
+                "buy_swap_price": 11.7098,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }
