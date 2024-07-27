@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720246035597,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722101994532,
+    "nextUpdate": 1722188075571,
     "data": {
-        "lastNav": "2024-07-03",
+        "lastNav": "2024-07-24",
         "fund": {
             "proj_id": "M0985_2554",
             "regis_id": "MF0033_2555",
@@ -15,7 +15,7 @@
             "unique_id": "C0000005025",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -10937,6 +10937,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP GOLD",
+                "net_asset": 43061689.12,
+                "last_val": 9.5016,
+                "previous_val": 0,
+                "sell_price": 9.5017,
+                "buy_price": 9.5016,
+                "sell_swap_price": 9.5016,
+                "buy_swap_price": 9.5017,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP GOLD",
+                "net_asset": 44222172.24,
+                "last_val": 9.6876,
+                "previous_val": 0,
+                "sell_price": 9.6877,
+                "buy_price": 9.6876,
+                "sell_swap_price": 9.6876,
+                "buy_swap_price": 9.6877,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP GOLD",
+                "net_asset": 43994685.38,
+                "last_val": 9.6354,
+                "previous_val": 0,
+                "sell_price": 9.6355,
+                "buy_price": 9.6354,
+                "sell_swap_price": 9.6354,
+                "buy_swap_price": 9.6355,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP GOLD",
+                "net_asset": 43930557.89,
+                "last_val": 9.5765,
+                "previous_val": 0,
+                "sell_price": 9.5766,
+                "buy_price": 9.5765,
+                "sell_swap_price": 9.5765,
+                "buy_swap_price": 9.5766,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP GOLD",
+                "net_asset": 43204460.47,
+                "last_val": 9.4103,
+                "previous_val": 0,
+                "sell_price": 9.4104,
+                "buy_price": 9.4103,
+                "sell_swap_price": 9.4103,
+                "buy_swap_price": 9.4104,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP GOLD",
+                "net_asset": 42905026.46,
+                "last_val": 9.4377,
+                "previous_val": 0,
+                "sell_price": 9.4378,
+                "buy_price": 9.4377,
+                "sell_swap_price": 9.4377,
+                "buy_swap_price": 9.4378,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP GOLD",
+                "net_asset": 42954630.49,
+                "last_val": 9.4027,
+                "previous_val": 0,
+                "sell_price": 9.4028,
+                "buy_price": 9.4027,
+                "sell_swap_price": 9.4027,
+                "buy_swap_price": 9.4028,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

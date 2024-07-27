@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720246028192,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722101964417,
+    "nextUpdate": 1722188075571,
     "data": {
-        "lastNav": "2024-07-04",
+        "lastNav": "2024-07-25",
         "fund": {
             "proj_id": "M0601_2547",
             "regis_id": "080_2547",
@@ -15,7 +15,7 @@
             "unique_id": "C0000005025",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -22892,6 +22892,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP LTFD",
+                "net_asset": 4647924153.71,
+                "last_val": 19.7987,
+                "previous_val": 0,
+                "sell_price": 19.7988,
+                "buy_price": 19.7987,
+                "sell_swap_price": 19.7987,
+                "buy_swap_price": 19.7988,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-16T09:00:21.347"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP LTFD",
+                "net_asset": 4635272951.71,
+                "last_val": 19.7527,
+                "previous_val": 0,
+                "sell_price": 19.7528,
+                "buy_price": 19.7527,
+                "sell_swap_price": 19.7527,
+                "buy_swap_price": 19.7528,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP LTFD",
+                "net_asset": 4616103992.47,
+                "last_val": 19.6774,
+                "previous_val": 0,
+                "sell_price": 19.6775,
+                "buy_price": 19.6774,
+                "sell_swap_price": 19.6774,
+                "buy_swap_price": 19.6775,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP LTFD",
+                "net_asset": 4643116063.55,
+                "last_val": 19.7969,
+                "previous_val": 0,
+                "sell_price": 19.797,
+                "buy_price": 19.7969,
+                "sell_swap_price": 19.7969,
+                "buy_swap_price": 19.797,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP LTFD",
+                "net_asset": 4586201355.96,
+                "last_val": 19.5626,
+                "previous_val": 0,
+                "sell_price": 19.5627,
+                "buy_price": 19.5626,
+                "sell_swap_price": 19.5626,
+                "buy_swap_price": 19.5627,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP LTFD",
+                "net_asset": 4515152578.44,
+                "last_val": 19.2641,
+                "previous_val": 0,
+                "sell_price": 19.2642,
+                "buy_price": 19.2641,
+                "sell_swap_price": 19.2641,
+                "buy_swap_price": 19.2642,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP LTFD",
+                "net_asset": 4500881269.76,
+                "last_val": 19.2156,
+                "previous_val": 0,
+                "sell_price": 19.2157,
+                "buy_price": 19.2156,
+                "sell_swap_price": 19.2156,
+                "buy_swap_price": 19.2157,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-25",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP LTFD",
+                "net_asset": 4476079085.32,
+                "last_val": 19.1165,
+                "previous_val": 0,
+                "sell_price": 19.1166,
+                "buy_price": 19.1165,
+                "sell_swap_price": 19.1165,
+                "buy_swap_price": 19.1166,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

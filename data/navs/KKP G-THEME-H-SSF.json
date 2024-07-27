@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720246028646,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722101966750,
+    "nextUpdate": 1722188075571,
     "data": {
-        "lastNav": "2024-07-03",
+        "lastNav": "2024-07-24",
         "fund": {
             "proj_id": "M0604_2563",
             "regis_id": "MF0041_2564",
@@ -15,7 +15,7 @@
             "unique_id": "C0000005025",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -10952,6 +10952,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP G-THEME-H-SSF",
+                "net_asset": 8997560.46,
+                "last_val": 7.9537,
+                "previous_val": 0,
+                "sell_price": 7.9538,
+                "buy_price": 7.9537,
+                "sell_swap_price": 7.9537,
+                "buy_swap_price": 7.9538,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP G-THEME-H-SSF",
+                "net_asset": 9051738.02,
+                "last_val": 8.0015,
+                "previous_val": 0,
+                "sell_price": 8.0016,
+                "buy_price": 8.0015,
+                "sell_swap_price": 8.0015,
+                "buy_swap_price": 8.0016,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP G-THEME-H-SSF",
+                "net_asset": 8902589.01,
+                "last_val": 7.8697,
+                "previous_val": 0,
+                "sell_price": 7.8698,
+                "buy_price": 7.8697,
+                "sell_swap_price": 7.8697,
+                "buy_swap_price": 7.8698,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP G-THEME-H-SSF",
+                "net_asset": 8793116.65,
+                "last_val": 7.767,
+                "previous_val": 0,
+                "sell_price": 7.7671,
+                "buy_price": 7.767,
+                "sell_swap_price": 7.767,
+                "buy_swap_price": 7.7671,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP G-THEME-H-SSF",
+                "net_asset": 8369508.17,
+                "last_val": 7.6936,
+                "previous_val": 0,
+                "sell_price": 7.6937,
+                "buy_price": 7.6936,
+                "sell_swap_price": 7.6936,
+                "buy_swap_price": 7.6937,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP G-THEME-H-SSF",
+                "net_asset": 8470576.44,
+                "last_val": 7.7865,
+                "previous_val": 0,
+                "sell_price": 7.7866,
+                "buy_price": 7.7865,
+                "sell_swap_price": 7.7865,
+                "buy_swap_price": 7.7866,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP G-THEME-H-SSF",
+                "net_asset": 8306548.29,
+                "last_val": 7.633,
+                "previous_val": 0,
+                "sell_price": 7.6331,
+                "buy_price": 7.633,
+                "sell_swap_price": 7.633,
+                "buy_swap_price": 7.6331,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

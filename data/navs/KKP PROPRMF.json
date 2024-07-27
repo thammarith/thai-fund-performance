@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720246033674,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722101986459,
+    "nextUpdate": 1722188075571,
     "data": {
-        "lastNav": "2024-07-03",
+        "lastNav": "2024-07-24",
         "fund": {
             "proj_id": "M0847_2554",
             "regis_id": "MF0683_2554",
@@ -15,7 +15,7 @@
             "unique_id": "C0000005025",
             "permit_us_investment": null,
             "invest_country_flag": "4",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -21857,6 +21857,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP PROPRMF",
+                "net_asset": 337303492.72,
+                "last_val": 16.1519,
+                "previous_val": 0,
+                "sell_price": 16.152,
+                "buy_price": 16.0711,
+                "sell_swap_price": 16.1519,
+                "buy_swap_price": 16.152,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP PROPRMF",
+                "net_asset": 338435953,
+                "last_val": 16.2153,
+                "previous_val": 0,
+                "sell_price": 16.2154,
+                "buy_price": 16.1342,
+                "sell_swap_price": 16.2153,
+                "buy_swap_price": 16.2154,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP PROPRMF",
+                "net_asset": 338520941.23,
+                "last_val": 16.2185,
+                "previous_val": 0,
+                "sell_price": 16.2186,
+                "buy_price": 16.1374,
+                "sell_swap_price": 16.2185,
+                "buy_swap_price": 16.2186,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP PROPRMF",
+                "net_asset": 339198609.1,
+                "last_val": 16.2509,
+                "previous_val": 0,
+                "sell_price": 16.251,
+                "buy_price": 16.1696,
+                "sell_swap_price": 16.2509,
+                "buy_swap_price": 16.251,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP PROPRMF",
+                "net_asset": 337400543.14,
+                "last_val": 16.1648,
+                "previous_val": 0,
+                "sell_price": 16.1649,
+                "buy_price": 16.084,
+                "sell_swap_price": 16.1648,
+                "buy_swap_price": 16.1649,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP PROPRMF",
+                "net_asset": 337556147.76,
+                "last_val": 16.1721,
+                "previous_val": 0,
+                "sell_price": 16.1722,
+                "buy_price": 16.0912,
+                "sell_swap_price": 16.1721,
+                "buy_swap_price": 16.1722,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP PROPRMF",
+                "net_asset": 331441365.31,
+                "last_val": 16.0982,
+                "previous_val": 0,
+                "sell_price": 16.0983,
+                "buy_price": 16.0177,
+                "sell_swap_price": 16.0982,
+                "buy_swap_price": 16.0983,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }

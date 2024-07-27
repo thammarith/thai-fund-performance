@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1720246034454,
-    "nextUpdate": 1720332016937,
+    "lastUpdate": 1722101989442,
+    "nextUpdate": 1722188075571,
     "data": {
-        "lastNav": "2024-07-04",
+        "lastNav": "2024-07-25",
         "fund": {
             "proj_id": "M0851_2566",
             "regis_id": "MF0527_2566",
@@ -15,7 +15,7 @@
             "unique_id": "C0000005025",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-07-27T07:02:17.43"
         },
         "navs": [
             {
@@ -1922,6 +1922,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-06T07:01:32"
+            },
+            {
+                "nav_date": "2024-07-15",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP EQ THAI ESG",
+                "net_asset": 109248002.43,
+                "last_val": 9.4028,
+                "previous_val": 0,
+                "sell_price": 9.4029,
+                "buy_price": 9.4028,
+                "sell_swap_price": 9.4028,
+                "buy_swap_price": 9.4029,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-16T09:00:21.347"
+            },
+            {
+                "nav_date": "2024-07-16",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP EQ THAI ESG",
+                "net_asset": 108927851.14,
+                "last_val": 9.3731,
+                "previous_val": 0,
+                "sell_price": 9.3732,
+                "buy_price": 9.3731,
+                "sell_swap_price": 9.3731,
+                "buy_swap_price": 9.3732,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-17T08:04:04.493"
+            },
+            {
+                "nav_date": "2024-07-17",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP EQ THAI ESG",
+                "net_asset": 108324514.54,
+                "last_val": 9.3196,
+                "previous_val": 0,
+                "sell_price": 9.3197,
+                "buy_price": 9.3196,
+                "sell_swap_price": 9.3196,
+                "buy_swap_price": 9.3197,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-18T08:22:27.287"
+            },
+            {
+                "nav_date": "2024-07-18",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP EQ THAI ESG",
+                "net_asset": 109089203.48,
+                "last_val": 9.3892,
+                "previous_val": 0,
+                "sell_price": 9.3893,
+                "buy_price": 9.3892,
+                "sell_swap_price": 9.3892,
+                "buy_swap_price": 9.3893,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-19T08:44:31.75"
+            },
+            {
+                "nav_date": "2024-07-19",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP EQ THAI ESG",
+                "net_asset": 108074305.92,
+                "last_val": 9.3111,
+                "previous_val": 0,
+                "sell_price": 9.3112,
+                "buy_price": 9.3111,
+                "sell_swap_price": 9.3111,
+                "buy_swap_price": 9.3112,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-23T08:24:54.193"
+            },
+            {
+                "nav_date": "2024-07-23",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP EQ THAI ESG",
+                "net_asset": 106890322.92,
+                "last_val": 9.2031,
+                "previous_val": 0,
+                "sell_price": 9.2032,
+                "buy_price": 9.2031,
+                "sell_swap_price": 9.2031,
+                "buy_swap_price": 9.2032,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-24T07:27:34.293"
+            },
+            {
+                "nav_date": "2024-07-24",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP EQ THAI ESG",
+                "net_asset": 106837045.69,
+                "last_val": 9.1927,
+                "previous_val": 0,
+                "sell_price": 9.1928,
+                "buy_price": 9.1927,
+                "sell_swap_price": 9.1927,
+                "buy_swap_price": 9.1928,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-25T07:41:44.45"
+            },
+            {
+                "nav_date": "2024-07-25",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP EQ THAI ESG",
+                "net_asset": 106201067.22,
+                "last_val": 9.1444,
+                "previous_val": 0,
+                "sell_price": 9.1445,
+                "buy_price": 9.1444,
+                "sell_swap_price": 9.1444,
+                "buy_swap_price": 9.1445,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-26T09:06:17.367"
             }
         ]
     }
