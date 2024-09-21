@@ -149,7 +149,9 @@ export const getAllNavs = async (funds: Fund[]): Promise<void> => {
             if (upperBound < today) upperBound = increasedUpperBound;
             else lowerBound = decreasedLowerBound;
 
-            await delay(100);
+            if (navs.length) await delay(100);
         }
     }
+
+    console.log('Done');
 };
