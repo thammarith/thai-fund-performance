@@ -1,1 +1,98 @@
-{"lastUpdate":1719796286773,"nextUpdate":1719845109408,"data":{"lastNav":"2024-05-31","fund":{"proj_id":"M0190_2567","regis_id":"MF0123_2567","regis_date":"2024-03-13","cancel_date":"-","proj_name_th":"กองทุนเปิดเค ตราสารหนี้ต่างประเทศ6MCU ห้ามขายผู้ลงทุนรายย่อย","proj_name_en":"K Foreign Fixed Income 6MCU Fund Not for Retail Investors","proj_abbr_name":"KFF6MCU-BR","fund_status":"RG","unique_id":"C0000000021","permit_us_investment":null,"invest_country_flag":"1","last_upd_date":"2024-06-14T07:03:09.317"},"navs":[{"nav_date":"2024-05-31","unique_id":"C0000000021","class_abbr_name":"KFF6MCU-BR","net_asset":4728478881.96,"last_val":10.0251,"previous_val":0,"sell_price":0,"buy_price":0,"sell_swap_price":0,"buy_swap_price":0,"remark_th":" ","remark_en":" ","last_upd_date":"2024-06-30T07:02:07"},{"nav_date":"2024-06-28","unique_id":"C0000000021","class_abbr_name":"KFF6MCU-BR","net_asset":4729040465.76,"last_val":10.0263,"previous_val":0,"sell_price":0,"buy_price":0,"sell_swap_price":0,"buy_swap_price":0,"remark_th":" ","remark_en":" ","last_upd_date":"2024-06-30T07:02:07"}]}}
+{
+    "lastUpdate": 1726853056700,
+    "nextUpdate": 1726938905826,
+    "data": {
+        "lastNav": "2024-09-19",
+        "fund": {
+            "proj_id": "M0190_2567",
+            "regis_id": "MF0123_2567",
+            "regis_date": "2024-03-13",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิดเค ตราสารหนี้ต่างประเทศ6MCU ห้ามขายผู้ลงทุนรายย่อย",
+            "proj_name_en": "K Foreign Fixed Income 6MCU Fund Not for Retail Investors",
+            "proj_abbr_name": "KFF6MCU-BR",
+            "fund_status": "RG",
+            "unique_id": "C0000000021",
+            "permit_us_investment": null,
+            "invest_country_flag": "1",
+            "last_upd_date": "2024-09-20T07:02:31.393"
+        },
+        "navs": [
+            {
+                "nav_date": "2024-05-31",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KFF6MCU-BR",
+                "net_asset": 4728478881.96,
+                "last_val": 10.0251,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-06-30T07:02:07"
+            },
+            {
+                "nav_date": "2024-06-28",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KFF6MCU-BR",
+                "net_asset": 4729040465.76,
+                "last_val": 10.0263,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-06-30T07:02:07"
+            },
+            {
+                "nav_date": "2024-07-31",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KFF6MCU-BR",
+                "net_asset": 4750917781.46,
+                "last_val": 10.0727,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-08-01T08:17:23.95"
+            },
+            {
+                "nav_date": "2024-08-30",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KFF6MCU-BR",
+                "net_asset": 4758909100.03,
+                "last_val": 10.0896,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-09-03T23:16:04.11"
+            },
+            {
+                "nav_date": "2024-09-19",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KFF6MCU-BR",
+                "net_asset": 4721769800.82,
+                "last_val": 10.0109,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-09-20T08:42:26.373"
+            }
+        ]
+    }
+}

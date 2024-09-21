@@ -1,1 +1,83 @@
-{"lastUpdate":1719773840790,"nextUpdate":1719845109408,"data":{"lastNav":"2024-05-31","fund":{"proj_id":"M0029_2567","regis_id":"MF0020_2567","regis_date":"2024-01-17","cancel_date":"-","proj_name_th":"กองทุนเปิดเค พันธบัตร 1 ปี Q","proj_name_en":"K Government Bond 1 Year Q Fund","proj_abbr_name":"KGB1YQ","fund_status":"RG","unique_id":"C0000000021","permit_us_investment":null,"invest_country_flag":"3","last_upd_date":"2024-06-14T07:03:09.317"},"navs":[{"nav_date":"2024-05-31","unique_id":"C0000000021","class_abbr_name":"KGB1YQ","net_asset":7186428272.63,"last_val":10.0881,"previous_val":0,"sell_price":0,"buy_price":0,"sell_swap_price":0,"buy_swap_price":0,"remark_th":" ","remark_en":" ","last_upd_date":"2024-06-30T07:02:07"},{"nav_date":"2024-06-28","unique_id":"C0000000021","class_abbr_name":"KGB1YQ","net_asset":7191409954.71,"last_val":10.0951,"previous_val":0,"sell_price":0,"buy_price":0,"sell_swap_price":0,"buy_swap_price":0,"remark_th":" ","remark_en":" ","last_upd_date":"2024-06-30T07:02:07"}]}}
+{
+    "lastUpdate": 1726852624773,
+    "nextUpdate": 1726938905826,
+    "data": {
+        "lastNav": "2024-08-30",
+        "fund": {
+            "proj_id": "M0029_2567",
+            "regis_id": "MF0020_2567",
+            "regis_date": "2024-01-17",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิดเค พันธบัตร 1 ปี Q",
+            "proj_name_en": "K Government Bond 1 Year Q Fund",
+            "proj_abbr_name": "KGB1YQ",
+            "fund_status": "RG",
+            "unique_id": "C0000000021",
+            "permit_us_investment": null,
+            "invest_country_flag": "3",
+            "last_upd_date": "2024-09-20T07:02:31.393"
+        },
+        "navs": [
+            {
+                "nav_date": "2024-05-31",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KGB1YQ",
+                "net_asset": 7186428272.63,
+                "last_val": 10.0881,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-06-30T07:02:07"
+            },
+            {
+                "nav_date": "2024-06-28",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KGB1YQ",
+                "net_asset": 7191409954.71,
+                "last_val": 10.0951,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-06-30T07:02:07"
+            },
+            {
+                "nav_date": "2024-07-31",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KGB1YQ",
+                "net_asset": 7204354130.9,
+                "last_val": 10.1133,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-08-01T08:17:23.95"
+            },
+            {
+                "nav_date": "2024-08-30",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KGB1YQ",
+                "net_asset": 7221254050.07,
+                "last_val": 10.137,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-09-03T23:16:04.11"
+            }
+        ]
+    }
+}

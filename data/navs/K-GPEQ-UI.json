@@ -1,0 +1,38 @@
+{
+    "lastUpdate": 1726853204955,
+    "nextUpdate": 1726938905826,
+    "data": {
+        "lastNav": "2024-08-01",
+        "fund": {
+            "proj_id": "M0214_2567",
+            "regis_id": "MF0255_2567",
+            "regis_date": "2024-05-20",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิดเค โกลบอลไพรเวทอิควิตี้ ห้ามขายผู้ลงทุนรายย่อย",
+            "proj_name_en": "K Global Private Equity Fund Not for Retail Investors",
+            "proj_abbr_name": "K-GPEQ-UI",
+            "fund_status": "RG",
+            "unique_id": "C0000000021",
+            "permit_us_investment": null,
+            "invest_country_flag": "1",
+            "last_upd_date": "2024-09-20T07:02:31.393"
+        },
+        "navs": [
+            {
+                "nav_date": "2024-08-01",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GPEQ-UI",
+                "net_asset": 941251625.34,
+                "last_val": 9.8915,
+                "previous_val": 0,
+                "sell_price": 10.0894,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-09-09T08:37:08.263"
+            }
+        ]
+    }
+}

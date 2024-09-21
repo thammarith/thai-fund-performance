@@ -1,0 +1,53 @@
+{
+    "lastUpdate": 1726852823123,
+    "nextUpdate": 1726938905826,
+    "data": {
+        "lastNav": "2024-08-30",
+        "fund": {
+            "proj_id": "M0094_2567",
+            "regis_id": "MF0381_2567",
+            "regis_date": "2024-07-18",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิดเค พันธบัตรต่างประเทศ 6MA USD",
+            "proj_name_en": "K Foreign Government Bond 6MA USD Fund",
+            "proj_abbr_name": "KFGB6MA(USD)",
+            "fund_status": "RG",
+            "unique_id": "C0000000021",
+            "permit_us_investment": null,
+            "invest_country_flag": "1",
+            "last_upd_date": "2024-09-20T07:02:31.393"
+        },
+        "navs": [
+            {
+                "nav_date": "2024-07-31",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KFGB6MA(USD)",
+                "net_asset": 49916332.51,
+                "last_val": 10.0186,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-08-01T08:17:23.95"
+            },
+            {
+                "nav_date": "2024-08-30",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KFGB6MA(USD)",
+                "net_asset": 50144486.15,
+                "last_val": 10.0644,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-09-03T23:16:04.11"
+            }
+        ]
+    }
+}

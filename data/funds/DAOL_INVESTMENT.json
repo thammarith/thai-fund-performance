@@ -1,6 +1,6 @@
 {
-    "lastUpdate": 1722099206539,
-    "nextUpdate": 1724777596795,
+    "lastUpdate": 1726852518840,
+    "nextUpdate": 1729444505827,
     "data": [
         {
             "proj_id": "M0008_2564",
@@ -14,7 +14,7 @@
             "unique_id": "C0000028866",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-07-27T07:02:17.43"
+            "last_upd_date": "2024-09-20T07:02:31.393"
         },
         {
             "proj_id": "M0014_2565",
@@ -28,7 +28,7 @@
             "unique_id": "C0000028866",
             "permit_us_investment": null,
             "invest_country_flag": "4",
-            "last_upd_date": "2024-07-27T07:02:17.43"
+            "last_upd_date": "2024-09-20T07:02:31.393"
         },
         {
             "proj_id": "M0014_2566",
@@ -42,7 +42,7 @@
             "unique_id": "C0000028866",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-07-27T07:02:17.43"
+            "last_upd_date": "2024-09-20T07:02:31.393"
         },
         {
             "proj_id": "M0024_2563",
@@ -56,7 +56,7 @@
             "unique_id": "C0000028866",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-07-27T07:02:17.43"
+            "last_upd_date": "2024-09-20T07:02:31.393"
         },
         {
             "proj_id": "M0027_2563",
@@ -70,7 +70,7 @@
             "unique_id": "C0000028866",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-07-27T07:02:17.43"
+            "last_upd_date": "2024-09-20T07:02:31.393"
         },
         {
             "proj_id": "M0055_2564",
@@ -84,7 +84,7 @@
             "unique_id": "C0000028866",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-07-27T07:02:17.43"
+            "last_upd_date": "2024-09-20T07:02:31.393"
         },
         {
             "proj_id": "M0078_2563",
@@ -98,7 +98,7 @@
             "unique_id": "C0000028866",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-07-27T07:02:17.43"
+            "last_upd_date": "2024-09-20T07:02:31.393"
         },
         {
             "proj_id": "M0082_2567",
@@ -112,7 +112,7 @@
             "unique_id": "C0000028866",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-07-27T07:02:17.43"
+            "last_upd_date": "2024-09-20T07:02:31.393"
         },
         {
             "proj_id": "M0104_2564",
@@ -126,7 +126,7 @@
             "unique_id": "C0000028866",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-07-27T07:02:17.43"
+            "last_upd_date": "2024-09-20T07:02:31.393"
         },
         {
             "proj_id": "M0105_2562",
@@ -140,7 +140,7 @@
             "unique_id": "C0000028866",
             "permit_us_investment": null,
             "invest_country_flag": "4",
-            "last_upd_date": "2024-07-27T07:02:17.43"
+            "last_upd_date": "2024-09-20T07:02:31.393"
         },
         {
             "proj_id": "M0105_2563",
@@ -154,7 +154,7 @@
             "unique_id": "C0000028866",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-07-27T07:02:17.43"
+            "last_upd_date": "2024-09-20T07:02:31.393"
         },
         {
             "proj_id": "M0110_2565",
@@ -168,7 +168,7 @@
             "unique_id": "C0000028866",
             "permit_us_investment": null,
             "invest_country_flag": "4",
-            "last_upd_date": "2024-07-27T07:02:17.43"
+            "last_upd_date": "2024-09-20T07:02:31.393"
         },
         {
             "proj_id": "M0113_2563",
@@ -182,7 +182,7 @@
             "unique_id": "C0000028866",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-07-27T07:02:17.43"
+            "last_upd_date": "2024-09-20T07:02:31.393"
         },
         {
             "proj_id": "M0137_2562",
@@ -192,11 +192,11 @@
             "proj_name_th": "กองทุนเปิด ดาโอ ฟิกซ์ อินคัม",
             "proj_name_en": "DAOL FIXED INCOME FUND",
             "proj_abbr_name": "DAOL-INCOME",
-            "fund_status": "CA",
+            "fund_status": "LI",
             "unique_id": "C0000028866",
             "permit_us_investment": null,
             "invest_country_flag": "4",
-            "last_upd_date": "2024-07-27T07:02:17.43"
+            "last_upd_date": "2024-09-20T07:02:31.393"
         },
         {
             "proj_id": "M0159_2562",
@@ -210,7 +210,7 @@
             "unique_id": "C0000028866",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-07-27T07:02:17.43"
+            "last_upd_date": "2024-09-20T07:02:31.393"
         },
         {
             "proj_id": "M0162_2565",
@@ -224,7 +224,7 @@
             "unique_id": "C0000028866",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2024-07-27T07:02:17.43"
+            "last_upd_date": "2024-09-20T07:02:31.393"
         },
         {
             "proj_id": "M0169_2565",
@@ -238,7 +238,7 @@
             "unique_id": "C0000028866",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-07-27T07:02:17.43"
+            "last_upd_date": "2024-09-20T07:02:31.393"
         },
         {
             "proj_id": "M0197_2563",
@@ -252,7 +252,7 @@
             "unique_id": "C0000028866",
             "permit_us_investment": null,
             "invest_country_flag": "4",
-            "last_upd_date": "2024-07-27T07:02:17.43"
+            "last_upd_date": "2024-09-20T07:02:31.393"
         },
         {
             "proj_id": "M0203_2562",
@@ -266,7 +266,7 @@
             "unique_id": "C0000028866",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-07-27T07:02:17.43"
+            "last_upd_date": "2024-09-20T07:02:31.393"
         },
         {
             "proj_id": "M0205_2564",
@@ -280,7 +280,7 @@
             "unique_id": "C0000028866",
             "permit_us_investment": null,
             "invest_country_flag": "4",
-            "last_upd_date": "2024-07-27T07:02:17.43"
+            "last_upd_date": "2024-09-20T07:02:31.393"
         },
         {
             "proj_id": "M0210_2563",
@@ -294,7 +294,7 @@
             "unique_id": "C0000028866",
             "permit_us_investment": null,
             "invest_country_flag": "4",
-            "last_upd_date": "2024-07-27T07:02:17.43"
+            "last_upd_date": "2024-09-20T07:02:31.393"
         },
         {
             "proj_id": "M0220_2564",
@@ -308,7 +308,7 @@
             "unique_id": "C0000028866",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-07-27T07:02:17.43"
+            "last_upd_date": "2024-09-20T07:02:31.393"
         },
         {
             "proj_id": "M0246_2562",
@@ -322,7 +322,7 @@
             "unique_id": "C0000028866",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-07-27T07:02:17.43"
+            "last_upd_date": "2024-09-20T07:02:31.393"
         },
         {
             "proj_id": "M0252_2562",
@@ -336,7 +336,7 @@
             "unique_id": "C0000028866",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-07-27T07:02:17.43"
+            "last_upd_date": "2024-09-20T07:02:31.393"
         },
         {
             "proj_id": "M0271_2564",
@@ -350,7 +350,7 @@
             "unique_id": "C0000028866",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-07-27T07:02:17.43"
+            "last_upd_date": "2024-09-20T07:02:31.393"
         },
         {
             "proj_id": "M0273_2564",
@@ -364,7 +364,7 @@
             "unique_id": "C0000028866",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-07-27T07:02:17.43"
+            "last_upd_date": "2024-09-20T07:02:31.393"
         },
         {
             "proj_id": "M0275_2563",
@@ -378,7 +378,7 @@
             "unique_id": "C0000028866",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-07-27T07:02:17.43"
+            "last_upd_date": "2024-09-20T07:02:31.393"
         },
         {
             "proj_id": "M0300_2563",
@@ -392,7 +392,7 @@
             "unique_id": "C0000028866",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-07-27T07:02:17.43"
+            "last_upd_date": "2024-09-20T07:02:31.393"
         },
         {
             "proj_id": "M0310_2562",
@@ -406,7 +406,7 @@
             "unique_id": "C0000028866",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-07-27T07:02:17.43"
+            "last_upd_date": "2024-09-20T07:02:31.393"
         },
         {
             "proj_id": "M0318_2562",
@@ -420,7 +420,7 @@
             "unique_id": "C0000028866",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-07-27T07:02:17.43"
+            "last_upd_date": "2024-09-20T07:02:31.393"
         },
         {
             "proj_id": "M0327_2566",
@@ -434,7 +434,7 @@
             "unique_id": "C0000028866",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2024-07-27T07:02:17.43"
+            "last_upd_date": "2024-09-20T07:02:31.393"
         },
         {
             "proj_id": "M0328_2567",
@@ -448,7 +448,7 @@
             "unique_id": "C0000028866",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-07-27T07:02:17.43"
+            "last_upd_date": "2024-09-20T07:02:31.393"
         },
         {
             "proj_id": "M0354_2562",
@@ -462,7 +462,7 @@
             "unique_id": "C0000028866",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-07-27T07:02:17.43"
+            "last_upd_date": "2024-09-20T07:02:31.393"
         },
         {
             "proj_id": "M0370_2563",
@@ -476,7 +476,7 @@
             "unique_id": "C0000028866",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-07-27T07:02:17.43"
+            "last_upd_date": "2024-09-20T07:02:31.393"
         },
         {
             "proj_id": "M0398_2563",
@@ -490,7 +490,7 @@
             "unique_id": "C0000028866",
             "permit_us_investment": null,
             "invest_country_flag": "4",
-            "last_upd_date": "2024-07-27T07:02:17.43"
+            "last_upd_date": "2024-09-20T07:02:31.393"
         },
         {
             "proj_id": "M0407_2563",
@@ -504,7 +504,7 @@
             "unique_id": "C0000028866",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-07-27T07:02:17.43"
+            "last_upd_date": "2024-09-20T07:02:31.393"
         },
         {
             "proj_id": "M0417_2564",
@@ -518,7 +518,7 @@
             "unique_id": "C0000028866",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-07-27T07:02:17.43"
+            "last_upd_date": "2024-09-20T07:02:31.393"
         },
         {
             "proj_id": "M0433_2562",
@@ -532,7 +532,7 @@
             "unique_id": "C0000028866",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-07-27T07:02:17.43"
+            "last_upd_date": "2024-09-20T07:02:31.393"
         },
         {
             "proj_id": "M0437_2565",
@@ -546,7 +546,7 @@
             "unique_id": "C0000028866",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-07-27T07:02:17.43"
+            "last_upd_date": "2024-09-20T07:02:31.393"
         },
         {
             "proj_id": "M0461_2563",
@@ -560,7 +560,7 @@
             "unique_id": "C0000028866",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-07-27T07:02:17.43"
+            "last_upd_date": "2024-09-20T07:02:31.393"
         },
         {
             "proj_id": "M0485_2564",
@@ -574,7 +574,7 @@
             "unique_id": "C0000028866",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-07-27T07:02:17.43"
+            "last_upd_date": "2024-09-20T07:02:31.393"
         },
         {
             "proj_id": "M0498_2562",
@@ -588,7 +588,7 @@
             "unique_id": "C0000028866",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-07-27T07:02:17.43"
+            "last_upd_date": "2024-09-20T07:02:31.393"
         },
         {
             "proj_id": "M0502_2563",
@@ -602,7 +602,7 @@
             "unique_id": "C0000028866",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-07-27T07:02:17.43"
+            "last_upd_date": "2024-09-20T07:02:31.393"
         },
         {
             "proj_id": "M0506_2563",
@@ -616,7 +616,7 @@
             "unique_id": "C0000028866",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-07-27T07:02:17.43"
+            "last_upd_date": "2024-09-20T07:02:31.393"
         },
         {
             "proj_id": "M0541_2563",
@@ -630,7 +630,7 @@
             "unique_id": "C0000028866",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-07-27T07:02:17.43"
+            "last_upd_date": "2024-09-20T07:02:31.393"
         },
         {
             "proj_id": "M0547_2562",
@@ -644,7 +644,7 @@
             "unique_id": "C0000028866",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-07-27T07:02:17.43"
+            "last_upd_date": "2024-09-20T07:02:31.393"
         },
         {
             "proj_id": "M0568_2562",
@@ -658,7 +658,7 @@
             "unique_id": "C0000028866",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-07-27T07:02:17.43"
+            "last_upd_date": "2024-09-20T07:02:31.393"
         },
         {
             "proj_id": "M0568_2566",
@@ -672,7 +672,7 @@
             "unique_id": "C0000028866",
             "permit_us_investment": null,
             "invest_country_flag": "4",
-            "last_upd_date": "2024-07-27T07:02:17.43"
+            "last_upd_date": "2024-09-20T07:02:31.393"
         },
         {
             "proj_id": "M0593_2563",
@@ -686,7 +686,7 @@
             "unique_id": "C0000028866",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-07-27T07:02:17.43"
+            "last_upd_date": "2024-09-20T07:02:31.393"
         },
         {
             "proj_id": "M0601_2562",
@@ -700,7 +700,7 @@
             "unique_id": "C0000028866",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-07-27T07:02:17.43"
+            "last_upd_date": "2024-09-20T07:02:31.393"
         },
         {
             "proj_id": "M0641_2562",
@@ -714,7 +714,7 @@
             "unique_id": "C0000028866",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-07-27T07:02:17.43"
+            "last_upd_date": "2024-09-20T07:02:31.393"
         },
         {
             "proj_id": "M0683_2562",
@@ -728,7 +728,7 @@
             "unique_id": "C0000028866",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-07-27T07:02:17.43"
+            "last_upd_date": "2024-09-20T07:02:31.393"
         },
         {
             "proj_id": "M0688_2566",
@@ -742,7 +742,7 @@
             "unique_id": "C0000028866",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-07-27T07:02:17.43"
+            "last_upd_date": "2024-09-20T07:02:31.393"
         },
         {
             "proj_id": "M0696_2566",
@@ -756,7 +756,7 @@
             "unique_id": "C0000028866",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-07-27T07:02:17.43"
+            "last_upd_date": "2024-09-20T07:02:31.393"
         },
         {
             "proj_id": "M0737_2562",
@@ -770,7 +770,7 @@
             "unique_id": "C0000028866",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2024-07-27T07:02:17.43"
+            "last_upd_date": "2024-09-20T07:02:31.393"
         }
     ]
 }
