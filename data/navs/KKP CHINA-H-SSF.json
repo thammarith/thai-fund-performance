@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1722101917798,
-    "nextUpdate": 1722188075571,
+    "lastUpdate": 1728360218400,
+    "nextUpdate": 1728445306840,
     "data": {
-        "lastNav": "2024-07-24",
+        "lastNav": "2024-10-04",
         "fund": {
             "proj_id": "M0432_2565",
             "regis_id": "MF0077_2566",
@@ -15,7 +15,7 @@
             "unique_id": "C0000005025",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-07-27T07:02:17.43"
+            "last_upd_date": "2024-09-20T07:02:31.393"
         },
         "navs": [
             {
@@ -122,6 +122,141 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-26T09:06:17.367"
+            },
+            {
+                "nav_date": "2024-09-23",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP CHINA-H-SSF",
+                "net_asset": 13841741.43,
+                "last_val": 7.9229,
+                "previous_val": 0,
+                "sell_price": 7.923,
+                "buy_price": 7.9229,
+                "sell_swap_price": 7.9229,
+                "buy_swap_price": 7.923,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-09-26T07:48:57.42"
+            },
+            {
+                "nav_date": "2024-09-24",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP CHINA-H-SSF",
+                "net_asset": 15111194.78,
+                "last_val": 8.6495,
+                "previous_val": 0,
+                "sell_price": 8.6496,
+                "buy_price": 8.6495,
+                "sell_swap_price": 8.6495,
+                "buy_swap_price": 8.6496,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-09-27T08:40:14.763"
+            },
+            {
+                "nav_date": "2024-09-25",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP CHINA-H-SSF",
+                "net_asset": 15131219.04,
+                "last_val": 8.661,
+                "previous_val": 0,
+                "sell_price": 8.6611,
+                "buy_price": 8.661,
+                "sell_swap_price": 8.661,
+                "buy_swap_price": 8.6611,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-09-30T08:15:58.27"
+            },
+            {
+                "nav_date": "2024-09-26",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP CHINA-H-SSF",
+                "net_asset": 16100701.73,
+                "last_val": 9.1965,
+                "previous_val": 0,
+                "sell_price": 9.1966,
+                "buy_price": 9.1965,
+                "sell_swap_price": 9.1965,
+                "buy_swap_price": 9.1966,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-01T07:38:55.78"
+            },
+            {
+                "nav_date": "2024-09-27",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP CHINA-H-SSF",
+                "net_asset": 16698568.31,
+                "last_val": 9.5292,
+                "previous_val": 0,
+                "sell_price": 9.5293,
+                "buy_price": 9.5292,
+                "sell_swap_price": 9.5292,
+                "buy_swap_price": 9.5293,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-02T08:24:23.163"
+            },
+            {
+                "nav_date": "2024-09-30",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP CHINA-H-SSF",
+                "net_asset": 17358388.17,
+                "last_val": 9.879,
+                "previous_val": 0,
+                "sell_price": 9.8791,
+                "buy_price": 9.879,
+                "sell_swap_price": 9.879,
+                "buy_swap_price": 9.8791,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-04T08:07:35.313"
+            },
+            {
+                "nav_date": "2024-10-02",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP CHINA-H-SSF",
+                "net_asset": 19195390.79,
+                "last_val": 10.8183,
+                "previous_val": 0,
+                "sell_price": 10.8184,
+                "buy_price": 10.8183,
+                "sell_swap_price": 10.8183,
+                "buy_swap_price": 10.8184,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-07T08:31:47.35"
+            },
+            {
+                "nav_date": "2024-10-03",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP CHINA-H-SSF",
+                "net_asset": 19769728.41,
+                "last_val": 10.7528,
+                "previous_val": 0,
+                "sell_price": 10.7529,
+                "buy_price": 10.7528,
+                "sell_swap_price": 10.7528,
+                "buy_swap_price": 10.7529,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-08T07:43:58.373"
+            },
+            {
+                "nav_date": "2024-10-04",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP CHINA-H-SSF",
+                "net_asset": 19579952.75,
+                "last_val": 10.9577,
+                "previous_val": 0,
+                "sell_price": 10.9578,
+                "buy_price": 10.9577,
+                "sell_swap_price": 10.9577,
+                "buy_swap_price": 10.9578,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-08T07:43:58.373"
             }
         ]
     }

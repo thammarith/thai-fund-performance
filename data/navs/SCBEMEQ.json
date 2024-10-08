@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1722101483490,
-    "nextUpdate": 1722187421338,
+    "lastUpdate": 1728359935284,
+    "nextUpdate": 1728445306840,
     "data": {
-        "lastNav": "2024-07-23",
+        "lastNav": "2024-10-03",
         "fund": {
             "proj_id": "M0792_2555",
             "regis_id": "MF0820_2555",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000239",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-07-27T07:02:17.43"
+            "last_upd_date": "2024-09-20T07:02:31.393"
         },
         "navs": [
             {
@@ -107,6 +107,141 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-26T09:06:17.367"
+            },
+            {
+                "nav_date": "2024-09-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBEMEQ",
+                "net_asset": 141342547.81,
+                "last_val": 7.2532,
+                "previous_val": 0,
+                "sell_price": 7.2921,
+                "buy_price": 7.2532,
+                "sell_swap_price": 7.2532,
+                "buy_swap_price": 7.2921,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-09-27T08:40:14.763"
+            },
+            {
+                "nav_date": "2024-09-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBEMEQ",
+                "net_asset": 144091651.24,
+                "last_val": 7.394,
+                "previous_val": 0,
+                "sell_price": 7.4337,
+                "buy_price": 7.394,
+                "sell_swap_price": 7.394,
+                "buy_swap_price": 7.4337,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-09-30T08:15:58.27"
+            },
+            {
+                "nav_date": "2024-09-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBEMEQ",
+                "net_asset": 144574321.49,
+                "last_val": 7.4177,
+                "previous_val": 0,
+                "sell_price": 7.4575,
+                "buy_price": 7.4177,
+                "sell_swap_price": 7.4177,
+                "buy_swap_price": 7.4575,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-01T07:38:55.78"
+            },
+            {
+                "nav_date": "2024-09-26",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBEMEQ",
+                "net_asset": 149583702.58,
+                "last_val": 7.6745,
+                "previous_val": 0,
+                "sell_price": 7.7157,
+                "buy_price": 7.6745,
+                "sell_swap_price": 7.6745,
+                "buy_swap_price": 7.7157,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-02T08:24:23.163"
+            },
+            {
+                "nav_date": "2024-09-27",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBEMEQ",
+                "net_asset": 151091526.24,
+                "last_val": 7.7517,
+                "previous_val": 0,
+                "sell_price": 7.7933,
+                "buy_price": 7.7517,
+                "sell_swap_price": 7.7517,
+                "buy_swap_price": 7.7933,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-03T08:50:21.037"
+            },
+            {
+                "nav_date": "2024-09-30",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBEMEQ",
+                "net_asset": 149102262.88,
+                "last_val": 7.6491,
+                "previous_val": 0,
+                "sell_price": 7.6901,
+                "buy_price": 7.6491,
+                "sell_swap_price": 7.6491,
+                "buy_swap_price": 7.6901,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-04T08:07:35.313"
+            },
+            {
+                "nav_date": "2024-10-01",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBEMEQ",
+                "net_asset": 149836094.09,
+                "last_val": 7.688,
+                "previous_val": 0,
+                "sell_price": 7.7292,
+                "buy_price": 7.688,
+                "sell_swap_price": 7.688,
+                "buy_swap_price": 7.7292,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-07T08:31:47.35"
+            },
+            {
+                "nav_date": "2024-10-02",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBEMEQ",
+                "net_asset": 153166610.49,
+                "last_val": 7.8665,
+                "previous_val": 0,
+                "sell_price": 7.9087,
+                "buy_price": 7.8665,
+                "sell_swap_price": 7.8665,
+                "buy_swap_price": 7.9087,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-08T07:43:58.373"
+            },
+            {
+                "nav_date": "2024-10-03",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBEMEQ",
+                "net_asset": 151196309.93,
+                "last_val": 7.7667,
+                "previous_val": 0,
+                "sell_price": 7.8084,
+                "buy_price": 7.7667,
+                "sell_swap_price": 7.7667,
+                "buy_swap_price": 7.8084,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-08T07:43:58.373"
             }
         ]
     }

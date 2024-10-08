@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1719905347742,
-    "nextUpdate": 1719979140861,
+    "lastUpdate": 1728360064508,
+    "nextUpdate": 1728445306840,
     "data": {
-        "lastNav": "2024-05-31",
+        "lastNav": "2024-09-30",
         "fund": {
             "proj_id": "M0343_2564",
             "regis_id": "MF0415_2564",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000569",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-06-14T07:03:09.317"
+            "last_upd_date": "2024-09-20T07:02:31.393"
         },
         "navs": [
             {
@@ -47,6 +47,21 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-02T07:02:02"
+            },
+            {
+                "nav_date": "2024-09-30",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-LS2-UI",
+                "net_asset": 400060160.66,
+                "last_val": 11.6448,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-02T08:24:23.163"
             }
         ]
     }

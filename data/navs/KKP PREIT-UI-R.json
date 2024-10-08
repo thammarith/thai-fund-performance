@@ -1,0 +1,68 @@
+{
+    "lastUpdate": 1728360199353,
+    "nextUpdate": 1728445306840,
+    "data": {
+        "lastNav": "2024-09-30",
+        "fund": {
+            "proj_id": "M0371_2565",
+            "regis_id": "MF0296_2565",
+            "regis_date": "2022-09-19",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิดเคเคพี ไพรเวท รีท ห้ามขายผู้ลงทุนรายย่อย",
+            "proj_name_en": "KKP PRIVATE REIT FUND NOT FOR RETAIL INVESTORS",
+            "proj_abbr_name": "KKP PREIT-UI FUND",
+            "fund_status": "RG",
+            "unique_id": "C0000005025",
+            "permit_us_investment": null,
+            "invest_country_flag": "1",
+            "last_upd_date": "2024-09-20T07:02:31.393"
+        },
+        "navs": [
+            {
+                "nav_date": "2024-09-26",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP PREIT-UI-R",
+                "net_asset": 174897510.39,
+                "last_val": 8.5965,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 8.4246,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-04T08:07:35.313"
+            },
+            {
+                "nav_date": "2024-09-27",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP PREIT-UI-R",
+                "net_asset": 173789230.88,
+                "last_val": 8.542,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 8.3712,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-04T08:07:35.313"
+            },
+            {
+                "nav_date": "2024-09-30",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP PREIT-UI-R",
+                "net_asset": 171889404.25,
+                "last_val": 8.4871,
+                "previous_val": 0,
+                "sell_price": 8.5933,
+                "buy_price": 8.3174,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-08T07:43:58.373"
+            }
+        ]
+    }
+}

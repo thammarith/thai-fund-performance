@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1722101535185,
-    "nextUpdate": 1722187421338,
+    "lastUpdate": 1728359966572,
+    "nextUpdate": 1728445306840,
     "data": {
-        "lastNav": "2024-07-23",
+        "lastNav": "2024-10-03",
         "fund": {
             "proj_id": "M0369_2564",
             "regis_id": "MF0367_2564",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000329",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-07-27T07:02:17.43"
+            "last_upd_date": "2024-09-20T07:02:31.393"
         },
         "navs": [
             {
@@ -9632,6 +9632,141 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-26T09:06:17.367"
+            },
+            {
+                "nav_date": "2024-09-23",
+                "unique_id": "C0000000329",
+                "class_abbr_name": "B-SIPSSF",
+                "net_asset": 406031231.45,
+                "last_val": 9.428,
+                "previous_val": 0,
+                "sell_price": 9.4281,
+                "buy_price": 9.428,
+                "sell_swap_price": 9.428,
+                "buy_swap_price": 9.4281,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-09-27T08:40:14.763"
+            },
+            {
+                "nav_date": "2024-09-24",
+                "unique_id": "C0000000329",
+                "class_abbr_name": "B-SIPSSF",
+                "net_asset": 406505285.73,
+                "last_val": 9.4372,
+                "previous_val": 0,
+                "sell_price": 9.4373,
+                "buy_price": 9.4372,
+                "sell_swap_price": 9.4372,
+                "buy_swap_price": 9.4373,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-09-30T08:15:58.27"
+            },
+            {
+                "nav_date": "2024-09-25",
+                "unique_id": "C0000000329",
+                "class_abbr_name": "B-SIPSSF",
+                "net_asset": 405597787.73,
+                "last_val": 9.4215,
+                "previous_val": 0,
+                "sell_price": 9.4216,
+                "buy_price": 9.4215,
+                "sell_swap_price": 9.4215,
+                "buy_swap_price": 9.4216,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-01T07:38:55.78"
+            },
+            {
+                "nav_date": "2024-09-26",
+                "unique_id": "C0000000329",
+                "class_abbr_name": "B-SIPSSF",
+                "net_asset": 410621638.05,
+                "last_val": 9.5356,
+                "previous_val": 0,
+                "sell_price": 9.5357,
+                "buy_price": 9.5356,
+                "sell_swap_price": 9.5356,
+                "buy_swap_price": 9.5357,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-02T08:24:23.163"
+            },
+            {
+                "nav_date": "2024-09-27",
+                "unique_id": "C0000000329",
+                "class_abbr_name": "B-SIPSSF",
+                "net_asset": 409713820.07,
+                "last_val": 9.5086,
+                "previous_val": 0,
+                "sell_price": 9.5087,
+                "buy_price": 9.5086,
+                "sell_swap_price": 9.5086,
+                "buy_swap_price": 9.5087,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-03T08:50:21.037"
+            },
+            {
+                "nav_date": "2024-09-30",
+                "unique_id": "C0000000329",
+                "class_abbr_name": "B-SIPSSF",
+                "net_asset": 405961716.99,
+                "last_val": 9.4187,
+                "previous_val": 0,
+                "sell_price": 9.4188,
+                "buy_price": 9.4187,
+                "sell_swap_price": 9.4187,
+                "buy_swap_price": 9.4188,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-04T08:07:35.313"
+            },
+            {
+                "nav_date": "2024-10-01",
+                "unique_id": "C0000000329",
+                "class_abbr_name": "B-SIPSSF",
+                "net_asset": 406608189.79,
+                "last_val": 9.4303,
+                "previous_val": 0,
+                "sell_price": 9.4304,
+                "buy_price": 9.4303,
+                "sell_swap_price": 9.4303,
+                "buy_swap_price": 9.4304,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-07T08:31:47.35"
+            },
+            {
+                "nav_date": "2024-10-02",
+                "unique_id": "C0000000329",
+                "class_abbr_name": "B-SIPSSF",
+                "net_asset": 405819401.17,
+                "last_val": 9.4109,
+                "previous_val": 0,
+                "sell_price": 9.411,
+                "buy_price": 9.4109,
+                "sell_swap_price": 9.4109,
+                "buy_swap_price": 9.411,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-08T07:43:58.373"
+            },
+            {
+                "nav_date": "2024-10-03",
+                "unique_id": "C0000000329",
+                "class_abbr_name": "B-SIPSSF",
+                "net_asset": 407954280.94,
+                "last_val": 9.459,
+                "previous_val": 0,
+                "sell_price": 9.4591,
+                "buy_price": 9.459,
+                "sell_swap_price": 9.459,
+                "buy_swap_price": 9.4591,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-08T07:43:58.373"
             }
         ]
     }

@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1722101510947,
-    "nextUpdate": 1722187421338,
+    "lastUpdate": 1728359955023,
+    "nextUpdate": 1728445306840,
     "data": {
-        "lastNav": "2024-07-23",
+        "lastNav": "2024-10-03",
         "fund": {
             "proj_id": "M0909_2555",
             "regis_id": "MF0107_2556",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000239",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-07-27T07:02:17.43"
+            "last_upd_date": "2024-09-20T07:02:31.393"
         },
         "navs": [
             {
@@ -11447,6 +11447,141 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-26T09:06:17.367"
+            },
+            {
+                "nav_date": "2024-09-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGEQA",
+                "net_asset": 174337410.37,
+                "last_val": 19.5302,
+                "previous_val": 0,
+                "sell_price": 19.6348,
+                "buy_price": 19.5302,
+                "sell_swap_price": 19.5302,
+                "buy_swap_price": 19.6348,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-09-27T08:40:14.763"
+            },
+            {
+                "nav_date": "2024-09-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGEQA",
+                "net_asset": 175263973.85,
+                "last_val": 19.6178,
+                "previous_val": 0,
+                "sell_price": 19.7229,
+                "buy_price": 19.6178,
+                "sell_swap_price": 19.6178,
+                "buy_swap_price": 19.7229,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-09-30T08:15:58.27"
+            },
+            {
+                "nav_date": "2024-09-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGEQA",
+                "net_asset": 175115905.78,
+                "last_val": 19.6358,
+                "previous_val": 0,
+                "sell_price": 19.741,
+                "buy_price": 19.6358,
+                "sell_swap_price": 19.6358,
+                "buy_swap_price": 19.741,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-01T07:38:55.78"
+            },
+            {
+                "nav_date": "2024-09-26",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGEQA",
+                "net_asset": 176588979.1,
+                "last_val": 19.6239,
+                "previous_val": 0,
+                "sell_price": 19.729,
+                "buy_price": 19.6239,
+                "sell_swap_price": 19.6239,
+                "buy_swap_price": 19.729,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-02T08:24:23.163"
+            },
+            {
+                "nav_date": "2024-09-27",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGEQA",
+                "net_asset": 180225378.45,
+                "last_val": 19.738,
+                "previous_val": 0,
+                "sell_price": 19.8437,
+                "buy_price": 19.738,
+                "sell_swap_price": 19.738,
+                "buy_swap_price": 19.8437,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-03T08:50:21.037"
+            },
+            {
+                "nav_date": "2024-09-30",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGEQA",
+                "net_asset": 179386429.61,
+                "last_val": 19.7026,
+                "previous_val": 0,
+                "sell_price": 19.8081,
+                "buy_price": 19.7026,
+                "sell_swap_price": 19.7026,
+                "buy_swap_price": 19.8081,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-04T08:07:35.313"
+            },
+            {
+                "nav_date": "2024-10-01",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGEQA",
+                "net_asset": 178577859.87,
+                "last_val": 19.6607,
+                "previous_val": 0,
+                "sell_price": 19.766,
+                "buy_price": 19.6607,
+                "sell_swap_price": 19.6607,
+                "buy_swap_price": 19.766,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-07T08:31:47.35"
+            },
+            {
+                "nav_date": "2024-10-02",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGEQA",
+                "net_asset": 177602873.45,
+                "last_val": 19.5455,
+                "previous_val": 0,
+                "sell_price": 19.6502,
+                "buy_price": 19.5455,
+                "sell_swap_price": 19.5455,
+                "buy_swap_price": 19.6502,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-08T07:43:58.373"
+            },
+            {
+                "nav_date": "2024-10-03",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGEQA",
+                "net_asset": 177367972.48,
+                "last_val": 19.5189,
+                "previous_val": 0,
+                "sell_price": 19.6234,
+                "buy_price": 19.5189,
+                "sell_swap_price": 19.5189,
+                "buy_swap_price": 19.6234,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-08T07:43:58.373"
             }
         ]
     }

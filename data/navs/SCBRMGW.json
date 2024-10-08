@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1722101519347,
-    "nextUpdate": 1722187421338,
+    "lastUpdate": 1728359960777,
+    "nextUpdate": 1728445306840,
     "data": {
-        "lastNav": "2024-07-23",
+        "lastNav": "2024-10-03",
         "fund": {
             "proj_id": "M0933_2554",
             "regis_id": "MF0597_2555",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000239",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-07-27T07:02:17.43"
+            "last_upd_date": "2024-09-20T07:02:31.393"
         },
         "navs": [
             {
@@ -11447,6 +11447,141 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-26T09:06:17.367"
+            },
+            {
+                "nav_date": "2024-09-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBRMGW",
+                "net_asset": 69830731.07,
+                "last_val": 11.0634,
+                "previous_val": 0,
+                "sell_price": 11.0635,
+                "buy_price": 11.0634,
+                "sell_swap_price": 11.0634,
+                "buy_swap_price": 11.0635,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-09-27T08:40:14.763"
+            },
+            {
+                "nav_date": "2024-09-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBRMGW",
+                "net_asset": 70296343.64,
+                "last_val": 11.1288,
+                "previous_val": 0,
+                "sell_price": 11.1289,
+                "buy_price": 11.1288,
+                "sell_swap_price": 11.1288,
+                "buy_swap_price": 11.1289,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-09-30T08:15:58.27"
+            },
+            {
+                "nav_date": "2024-09-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBRMGW",
+                "net_asset": 70182284.18,
+                "last_val": 11.1092,
+                "previous_val": 0,
+                "sell_price": 11.1093,
+                "buy_price": 11.1092,
+                "sell_swap_price": 11.1092,
+                "buy_swap_price": 11.1093,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-01T07:38:55.78"
+            },
+            {
+                "nav_date": "2024-09-26",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBRMGW",
+                "net_asset": 70900966.01,
+                "last_val": 11.2122,
+                "previous_val": 0,
+                "sell_price": 11.2123,
+                "buy_price": 11.2122,
+                "sell_swap_price": 11.2122,
+                "buy_swap_price": 11.2123,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-02T08:24:23.163"
+            },
+            {
+                "nav_date": "2024-09-27",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBRMGW",
+                "net_asset": 70575202.42,
+                "last_val": 11.1602,
+                "previous_val": 0,
+                "sell_price": 11.1603,
+                "buy_price": 11.1602,
+                "sell_swap_price": 11.1602,
+                "buy_swap_price": 11.1603,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-03T08:50:21.037"
+            },
+            {
+                "nav_date": "2024-09-30",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBRMGW",
+                "net_asset": 70429085.88,
+                "last_val": 11.1375,
+                "previous_val": 0,
+                "sell_price": 11.1376,
+                "buy_price": 11.1375,
+                "sell_swap_price": 11.1375,
+                "buy_swap_price": 11.1376,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-04T08:07:35.313"
+            },
+            {
+                "nav_date": "2024-10-01",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBRMGW",
+                "net_asset": 69576418.08,
+                "last_val": 11.0443,
+                "previous_val": 0,
+                "sell_price": 11.0444,
+                "buy_price": 11.0443,
+                "sell_swap_price": 11.0443,
+                "buy_swap_price": 11.0444,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-07T08:31:47.35"
+            },
+            {
+                "nav_date": "2024-10-02",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBRMGW",
+                "net_asset": 69755411.49,
+                "last_val": 11.0714,
+                "previous_val": 0,
+                "sell_price": 11.0715,
+                "buy_price": 11.0714,
+                "sell_swap_price": 11.0714,
+                "buy_swap_price": 11.0715,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-08T07:43:58.373"
+            },
+            {
+                "nav_date": "2024-10-03",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBRMGW",
+                "net_asset": 69709670.42,
+                "last_val": 11.0586,
+                "previous_val": 0,
+                "sell_price": 11.0587,
+                "buy_price": 11.0586,
+                "sell_swap_price": 11.0586,
+                "buy_swap_price": 11.0587,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-08T07:43:58.373"
             }
         ]
     }
