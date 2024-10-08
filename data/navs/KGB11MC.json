@@ -1,1 +1,68 @@
-{"lastUpdate":1719815374694,"nextUpdate":1719893334179,"data":{"lastNav":"2024-05-31","fund":{"proj_id":"M0334_2567","regis_id":"MF0204_2567","regis_date":"2024-04-29","cancel_date":"-","proj_name_th":"กองทุนเปิดเค พันธบัตร 11 เดือน C","proj_name_en":"K Government Bond 11 Months C Fund","proj_abbr_name":"KGB11MC","fund_status":"RG","unique_id":"C0000000021","permit_us_investment":null,"invest_country_flag":"3","last_upd_date":"2024-06-14T07:03:09.317"},"navs":[{"nav_date":"2024-05-31","unique_id":"C0000000021","class_abbr_name":"KGB11MC","net_asset":6735330757.46,"last_val":10.0126,"previous_val":0,"sell_price":0,"buy_price":0,"sell_swap_price":0,"buy_swap_price":0,"remark_th":" ","remark_en":" ","last_upd_date":"2024-07-01T07:02:16"},{"nav_date":"2024-06-28","unique_id":"C0000000021","class_abbr_name":"KGB11MC","net_asset":6744253357.23,"last_val":10.0259,"previous_val":0,"sell_price":0,"buy_price":0,"sell_swap_price":0,"buy_swap_price":0,"remark_th":" ","remark_en":" ","last_upd_date":"2024-07-01T07:02:16"}]}}
+{
+    "lastUpdate": 1728359154301,
+    "nextUpdate": 1728445306840,
+    "data": {
+        "lastNav": "2024-09-30",
+        "fund": {
+            "proj_id": "M0334_2567",
+            "regis_id": "MF0204_2567",
+            "regis_date": "2024-04-29",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิดเค พันธบัตร 11 เดือน C",
+            "proj_name_en": "K Government Bond 11 Months C Fund",
+            "proj_abbr_name": "KGB11MC",
+            "fund_status": "RG",
+            "unique_id": "C0000000021",
+            "permit_us_investment": null,
+            "invest_country_flag": "3",
+            "last_upd_date": "2024-09-20T07:02:31.393"
+        },
+        "navs": [
+            {
+                "nav_date": "2024-05-31",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KGB11MC",
+                "net_asset": 6735330757.46,
+                "last_val": 10.0126,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-01T07:02:16"
+            },
+            {
+                "nav_date": "2024-06-28",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KGB11MC",
+                "net_asset": 6744253357.23,
+                "last_val": 10.0259,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-01T07:02:16"
+            },
+            {
+                "nav_date": "2024-09-30",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KGB11MC",
+                "net_asset": 6786277923.61,
+                "last_val": 10.0883,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-02T08:24:23.163"
+            }
+        ]
+    }
+}

@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1722099569333,
-    "nextUpdate": 1722185596794,
+    "lastUpdate": 1728359220000,
+    "nextUpdate": 1728445306840,
     "data": {
-        "lastNav": "2024-07-24",
+        "lastNav": "2024-09-30",
         "fund": {
             "proj_id": "M0440_2561",
             "regis_id": "MF0413_2561",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-07-27T07:02:17.43"
+            "last_upd_date": "2024-09-20T07:02:31.393"
         },
         "navs": [
             {
@@ -122,6 +122,96 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-26T09:06:17.367"
+            },
+            {
+                "nav_date": "2024-09-23",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-CCTV-A(A)",
+                "net_asset": 4465416049.3,
+                "last_val": 8.0429,
+                "previous_val": 0,
+                "sell_price": 8.1636,
+                "buy_price": 8.0429,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-09-26T07:48:57.42"
+            },
+            {
+                "nav_date": "2024-09-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-CCTV-A(A)",
+                "net_asset": 4594548286.08,
+                "last_val": 8.2843,
+                "previous_val": 0,
+                "sell_price": 8.4087,
+                "buy_price": 8.2843,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-09-27T08:40:14.763"
+            },
+            {
+                "nav_date": "2024-09-25",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-CCTV-A(A)",
+                "net_asset": 4660191382.95,
+                "last_val": 8.3739,
+                "previous_val": 0,
+                "sell_price": 8.4996,
+                "buy_price": 8.3739,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-09-30T08:15:58.27"
+            },
+            {
+                "nav_date": "2024-09-26",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-CCTV-A(A)",
+                "net_asset": 4823922640.49,
+                "last_val": 8.6799,
+                "previous_val": 0,
+                "sell_price": 8.8102,
+                "buy_price": 8.6799,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-01T07:38:55.78"
+            },
+            {
+                "nav_date": "2024-09-27",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-CCTV-A(A)",
+                "net_asset": 4935582220.85,
+                "last_val": 8.8982,
+                "previous_val": 0,
+                "sell_price": 9.0318,
+                "buy_price": 8.8982,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-02T08:24:23.163"
+            },
+            {
+                "nav_date": "2024-09-30",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-CCTV-A(A)",
+                "net_asset": 5136400311.07,
+                "last_val": 9.2895,
+                "previous_val": 0,
+                "sell_price": 9.4289,
+                "buy_price": 9.2895,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-03T08:50:21.037"
             }
         ]
     }

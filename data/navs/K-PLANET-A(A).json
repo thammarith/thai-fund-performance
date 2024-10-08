@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1722099503376,
-    "nextUpdate": 1722185596794,
+    "lastUpdate": 1728359175581,
+    "nextUpdate": 1728445306840,
     "data": {
-        "lastNav": "2024-07-23",
+        "lastNav": "2024-10-03",
         "fund": {
             "proj_id": "M0381_2563",
             "regis_id": "MF0262_2563",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-07-27T07:02:17.43"
+            "last_upd_date": "2024-09-20T07:02:31.393"
         },
         "navs": [
             {
@@ -107,6 +107,141 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-26T09:06:17.367"
+            },
+            {
+                "nav_date": "2024-09-23",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-PLANET-A(A)",
+                "net_asset": 1720938548.51,
+                "last_val": 11.4375,
+                "previous_val": 0,
+                "sell_price": 11.6092,
+                "buy_price": 11.4375,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-09-27T08:40:14.763"
+            },
+            {
+                "nav_date": "2024-09-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-PLANET-A(A)",
+                "net_asset": 1722612397.49,
+                "last_val": 11.4719,
+                "previous_val": 0,
+                "sell_price": 11.6441,
+                "buy_price": 11.4719,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-09-30T08:15:58.27"
+            },
+            {
+                "nav_date": "2024-09-25",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-PLANET-A(A)",
+                "net_asset": 1720962427.95,
+                "last_val": 11.4632,
+                "previous_val": 0,
+                "sell_price": 11.6352,
+                "buy_price": 11.4632,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-01T07:38:55.78"
+            },
+            {
+                "nav_date": "2024-09-26",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-PLANET-A(A)",
+                "net_asset": 1725434884.23,
+                "last_val": 11.5289,
+                "previous_val": 0,
+                "sell_price": 11.7019,
+                "buy_price": 11.5289,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-02T08:24:23.163"
+            },
+            {
+                "nav_date": "2024-09-27",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-PLANET-A(A)",
+                "net_asset": 1727357920.56,
+                "last_val": 11.5435,
+                "previous_val": 0,
+                "sell_price": 11.7168,
+                "buy_price": 11.5435,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-03T08:50:21.037"
+            },
+            {
+                "nav_date": "2024-09-30",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-PLANET-A(A)",
+                "net_asset": 1718498556.42,
+                "last_val": 11.5082,
+                "previous_val": 0,
+                "sell_price": 11.6809,
+                "buy_price": 11.5082,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-04T08:07:35.313"
+            },
+            {
+                "nav_date": "2024-10-01",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-PLANET-A(A)",
+                "net_asset": 1710865230.19,
+                "last_val": 11.4654,
+                "previous_val": 0,
+                "sell_price": 11.6375,
+                "buy_price": 11.4654,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-07T08:31:47.35"
+            },
+            {
+                "nav_date": "2024-10-02",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-PLANET-A(A)",
+                "net_asset": 1704953286.43,
+                "last_val": 11.4349,
+                "previous_val": 0,
+                "sell_price": 11.6065,
+                "buy_price": 11.4349,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-08T07:43:58.373"
+            },
+            {
+                "nav_date": "2024-10-03",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-PLANET-A(A)",
+                "net_asset": 1697467345.36,
+                "last_val": 11.3856,
+                "previous_val": 0,
+                "sell_price": 11.5565,
+                "buy_price": 11.3856,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-08T07:43:58.373"
             }
         ]
     }

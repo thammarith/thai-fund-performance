@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1726852890813,
-    "nextUpdate": 1726938905826,
+    "lastUpdate": 1728358993541,
+    "nextUpdate": 1728445306840,
     "data": {
-        "lastNav": "2024-08-30",
+        "lastNav": "2024-09-30",
         "fund": {
             "proj_id": "M0127_2567",
             "regis_id": "MF0074_2567",
@@ -77,6 +77,21 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-09-03T23:16:04.11"
+            },
+            {
+                "nav_date": "2024-09-30",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KGB1YR",
+                "net_asset": 6610441071.8,
+                "last_val": 10.1283,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-02T08:24:23.163"
             }
         ]
     }

@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1722099607629,
-    "nextUpdate": 1722185596794,
+    "lastUpdate": 1728359243893,
+    "nextUpdate": 1728445306840,
     "data": {
-        "lastNav": "2024-07-24",
+        "lastNav": "2024-10-04",
         "fund": {
             "proj_id": "M0512_2563",
             "regis_id": "MF0364_2563",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-07-27T07:02:17.43"
+            "last_upd_date": "2024-09-20T07:02:31.393"
         },
         "navs": [
             {
@@ -10562,6 +10562,141 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-26T09:06:17.367"
+            },
+            {
+                "nav_date": "2024-09-23",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KCHINARMF",
+                "net_asset": 3703257646.35,
+                "last_val": 4.2517,
+                "previous_val": 0,
+                "sell_price": 4.2518,
+                "buy_price": 4.2517,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-09-26T07:48:57.42"
+            },
+            {
+                "nav_date": "2024-09-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KCHINARMF",
+                "net_asset": 3900150844.98,
+                "last_val": 4.4773,
+                "previous_val": 0,
+                "sell_price": 4.4774,
+                "buy_price": 4.4773,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-09-27T08:40:14.763"
+            },
+            {
+                "nav_date": "2024-09-25",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KCHINARMF",
+                "net_asset": 3932554269.14,
+                "last_val": 4.5102,
+                "previous_val": 0,
+                "sell_price": 4.5103,
+                "buy_price": 4.5102,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-09-30T08:15:58.27"
+            },
+            {
+                "nav_date": "2024-09-26",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KCHINARMF",
+                "net_asset": 4197667364.79,
+                "last_val": 4.8045,
+                "previous_val": 0,
+                "sell_price": 4.8046,
+                "buy_price": 4.8045,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-01T07:38:55.78"
+            },
+            {
+                "nav_date": "2024-09-27",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KCHINARMF",
+                "net_asset": 4388603315.87,
+                "last_val": 5.0096,
+                "previous_val": 0,
+                "sell_price": 5.0097,
+                "buy_price": 5.0096,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-02T08:24:23.163"
+            },
+            {
+                "nav_date": "2024-09-30",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KCHINARMF",
+                "net_asset": 4610952833.18,
+                "last_val": 5.2537,
+                "previous_val": 0,
+                "sell_price": 5.2538,
+                "buy_price": 5.2537,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-03T08:50:21.037"
+            },
+            {
+                "nav_date": "2024-10-02",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KCHINARMF",
+                "net_asset": 4930062715.42,
+                "last_val": 5.6158,
+                "previous_val": 0,
+                "sell_price": 5.6159,
+                "buy_price": 5.6158,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-07T08:31:47.35"
+            },
+            {
+                "nav_date": "2024-10-03",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KCHINARMF",
+                "net_asset": 4921528984.55,
+                "last_val": 5.5905,
+                "previous_val": 0,
+                "sell_price": 5.5906,
+                "buy_price": 5.5905,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-08T07:43:58.373"
+            },
+            {
+                "nav_date": "2024-10-04",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KCHINARMF",
+                "net_asset": 5045350455.39,
+                "last_val": 5.7395,
+                "previous_val": 0,
+                "sell_price": 5.7396,
+                "buy_price": 5.7395,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-08T07:43:58.373"
             }
         ]
     }

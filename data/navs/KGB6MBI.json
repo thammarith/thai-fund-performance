@@ -1,0 +1,38 @@
+{
+    "lastUpdate": 1728359311243,
+    "nextUpdate": 1728445306840,
+    "data": {
+        "lastNav": "2024-09-30",
+        "fund": {
+            "proj_id": "M0654_2567",
+            "regis_id": "MF0439_2567",
+            "regis_date": "2024-08-19",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิดเค พันธบัตร 6 เดือน BI",
+            "proj_name_en": "K Government Bond 6 Months BI Fund",
+            "proj_abbr_name": "KGB6MBI",
+            "fund_status": "RG",
+            "unique_id": "C0000000021",
+            "permit_us_investment": null,
+            "invest_country_flag": "3",
+            "last_upd_date": "2024-09-20T07:02:31.393"
+        },
+        "navs": [
+            {
+                "nav_date": "2024-09-30",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KGB6MBI",
+                "net_asset": 7427709525.1,
+                "last_val": 10.0221,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-02T08:24:23.163"
+            }
+        ]
+    }
+}

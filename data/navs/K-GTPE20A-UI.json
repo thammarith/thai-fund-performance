@@ -1,1 +1,53 @@
-{"lastUpdate":1719784667602,"nextUpdate":1719845109408,"data":{"lastNav":"2024-06-28","fund":{"proj_id":"M0096_2563","regis_id":"MF0233_2563","regis_date":"2020-08-18","cancel_date":"-","proj_name_th":"กองทุนเปิดเค Global Tech PE 20A ห้ามขายผู้ลงทุนรายย่อย","proj_name_en":"K Global Tech PE 20A Fund Not for Retail Investors","proj_abbr_name":"K-GTPE20A-UI","fund_status":"RG","unique_id":"C0000000021","permit_us_investment":null,"invest_country_flag":"1","last_upd_date":"2024-06-14T07:03:09.317"},"navs":[{"nav_date":"2024-06-28","unique_id":"C0000000021","class_abbr_name":"K-GTPE20A-UI","net_asset":1987236237.25,"last_val":10.8848,"previous_val":0,"sell_price":0,"buy_price":0,"sell_swap_price":0,"buy_swap_price":0,"remark_th":" ","remark_en":" ","last_upd_date":"2024-06-30T07:02:07"}]}}
+{
+    "lastUpdate": 1728358980170,
+    "nextUpdate": 1728445306840,
+    "data": {
+        "lastNav": "2024-09-30",
+        "fund": {
+            "proj_id": "M0096_2563",
+            "regis_id": "MF0233_2563",
+            "regis_date": "2020-08-18",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิดเค Global Tech PE 20A ห้ามขายผู้ลงทุนรายย่อย",
+            "proj_name_en": "K Global Tech PE 20A Fund Not for Retail Investors",
+            "proj_abbr_name": "K-GTPE20A-UI",
+            "fund_status": "RG",
+            "unique_id": "C0000000021",
+            "permit_us_investment": null,
+            "invest_country_flag": "1",
+            "last_upd_date": "2024-09-20T07:02:31.393"
+        },
+        "navs": [
+            {
+                "nav_date": "2024-06-28",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GTPE20A-UI",
+                "net_asset": 1987236237.25,
+                "last_val": 10.8848,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-06-30T07:02:07"
+            },
+            {
+                "nav_date": "2024-09-30",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GTPE20A-UI",
+                "net_asset": 1786372929.87,
+                "last_val": 9.7846,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-02T08:24:23.163"
+            }
+        ]
+    }
+}

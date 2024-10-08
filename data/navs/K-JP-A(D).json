@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1722099758028,
-    "nextUpdate": 1722185596794,
+    "lastUpdate": 1728359356333,
+    "nextUpdate": 1728445306840,
     "data": {
-        "lastNav": "2024-07-24",
+        "lastNav": "2024-10-04",
         "fund": {
             "proj_id": "M1168_2557",
             "regis_id": "MF0853_2557",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-07-27T07:02:17.43"
+            "last_upd_date": "2024-09-20T07:02:31.393"
         },
         "navs": [
             {
@@ -107,6 +107,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-26T09:06:17.367"
+            },
+            {
+                "nav_date": "2024-09-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-JP-A(D)",
+                "net_asset": 1473620331.6,
+                "last_val": 10.7566,
+                "previous_val": 0,
+                "sell_price": 10.9181,
+                "buy_price": 10.7566,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-09-27T08:40:14.763"
+            },
+            {
+                "nav_date": "2024-09-25",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-JP-A(D)",
+                "net_asset": 1474602593.13,
+                "last_val": 10.7892,
+                "previous_val": 0,
+                "sell_price": 10.9511,
+                "buy_price": 10.7892,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-09-30T08:15:58.27"
+            },
+            {
+                "nav_date": "2024-09-26",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-JP-A(D)",
+                "net_asset": 1505652811.65,
+                "last_val": 11.0958,
+                "previous_val": 0,
+                "sell_price": 11.2623,
+                "buy_price": 11.0958,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-01T07:38:55.78"
+            },
+            {
+                "nav_date": "2024-09-27",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-JP-A(D)",
+                "net_asset": 1462069401.84,
+                "last_val": 10.7722,
+                "previous_val": 0,
+                "sell_price": 10.9339,
+                "buy_price": 10.7722,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-02T08:24:23.163"
+            },
+            {
+                "nav_date": "2024-09-30",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-JP-A(D)",
+                "net_asset": 1443137695.99,
+                "last_val": 10.6504,
+                "previous_val": 0,
+                "sell_price": 10.8103,
+                "buy_price": 10.6504,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-03T08:50:21.037"
+            },
+            {
+                "nav_date": "2024-10-02",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-JP-A(D)",
+                "net_asset": 1471405842.78,
+                "last_val": 10.6691,
+                "previous_val": 0,
+                "sell_price": 10.8292,
+                "buy_price": 10.6691,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-07T08:31:47.35"
+            },
+            {
+                "nav_date": "2024-10-03",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-JP-A(D)",
+                "net_asset": 1469395546.9,
+                "last_val": 10.6519,
+                "previous_val": 0,
+                "sell_price": 10.8118,
+                "buy_price": 10.6519,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-08T07:43:58.373"
+            },
+            {
+                "nav_date": "2024-10-04",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-JP-A(D)",
+                "net_asset": 1476221249.35,
+                "last_val": 10.858,
+                "previous_val": 0,
+                "sell_price": 11.021,
+                "buy_price": 10.858,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-08T07:43:58.373"
             }
         ]
     }

@@ -1,1 +1,53 @@
-{"lastUpdate":1719821996170,"nextUpdate":1719893334179,"data":{"lastNav":"2024-06-28","fund":{"proj_id":"M0445_2567","regis_id":"MF0293_2567","regis_date":"2024-06-10","cancel_date":"-","proj_name_th":"กองทุนเปิดเค พันธบัตร 6 เดือน BC","proj_name_en":"K Government Bond 6 Months BC Fund","proj_abbr_name":"KGB6MBC","fund_status":"RG","unique_id":"C0000000021","permit_us_investment":null,"invest_country_flag":"3","last_upd_date":"2024-06-14T07:03:09.317"},"navs":[{"nav_date":"2024-06-28","unique_id":"C0000000021","class_abbr_name":"KGB6MBC","net_asset":9577455758.07,"last_val":10.0071,"previous_val":0,"sell_price":0,"buy_price":0,"sell_swap_price":0,"buy_swap_price":0,"remark_th":" ","remark_en":" ","last_upd_date":"2024-07-01T07:02:16"}]}}
+{
+    "lastUpdate": 1728359220854,
+    "nextUpdate": 1728445306840,
+    "data": {
+        "lastNav": "2024-09-30",
+        "fund": {
+            "proj_id": "M0445_2567",
+            "regis_id": "MF0293_2567",
+            "regis_date": "2024-06-10",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิดเค พันธบัตร 6 เดือน BC",
+            "proj_name_en": "K Government Bond 6 Months BC Fund",
+            "proj_abbr_name": "KGB6MBC",
+            "fund_status": "RG",
+            "unique_id": "C0000000021",
+            "permit_us_investment": null,
+            "invest_country_flag": "3",
+            "last_upd_date": "2024-09-20T07:02:31.393"
+        },
+        "navs": [
+            {
+                "nav_date": "2024-06-28",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KGB6MBC",
+                "net_asset": 9577455758.07,
+                "last_val": 10.0071,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-01T07:02:16"
+            },
+            {
+                "nav_date": "2024-09-30",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KGB6MBC",
+                "net_asset": 9632466025.04,
+                "last_val": 10.0647,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-02T08:24:23.163"
+            }
+        ]
+    }
+}

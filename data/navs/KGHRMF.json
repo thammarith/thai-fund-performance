@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1722099535967,
-    "nextUpdate": 1722185596794,
+    "lastUpdate": 1728359193788,
+    "nextUpdate": 1728445306840,
     "data": {
-        "lastNav": "2024-07-24",
+        "lastNav": "2024-10-04",
         "fund": {
             "proj_id": "M0410_2558",
             "regis_id": "MF0420_2558",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-07-27T07:02:17.43"
+            "last_upd_date": "2024-09-20T07:02:31.393"
         },
         "navs": [
             {
@@ -10397,6 +10397,141 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-26T09:06:17.367"
+            },
+            {
+                "nav_date": "2024-09-23",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KGHRMF",
+                "net_asset": 3330600128.62,
+                "last_val": 14.3794,
+                "previous_val": 0,
+                "sell_price": 14.3795,
+                "buy_price": 14.3794,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-09-26T07:48:57.42"
+            },
+            {
+                "nav_date": "2024-09-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KGHRMF",
+                "net_asset": 3302573719.13,
+                "last_val": 14.2509,
+                "previous_val": 0,
+                "sell_price": 14.251,
+                "buy_price": 14.2509,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-09-27T08:40:14.763"
+            },
+            {
+                "nav_date": "2024-09-25",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KGHRMF",
+                "net_asset": 3302257628.54,
+                "last_val": 14.2509,
+                "previous_val": 0,
+                "sell_price": 14.251,
+                "buy_price": 14.2509,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-09-30T08:15:58.27"
+            },
+            {
+                "nav_date": "2024-09-26",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KGHRMF",
+                "net_asset": 3296061278.5,
+                "last_val": 14.2205,
+                "previous_val": 0,
+                "sell_price": 14.2206,
+                "buy_price": 14.2205,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-01T07:38:55.78"
+            },
+            {
+                "nav_date": "2024-09-27",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KGHRMF",
+                "net_asset": 3291713617.04,
+                "last_val": 14.1973,
+                "previous_val": 0,
+                "sell_price": 14.1974,
+                "buy_price": 14.1973,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-02T08:24:23.163"
+            },
+            {
+                "nav_date": "2024-09-30",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KGHRMF",
+                "net_asset": 3276024761.9,
+                "last_val": 14.1368,
+                "previous_val": 0,
+                "sell_price": 14.1369,
+                "buy_price": 14.1368,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-03T08:50:21.037"
+            },
+            {
+                "nav_date": "2024-10-02",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KGHRMF",
+                "net_asset": 3264420247.58,
+                "last_val": 14.0768,
+                "previous_val": 0,
+                "sell_price": 14.0769,
+                "buy_price": 14.0768,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-07T08:31:47.35"
+            },
+            {
+                "nav_date": "2024-10-03",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KGHRMF",
+                "net_asset": 3251586805.02,
+                "last_val": 14.0364,
+                "previous_val": 0,
+                "sell_price": 14.0365,
+                "buy_price": 14.0364,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-08T07:43:58.373"
+            },
+            {
+                "nav_date": "2024-10-04",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KGHRMF",
+                "net_asset": 3233147359.36,
+                "last_val": 13.9589,
+                "previous_val": 0,
+                "sell_price": 13.959,
+                "buy_price": 13.9589,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-08T07:43:58.373"
             }
         ]
     }

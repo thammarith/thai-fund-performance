@@ -1,1 +1,98 @@
-{"lastUpdate":1719831663296,"nextUpdate":1719893334179,"data":{"lastNav":"2024-05-31","fund":{"proj_id":"M0611_2565","regis_id":"MF0337_2565","regis_date":"2022-10-25","cancel_date":"-","proj_name_th":"กองทุนเปิดเค ตราสารหนี้ไทย 23MA ห้ามขายผู้ลงทุนรายย่อย","proj_name_en":"K Thai Fixed Income 23MA Fund Not for Retail Investors","proj_abbr_name":"KTF23MA-BR","fund_status":"RG","unique_id":"C0000000021","permit_us_investment":null,"invest_country_flag":"3","last_upd_date":"2024-06-14T07:03:09.317"},"navs":[{"nav_date":"2024-05-31","unique_id":"C0000000021","class_abbr_name":"KTF23MA-BR","net_asset":3272152189.59,"last_val":10.3681,"previous_val":0,"sell_price":0,"buy_price":0,"sell_swap_price":0,"buy_swap_price":0,"remark_th":" ","remark_en":" ","last_upd_date":"2024-07-01T07:02:16"},{"nav_date":"2024-06-28","unique_id":"C0000000021","class_abbr_name":"KTF23MA-BR","net_asset":3278360305.21,"last_val":10.3878,"previous_val":0,"sell_price":0,"buy_price":0,"sell_swap_price":0,"buy_swap_price":0,"remark_th":" ","remark_en":" ","last_upd_date":"2024-07-01T07:02:16"}]}}
+{
+    "lastUpdate": 1728359301829,
+    "nextUpdate": 1728445306840,
+    "data": {
+        "lastNav": "2024-10-03",
+        "fund": {
+            "proj_id": "M0611_2565",
+            "regis_id": "MF0337_2565",
+            "regis_date": "2022-10-25",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิดเค ตราสารหนี้ไทย 23MA ห้ามขายผู้ลงทุนรายย่อย",
+            "proj_name_en": "K Thai Fixed Income 23MA Fund Not for Retail Investors",
+            "proj_abbr_name": "KTF23MA-BR",
+            "fund_status": "RG",
+            "unique_id": "C0000000021",
+            "permit_us_investment": null,
+            "invest_country_flag": "3",
+            "last_upd_date": "2024-09-20T07:02:31.393"
+        },
+        "navs": [
+            {
+                "nav_date": "2024-05-31",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KTF23MA-BR",
+                "net_asset": 3272152189.59,
+                "last_val": 10.3681,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-01T07:02:16"
+            },
+            {
+                "nav_date": "2024-06-28",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KTF23MA-BR",
+                "net_asset": 3278360305.21,
+                "last_val": 10.3878,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-07-01T07:02:16"
+            },
+            {
+                "nav_date": "2024-09-30",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KTF23MA-BR",
+                "net_asset": 3297459830.2,
+                "last_val": 10.4483,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-02T08:24:23.163"
+            },
+            {
+                "nav_date": "2024-10-02",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KTF23MA-BR",
+                "net_asset": 3297657699.13,
+                "last_val": 10.4489,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-04T08:07:35.313"
+            },
+            {
+                "nav_date": "2024-10-03",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KTF23MA-BR",
+                "net_asset": 3297598723.94,
+                "last_val": 10.4487,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 10.4487,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-07T08:31:47.35"
+            }
+        ]
+    }
+}
