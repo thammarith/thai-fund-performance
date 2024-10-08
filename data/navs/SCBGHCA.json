@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1722101189919,
-    "nextUpdate": 1722187421338,
+    "lastUpdate": 1728359691326,
+    "nextUpdate": 1728445306840,
     "data": {
-        "lastNav": "2024-07-23",
+        "lastNav": "2024-10-03",
         "fund": {
             "proj_id": "M0449_2558",
             "regis_id": "MF0456_2558",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000239",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-07-27T07:02:17.43"
+            "last_upd_date": "2024-09-20T07:02:31.393"
         },
         "navs": [
             {
@@ -10322,6 +10322,141 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-26T09:06:17.367"
+            },
+            {
+                "nav_date": "2024-09-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGHCA",
+                "net_asset": 204922474.65,
+                "last_val": 13.9259,
+                "previous_val": 0,
+                "sell_price": 14.1495,
+                "buy_price": 13.9259,
+                "sell_swap_price": 13.9259,
+                "buy_swap_price": 14.1495,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-09-27T08:40:14.763"
+            },
+            {
+                "nav_date": "2024-09-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGHCA",
+                "net_asset": 206490383.93,
+                "last_val": 13.8942,
+                "previous_val": 0,
+                "sell_price": 14.1173,
+                "buy_price": 13.8942,
+                "sell_swap_price": 13.8942,
+                "buy_swap_price": 14.1173,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-09-30T08:15:58.27"
+            },
+            {
+                "nav_date": "2024-09-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGHCA",
+                "net_asset": 201726818.49,
+                "last_val": 13.8257,
+                "previous_val": 0,
+                "sell_price": 14.0477,
+                "buy_price": 13.8257,
+                "sell_swap_price": 13.8257,
+                "buy_swap_price": 14.0477,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-01T07:38:55.78"
+            },
+            {
+                "nav_date": "2024-09-26",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGHCA",
+                "net_asset": 197575806.67,
+                "last_val": 13.8271,
+                "previous_val": 0,
+                "sell_price": 14.0491,
+                "buy_price": 13.8271,
+                "sell_swap_price": 13.8271,
+                "buy_swap_price": 14.0491,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-02T08:24:23.163"
+            },
+            {
+                "nav_date": "2024-09-27",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGHCA",
+                "net_asset": 197260322.38,
+                "last_val": 13.7941,
+                "previous_val": 0,
+                "sell_price": 14.0156,
+                "buy_price": 13.7941,
+                "sell_swap_price": 13.7941,
+                "buy_swap_price": 14.0156,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-03T08:50:21.037"
+            },
+            {
+                "nav_date": "2024-09-30",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGHCA",
+                "net_asset": 214166658.04,
+                "last_val": 13.866,
+                "previous_val": 0,
+                "sell_price": 14.0887,
+                "buy_price": 13.866,
+                "sell_swap_price": 13.866,
+                "buy_swap_price": 14.0887,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-04T08:07:35.313"
+            },
+            {
+                "nav_date": "2024-10-01",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGHCA",
+                "net_asset": 213128714.57,
+                "last_val": 13.8062,
+                "previous_val": 0,
+                "sell_price": 14.0279,
+                "buy_price": 13.8062,
+                "sell_swap_price": 13.8062,
+                "buy_swap_price": 14.0279,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-07T08:31:47.35"
+            },
+            {
+                "nav_date": "2024-10-02",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGHCA",
+                "net_asset": 214842204.57,
+                "last_val": 13.7857,
+                "previous_val": 0,
+                "sell_price": 14.0071,
+                "buy_price": 13.7857,
+                "sell_swap_price": 13.7857,
+                "buy_swap_price": 14.0071,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-08T07:43:58.373"
+            },
+            {
+                "nav_date": "2024-10-03",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGHCA",
+                "net_asset": 147472002.53,
+                "last_val": 13.6314,
+                "previous_val": 0,
+                "sell_price": 13.8503,
+                "buy_price": 13.6314,
+                "sell_swap_price": 13.6314,
+                "buy_swap_price": 13.8503,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-08T07:43:58.373"
             }
         ]
     }

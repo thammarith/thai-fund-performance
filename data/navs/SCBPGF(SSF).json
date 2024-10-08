@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1722099980487,
-    "nextUpdate": 1722185596794,
+    "lastUpdate": 1728359506040,
+    "nextUpdate": 1728445306840,
     "data": {
-        "lastNav": "2024-07-23",
+        "lastNav": "2024-10-03",
         "fund": {
             "proj_id": "M0207_2549",
             "regis_id": "210_2549",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000239",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-07-27T07:02:17.43"
+            "last_upd_date": "2024-09-20T07:02:31.393"
         },
         "navs": [
             {
@@ -7667,6 +7667,141 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-26T09:06:17.367"
+            },
+            {
+                "nav_date": "2024-09-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBPGF(SSF)",
+                "net_asset": 43856893.8,
+                "last_val": 22.4721,
+                "previous_val": 0,
+                "sell_price": 22.4722,
+                "buy_price": 22.4721,
+                "sell_swap_price": 22.4721,
+                "buy_swap_price": 22.4722,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-09-27T08:40:14.763"
+            },
+            {
+                "nav_date": "2024-09-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBPGF(SSF)",
+                "net_asset": 44005257.99,
+                "last_val": 22.547,
+                "previous_val": 0,
+                "sell_price": 22.5471,
+                "buy_price": 22.547,
+                "sell_swap_price": 22.547,
+                "buy_swap_price": 22.5471,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-09-30T08:15:58.27"
+            },
+            {
+                "nav_date": "2024-09-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBPGF(SSF)",
+                "net_asset": 43729800.29,
+                "last_val": 22.3449,
+                "previous_val": 0,
+                "sell_price": 22.345,
+                "buy_price": 22.3449,
+                "sell_swap_price": 22.3449,
+                "buy_swap_price": 22.345,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-01T07:38:55.78"
+            },
+            {
+                "nav_date": "2024-09-26",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBPGF(SSF)",
+                "net_asset": 43787552.92,
+                "last_val": 22.2681,
+                "previous_val": 0,
+                "sell_price": 22.2682,
+                "buy_price": 22.2681,
+                "sell_swap_price": 22.2681,
+                "buy_swap_price": 22.2682,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-02T08:24:23.163"
+            },
+            {
+                "nav_date": "2024-09-27",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBPGF(SSF)",
+                "net_asset": 43983303.28,
+                "last_val": 22.3511,
+                "previous_val": 0,
+                "sell_price": 22.3512,
+                "buy_price": 22.3511,
+                "sell_swap_price": 22.3511,
+                "buy_swap_price": 22.3512,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-03T08:50:21.037"
+            },
+            {
+                "nav_date": "2024-09-30",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBPGF(SSF)",
+                "net_asset": 43819559.57,
+                "last_val": 22.2507,
+                "previous_val": 0,
+                "sell_price": 22.2508,
+                "buy_price": 22.2507,
+                "sell_swap_price": 22.2507,
+                "buy_swap_price": 22.2508,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-04T08:07:35.313"
+            },
+            {
+                "nav_date": "2024-10-01",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBPGF(SSF)",
+                "net_asset": 44070234.21,
+                "last_val": 22.3737,
+                "previous_val": 0,
+                "sell_price": 22.3738,
+                "buy_price": 22.3737,
+                "sell_swap_price": 22.3737,
+                "buy_swap_price": 22.3738,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-07T08:31:47.35"
+            },
+            {
+                "nav_date": "2024-10-02",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBPGF(SSF)",
+                "net_asset": 44106238.84,
+                "last_val": 22.3931,
+                "previous_val": 0,
+                "sell_price": 22.3932,
+                "buy_price": 22.3931,
+                "sell_swap_price": 22.3931,
+                "buy_swap_price": 22.3932,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-08T07:43:58.373"
+            },
+            {
+                "nav_date": "2024-10-03",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBPGF(SSF)",
+                "net_asset": 44158471.94,
+                "last_val": 22.4154,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-08T07:43:58.373"
             }
         ]
     }

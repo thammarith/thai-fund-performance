@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1722099916205,
-    "nextUpdate": 1722185596794,
+    "lastUpdate": 1728359469566,
+    "nextUpdate": 1728445306840,
     "data": {
-        "lastNav": "2024-07-23",
+        "lastNav": "2024-10-03",
         "fund": {
             "proj_id": "M0151_2564",
             "regis_id": "MF0172_2564",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000239",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-07-27T07:02:17.43"
+            "last_upd_date": "2024-09-20T07:02:31.393"
         },
         "navs": [
             {
@@ -11087,6 +11087,141 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-26T09:06:17.367"
+            },
+            {
+                "nav_date": "2024-09-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGTTG2",
+                "net_asset": 105363348.88,
+                "last_val": 8.7096,
+                "previous_val": 0,
+                "sell_price": 8.8029,
+                "buy_price": 8.7096,
+                "sell_swap_price": 8.7096,
+                "buy_swap_price": 8.8029,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-09-27T08:40:14.763"
+            },
+            {
+                "nav_date": "2024-09-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGTTG2",
+                "net_asset": 105628964.46,
+                "last_val": 8.7299,
+                "previous_val": 0,
+                "sell_price": 8.8234,
+                "buy_price": 8.7299,
+                "sell_swap_price": 8.7299,
+                "buy_swap_price": 8.8234,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-09-30T08:15:58.27"
+            },
+            {
+                "nav_date": "2024-09-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGTTG2",
+                "net_asset": 105091430.75,
+                "last_val": 8.6855,
+                "previous_val": 0,
+                "sell_price": 8.7785,
+                "buy_price": 8.6855,
+                "sell_swap_price": 8.6855,
+                "buy_swap_price": 8.7785,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-01T07:38:55.78"
+            },
+            {
+                "nav_date": "2024-09-26",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGTTG2",
+                "net_asset": 106257388.42,
+                "last_val": 8.7819,
+                "previous_val": 0,
+                "sell_price": 8.876,
+                "buy_price": 8.7819,
+                "sell_swap_price": 8.7819,
+                "buy_swap_price": 8.876,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-02T08:24:23.163"
+            },
+            {
+                "nav_date": "2024-09-27",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGTTG2",
+                "net_asset": 105907481.86,
+                "last_val": 8.7529,
+                "previous_val": 0,
+                "sell_price": 8.8467,
+                "buy_price": 8.7529,
+                "sell_swap_price": 8.7529,
+                "buy_swap_price": 8.8467,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-03T08:50:21.037"
+            },
+            {
+                "nav_date": "2024-09-30",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGTTG2",
+                "net_asset": 104666747.79,
+                "last_val": 8.7181,
+                "previous_val": 0,
+                "sell_price": 8.8115,
+                "buy_price": 8.7181,
+                "sell_swap_price": 8.7181,
+                "buy_swap_price": 8.8115,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-04T08:07:35.313"
+            },
+            {
+                "nav_date": "2024-10-01",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGTTG2",
+                "net_asset": 103985758.43,
+                "last_val": 8.665,
+                "previous_val": 0,
+                "sell_price": 8.7578,
+                "buy_price": 8.665,
+                "sell_swap_price": 8.665,
+                "buy_swap_price": 8.7578,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-07T08:31:47.35"
+            },
+            {
+                "nav_date": "2024-10-02",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGTTG2",
+                "net_asset": 104488464.42,
+                "last_val": 8.7082,
+                "previous_val": 0,
+                "sell_price": 8.8015,
+                "buy_price": 8.7082,
+                "sell_swap_price": 8.7082,
+                "buy_swap_price": 8.8015,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-08T07:43:58.373"
+            },
+            {
+                "nav_date": "2024-10-03",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGTTG2",
+                "net_asset": 104628219.95,
+                "last_val": 8.7234,
+                "previous_val": 0,
+                "sell_price": 8.8168,
+                "buy_price": 8.7234,
+                "sell_swap_price": 8.7234,
+                "buy_swap_price": 8.8168,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-08T07:43:58.373"
             }
         ]
     }

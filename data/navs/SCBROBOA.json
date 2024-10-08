@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1722101141490,
-    "nextUpdate": 1722187421338,
+    "lastUpdate": 1728359656476,
+    "nextUpdate": 1728445306840,
     "data": {
-        "lastNav": "2024-07-23",
+        "lastNav": "2024-10-03",
         "fund": {
             "proj_id": "M0408_2560",
             "regis_id": "MF0372_2560",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000239",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-07-27T07:02:17.43"
+            "last_upd_date": "2024-09-20T07:02:31.393"
         },
         "navs": [
             {
@@ -11387,6 +11387,141 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-26T09:06:17.367"
+            },
+            {
+                "nav_date": "2024-09-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBROBOA",
+                "net_asset": 1537653425.7,
+                "last_val": 16.5695,
+                "previous_val": 0,
+                "sell_price": 16.8355,
+                "buy_price": 16.5695,
+                "sell_swap_price": 16.5695,
+                "buy_swap_price": 16.8355,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-09-27T08:40:14.763"
+            },
+            {
+                "nav_date": "2024-09-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBROBOA",
+                "net_asset": 1537408996.24,
+                "last_val": 16.6337,
+                "previous_val": 0,
+                "sell_price": 16.9008,
+                "buy_price": 16.6337,
+                "sell_swap_price": 16.6337,
+                "buy_swap_price": 16.9008,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-09-30T08:15:58.27"
+            },
+            {
+                "nav_date": "2024-09-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBROBOA",
+                "net_asset": 1548397260.79,
+                "last_val": 16.7422,
+                "previous_val": 0,
+                "sell_price": 17.011,
+                "buy_price": 16.7422,
+                "sell_swap_price": 16.7422,
+                "buy_swap_price": 17.011,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-01T07:38:55.78"
+            },
+            {
+                "nav_date": "2024-09-26",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBROBOA",
+                "net_asset": 1580747133.82,
+                "last_val": 17.1513,
+                "previous_val": 0,
+                "sell_price": 17.4267,
+                "buy_price": 17.1513,
+                "sell_swap_price": 17.1513,
+                "buy_swap_price": 17.4267,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-02T08:24:23.163"
+            },
+            {
+                "nav_date": "2024-09-27",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBROBOA",
+                "net_asset": 1582721986.43,
+                "last_val": 17.1574,
+                "previous_val": 0,
+                "sell_price": 17.4329,
+                "buy_price": 17.1574,
+                "sell_swap_price": 17.1574,
+                "buy_swap_price": 17.4329,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-03T08:50:21.037"
+            },
+            {
+                "nav_date": "2024-09-30",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBROBOA",
+                "net_asset": 1567273842.3,
+                "last_val": 16.9647,
+                "previous_val": 0,
+                "sell_price": 17.2371,
+                "buy_price": 16.9647,
+                "sell_swap_price": 16.9647,
+                "buy_swap_price": 17.2371,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-04T08:07:35.313"
+            },
+            {
+                "nav_date": "2024-10-01",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBROBOA",
+                "net_asset": 1551099197.05,
+                "last_val": 16.7993,
+                "previous_val": 0,
+                "sell_price": 17.069,
+                "buy_price": 16.7993,
+                "sell_swap_price": 16.7993,
+                "buy_swap_price": 17.069,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-07T08:31:47.35"
+            },
+            {
+                "nav_date": "2024-10-02",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBROBOA",
+                "net_asset": 1549163115.27,
+                "last_val": 16.7781,
+                "previous_val": 0,
+                "sell_price": 17.0475,
+                "buy_price": 16.7781,
+                "sell_swap_price": 16.7781,
+                "buy_swap_price": 17.0475,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-08T07:43:58.373"
+            },
+            {
+                "nav_date": "2024-10-03",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBROBOA",
+                "net_asset": 1555064922.74,
+                "last_val": 16.8785,
+                "previous_val": 0,
+                "sell_price": 17.1495,
+                "buy_price": 16.8785,
+                "sell_swap_price": 16.8785,
+                "buy_swap_price": 17.1495,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-08T07:43:58.373"
             }
         ]
     }

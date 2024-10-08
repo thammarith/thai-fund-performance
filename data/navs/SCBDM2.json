@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1722101065683,
-    "nextUpdate": 1722187421338,
+    "lastUpdate": 1728359608271,
+    "nextUpdate": 1728445306840,
     "data": {
-        "lastNav": "2024-07-23",
+        "lastNav": "2024-10-03",
         "fund": {
             "proj_id": "M0343_2563",
             "regis_id": "MF0213_2563",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000239",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-07-27T07:02:17.43"
+            "last_upd_date": "2024-09-20T07:02:31.393"
         },
         "navs": [
             {
@@ -11447,6 +11447,141 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-26T09:06:17.367"
+            },
+            {
+                "nav_date": "2024-09-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBDM2",
+                "net_asset": 48498950.61,
+                "last_val": 9.5122,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 9.5122,
+                "sell_swap_price": 9.5122,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-09-27T08:40:14.763"
+            },
+            {
+                "nav_date": "2024-09-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBDM2",
+                "net_asset": 48551445.92,
+                "last_val": 9.5225,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 9.5225,
+                "sell_swap_price": 9.5225,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-09-30T08:15:58.27"
+            },
+            {
+                "nav_date": "2024-09-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBDM2",
+                "net_asset": 48348909.07,
+                "last_val": 9.4828,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 9.4828,
+                "sell_swap_price": 9.4828,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-01T07:38:55.78"
+            },
+            {
+                "nav_date": "2024-09-26",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBDM2",
+                "net_asset": 48460513.34,
+                "last_val": 9.5047,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 9.5047,
+                "sell_swap_price": 9.5047,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-02T08:24:23.163"
+            },
+            {
+                "nav_date": "2024-09-27",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBDM2",
+                "net_asset": 48331533.11,
+                "last_val": 9.4794,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 9.4794,
+                "sell_swap_price": 9.4794,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-03T08:50:21.037"
+            },
+            {
+                "nav_date": "2024-09-30",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBDM2",
+                "net_asset": 48150100.58,
+                "last_val": 9.4438,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 9.4438,
+                "sell_swap_price": 9.4438,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-04T08:07:35.313"
+            },
+            {
+                "nav_date": "2024-10-01",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBDM2",
+                "net_asset": 48285523.91,
+                "last_val": 9.4704,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 9.4704,
+                "sell_swap_price": 9.4704,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-07T08:31:47.35"
+            },
+            {
+                "nav_date": "2024-10-02",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBDM2",
+                "net_asset": 48394110.05,
+                "last_val": 9.4917,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 9.4917,
+                "sell_swap_price": 9.4917,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-08T07:43:58.373"
+            },
+            {
+                "nav_date": "2024-10-03",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBDM2",
+                "net_asset": 48459921.9,
+                "last_val": 9.5046,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 9.5046,
+                "sell_swap_price": 9.5046,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-08T07:43:58.373"
             }
         ]
     }

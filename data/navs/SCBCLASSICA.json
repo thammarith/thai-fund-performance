@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1722100098685,
-    "nextUpdate": 1722185596794,
+    "lastUpdate": 1728359591904,
+    "nextUpdate": 1728445306840,
     "data": {
-        "lastNav": "2024-07-23",
+        "lastNav": "2024-10-03",
         "fund": {
             "proj_id": "M0325_2562",
             "regis_id": "MF0346_2562",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000239",
             "permit_us_investment": null,
             "invest_country_flag": "4",
-            "last_upd_date": "2024-07-27T07:02:17.43"
+            "last_upd_date": "2024-09-20T07:02:31.393"
         },
         "navs": [
             {
@@ -11432,6 +11432,141 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-26T09:06:17.367"
+            },
+            {
+                "nav_date": "2024-09-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBCLASSICA",
+                "net_asset": 244386930.32,
+                "last_val": 10.8197,
+                "previous_val": 0,
+                "sell_price": 10.9356,
+                "buy_price": 10.8197,
+                "sell_swap_price": 10.8197,
+                "buy_swap_price": 10.9356,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-09-27T08:40:14.763"
+            },
+            {
+                "nav_date": "2024-09-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBCLASSICA",
+                "net_asset": 240384893.27,
+                "last_val": 10.8567,
+                "previous_val": 0,
+                "sell_price": 10.973,
+                "buy_price": 10.8567,
+                "sell_swap_price": 10.8567,
+                "buy_swap_price": 10.973,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-09-30T08:15:58.27"
+            },
+            {
+                "nav_date": "2024-09-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBCLASSICA",
+                "net_asset": 239888287.96,
+                "last_val": 10.8434,
+                "previous_val": 0,
+                "sell_price": 10.9595,
+                "buy_price": 10.8434,
+                "sell_swap_price": 10.8434,
+                "buy_swap_price": 10.9595,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-01T07:38:55.78"
+            },
+            {
+                "nav_date": "2024-09-26",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBCLASSICA",
+                "net_asset": 239939700.15,
+                "last_val": 10.8459,
+                "previous_val": 0,
+                "sell_price": 10.9621,
+                "buy_price": 10.8459,
+                "sell_swap_price": 10.8459,
+                "buy_swap_price": 10.9621,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-02T08:24:23.163"
+            },
+            {
+                "nav_date": "2024-09-27",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBCLASSICA",
+                "net_asset": 239280468.12,
+                "last_val": 10.8157,
+                "previous_val": 0,
+                "sell_price": 10.9315,
+                "buy_price": 10.8157,
+                "sell_swap_price": 10.8157,
+                "buy_swap_price": 10.9315,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-03T08:50:21.037"
+            },
+            {
+                "nav_date": "2024-09-30",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBCLASSICA",
+                "net_asset": 238468869.26,
+                "last_val": 10.8,
+                "previous_val": 0,
+                "sell_price": 10.9157,
+                "buy_price": 10.8,
+                "sell_swap_price": 10.8,
+                "buy_swap_price": 10.9157,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-04T08:07:35.313"
+            },
+            {
+                "nav_date": "2024-10-01",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBCLASSICA",
+                "net_asset": 239132790.8,
+                "last_val": 10.8298,
+                "previous_val": 0,
+                "sell_price": 10.9458,
+                "buy_price": 10.8298,
+                "sell_swap_price": 10.8298,
+                "buy_swap_price": 10.9458,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-07T08:31:47.35"
+            },
+            {
+                "nav_date": "2024-10-02",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBCLASSICA",
+                "net_asset": 236412097.97,
+                "last_val": 10.8251,
+                "previous_val": 0,
+                "sell_price": 10.941,
+                "buy_price": 10.8251,
+                "sell_swap_price": 10.8251,
+                "buy_swap_price": 10.941,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-08T07:43:58.373"
+            },
+            {
+                "nav_date": "2024-10-03",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBCLASSICA",
+                "net_asset": 235485927.4,
+                "last_val": 10.7865,
+                "previous_val": 0,
+                "sell_price": 10.902,
+                "buy_price": 10.7865,
+                "sell_swap_price": 10.7865,
+                "buy_swap_price": 10.902,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-10-08T07:43:58.373"
             }
         ]
     }

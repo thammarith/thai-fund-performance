@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1722101272713,
-    "nextUpdate": 1722187421338,
+    "lastUpdate": 1728359724081,
+    "nextUpdate": 1728445306840,
     "data": {
-        "lastNav": "2024-06-25",
+        "lastNav": "2024-09-26",
         "fund": {
             "proj_id": "M0491_2567",
             "regis_id": "MF0327_2567",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000239",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2024-07-27T07:02:17.43"
+            "last_upd_date": "2024-09-20T07:02:31.393"
         },
         "navs": [
             {
@@ -332,6 +332,66 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-07-26T09:06:17.367"
+            },
+            {
+                "nav_date": "2024-09-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGOV3M19",
+                "net_asset": 4711570804.09,
+                "last_val": 10.0478,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-09-24T07:48:18.747"
+            },
+            {
+                "nav_date": "2024-09-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGOV3M19",
+                "net_asset": 4711824347.45,
+                "last_val": 10.0483,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-09-26T07:48:57.42"
+            },
+            {
+                "nav_date": "2024-09-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGOV3M19",
+                "net_asset": 4712077937.95,
+                "last_val": 10.0489,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-09-27T08:40:14.763"
+            },
+            {
+                "nav_date": "2024-09-26",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGOV3M19",
+                "net_asset": 4712108925.78,
+                "last_val": 10.049,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 10.049,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-09-30T08:15:58.27"
             }
         ]
     }
