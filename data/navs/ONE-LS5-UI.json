@@ -1,0 +1,38 @@
+{
+    "lastUpdate": 1734503661849,
+    "nextUpdate": 1734589576469,
+    "data": {
+        "lastNav": "2024-10-31",
+        "fund": {
+            "proj_id": "M0213_2566",
+            "regis_id": "MF0336_2566",
+            "regis_date": "2023-08-30",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิด วรรณ ไลฟ์ เซทเทิลเมนท์ 5 ห้ามขายผู้ลงทุนรายย่อย",
+            "proj_name_en": "ONE LIFE SETTLEMENT FUND 5 NOT FOR RETAIL INVESTORS",
+            "proj_abbr_name": "ONE-LS5-UI",
+            "fund_status": "RG",
+            "unique_id": "C0000000569",
+            "permit_us_investment": null,
+            "invest_country_flag": "1",
+            "last_upd_date": "2024-12-17T16:03:03.58"
+        },
+        "navs": [
+            {
+                "nav_date": "2024-10-31",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-LS5-UI",
+                "net_asset": 694558208,
+                "last_val": 10.6628,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-02T21:03:34.463"
+            }
+        ]
+    }
+}

@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1728360073586,
-    "nextUpdate": 1728445306840,
+    "lastUpdate": 1734503790145,
+    "nextUpdate": 1734589576469,
     "data": {
-        "lastNav": "2024-09-30",
+        "lastNav": "2024-11-29",
         "fund": {
             "proj_id": "M0404_2565",
             "regis_id": "MF0189_2566",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000569",
             "permit_us_investment": null,
             "invest_country_flag": "4",
-            "last_upd_date": "2024-09-20T07:02:31.393"
+            "last_upd_date": "2024-12-17T16:03:03.58"
         },
         "navs": [
             {
@@ -437,6 +437,66 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-10-04T08:07:35.313"
+            },
+            {
+                "nav_date": "2024-10-15",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-COMPLEXRETURN",
+                "net_asset": 153166985.34,
+                "last_val": 9.8564,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-11-11T11:40:23.923"
+            },
+            {
+                "nav_date": "2024-10-31",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-COMPLEXRETURN",
+                "net_asset": 153461687.29,
+                "last_val": 9.8753,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-11-11T11:40:23.923"
+            },
+            {
+                "nav_date": "2024-11-15",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-COMPLEXRETURN",
+                "net_asset": 153396992,
+                "last_val": 9.8712,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-11-20T16:07:05.5"
+            },
+            {
+                "nav_date": "2024-11-29",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-COMPLEXRETURN",
+                "net_asset": 153881920,
+                "last_val": 9.9024,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-04T16:08:07.437"
             }
         ]
     }

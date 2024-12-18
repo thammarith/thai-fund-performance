@@ -1,0 +1,38 @@
+{
+    "lastUpdate": 1734503672724,
+    "nextUpdate": 1734589576469,
+    "data": {
+        "lastNav": "2024-10-31",
+        "fund": {
+            "proj_id": "M0224_2567",
+            "regis_id": "MF0457_2567",
+            "regis_date": "2024-08-23",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิด วรรณ ไลฟ์ อินชัวรันส์ เซทเทิลเมนท์ ห้ามขายผู้ลงทุนรายย่อย",
+            "proj_name_en": "ONE LIFE INSURANCE SETTLEMENT FUND NOT FOR RETAIL INVESTORS",
+            "proj_abbr_name": "ONE-LIFESET-UI",
+            "fund_status": "RG",
+            "unique_id": "C0000000569",
+            "permit_us_investment": null,
+            "invest_country_flag": "1",
+            "last_upd_date": "2024-12-17T16:03:03.58"
+        },
+        "navs": [
+            {
+                "nav_date": "2024-10-31",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-LIFESET-UIS",
+                "net_asset": 885652416,
+                "last_val": 9.994,
+                "previous_val": 0,
+                "sell_price": 10.101,
+                "buy_price": 9.994,
+                "sell_swap_price": 9.994,
+                "buy_swap_price": 10.101,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-02T21:03:34.463"
+            }
+        ]
+    }
+}

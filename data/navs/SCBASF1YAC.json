@@ -1,0 +1,83 @@
+{
+    "lastUpdate": 1734503334626,
+    "nextUpdate": 1734589576469,
+    "data": {
+        "lastNav": "2024-12-12",
+        "fund": {
+            "proj_id": "M0969_2567",
+            "regis_id": "MF0713_2567",
+            "regis_date": "2024-12-11",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิดไทยพาณิชย์ตราสารหนี้ต่างประเทศ เอเอส 1YAC ห้ามขายผู้ลงทุนรายย่อย",
+            "proj_name_en": "SCB Foreign Fixed Income Fund 1YAC Not for Retail Investors",
+            "proj_abbr_name": "SCBASF1YAC",
+            "fund_status": "RG",
+            "unique_id": "C0000000239",
+            "permit_us_investment": null,
+            "invest_country_flag": "1",
+            "last_upd_date": "2024-12-17T16:03:03.58"
+        },
+        "navs": [
+            {
+                "nav_date": "2024-12-12",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBASF1YAC",
+                "net_asset": 506884224,
+                "last_val": 10,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-13T16:05:24.07"
+            },
+            {
+                "nav_date": "2024-12-13",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBASF1YAC",
+                "net_asset": 509548640,
+                "last_val": 10.0526,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-16T16:06:27.827"
+            },
+            {
+                "nav_date": "2024-12-16",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBASF1YAC",
+                "net_asset": 505159072,
+                "last_val": 9.966,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-17T16:07:18.81"
+            },
+            {
+                "nav_date": "2024-12-17",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBASF1YAC",
+                "net_asset": 508236288,
+                "last_val": 10.0267,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-18T08:08:48.623"
+            }
+        ]
+    }
+}

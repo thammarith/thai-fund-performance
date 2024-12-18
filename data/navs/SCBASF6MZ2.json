@@ -1,0 +1,83 @@
+{
+    "lastUpdate": 1734503344064,
+    "nextUpdate": 1734589576469,
+    "data": {
+        "lastNav": "2024-12-12",
+        "fund": {
+            "proj_id": "M1008_2567",
+            "regis_id": "MF0714_2567",
+            "regis_date": "2024-12-11",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิดไทยพาณิชย์ตราสารหนี้ต่างประเทศ เอเอส 6MZ2 ห้ามขายผู้ลงทุนรายย่อย",
+            "proj_name_en": "SCB Foreign Fixed Income Fund 6MZ2 Not for Retail Investors",
+            "proj_abbr_name": "SCBASF6MZ2",
+            "fund_status": "RG",
+            "unique_id": "C0000000239",
+            "permit_us_investment": null,
+            "invest_country_flag": "1",
+            "last_upd_date": "2024-12-17T16:03:03.58"
+        },
+        "navs": [
+            {
+                "nav_date": "2024-12-12",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBASF6MZ2",
+                "net_asset": 950878272,
+                "last_val": 10,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-13T16:05:24.07"
+            },
+            {
+                "nav_date": "2024-12-13",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBASF6MZ2",
+                "net_asset": 954013376,
+                "last_val": 10.033,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-16T16:06:27.827"
+            },
+            {
+                "nav_date": "2024-12-16",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBASF6MZ2",
+                "net_asset": 949876352,
+                "last_val": 9.9895,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-17T16:07:18.81"
+            },
+            {
+                "nav_date": "2024-12-17",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBASF6MZ2",
+                "net_asset": 953991296,
+                "last_val": 10.0328,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-18T08:08:48.623"
+            }
+        ]
+    }
+}
