@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1728359326027,
-    "nextUpdate": 1728445306840,
+    "lastUpdate": 1734434616919,
+    "nextUpdate": 1734518851283,
     "data": {
-        "lastNav": "2024-09-30",
+        "lastNav": "2024-11-29",
         "fund": {
             "proj_id": "M0706_2565",
             "regis_id": "MF0387_2565",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "4",
-            "last_upd_date": "2024-09-20T07:02:31.393"
+            "last_upd_date": "2024-12-17T16:03:03.58"
         },
         "navs": [
             {
@@ -62,6 +62,66 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-10-02T08:24:23.163"
+            },
+            {
+                "nav_date": "2024-10-31",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KFI3YB-BR",
+                "net_asset": 3896245464.69,
+                "last_val": 10.6392,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-11-11T11:40:23.923"
+            },
+            {
+                "nav_date": "2024-11-19",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KFI3YB-BR",
+                "net_asset": 3898759680,
+                "last_val": 10.6461,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-11-20T16:07:05.5"
+            },
+            {
+                "nav_date": "2024-11-20",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KFI3YB-BR",
+                "net_asset": 3893533696,
+                "last_val": 10.6318,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 10.6318,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-11-21T16:07:00.823"
+            },
+            {
+                "nav_date": "2024-11-29",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KFI3YB-BR",
+                "net_asset": 3793431552,
+                "last_val": 10.6686,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-17T16:07:18.81"
             }
         ]
     }

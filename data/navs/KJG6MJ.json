@@ -1,0 +1,53 @@
+{
+    "lastUpdate": 1734434734803,
+    "nextUpdate": 1734518851283,
+    "data": {
+        "lastNav": "2024-10-31",
+        "fund": {
+            "proj_id": "M0815_2567",
+            "regis_id": "MF0564_2567",
+            "regis_date": "2024-10-09",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิดเค พันธบัตรญี่ปุ่น 6MJ",
+            "proj_name_en": "K Japanese Government Bond 6MJ Fund",
+            "proj_abbr_name": "KJG6MJ",
+            "fund_status": "RG",
+            "unique_id": "C0000000021",
+            "permit_us_investment": null,
+            "invest_country_flag": "1",
+            "last_upd_date": "2024-12-17T16:03:03.58"
+        },
+        "navs": [
+            {
+                "nav_date": "2024-10-31",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KJG6MJ",
+                "net_asset": 2679887791.47,
+                "last_val": 10.0743,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-11-11T11:40:23.923"
+            },
+            {
+                "nav_date": "2024-11-29",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KJG6MJ",
+                "net_asset": 2682986496,
+                "last_val": 10.0859,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-17T16:07:18.81"
+            }
+        ]
+    }
+}

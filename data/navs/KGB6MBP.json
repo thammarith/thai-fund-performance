@@ -1,0 +1,38 @@
+{
+    "lastUpdate": 1734434814728,
+    "nextUpdate": 1734518851283,
+    "data": {
+        "lastNav": "2024-11-29",
+        "fund": {
+            "proj_id": "M0924_2567",
+            "regis_id": "MF0642_2567",
+            "regis_date": "2024-11-12",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิดเค พันธบัตร 6 เดือน BP",
+            "proj_name_en": "K Government Bond 6 Months BP Fund",
+            "proj_abbr_name": "KGB6MBP",
+            "fund_status": "RG",
+            "unique_id": "C0000000021",
+            "permit_us_investment": null,
+            "invest_country_flag": "3",
+            "last_upd_date": "2024-12-17T16:03:03.58"
+        },
+        "navs": [
+            {
+                "nav_date": "2024-11-29",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KGB6MBP",
+                "net_asset": 8757745664,
+                "last_val": 10.0111,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-17T16:07:18.81"
+            }
+        ]
+    }
+}

@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1728359354342,
-    "nextUpdate": 1728445306840,
+    "lastUpdate": 1734434824313,
+    "nextUpdate": 1734518851283,
     "data": {
-        "lastNav": "2024-09-30",
+        "lastNav": "2024-11-29",
         "fund": {
             "proj_id": "M0928_2566",
             "regis_id": "MF0334_2567",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2024-09-20T07:02:31.393"
+            "last_upd_date": "2024-12-17T16:03:03.58"
         },
         "navs": [
             {
@@ -47,6 +47,36 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-10-02T08:24:23.163"
+            },
+            {
+                "nav_date": "2024-10-31",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KGB1YO",
+                "net_asset": 4342873453.93,
+                "last_val": 10.0851,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-11-11T11:40:23.923"
+            },
+            {
+                "nav_date": "2024-11-29",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KGB1YO",
+                "net_asset": 4350240256,
+                "last_val": 10.1022,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-17T16:07:18.81"
             }
         ]
     }

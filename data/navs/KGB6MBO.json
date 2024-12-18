@@ -1,0 +1,53 @@
+{
+    "lastUpdate": 1734434795497,
+    "nextUpdate": 1734518851283,
+    "data": {
+        "lastNav": "2024-10-31",
+        "fund": {
+            "proj_id": "M0890_2567",
+            "regis_id": "MF0617_2567",
+            "regis_date": "2024-10-31",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิดเค พันธบัตร 6 เดือน BO",
+            "proj_name_en": "K Government Bond 6 Months BO Fund",
+            "proj_abbr_name": "KGB6MBO",
+            "fund_status": "RG",
+            "unique_id": "C0000000021",
+            "permit_us_investment": null,
+            "invest_country_flag": "3",
+            "last_upd_date": "2024-12-17T16:03:03.58"
+        },
+        "navs": [
+            {
+                "nav_date": "2024-10-31",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KGB6MBO",
+                "net_asset": 4273480511.54,
+                "last_val": 9.9991,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-11-11T11:40:23.923"
+            },
+            {
+                "nav_date": "2024-11-29",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KGB6MBO",
+                "net_asset": 4281401856,
+                "last_val": 10.0176,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-17T16:07:18.81"
+            }
+        ]
+    }
+}
