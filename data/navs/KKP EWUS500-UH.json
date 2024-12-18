@@ -1,0 +1,113 @@
+{
+    "lastUpdate": 1734504609666,
+    "nextUpdate": 1734589576469,
+    "data": {
+        "lastNav": "2024-12-06",
+        "fund": {
+            "proj_id": "M0965_2567",
+            "regis_id": "MF0702_2567",
+            "regis_date": "2024-12-04",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิดเคเคพี US500 EQUAL WEIGHT - UNHEDGED",
+            "proj_name_en": "KKP US500 EQUAL WEIGHT FUND - UNHEDGED",
+            "proj_abbr_name": "KKP EWUS500-UH",
+            "fund_status": "RG",
+            "unique_id": "C0000005025",
+            "permit_us_investment": null,
+            "invest_country_flag": "1",
+            "last_upd_date": "2024-12-17T16:03:03.58"
+        },
+        "navs": [
+            {
+                "nav_date": "2024-12-06",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP EWUS500-UH",
+                "net_asset": 77739280,
+                "last_val": 9.8516,
+                "previous_val": 0,
+                "sell_price": 9.901,
+                "buy_price": 9.8516,
+                "sell_swap_price": 9.8516,
+                "buy_swap_price": 9.901,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-11T16:06:50.497"
+            },
+            {
+                "nav_date": "2024-12-09",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP EWUS500-UH",
+                "net_asset": 83895320,
+                "last_val": 9.737,
+                "previous_val": 0,
+                "sell_price": 9.7858,
+                "buy_price": 9.737,
+                "sell_swap_price": 9.737,
+                "buy_swap_price": 9.7858,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-12T16:06:53.71"
+            },
+            {
+                "nav_date": "2024-12-11",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP EWUS500-UH",
+                "net_asset": 98980936,
+                "last_val": 9.6858,
+                "previous_val": 0,
+                "sell_price": 9.7343,
+                "buy_price": 9.6858,
+                "sell_swap_price": 9.6858,
+                "buy_swap_price": 9.7343,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-13T16:05:24.07"
+            },
+            {
+                "nav_date": "2024-12-12",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP EWUS500-UH",
+                "net_asset": 130801424,
+                "last_val": 9.6334,
+                "previous_val": 0,
+                "sell_price": 9.6817,
+                "buy_price": 9.6334,
+                "sell_swap_price": 9.6334,
+                "buy_swap_price": 9.6817,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-16T16:06:27.827"
+            },
+            {
+                "nav_date": "2024-12-13",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP EWUS500-UH",
+                "net_asset": 180551920,
+                "last_val": 9.6706,
+                "previous_val": 0,
+                "sell_price": 9.7191,
+                "buy_price": 9.6706,
+                "sell_swap_price": 9.6706,
+                "buy_swap_price": 9.7191,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-17T16:07:18.81"
+            },
+            {
+                "nav_date": "2024-12-16",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP EWUS500-UH",
+                "net_asset": 182385168,
+                "last_val": 9.6047,
+                "previous_val": 0,
+                "sell_price": 9.6528,
+                "buy_price": 9.6047,
+                "sell_swap_price": 9.6047,
+                "buy_swap_price": 9.6528,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-18T08:08:48.623"
+            }
+        ]
+    }
+}
