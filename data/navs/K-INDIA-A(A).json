@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1734432740257,
-    "nextUpdate": 1734518851283,
+    "lastUpdate": 1735436089725,
+    "nextUpdate": 1735522453651,
     "data": {
-        "lastNav": "2024-12-13",
+        "lastNav": "2024-12-23",
         "fund": {
             "proj_id": "M0059_2554",
             "regis_id": "MF0278_2554",
@@ -1307,6 +1307,51 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-12-17T16:07:18.81"
+            },
+            {
+                "nav_date": "2024-12-19",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-INDIA-A(A)",
+                "net_asset": 1086875008,
+                "last_val": 14.1374,
+                "previous_val": 0,
+                "sell_price": 14.3496,
+                "buy_price": 14.1374,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-23T16:07:50.287"
+            },
+            {
+                "nav_date": "2024-12-20",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-INDIA-A(A)",
+                "net_asset": 1075657472,
+                "last_val": 13.9261,
+                "previous_val": 0,
+                "sell_price": 14.1351,
+                "buy_price": 13.9261,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-24T16:07:30.36"
+            },
+            {
+                "nav_date": "2024-12-23",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-INDIA-A(A)",
+                "net_asset": 1073912448,
+                "last_val": 13.8586,
+                "previous_val": 0,
+                "sell_price": 14.0666,
+                "buy_price": 13.8586,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-28T16:06:42.577"
             }
         ]
     }

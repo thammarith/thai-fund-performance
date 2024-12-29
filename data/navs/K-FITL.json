@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1734433525845,
-    "nextUpdate": 1734518851283,
+    "lastUpdate": 1735436180790,
+    "nextUpdate": 1735522453651,
     "data": {
-        "lastNav": "2024-12-13",
+        "lastNav": "2024-12-23",
         "fund": {
             "proj_id": "M0281_2560",
             "regis_id": "MF0415_2560",
@@ -10292,6 +10292,51 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-12-17T16:07:18.81"
+            },
+            {
+                "nav_date": "2024-12-19",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-FITL",
+                "net_asset": 218692320,
+                "last_val": 10.6138,
+                "previous_val": 0,
+                "sell_price": 10.667,
+                "buy_price": 10.5607,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-23T16:07:50.287"
+            },
+            {
+                "nav_date": "2024-12-20",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-FITL",
+                "net_asset": 218463744,
+                "last_val": 10.6375,
+                "previous_val": 0,
+                "sell_price": 10.6908,
+                "buy_price": 10.5843,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-24T16:07:30.36"
+            },
+            {
+                "nav_date": "2024-12-23",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-FITL",
+                "net_asset": 219242080,
+                "last_val": 10.6798,
+                "previous_val": 0,
+                "sell_price": 10.7333,
+                "buy_price": 10.6264,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-28T16:06:42.577"
             }
         ]
     }

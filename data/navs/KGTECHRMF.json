@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1734434433075,
-    "nextUpdate": 1734518851283,
+    "lastUpdate": 1735436289180,
+    "nextUpdate": 1735522453651,
     "data": {
-        "lastNav": "2024-12-12",
+        "lastNav": "2024-12-20",
         "fund": {
             "proj_id": "M0599_2566",
             "regis_id": "MF0505_2566",
@@ -2672,6 +2672,36 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-12-17T16:07:18.81"
+            },
+            {
+                "nav_date": "2024-12-19",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KGTECHRMF",
+                "net_asset": 402133504,
+                "last_val": 13.1923,
+                "previous_val": 0,
+                "sell_price": 13.1924,
+                "buy_price": 13.1923,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-24T16:07:30.36"
+            },
+            {
+                "nav_date": "2024-12-20",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KGTECHRMF",
+                "net_asset": 416919360,
+                "last_val": 13.362,
+                "previous_val": 0,
+                "sell_price": 13.3621,
+                "buy_price": 13.362,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-28T16:06:42.577"
             }
         ]
     }

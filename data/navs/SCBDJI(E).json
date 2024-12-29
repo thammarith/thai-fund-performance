@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1734435384835,
-    "nextUpdate": 1734518851283,
+    "lastUpdate": 1735436421554,
+    "nextUpdate": 1735522453651,
     "data": {
-        "lastNav": "2024-12-13",
+        "lastNav": "2024-12-26",
         "fund": {
             "proj_id": "M0134_2564",
             "regis_id": "MF0125_2564",
@@ -12302,6 +12302,96 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-12-17T16:07:18.81"
+            },
+            {
+                "nav_date": "2024-12-19",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBDJI(E)",
+                "net_asset": 24223806,
+                "last_val": 12.5806,
+                "previous_val": 0,
+                "sell_price": 12.5864,
+                "buy_price": 12.5614,
+                "sell_swap_price": 12.5614,
+                "buy_swap_price": 12.5864,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-23T16:07:50.287"
+            },
+            {
+                "nav_date": "2024-12-20",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBDJI(E)",
+                "net_asset": 24569268,
+                "last_val": 12.7316,
+                "previous_val": 0,
+                "sell_price": 12.7374,
+                "buy_price": 12.7123,
+                "sell_swap_price": 12.7123,
+                "buy_swap_price": 12.7374,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-24T16:07:30.36"
+            },
+            {
+                "nav_date": "2024-12-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBDJI(E)",
+                "net_asset": 24618290,
+                "last_val": 12.7295,
+                "previous_val": 0,
+                "sell_price": 12.7353,
+                "buy_price": 12.7102,
+                "sell_swap_price": 12.7102,
+                "buy_swap_price": 12.7353,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-25T16:07:06.77"
+            },
+            {
+                "nav_date": "2024-12-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBDJI(E)",
+                "net_asset": 24878966,
+                "last_val": 12.8326,
+                "previous_val": 0,
+                "sell_price": 12.8385,
+                "buy_price": 12.8131,
+                "sell_swap_price": 12.8131,
+                "buy_swap_price": 12.8385,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-26T16:06:33.327"
+            },
+            {
+                "nav_date": "2024-12-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBDJI(E)",
+                "net_asset": 24919062,
+                "last_val": 12.8323,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-27T16:08:53.23"
+            },
+            {
+                "nav_date": "2024-12-26",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBDJI(E)",
+                "net_asset": 24957916,
+                "last_val": 12.8523,
+                "previous_val": 0,
+                "sell_price": 12.8582,
+                "buy_price": 12.8327,
+                "sell_swap_price": 12.8327,
+                "buy_swap_price": 12.8582,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-28T16:06:42.577"
             }
         ]
     }

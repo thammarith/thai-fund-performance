@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1734496799469,
-    "nextUpdate": 1734583136346,
+    "lastUpdate": 1735436685957,
+    "nextUpdate": 1735522453651,
     "data": {
-        "lastNav": "2024-12-16",
+        "lastNav": "2024-12-26",
         "fund": {
             "proj_id": "M0643_2555",
             "regis_id": "MF0819_2555",
@@ -947,6 +947,96 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-12-18T08:08:48.623"
+            },
+            {
+                "nav_date": "2024-12-19",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBS&P500(SSFA)",
+                "net_asset": 530242176,
+                "last_val": 30.8449,
+                "previous_val": 0,
+                "sell_price": 30.8589,
+                "buy_price": 30.831,
+                "sell_swap_price": 30.831,
+                "buy_swap_price": 30.8589,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-23T16:07:50.287"
+            },
+            {
+                "nav_date": "2024-12-20",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBS&P500(SSFA)",
+                "net_asset": 542641856,
+                "last_val": 31.1623,
+                "previous_val": 0,
+                "sell_price": 31.1764,
+                "buy_price": 31.1483,
+                "sell_swap_price": 31.1483,
+                "buy_swap_price": 31.1764,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-24T16:07:30.36"
+            },
+            {
+                "nav_date": "2024-12-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBS&P500(SSFA)",
+                "net_asset": 553281984,
+                "last_val": 31.3256,
+                "previous_val": 0,
+                "sell_price": 31.3398,
+                "buy_price": 31.3115,
+                "sell_swap_price": 31.3115,
+                "buy_swap_price": 31.3398,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-25T16:07:06.77"
+            },
+            {
+                "nav_date": "2024-12-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBS&P500(SSFA)",
+                "net_asset": 570364032,
+                "last_val": 31.6571,
+                "previous_val": 0,
+                "sell_price": 31.6714,
+                "buy_price": 31.6429,
+                "sell_swap_price": 31.6429,
+                "buy_swap_price": 31.6714,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-26T16:06:33.327"
+            },
+            {
+                "nav_date": "2024-12-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBS&P500(SSFA)",
+                "net_asset": 580380800,
+                "last_val": 31.6569,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-27T16:08:53.23"
+            },
+            {
+                "nav_date": "2024-12-26",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBS&P500(SSFA)",
+                "net_asset": 580071872,
+                "last_val": 31.6401,
+                "previous_val": 0,
+                "sell_price": 31.6544,
+                "buy_price": 31.6259,
+                "sell_swap_price": 31.6259,
+                "buy_swap_price": 31.6544,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-28T16:06:42.577"
             }
         ]
     }

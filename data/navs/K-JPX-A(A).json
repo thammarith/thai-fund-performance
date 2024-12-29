@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1734432855708,
-    "nextUpdate": 1734518851283,
+    "lastUpdate": 1735436103505,
+    "nextUpdate": 1735522453651,
     "data": {
-        "lastNav": "2024-12-16",
+        "lastNav": "2024-12-27",
         "fund": {
             "proj_id": "M0074_2558",
             "regis_id": "MF0171_2559",
@@ -1427,6 +1427,96 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-12-17T16:07:18.81"
+            },
+            {
+                "nav_date": "2024-12-19",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-JPX-A(A)",
+                "net_asset": 584753024,
+                "last_val": 21.5185,
+                "previous_val": 0,
+                "sell_price": 21.5401,
+                "buy_price": 21.4862,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-20T16:08:16.48"
+            },
+            {
+                "nav_date": "2024-12-20",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-JPX-A(A)",
+                "net_asset": 583008448,
+                "last_val": 21.4208,
+                "previous_val": 0,
+                "sell_price": 21.4423,
+                "buy_price": 21.3887,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-23T16:07:50.287"
+            },
+            {
+                "nav_date": "2024-12-23",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-JPX-A(A)",
+                "net_asset": 586863104,
+                "last_val": 21.609,
+                "previous_val": 0,
+                "sell_price": 21.6307,
+                "buy_price": 21.5766,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-24T16:07:30.36"
+            },
+            {
+                "nav_date": "2024-12-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-JPX-A(A)",
+                "net_asset": 587984384,
+                "last_val": 21.6165,
+                "previous_val": 0,
+                "sell_price": 21.6382,
+                "buy_price": 21.5841,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-26T16:06:33.327"
+            },
+            {
+                "nav_date": "2024-12-26",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-JPX-A(A)",
+                "net_asset": 599638400,
+                "last_val": 21.8866,
+                "previous_val": 0,
+                "sell_price": 21.9086,
+                "buy_price": 21.8538,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-27T16:08:53.23"
+            },
+            {
+                "nav_date": "2024-12-27",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-JPX-A(A)",
+                "net_asset": 607371200,
+                "last_val": 22.1492,
+                "previous_val": 0,
+                "sell_price": 22.1714,
+                "buy_price": 22.116,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-28T16:06:42.577"
             }
         ]
     }

@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1734435799441,
-    "nextUpdate": 1734518851283,
+    "lastUpdate": 1735436475808,
+    "nextUpdate": 1735522453651,
     "data": {
-        "lastNav": "2024-12-12",
+        "lastNav": "2024-12-25",
         "fund": {
             "proj_id": "M0259_2563",
             "regis_id": "MF0204_2563",
@@ -12182,6 +12182,81 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-12-17T16:07:18.81"
+            },
+            {
+                "nav_date": "2024-12-19",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBWIPA",
+                "net_asset": 146124880,
+                "last_val": 9.5662,
+                "previous_val": 0,
+                "sell_price": 9.6687,
+                "buy_price": 9.5662,
+                "sell_swap_price": 9.5662,
+                "buy_swap_price": 9.6687,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-24T16:07:30.36"
+            },
+            {
+                "nav_date": "2024-12-20",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBWIPA",
+                "net_asset": 146127632,
+                "last_val": 9.5664,
+                "previous_val": 0,
+                "sell_price": 9.6689,
+                "buy_price": 9.5664,
+                "sell_swap_price": 9.5664,
+                "buy_swap_price": 9.6689,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-25T16:07:06.77"
+            },
+            {
+                "nav_date": "2024-12-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBWIPA",
+                "net_asset": 144910000,
+                "last_val": 9.4985,
+                "previous_val": 0,
+                "sell_price": 9.6002,
+                "buy_price": 9.4985,
+                "sell_swap_price": 9.4985,
+                "buy_swap_price": 9.6002,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-26T16:06:33.327"
+            },
+            {
+                "nav_date": "2024-12-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBWIPA",
+                "net_asset": 145017008,
+                "last_val": 9.5055,
+                "previous_val": 0,
+                "sell_price": 9.6073,
+                "buy_price": 9.5055,
+                "sell_swap_price": 9.5055,
+                "buy_swap_price": 9.6073,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-27T16:08:53.23"
+            },
+            {
+                "nav_date": "2024-12-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBWIPA",
+                "net_asset": 145033312,
+                "last_val": 9.5066,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-28T16:06:42.577"
             }
         ]
     }

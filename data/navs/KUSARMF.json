@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1734434058308,
-    "nextUpdate": 1734518851283,
+    "lastUpdate": 1735436246604,
+    "nextUpdate": 1735522453651,
     "data": {
-        "lastNav": "2024-12-12",
+        "lastNav": "2024-12-24",
         "fund": {
             "proj_id": "M0470_2563",
             "regis_id": "MF0365_2563",
@@ -11462,6 +11462,66 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-12-17T16:07:18.81"
+            },
+            {
+                "nav_date": "2024-12-19",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KUSARMF",
+                "net_asset": 1658221824,
+                "last_val": 7.1137,
+                "previous_val": 0,
+                "sell_price": 7.1138,
+                "buy_price": 7.1137,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-24T16:07:30.36"
+            },
+            {
+                "nav_date": "2024-12-20",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KUSARMF",
+                "net_asset": 1685441152,
+                "last_val": 7.2071,
+                "previous_val": 0,
+                "sell_price": 7.2072,
+                "buy_price": 7.2071,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-25T16:07:06.77"
+            },
+            {
+                "nav_date": "2024-12-23",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KUSARMF",
+                "net_asset": 1700829056,
+                "last_val": 7.2347,
+                "previous_val": 0,
+                "sell_price": 7.2348,
+                "buy_price": 7.2347,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-27T16:08:53.23"
+            },
+            {
+                "nav_date": "2024-12-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KUSARMF",
+                "net_asset": 1734552832,
+                "last_val": 7.3075,
+                "previous_val": 0,
+                "sell_price": 7.3076,
+                "buy_price": 7.3075,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-28T16:06:42.577"
             }
         ]
     }

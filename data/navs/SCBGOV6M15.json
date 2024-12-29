@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1734436414568,
-    "nextUpdate": 1734518851283,
+    "lastUpdate": 1735436568570,
+    "nextUpdate": 1735522453651,
     "data": {
-        "lastNav": "2024-12-16",
+        "lastNav": "2024-12-20",
         "fund": {
             "proj_id": "M0436_2567",
             "regis_id": "MF0289_2567",
@@ -1187,6 +1187,36 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-12-17T16:07:18.81"
+            },
+            {
+                "nav_date": "2024-12-19",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGOV6M15",
+                "net_asset": 3306116608,
+                "last_val": 10.0423,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-20T16:08:16.48"
+            },
+            {
+                "nav_date": "2024-12-20",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGOV6M15",
+                "net_asset": 3329698560,
+                "last_val": 10.114,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 10.114,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-23T16:07:50.287"
             }
         ]
     }

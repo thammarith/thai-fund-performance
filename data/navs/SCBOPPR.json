@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1734435294074,
-    "nextUpdate": 1734518851283,
+    "lastUpdate": 1735436408644,
+    "nextUpdate": 1735522453651,
     "data": {
-        "lastNav": "2024-12-12",
+        "lastNav": "2024-12-25",
         "fund": {
             "proj_id": "M0094_2561",
             "regis_id": "MF0075_2561",
@@ -12137,6 +12137,81 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-12-17T16:07:18.81"
+            },
+            {
+                "nav_date": "2024-12-19",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBOPPR",
+                "net_asset": 3173592.5,
+                "last_val": 10.2783,
+                "previous_val": 0,
+                "sell_price": 10.3884,
+                "buy_price": 10.2783,
+                "sell_swap_price": 10.2783,
+                "buy_swap_price": 10.3884,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-24T16:07:30.36"
+            },
+            {
+                "nav_date": "2024-12-20",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBOPPR",
+                "net_asset": 3174128.75,
+                "last_val": 10.2798,
+                "previous_val": 0,
+                "sell_price": 10.3899,
+                "buy_price": 10.2798,
+                "sell_swap_price": 10.2798,
+                "buy_swap_price": 10.3899,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-25T16:07:06.77"
+            },
+            {
+                "nav_date": "2024-12-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBOPPR",
+                "net_asset": 3169397.75,
+                "last_val": 10.2667,
+                "previous_val": 0,
+                "sell_price": 10.3767,
+                "buy_price": 10.2667,
+                "sell_swap_price": 10.2667,
+                "buy_swap_price": 10.3767,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-26T16:06:33.327"
+            },
+            {
+                "nav_date": "2024-12-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBOPPR",
+                "net_asset": 3169348.25,
+                "last_val": 10.2664,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-27T16:08:53.23"
+            },
+            {
+                "nav_date": "2024-12-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBOPPR",
+                "net_asset": 3169056.25,
+                "last_val": 10.2654,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-28T16:06:42.577"
             }
         ]
     }

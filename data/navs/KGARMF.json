@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1734434758983,
-    "nextUpdate": 1734518851283,
+    "lastUpdate": 1735436333383,
+    "nextUpdate": 1735522453651,
     "data": {
-        "lastNav": "2024-12-13",
+        "lastNav": "2024-12-23",
         "fund": {
             "proj_id": "M0861_2553",
             "regis_id": "MF0783_2555",
@@ -5402,6 +5402,51 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-12-17T16:07:18.81"
+            },
+            {
+                "nav_date": "2024-12-19",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KGARMF",
+                "net_asset": 2580954368,
+                "last_val": 16.1722,
+                "previous_val": 0,
+                "sell_price": 16.1723,
+                "buy_price": 16.1722,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-23T16:07:50.287"
+            },
+            {
+                "nav_date": "2024-12-20",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KGARMF",
+                "net_asset": 2565686272,
+                "last_val": 16.0712,
+                "previous_val": 0,
+                "sell_price": 16.0713,
+                "buy_price": 16.0712,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-24T16:07:30.36"
+            },
+            {
+                "nav_date": "2024-12-23",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KGARMF",
+                "net_asset": 2581536000,
+                "last_val": 16.1398,
+                "previous_val": 0,
+                "sell_price": 16.1399,
+                "buy_price": 16.1398,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-28T16:06:42.577"
             }
         ]
     }

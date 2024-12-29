@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1734436346754,
-    "nextUpdate": 1734518851283,
+    "lastUpdate": 1735436556185,
+    "nextUpdate": 1735522453651,
     "data": {
-        "lastNav": "2024-12-13",
+        "lastNav": "2024-12-26",
         "fund": {
             "proj_id": "M0416_2560",
             "regis_id": "MF0359_2560",
@@ -12332,6 +12332,96 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-12-17T16:07:18.81"
+            },
+            {
+                "nav_date": "2024-12-19",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBAEMHA",
+                "net_asset": 1303996288,
+                "last_val": 8.1017,
+                "previous_val": 0,
+                "sell_price": 8.1885,
+                "buy_price": 8.1017,
+                "sell_swap_price": 8.1017,
+                "buy_swap_price": 8.1885,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-23T16:07:50.287"
+            },
+            {
+                "nav_date": "2024-12-20",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBAEMHA",
+                "net_asset": 1292118400,
+                "last_val": 8.0338,
+                "previous_val": 0,
+                "sell_price": 8.1199,
+                "buy_price": 8.0338,
+                "sell_swap_price": 8.0338,
+                "buy_swap_price": 8.1199,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-24T16:07:30.36"
+            },
+            {
+                "nav_date": "2024-12-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBAEMHA",
+                "net_asset": 1299742336,
+                "last_val": 8.1087,
+                "previous_val": 0,
+                "sell_price": 8.1956,
+                "buy_price": 8.1087,
+                "sell_swap_price": 8.1087,
+                "buy_swap_price": 8.1956,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-25T16:07:06.77"
+            },
+            {
+                "nav_date": "2024-12-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBAEMHA",
+                "net_asset": 1299499776,
+                "last_val": 8.1073,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-26T16:06:33.327"
+            },
+            {
+                "nav_date": "2024-12-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBAEMHA",
+                "net_asset": 1299354880,
+                "last_val": 8.1064,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-27T16:08:53.23"
+            },
+            {
+                "nav_date": "2024-12-26",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBAEMHA",
+                "net_asset": 1299307136,
+                "last_val": 8.1061,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-28T16:06:42.577"
             }
         ]
     }

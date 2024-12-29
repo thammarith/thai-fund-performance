@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1734432828789,
-    "nextUpdate": 1734518851283,
+    "lastUpdate": 1735436100673,
+    "nextUpdate": 1735522453651,
     "data": {
-        "lastNav": "2024-12-13",
+        "lastNav": "2024-12-26",
         "fund": {
             "proj_id": "M0066_2560",
             "regis_id": "MF0127_2560",
@@ -12407,6 +12407,81 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-12-17T16:07:18.81"
+            },
+            {
+                "nav_date": "2024-12-19",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-SEMQ",
+                "net_asset": 1229678592,
+                "last_val": 10.3814,
+                "previous_val": 0,
+                "sell_price": 10.5372,
+                "buy_price": 10.3814,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-23T16:07:50.287"
+            },
+            {
+                "nav_date": "2024-12-20",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-SEMQ",
+                "net_asset": 1235576192,
+                "last_val": 10.4303,
+                "previous_val": 0,
+                "sell_price": 10.5869,
+                "buy_price": 10.4303,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-24T16:07:30.36"
+            },
+            {
+                "nav_date": "2024-12-23",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-SEMQ",
+                "net_asset": 1242000000,
+                "last_val": 10.4827,
+                "previous_val": 0,
+                "sell_price": 10.64,
+                "buy_price": 10.4827,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-25T16:07:06.77"
+            },
+            {
+                "nav_date": "2024-12-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-SEMQ",
+                "net_asset": 1238012288,
+                "last_val": 10.4865,
+                "previous_val": 0,
+                "sell_price": 10.6439,
+                "buy_price": 10.4865,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-27T16:08:53.23"
+            },
+            {
+                "nav_date": "2024-12-26",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-SEMQ",
+                "net_asset": 1232462848,
+                "last_val": 10.435,
+                "previous_val": 0,
+                "sell_price": 10.5916,
+                "buy_price": 10.435,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-28T16:06:42.577"
             }
         ]
     }

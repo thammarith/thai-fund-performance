@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1734434443636,
-    "nextUpdate": 1734518851283,
+    "lastUpdate": 1735436290383,
+    "nextUpdate": 1735522453651,
     "data": {
-        "lastNav": "2024-12-12",
+        "lastNav": "2024-12-20",
         "fund": {
             "proj_id": "M0600_2563",
             "regis_id": "MF0029_2564",
@@ -4127,6 +4127,36 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-12-17T16:07:18.81"
+            },
+            {
+                "nav_date": "2024-12-19",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-AHYD-UI",
+                "net_asset": 636455232,
+                "last_val": 10.4935,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 10.4935,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-24T16:07:30.36"
+            },
+            {
+                "nav_date": "2024-12-20",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-AHYD-UI",
+                "net_asset": 633803840,
+                "last_val": 10.4823,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 10.4823,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-28T16:06:42.577"
             }
         ]
     }

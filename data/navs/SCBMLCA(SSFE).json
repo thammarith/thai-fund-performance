@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1734436148633,
-    "nextUpdate": 1734518851283,
+    "lastUpdate": 1735436519865,
+    "nextUpdate": 1735522453651,
     "data": {
-        "lastNav": "2024-12-12",
+        "lastNav": "2024-12-25",
         "fund": {
             "proj_id": "M0329_2563",
             "regis_id": "MF0399_2563",
@@ -3377,6 +3377,81 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-12-17T16:07:18.81"
+            },
+            {
+                "nav_date": "2024-12-19",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBMLCA(SSFE)",
+                "net_asset": 1970828,
+                "last_val": 7.4395,
+                "previous_val": 0,
+                "sell_price": 7.4396,
+                "buy_price": 7.4395,
+                "sell_swap_price": 7.4395,
+                "buy_swap_price": 7.4396,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-24T16:07:30.36"
+            },
+            {
+                "nav_date": "2024-12-20",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBMLCA(SSFE)",
+                "net_asset": 1965607.5,
+                "last_val": 7.4067,
+                "previous_val": 0,
+                "sell_price": 7.4068,
+                "buy_price": 7.4067,
+                "sell_swap_price": 7.4067,
+                "buy_swap_price": 7.4068,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-25T16:07:06.77"
+            },
+            {
+                "nav_date": "2024-12-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBMLCA(SSFE)",
+                "net_asset": 1977726.13,
+                "last_val": 7.3606,
+                "previous_val": 0,
+                "sell_price": 7.3607,
+                "buy_price": 7.3606,
+                "sell_swap_price": 7.3606,
+                "buy_swap_price": 7.3607,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-26T16:06:33.327"
+            },
+            {
+                "nav_date": "2024-12-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBMLCA(SSFE)",
+                "net_asset": 2159846.75,
+                "last_val": 7.4297,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-27T16:08:53.23"
+            },
+            {
+                "nav_date": "2024-12-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBMLCA(SSFE)",
+                "net_asset": 2160552,
+                "last_val": 7.4322,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-28T16:06:42.577"
             }
         ]
     }

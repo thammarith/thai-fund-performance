@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1734435983401,
-    "nextUpdate": 1734518851283,
+    "lastUpdate": 1735436499282,
+    "nextUpdate": 1735522453651,
     "data": {
-        "lastNav": "2024-12-13",
+        "lastNav": "2024-12-26",
         "fund": {
             "proj_id": "M0300_2559",
             "regis_id": "MF0033_2560",
@@ -12317,6 +12317,96 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-12-17T16:07:18.81"
+            },
+            {
+                "nav_date": "2024-12-19",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBMPLUSA",
+                "net_asset": 2287644672,
+                "last_val": 9.978,
+                "previous_val": 0,
+                "sell_price": 10.0422,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 10.0422,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-23T16:07:50.287"
+            },
+            {
+                "nav_date": "2024-12-20",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBMPLUSA",
+                "net_asset": 2288509440,
+                "last_val": 9.9818,
+                "previous_val": 0,
+                "sell_price": 10.046,
+                "buy_price": 9.9818,
+                "sell_swap_price": 9.9818,
+                "buy_swap_price": 10.046,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-24T16:07:30.36"
+            },
+            {
+                "nav_date": "2024-12-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBMPLUSA",
+                "net_asset": 2265586176,
+                "last_val": 9.9737,
+                "previous_val": 0,
+                "sell_price": 10.0378,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 10.0378,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-25T16:07:06.77"
+            },
+            {
+                "nav_date": "2024-12-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBMPLUSA",
+                "net_asset": 2266174464,
+                "last_val": 9.9763,
+                "previous_val": 0,
+                "sell_price": 10.0404,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 10.0404,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-26T16:06:33.327"
+            },
+            {
+                "nav_date": "2024-12-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBMPLUSA",
+                "net_asset": 2265210112,
+                "last_val": 9.9721,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-27T16:08:53.23"
+            },
+            {
+                "nav_date": "2024-12-26",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBMPLUSA",
+                "net_asset": 2265262848,
+                "last_val": 9.9723,
+                "previous_val": 0,
+                "sell_price": 10.0364,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 10.0364,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-28T16:06:42.577"
             }
         ]
     }

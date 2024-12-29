@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1734504444867,
-    "nextUpdate": 1734589576469,
+    "lastUpdate": 1735437076996,
+    "nextUpdate": 1735522453651,
     "data": {
-        "lastNav": "2024-12-16",
+        "lastNav": "2024-12-26",
         "fund": {
             "proj_id": "M0529_2556",
             "regis_id": "MF0567_2556",
@@ -902,6 +902,81 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-12-18T08:08:48.623"
+            },
+            {
+                "nav_date": "2024-12-19",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP PROP-D-SSF",
+                "net_asset": 15225367,
+                "last_val": 10.2269,
+                "previous_val": 0,
+                "sell_price": 10.227,
+                "buy_price": 10.2269,
+                "sell_swap_price": 10.2269,
+                "buy_swap_price": 10.227,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-23T16:07:50.287"
+            },
+            {
+                "nav_date": "2024-12-20",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP PROP-D-SSF",
+                "net_asset": 15240766,
+                "last_val": 10.2238,
+                "previous_val": 0,
+                "sell_price": 10.2239,
+                "buy_price": 10.2238,
+                "sell_swap_price": 10.2238,
+                "buy_swap_price": 10.2239,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-24T16:07:30.36"
+            },
+            {
+                "nav_date": "2024-12-23",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP PROP-D-SSF",
+                "net_asset": 15279547,
+                "last_val": 10.2482,
+                "previous_val": 0,
+                "sell_price": 10.2483,
+                "buy_price": 10.2482,
+                "sell_swap_price": 10.2482,
+                "buy_swap_price": 10.2483,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-25T16:07:06.77"
+            },
+            {
+                "nav_date": "2024-12-24",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP PROP-D-SSF",
+                "net_asset": 15250188,
+                "last_val": 10.3284,
+                "previous_val": 0,
+                "sell_price": 10.3285,
+                "buy_price": 10.3284,
+                "sell_swap_price": 10.3284,
+                "buy_swap_price": 10.3285,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-27T16:08:53.23"
+            },
+            {
+                "nav_date": "2024-12-26",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP PROP-D-SSF",
+                "net_asset": 15239178,
+                "last_val": 10.3162,
+                "previous_val": 0,
+                "sell_price": 10.3163,
+                "buy_price": 10.3162,
+                "sell_swap_price": 10.3162,
+                "buy_swap_price": 10.3163,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-28T16:06:42.577"
             }
         ]
     }

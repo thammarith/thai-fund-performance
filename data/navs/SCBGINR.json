@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1734496890275,
-    "nextUpdate": 1734583136346,
+    "lastUpdate": 1735436699093,
+    "nextUpdate": 1735522453651,
     "data": {
-        "lastNav": "2024-12-16",
+        "lastNav": "2024-12-26",
         "fund": {
             "proj_id": "M0684_2559",
             "regis_id": "MF0029_2560",
@@ -12317,6 +12317,96 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-12-18T08:08:48.623"
+            },
+            {
+                "nav_date": "2024-12-19",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGINR",
+                "net_asset": 445686656,
+                "last_val": 11.291,
+                "previous_val": 0,
+                "sell_price": 11.4723,
+                "buy_price": 11.291,
+                "sell_swap_price": 11.291,
+                "buy_swap_price": 11.4723,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-23T16:07:50.287"
+            },
+            {
+                "nav_date": "2024-12-20",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGINR",
+                "net_asset": 442464128,
+                "last_val": 11.2086,
+                "previous_val": 0,
+                "sell_price": 11.3886,
+                "buy_price": 11.2086,
+                "sell_swap_price": 11.2086,
+                "buy_swap_price": 11.3886,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-24T16:07:30.36"
+            },
+            {
+                "nav_date": "2024-12-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGINR",
+                "net_asset": 442586592,
+                "last_val": 11.2114,
+                "previous_val": 0,
+                "sell_price": 11.3914,
+                "buy_price": 11.2114,
+                "sell_swap_price": 11.2114,
+                "buy_swap_price": 11.3914,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-25T16:07:06.77"
+            },
+            {
+                "nav_date": "2024-12-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGINR",
+                "net_asset": 442204896,
+                "last_val": 11.2069,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-26T16:06:33.327"
+            },
+            {
+                "nav_date": "2024-12-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGINR",
+                "net_asset": 442188032,
+                "last_val": 11.2064,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-27T16:08:53.23"
+            },
+            {
+                "nav_date": "2024-12-26",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGINR",
+                "net_asset": 442245152,
+                "last_val": 11.2079,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-28T16:06:42.577"
             }
         ]
     }

@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1734435907609,
-    "nextUpdate": 1734518851283,
+    "lastUpdate": 1735436489758,
+    "nextUpdate": 1735522453651,
     "data": {
-        "lastNav": "2024-12-13",
+        "lastNav": "2024-12-26",
         "fund": {
             "proj_id": "M0285_2564",
             "regis_id": "MF0242_2564",
@@ -11387,6 +11387,96 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-12-17T16:07:18.81"
+            },
+            {
+                "nav_date": "2024-12-19",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBABOND(A)",
+                "net_asset": 249575936,
+                "last_val": 9.4443,
+                "previous_val": 0,
+                "sell_price": 9.5388,
+                "buy_price": 9.4443,
+                "sell_swap_price": 9.4443,
+                "buy_swap_price": 9.5388,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-23T16:07:50.287"
+            },
+            {
+                "nav_date": "2024-12-20",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBABOND(A)",
+                "net_asset": 249297200,
+                "last_val": 9.4416,
+                "previous_val": 0,
+                "sell_price": 9.5361,
+                "buy_price": 9.4416,
+                "sell_swap_price": 9.4416,
+                "buy_swap_price": 9.5361,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-24T16:07:30.36"
+            },
+            {
+                "nav_date": "2024-12-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBABOND(A)",
+                "net_asset": 250139728,
+                "last_val": 9.4423,
+                "previous_val": 0,
+                "sell_price": 9.5368,
+                "buy_price": 9.4423,
+                "sell_swap_price": 9.4423,
+                "buy_swap_price": 9.5368,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-25T16:07:06.77"
+            },
+            {
+                "nav_date": "2024-12-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBABOND(A)",
+                "net_asset": 250107024,
+                "last_val": 9.4411,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-26T16:06:33.327"
+            },
+            {
+                "nav_date": "2024-12-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBABOND(A)",
+                "net_asset": 250085424,
+                "last_val": 9.4402,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-27T16:08:53.23"
+            },
+            {
+                "nav_date": "2024-12-26",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBABOND(A)",
+                "net_asset": 250070976,
+                "last_val": 9.4397,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-28T16:06:42.577"
             }
         ]
     }

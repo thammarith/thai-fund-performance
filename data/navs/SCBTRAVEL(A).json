@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1734435674810,
-    "nextUpdate": 1734518851283,
+    "lastUpdate": 1735436459980,
+    "nextUpdate": 1735522453651,
     "data": {
-        "lastNav": "2024-12-12",
+        "lastNav": "2024-12-25",
         "fund": {
             "proj_id": "M0196_2564",
             "regis_id": "MF0186_2564",
@@ -11777,6 +11777,81 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-12-17T16:07:18.81"
+            },
+            {
+                "nav_date": "2024-12-19",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBTRAVEL(A)",
+                "net_asset": 493792864,
+                "last_val": 8.2321,
+                "previous_val": 0,
+                "sell_price": 8.3643,
+                "buy_price": 8.2321,
+                "sell_swap_price": 8.2321,
+                "buy_swap_price": 8.3643,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-24T16:07:30.36"
+            },
+            {
+                "nav_date": "2024-12-20",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBTRAVEL(A)",
+                "net_asset": 497775360,
+                "last_val": 8.3033,
+                "previous_val": 0,
+                "sell_price": 8.4367,
+                "buy_price": 8.3033,
+                "sell_swap_price": 8.3033,
+                "buy_swap_price": 8.4367,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-25T16:07:06.77"
+            },
+            {
+                "nav_date": "2024-12-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBTRAVEL(A)",
+                "net_asset": 498609312,
+                "last_val": 8.3173,
+                "previous_val": 0,
+                "sell_price": 8.4509,
+                "buy_price": 8.3173,
+                "sell_swap_price": 8.3173,
+                "buy_swap_price": 8.4509,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-26T16:06:33.327"
+            },
+            {
+                "nav_date": "2024-12-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBTRAVEL(A)",
+                "net_asset": 501661824,
+                "last_val": 8.3706,
+                "previous_val": 0,
+                "sell_price": 8.505,
+                "buy_price": 8.3706,
+                "sell_swap_price": 8.3706,
+                "buy_swap_price": 8.505,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-27T16:08:53.23"
+            },
+            {
+                "nav_date": "2024-12-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBTRAVEL(A)",
+                "net_asset": 501619776,
+                "last_val": 8.3698,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-28T16:06:42.577"
             }
         ]
     }

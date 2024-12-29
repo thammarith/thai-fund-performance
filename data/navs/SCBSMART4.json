@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1734436439032,
-    "nextUpdate": 1734518851283,
+    "lastUpdate": 1735436572666,
+    "nextUpdate": 1735522453651,
     "data": {
-        "lastNav": "2024-12-12",
+        "lastNav": "2024-12-25",
         "fund": {
             "proj_id": "M0449_2555",
             "regis_id": "MF0620_2555",
@@ -887,6 +887,81 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-12-17T16:07:18.81"
+            },
+            {
+                "nav_date": "2024-12-19",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSMART4",
+                "net_asset": 65840748,
+                "last_val": 9.868,
+                "previous_val": 0,
+                "sell_price": 9.9737,
+                "buy_price": 9.868,
+                "sell_swap_price": 9.868,
+                "buy_swap_price": 9.9737,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-24T16:07:30.36"
+            },
+            {
+                "nav_date": "2024-12-20",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSMART4",
+                "net_asset": 65870268,
+                "last_val": 9.8733,
+                "previous_val": 0,
+                "sell_price": 9.979,
+                "buy_price": 9.8733,
+                "sell_swap_price": 9.8733,
+                "buy_swap_price": 9.979,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-25T16:07:06.77"
+            },
+            {
+                "nav_date": "2024-12-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSMART4",
+                "net_asset": 66071680,
+                "last_val": 9.9035,
+                "previous_val": 0,
+                "sell_price": 10.0096,
+                "buy_price": 9.9035,
+                "sell_swap_price": 9.9035,
+                "buy_swap_price": 10.0096,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-26T16:06:33.327"
+            },
+            {
+                "nav_date": "2024-12-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSMART4",
+                "net_asset": 66420328,
+                "last_val": 9.9556,
+                "previous_val": 0,
+                "sell_price": 10.0622,
+                "buy_price": 9.9556,
+                "sell_swap_price": 9.9556,
+                "buy_swap_price": 10.0622,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-27T16:08:53.23"
+            },
+            {
+                "nav_date": "2024-12-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSMART4",
+                "net_asset": 66480072,
+                "last_val": 9.9644,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-28T16:06:42.577"
             }
         ]
     }

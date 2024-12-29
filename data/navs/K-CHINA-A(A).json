@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1734434310659,
-    "nextUpdate": 1734518851283,
+    "lastUpdate": 1735436275663,
+    "nextUpdate": 1735522453651,
     "data": {
-        "lastNav": "2024-12-13",
+        "lastNav": "2024-12-23",
         "fund": {
             "proj_id": "M0579_2552",
             "regis_id": "519_2552",
@@ -11312,6 +11312,51 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-12-17T16:07:18.81"
+            },
+            {
+                "nav_date": "2024-12-19",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-CHINA-A(A)",
+                "net_asset": 3941093632,
+                "last_val": 4.7562,
+                "previous_val": 0,
+                "sell_price": 4.8276,
+                "buy_price": 4.7562,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-23T16:07:50.287"
+            },
+            {
+                "nav_date": "2024-12-20",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-CHINA-A(A)",
+                "net_asset": 3914546688,
+                "last_val": 4.7399,
+                "previous_val": 0,
+                "sell_price": 4.8111,
+                "buy_price": 4.7399,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-24T16:07:30.36"
+            },
+            {
+                "nav_date": "2024-12-23",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-CHINA-A(A)",
+                "net_asset": 3913380096,
+                "last_val": 4.7363,
+                "previous_val": 0,
+                "sell_price": 4.8074,
+                "buy_price": 4.7363,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-28T16:06:42.577"
             }
         ]
     }

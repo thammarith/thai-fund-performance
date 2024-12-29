@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1734436566051,
-    "nextUpdate": 1734518851283,
+    "lastUpdate": 1735436596450,
+    "nextUpdate": 1735522453651,
     "data": {
-        "lastNav": "2024-12-16",
+        "lastNav": "2024-12-20",
         "fund": {
             "proj_id": "M0492_2567",
             "regis_id": "MF0329_2567",
@@ -1172,6 +1172,36 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-12-17T16:07:18.81"
+            },
+            {
+                "nav_date": "2024-12-19",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBASF6MW5",
+                "net_asset": 3011702528,
+                "last_val": 10.1171,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-20T16:08:16.48"
+            },
+            {
+                "nav_date": "2024-12-20",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBASF6MW5",
+                "net_asset": 3009708032,
+                "last_val": 10.1104,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 10.1104,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-23T16:07:50.287"
             }
         ]
     }

@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1734434710295,
-    "nextUpdate": 1734518851283,
+    "lastUpdate": 1735436326705,
+    "nextUpdate": 1735522453651,
     "data": {
-        "lastNav": "2024-12-13",
+        "lastNav": "2024-12-23",
         "fund": {
             "proj_id": "M0798_2557",
             "regis_id": "MF0796_2557",
@@ -11117,6 +11117,51 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-12-17T16:07:18.81"
+            },
+            {
+                "nav_date": "2024-12-19",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GHEALTH",
+                "net_asset": 3282459392,
+                "last_val": 10.3089,
+                "previous_val": 0,
+                "sell_price": 10.4636,
+                "buy_price": 10.3089,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-23T16:07:50.287"
+            },
+            {
+                "nav_date": "2024-12-20",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GHEALTH",
+                "net_asset": 3263945216,
+                "last_val": 10.2391,
+                "previous_val": 0,
+                "sell_price": 10.3928,
+                "buy_price": 10.2391,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-24T16:07:30.36"
+            },
+            {
+                "nav_date": "2024-12-23",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GHEALTH",
+                "net_asset": 3290317312,
+                "last_val": 10.322,
+                "previous_val": 0,
+                "sell_price": 10.4769,
+                "buy_price": 10.322,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-28T16:06:42.577"
             }
         ]
     }

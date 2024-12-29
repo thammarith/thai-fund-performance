@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1734435074188,
-    "nextUpdate": 1734518851283,
+    "lastUpdate": 1735436380972,
+    "nextUpdate": 1735522453651,
     "data": {
-        "lastNav": "2024-12-12",
+        "lastNav": "2024-12-23",
         "fund": {
             "proj_id": "M0033_2560",
             "regis_id": "MF0068_2560",
@@ -12122,6 +12122,51 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-12-17T16:07:18.81"
+            },
+            {
+                "nav_date": "2024-12-19",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGMTA",
+                "net_asset": 117657904,
+                "last_val": 7.9403,
+                "previous_val": 0,
+                "sell_price": 8.0678,
+                "buy_price": 7.9403,
+                "sell_swap_price": 7.9403,
+                "buy_swap_price": 8.0678,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-24T16:07:30.36"
+            },
+            {
+                "nav_date": "2024-12-20",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGMTA",
+                "net_asset": 117985784,
+                "last_val": 7.9625,
+                "previous_val": 0,
+                "sell_price": 8.0904,
+                "buy_price": 7.9625,
+                "sell_swap_price": 7.9625,
+                "buy_swap_price": 8.0904,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-25T16:07:06.77"
+            },
+            {
+                "nav_date": "2024-12-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGMTA",
+                "net_asset": 117828976,
+                "last_val": 7.9519,
+                "previous_val": 0,
+                "sell_price": 8.0796,
+                "buy_price": 7.9519,
+                "sell_swap_price": 7.9519,
+                "buy_swap_price": 8.0796,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-28T16:06:42.577"
             }
         ]
     }

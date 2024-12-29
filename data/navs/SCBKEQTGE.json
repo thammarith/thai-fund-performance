@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1734493558238,
-    "nextUpdate": 1734579811838,
+    "lastUpdate": 1735436644872,
+    "nextUpdate": 1735522453651,
     "data": {
-        "lastNav": "2024-12-16",
+        "lastNav": "2024-12-26",
         "fund": {
             "proj_id": "M0559_2557",
             "regis_id": "MF0577_2557",
@@ -12317,6 +12317,96 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-12-18T08:08:48.623"
+            },
+            {
+                "nav_date": "2024-12-19",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBKEQTGE",
+                "net_asset": 82159304,
+                "last_val": 8.0811,
+                "previous_val": 0,
+                "sell_price": 8.0812,
+                "buy_price": 8.0725,
+                "sell_swap_price": 8.0725,
+                "buy_swap_price": 8.0812,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-23T16:07:50.287"
+            },
+            {
+                "nav_date": "2024-12-20",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBKEQTGE",
+                "net_asset": 83052736,
+                "last_val": 8.0402,
+                "previous_val": 0,
+                "sell_price": 8.0403,
+                "buy_price": 8.0316,
+                "sell_swap_price": 8.0316,
+                "buy_swap_price": 8.0403,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-24T16:07:30.36"
+            },
+            {
+                "nav_date": "2024-12-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBKEQTGE",
+                "net_asset": 83265728,
+                "last_val": 8.0499,
+                "previous_val": 0,
+                "sell_price": 8.05,
+                "buy_price": 8.0413,
+                "sell_swap_price": 8.0413,
+                "buy_swap_price": 8.05,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-25T16:07:06.77"
+            },
+            {
+                "nav_date": "2024-12-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBKEQTGE",
+                "net_asset": 83461424,
+                "last_val": 8.0398,
+                "previous_val": 0,
+                "sell_price": 8.0399,
+                "buy_price": 8.0312,
+                "sell_swap_price": 8.0312,
+                "buy_swap_price": 8.0399,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-26T16:06:33.327"
+            },
+            {
+                "nav_date": "2024-12-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBKEQTGE",
+                "net_asset": 83529456,
+                "last_val": 8.0394,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-27T16:08:53.23"
+            },
+            {
+                "nav_date": "2024-12-26",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBKEQTGE",
+                "net_asset": 82447136,
+                "last_val": 7.9352,
+                "previous_val": 0,
+                "sell_price": 7.9353,
+                "buy_price": 7.9267,
+                "sell_swap_price": 7.9267,
+                "buy_swap_price": 7.9353,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-28T16:06:42.577"
             }
         ]
     }

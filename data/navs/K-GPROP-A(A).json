@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1734433894826,
-    "nextUpdate": 1734518851283,
+    "lastUpdate": 1735436226579,
+    "nextUpdate": 1735522453651,
     "data": {
-        "lastNav": "2024-12-13",
+        "lastNav": "2024-12-23",
         "fund": {
             "proj_id": "M0429_2557",
             "regis_id": "MF0611_2557",
@@ -11267,6 +11267,51 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-12-17T16:07:18.81"
+            },
+            {
+                "nav_date": "2024-12-19",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GPROP-A(A)",
+                "net_asset": 116583384,
+                "last_val": 7.8391,
+                "previous_val": 0,
+                "sell_price": 7.9568,
+                "buy_price": 7.8391,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-23T16:07:50.287"
+            },
+            {
+                "nav_date": "2024-12-20",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GPROP-A(A)",
+                "net_asset": 116347816,
+                "last_val": 7.8196,
+                "previous_val": 0,
+                "sell_price": 7.937,
+                "buy_price": 7.8196,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-24T16:07:30.36"
+            },
+            {
+                "nav_date": "2024-12-23",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GPROP-A(A)",
+                "net_asset": 116326304,
+                "last_val": 7.8231,
+                "previous_val": 0,
+                "sell_price": 7.9405,
+                "buy_price": 7.8231,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-28T16:06:42.577"
             }
         ]
     }

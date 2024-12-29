@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1734435708755,
-    "nextUpdate": 1734518851283,
+    "lastUpdate": 1735436463987,
+    "nextUpdate": 1735522453651,
     "data": {
-        "lastNav": "2024-12-12",
+        "lastNav": "2024-12-25",
         "fund": {
             "proj_id": "M0211_2564",
             "regis_id": "MF0219_2564",
@@ -8222,6 +8222,81 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-12-17T16:07:18.81"
+            },
+            {
+                "nav_date": "2024-12-19",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBIHEALT(SSFE)",
+                "net_asset": 7247805,
+                "last_val": 4.2788,
+                "previous_val": 0,
+                "sell_price": 4.2789,
+                "buy_price": 4.2788,
+                "sell_swap_price": 4.2788,
+                "buy_swap_price": 4.2789,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-24T16:07:30.36"
+            },
+            {
+                "nav_date": "2024-12-20",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBIHEALT(SSFE)",
+                "net_asset": 7321651.5,
+                "last_val": 4.2849,
+                "previous_val": 0,
+                "sell_price": 4.285,
+                "buy_price": 4.2849,
+                "sell_swap_price": 4.2849,
+                "buy_swap_price": 4.285,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-25T16:07:06.77"
+            },
+            {
+                "nav_date": "2024-12-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBIHEALT(SSFE)",
+                "net_asset": 7401880.5,
+                "last_val": 4.3279,
+                "previous_val": 0,
+                "sell_price": 4.328,
+                "buy_price": 4.3279,
+                "sell_swap_price": 4.3279,
+                "buy_swap_price": 4.328,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-27T16:08:53.23"
+            },
+            {
+                "nav_date": "2024-12-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBIHEALT(SSFE)",
+                "net_asset": 7442454,
+                "last_val": 4.3336,
+                "previous_val": 0,
+                "sell_price": 4.3337,
+                "buy_price": 4.3336,
+                "sell_swap_price": 4.3336,
+                "buy_swap_price": 4.3337,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-27T16:08:53.23"
+            },
+            {
+                "nav_date": "2024-12-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBIHEALT(SSFE)",
+                "net_asset": 7496200,
+                "last_val": 4.3335,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-28T16:06:42.577"
             }
         ]
     }

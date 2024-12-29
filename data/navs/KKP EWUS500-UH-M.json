@@ -1,0 +1,68 @@
+{
+    "lastUpdate": 1735437109019,
+    "nextUpdate": 1735522453651,
+    "data": {
+        "lastNav": "2024-12-26",
+        "fund": {
+            "proj_id": "M0965_2567",
+            "regis_id": "MF0702_2567",
+            "regis_date": "2024-12-04",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิดเคเคพี US500 EQUAL WEIGHT - UNHEDGED",
+            "proj_name_en": "KKP US500 EQUAL WEIGHT FUND - UNHEDGED",
+            "proj_abbr_name": "KKP EWUS500-UH",
+            "fund_status": "RG",
+            "unique_id": "C0000005025",
+            "permit_us_investment": null,
+            "invest_country_flag": "1",
+            "last_upd_date": "2024-12-17T16:03:03.58"
+        },
+        "navs": [
+            {
+                "nav_date": "2024-12-23",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP EWUS500-UH-M",
+                "net_asset": 0,
+                "last_val": 9.3725,
+                "previous_val": 0,
+                "sell_price": 9.3726,
+                "buy_price": 9.3725,
+                "sell_swap_price": 9.3725,
+                "buy_swap_price": 9.3726,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-25T16:07:06.77"
+            },
+            {
+                "nav_date": "2024-12-24",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP EWUS500-UH-M",
+                "net_asset": 0,
+                "last_val": 9.4358,
+                "previous_val": 0,
+                "sell_price": 9.4359,
+                "buy_price": 9.4358,
+                "sell_swap_price": 9.4358,
+                "buy_swap_price": 9.4359,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-27T16:08:53.23"
+            },
+            {
+                "nav_date": "2024-12-26",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP EWUS500-UH-M",
+                "net_asset": 0,
+                "last_val": 9.4783,
+                "previous_val": 0,
+                "sell_price": 9.4784,
+                "buy_price": 9.4783,
+                "sell_swap_price": 9.4783,
+                "buy_swap_price": 9.4784,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-28T16:06:42.577"
+            }
+        ]
+    }
+}

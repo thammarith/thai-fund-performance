@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1734503777745,
-    "nextUpdate": 1734589576469,
+    "lastUpdate": 1735436937468,
+    "nextUpdate": 1735522453651,
     "data": {
-        "lastNav": "2024-12-16",
+        "lastNav": "2024-12-26",
         "fund": {
             "proj_id": "M0372_2556",
             "regis_id": "MF0401_2556",
@@ -12422,6 +12422,96 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-12-18T08:08:48.623"
+            },
+            {
+                "nav_date": "2024-12-19",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-PREMIER",
+                "net_asset": 22953168,
+                "last_val": 9.2727,
+                "previous_val": 0,
+                "sell_price": 9.2976,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 9.2976,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-23T16:07:50.287"
+            },
+            {
+                "nav_date": "2024-12-20",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-PREMIER",
+                "net_asset": 22968504,
+                "last_val": 9.2789,
+                "previous_val": 0,
+                "sell_price": 9.3038,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 9.3038,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-24T16:07:30.36"
+            },
+            {
+                "nav_date": "2024-12-23",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-PREMIER",
+                "net_asset": 23081904,
+                "last_val": 9.3247,
+                "previous_val": 0,
+                "sell_price": 9.3497,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 9.3497,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-25T16:07:06.77"
+            },
+            {
+                "nav_date": "2024-12-24",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-PREMIER",
+                "net_asset": 23166614,
+                "last_val": 9.359,
+                "previous_val": 0,
+                "sell_price": 9.3841,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 9.3841,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-26T16:06:33.327"
+            },
+            {
+                "nav_date": "2024-12-25",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-PREMIER",
+                "net_asset": 23181686,
+                "last_val": 9.365,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-27T16:08:53.23"
+            },
+            {
+                "nav_date": "2024-12-26",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-PREMIER",
+                "net_asset": 23190542,
+                "last_val": 9.3686,
+                "previous_val": 0,
+                "sell_price": 9.3938,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 9.3938,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-28T16:06:42.577"
             }
         ]
     }

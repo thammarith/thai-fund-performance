@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1734435424796,
-    "nextUpdate": 1734518851283,
+    "lastUpdate": 1735436426189,
+    "nextUpdate": 1735522453651,
     "data": {
-        "lastNav": "2024-12-13",
+        "lastNav": "2024-12-26",
         "fund": {
             "proj_id": "M0142_2561",
             "regis_id": "MF0186_2561",
@@ -12302,6 +12302,96 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-12-17T16:07:18.81"
+            },
+            {
+                "nav_date": "2024-12-19",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBJPSMA",
+                "net_asset": 360986464,
+                "last_val": 8.89,
+                "previous_val": 0,
+                "sell_price": 9.0328,
+                "buy_price": 8.89,
+                "sell_swap_price": 8.89,
+                "buy_swap_price": 9.0328,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-23T16:07:50.287"
+            },
+            {
+                "nav_date": "2024-12-20",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBJPSMA",
+                "net_asset": 358712992,
+                "last_val": 8.834,
+                "previous_val": 0,
+                "sell_price": 8.9759,
+                "buy_price": 8.834,
+                "sell_swap_price": 8.834,
+                "buy_swap_price": 8.9759,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-24T16:07:30.36"
+            },
+            {
+                "nav_date": "2024-12-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBJPSMA",
+                "net_asset": 359742560,
+                "last_val": 8.8592,
+                "previous_val": 0,
+                "sell_price": 9.0015,
+                "buy_price": 8.8592,
+                "sell_swap_price": 8.8592,
+                "buy_swap_price": 9.0015,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-25T16:07:06.77"
+            },
+            {
+                "nav_date": "2024-12-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBJPSMA",
+                "net_asset": 360196512,
+                "last_val": 8.8697,
+                "previous_val": 0,
+                "sell_price": 9.0122,
+                "buy_price": 8.8697,
+                "sell_swap_price": 8.8697,
+                "buy_swap_price": 9.0122,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-26T16:06:33.327"
+            },
+            {
+                "nav_date": "2024-12-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBJPSMA",
+                "net_asset": 360072736,
+                "last_val": 8.867,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-27T16:08:53.23"
+            },
+            {
+                "nav_date": "2024-12-26",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBJPSMA",
+                "net_asset": 360356320,
+                "last_val": 8.874,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-28T16:06:42.577"
             }
         ]
     }

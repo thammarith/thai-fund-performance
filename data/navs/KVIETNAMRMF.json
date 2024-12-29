@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1734432700778,
-    "nextUpdate": 1734518851283,
+    "lastUpdate": 1735436086086,
+    "nextUpdate": 1735522453651,
     "data": {
-        "lastNav": "2024-12-16",
+        "lastNav": "2024-12-27",
         "fund": {
             "proj_id": "M0045_2565",
             "regis_id": "MF0169_2565",
@@ -8192,6 +8192,96 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-12-17T16:07:18.81"
+            },
+            {
+                "nav_date": "2024-12-19",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KVIETNAMRMF",
+                "net_asset": 2478032896,
+                "last_val": 9.4509,
+                "previous_val": 0,
+                "sell_price": 9.451,
+                "buy_price": 9.4509,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-20T16:08:16.48"
+            },
+            {
+                "nav_date": "2024-12-20",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KVIETNAMRMF",
+                "net_asset": 2489100032,
+                "last_val": 9.4689,
+                "previous_val": 0,
+                "sell_price": 9.469,
+                "buy_price": 9.4689,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-23T16:07:50.287"
+            },
+            {
+                "nav_date": "2024-12-23",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KVIETNAMRMF",
+                "net_asset": 2480038912,
+                "last_val": 9.4082,
+                "previous_val": 0,
+                "sell_price": 9.4083,
+                "buy_price": 9.4082,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-24T16:07:30.36"
+            },
+            {
+                "nav_date": "2024-12-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KVIETNAMRMF",
+                "net_asset": 2491810048,
+                "last_val": 9.4002,
+                "previous_val": 0,
+                "sell_price": 9.4003,
+                "buy_price": 9.4002,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-26T16:06:33.327"
+            },
+            {
+                "nav_date": "2024-12-26",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KVIETNAMRMF",
+                "net_asset": 2547613952,
+                "last_val": 9.5305,
+                "previous_val": 0,
+                "sell_price": 9.5306,
+                "buy_price": 9.5305,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-27T16:08:53.23"
+            },
+            {
+                "nav_date": "2024-12-27",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KVIETNAMRMF",
+                "net_asset": 2588957440,
+                "last_val": 9.5058,
+                "previous_val": 0,
+                "sell_price": 9.5059,
+                "buy_price": 9.5058,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-28T16:06:42.577"
             }
         ]
     }

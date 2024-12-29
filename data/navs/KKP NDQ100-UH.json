@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1734504530933,
-    "nextUpdate": 1734589576469,
+    "lastUpdate": 1735437092950,
+    "nextUpdate": 1735522453651,
     "data": {
-        "lastNav": "2024-12-16",
+        "lastNav": "2024-12-26",
         "fund": {
             "proj_id": "M0690_2566",
             "regis_id": "MF0512_2566",
@@ -917,6 +917,81 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-12-18T08:08:48.623"
+            },
+            {
+                "nav_date": "2024-12-19",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP NDQ100-UH",
+                "net_asset": 680673280,
+                "last_val": 13.3065,
+                "previous_val": 0,
+                "sell_price": 13.3066,
+                "buy_price": 13.3065,
+                "sell_swap_price": 13.3065,
+                "buy_swap_price": 13.3066,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-23T16:07:50.287"
+            },
+            {
+                "nav_date": "2024-12-20",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP NDQ100-UH",
+                "net_asset": 688855040,
+                "last_val": 13.4007,
+                "previous_val": 0,
+                "sell_price": 13.4008,
+                "buy_price": 13.4007,
+                "sell_swap_price": 13.4007,
+                "buy_swap_price": 13.4008,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-24T16:07:30.36"
+            },
+            {
+                "nav_date": "2024-12-23",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP NDQ100-UH",
+                "net_asset": 688363456,
+                "last_val": 13.3904,
+                "previous_val": 0,
+                "sell_price": 13.3905,
+                "buy_price": 13.3904,
+                "sell_swap_price": 13.3904,
+                "buy_swap_price": 13.3905,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-25T16:07:06.77"
+            },
+            {
+                "nav_date": "2024-12-24",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP NDQ100-UH",
+                "net_asset": 698032384,
+                "last_val": 13.5625,
+                "previous_val": 0,
+                "sell_price": 13.5626,
+                "buy_price": 13.5625,
+                "sell_swap_price": 13.5625,
+                "buy_swap_price": 13.5626,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-27T16:08:53.23"
+            },
+            {
+                "nav_date": "2024-12-26",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP NDQ100-UH",
+                "net_asset": 699996480,
+                "last_val": 13.5914,
+                "previous_val": 0,
+                "sell_price": 13.5915,
+                "buy_price": 13.5914,
+                "sell_swap_price": 13.5914,
+                "buy_swap_price": 13.5915,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-28T16:06:42.577"
             }
         ]
     }

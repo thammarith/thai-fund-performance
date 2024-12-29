@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1734493861811,
-    "nextUpdate": 1734580148294,
+    "lastUpdate": 1735436649842,
+    "nextUpdate": 1735522453651,
     "data": {
-        "lastNav": "2024-12-16",
+        "lastNav": "2024-12-26",
         "fund": {
             "proj_id": "M0570_2560",
             "regis_id": "MF0452_2560",
@@ -12332,6 +12332,96 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-12-18T08:08:48.623"
+            },
+            {
+                "nav_date": "2024-12-19",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBRMPOP",
+                "net_asset": 1019238912,
+                "last_val": 13.8434,
+                "previous_val": 0,
+                "sell_price": 13.8435,
+                "buy_price": 13.8434,
+                "sell_swap_price": 13.8434,
+                "buy_swap_price": 13.8435,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-23T16:07:50.287"
+            },
+            {
+                "nav_date": "2024-12-20",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBRMPOP",
+                "net_asset": 1024750400,
+                "last_val": 13.9139,
+                "previous_val": 0,
+                "sell_price": 13.914,
+                "buy_price": 13.9139,
+                "sell_swap_price": 13.9139,
+                "buy_swap_price": 13.914,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-24T16:07:30.36"
+            },
+            {
+                "nav_date": "2024-12-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBRMPOP",
+                "net_asset": 1024719232,
+                "last_val": 13.8955,
+                "previous_val": 0,
+                "sell_price": 13.8956,
+                "buy_price": 13.8955,
+                "sell_swap_price": 13.8955,
+                "buy_swap_price": 13.8956,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-25T16:07:06.77"
+            },
+            {
+                "nav_date": "2024-12-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBRMPOP",
+                "net_asset": 1031007744,
+                "last_val": 13.9924,
+                "previous_val": 0,
+                "sell_price": 13.9925,
+                "buy_price": 13.9924,
+                "sell_swap_price": 13.9924,
+                "buy_swap_price": 13.9925,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-26T16:06:33.327"
+            },
+            {
+                "nav_date": "2024-12-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBRMPOP",
+                "net_asset": 1031487872,
+                "last_val": 13.9912,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-27T16:08:53.23"
+            },
+            {
+                "nav_date": "2024-12-26",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBRMPOP",
+                "net_asset": 1033775872,
+                "last_val": 14.0222,
+                "previous_val": 0,
+                "sell_price": 14.0223,
+                "buy_price": 14.0222,
+                "sell_swap_price": 14.0222,
+                "buy_swap_price": 14.0223,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-28T16:06:42.577"
             }
         ]
     }

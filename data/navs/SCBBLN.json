@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1734436250057,
-    "nextUpdate": 1734518851283,
+    "lastUpdate": 1735436539725,
+    "nextUpdate": 1735522453651,
     "data": {
-        "lastNav": "2024-12-13",
+        "lastNav": "2024-12-26",
         "fund": {
             "proj_id": "M0386_2558",
             "regis_id": "MF0397_2558",
@@ -962,6 +962,96 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-12-17T16:07:18.81"
+            },
+            {
+                "nav_date": "2024-12-19",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBBLN",
+                "net_asset": 1313466752,
+                "last_val": 14.0134,
+                "previous_val": 0,
+                "sell_price": 14.2447,
+                "buy_price": 14.0071,
+                "sell_swap_price": 14.0071,
+                "buy_swap_price": 14.2447,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-23T16:07:50.287"
+            },
+            {
+                "nav_date": "2024-12-20",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBBLN",
+                "net_asset": 1322121344,
+                "last_val": 14.1009,
+                "previous_val": 0,
+                "sell_price": 14.3336,
+                "buy_price": 14.0946,
+                "sell_swap_price": 14.0946,
+                "buy_swap_price": 14.3336,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-24T16:07:30.36"
+            },
+            {
+                "nav_date": "2024-12-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBBLN",
+                "net_asset": 1335574912,
+                "last_val": 14.2413,
+                "previous_val": 0,
+                "sell_price": 14.4764,
+                "buy_price": 14.2349,
+                "sell_swap_price": 14.2349,
+                "buy_swap_price": 14.4764,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-25T16:07:06.77"
+            },
+            {
+                "nav_date": "2024-12-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBBLN",
+                "net_asset": 1359024384,
+                "last_val": 14.4168,
+                "previous_val": 0,
+                "sell_price": 14.6548,
+                "buy_price": 14.4103,
+                "sell_swap_price": 14.4103,
+                "buy_swap_price": 14.6548,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-26T16:06:33.327"
+            },
+            {
+                "nav_date": "2024-12-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBBLN",
+                "net_asset": 1360939776,
+                "last_val": 14.4162,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-27T16:08:53.23"
+            },
+            {
+                "nav_date": "2024-12-26",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBBLN",
+                "net_asset": 1359399424,
+                "last_val": 14.3999,
+                "previous_val": 0,
+                "sell_price": 14.6376,
+                "buy_price": 14.3934,
+                "sell_swap_price": 14.3934,
+                "buy_swap_price": 14.6376,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-28T16:06:42.577"
             }
         ]
     }

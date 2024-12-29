@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1734435758907,
-    "nextUpdate": 1734518851283,
+    "lastUpdate": 1735436470960,
+    "nextUpdate": 1735522453651,
     "data": {
-        "lastNav": "2024-12-12",
+        "lastNav": "2024-12-25",
         "fund": {
             "proj_id": "M0245_2559",
             "regis_id": "MF0275_2559",
@@ -12197,6 +12197,81 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-12-17T16:07:18.81"
+            },
+            {
+                "nav_date": "2024-12-19",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBDIGIP",
+                "net_asset": 0,
+                "last_val": 19.209,
+                "previous_val": 0,
+                "sell_price": 19.2091,
+                "buy_price": 19.209,
+                "sell_swap_price": 19.209,
+                "buy_swap_price": 19.2091,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-24T16:07:30.36"
+            },
+            {
+                "nav_date": "2024-12-20",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBDIGIP",
+                "net_asset": 0,
+                "last_val": 19.4442,
+                "previous_val": 0,
+                "sell_price": 19.4443,
+                "buy_price": 19.4442,
+                "sell_swap_price": 19.4442,
+                "buy_swap_price": 19.4443,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-25T16:07:06.77"
+            },
+            {
+                "nav_date": "2024-12-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBDIGIP",
+                "net_asset": 0,
+                "last_val": 19.5205,
+                "previous_val": 0,
+                "sell_price": 19.5206,
+                "buy_price": 19.5205,
+                "sell_swap_price": 19.5205,
+                "buy_swap_price": 19.5206,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-27T16:08:53.23"
+            },
+            {
+                "nav_date": "2024-12-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBDIGIP",
+                "net_asset": 0,
+                "last_val": 19.6774,
+                "previous_val": 0,
+                "sell_price": 19.6775,
+                "buy_price": 19.6774,
+                "sell_swap_price": 19.6774,
+                "buy_swap_price": 19.6775,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-27T16:08:53.23"
+            },
+            {
+                "nav_date": "2024-12-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBDIGIP",
+                "net_asset": 0,
+                "last_val": 19.6755,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-28T16:06:42.577"
             }
         ]
     }

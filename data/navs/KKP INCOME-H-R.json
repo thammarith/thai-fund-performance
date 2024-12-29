@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1734504399189,
-    "nextUpdate": 1734589576469,
+    "lastUpdate": 1735437067068,
+    "nextUpdate": 1735522453651,
     "data": {
-        "lastNav": "2024-12-16",
+        "lastNav": "2024-12-23",
         "fund": {
             "proj_id": "M0488_2564",
             "regis_id": "MF0004_2565",
@@ -8822,6 +8822,51 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-12-18T08:08:48.623"
+            },
+            {
+                "nav_date": "2024-12-19",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP INCOME-H-R",
+                "net_asset": 563080000,
+                "last_val": 9.4949,
+                "previous_val": 0,
+                "sell_price": 9.6184,
+                "buy_price": 9.4949,
+                "sell_swap_price": 9.4949,
+                "buy_swap_price": 9.6184,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-23T16:07:50.287"
+            },
+            {
+                "nav_date": "2024-12-20",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP INCOME-H-R",
+                "net_asset": 561122304,
+                "last_val": 9.4617,
+                "previous_val": 0,
+                "sell_price": 9.5848,
+                "buy_price": 9.4617,
+                "sell_swap_price": 9.4617,
+                "buy_swap_price": 9.5848,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-24T16:07:30.36"
+            },
+            {
+                "nav_date": "2024-12-23",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP INCOME-H-R",
+                "net_asset": 562226688,
+                "last_val": 9.4803,
+                "previous_val": 0,
+                "sell_price": 9.6036,
+                "buy_price": 9.4803,
+                "sell_swap_price": 9.4803,
+                "buy_swap_price": 9.6036,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-28T16:06:42.577"
             }
         ]
     }

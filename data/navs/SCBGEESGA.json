@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1734436676871,
-    "nextUpdate": 1734518851283,
+    "lastUpdate": 1735436617759,
+    "nextUpdate": 1735522453651,
     "data": {
-        "lastNav": "2024-12-12",
+        "lastNav": "2024-12-25",
         "fund": {
             "proj_id": "M0534_2563",
             "regis_id": "MF0361_2563",
@@ -12227,6 +12227,81 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-12-17T16:07:18.81"
+            },
+            {
+                "nav_date": "2024-12-19",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGEESGA",
+                "net_asset": 413355328,
+                "last_val": 10.9912,
+                "previous_val": 0,
+                "sell_price": 11.1677,
+                "buy_price": 10.9912,
+                "sell_swap_price": 10.9912,
+                "buy_swap_price": 11.1677,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-24T16:07:30.36"
+            },
+            {
+                "nav_date": "2024-12-20",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGEESGA",
+                "net_asset": 410052800,
+                "last_val": 10.8977,
+                "previous_val": 0,
+                "sell_price": 11.0727,
+                "buy_price": 10.8977,
+                "sell_swap_price": 10.8977,
+                "buy_swap_price": 11.0727,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-25T16:07:06.77"
+            },
+            {
+                "nav_date": "2024-12-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGEESGA",
+                "net_asset": 412995360,
+                "last_val": 10.9877,
+                "previous_val": 0,
+                "sell_price": 11.1642,
+                "buy_price": 10.9877,
+                "sell_swap_price": 10.9877,
+                "buy_swap_price": 11.1642,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-26T16:06:33.327"
+            },
+            {
+                "nav_date": "2024-12-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGEESGA",
+                "net_asset": 412674336,
+                "last_val": 10.9871,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-27T16:08:53.23"
+            },
+            {
+                "nav_date": "2024-12-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGEESGA",
+                "net_asset": 412631680,
+                "last_val": 10.9859,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-28T16:06:42.577"
             }
         ]
     }

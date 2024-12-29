@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1734434456471,
-    "nextUpdate": 1734518851283,
+    "lastUpdate": 1735436291558,
+    "nextUpdate": 1735522453651,
     "data": {
-        "lastNav": "2024-12-12",
+        "lastNav": "2024-12-20",
         "fund": {
             "proj_id": "M0608_2557",
             "regis_id": "MF0798_2557",
@@ -10877,6 +10877,36 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-12-17T16:07:18.81"
+            },
+            {
+                "nav_date": "2024-12-19",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KJPRMF",
+                "net_asset": 615828416,
+                "last_val": 18.1466,
+                "previous_val": 0,
+                "sell_price": 18.1467,
+                "buy_price": 18.1466,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-24T16:07:30.36"
+            },
+            {
+                "nav_date": "2024-12-20",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KJPRMF",
+                "net_asset": 608444480,
+                "last_val": 18.0119,
+                "previous_val": 0,
+                "sell_price": 18.012,
+                "buy_price": 18.0119,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-28T16:06:42.577"
             }
         ]
     }

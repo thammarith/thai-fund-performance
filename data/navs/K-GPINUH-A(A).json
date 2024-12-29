@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1734434127605,
-    "nextUpdate": 1734518851283,
+    "lastUpdate": 1735436254386,
+    "nextUpdate": 1735522453651,
     "data": {
-        "lastNav": "2024-12-13",
+        "lastNav": "2024-12-23",
         "fund": {
             "proj_id": "M0512_2567",
             "regis_id": "MF0473_2567",
@@ -797,6 +797,51 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-12-17T16:07:18.81"
+            },
+            {
+                "nav_date": "2024-12-19",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GPINUH-A(A)",
+                "net_asset": 333438752,
+                "last_val": 9.7833,
+                "previous_val": 0,
+                "sell_price": 9.8812,
+                "buy_price": 9.7833,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-23T16:07:50.287"
+            },
+            {
+                "nav_date": "2024-12-20",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GPINUH-A(A)",
+                "net_asset": 334301376,
+                "last_val": 9.808,
+                "previous_val": 0,
+                "sell_price": 9.9062,
+                "buy_price": 9.808,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-24T16:07:30.36"
+            },
+            {
+                "nav_date": "2024-12-23",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GPINUH-A(A)",
+                "net_asset": 331523744,
+                "last_val": 9.7263,
+                "previous_val": 0,
+                "sell_price": 9.8237,
+                "buy_price": 9.7263,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-28T16:06:42.577"
             }
         ]
     }

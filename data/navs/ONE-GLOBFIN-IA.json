@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1734504012353,
-    "nextUpdate": 1734589576469,
+    "lastUpdate": 1735436987150,
+    "nextUpdate": 1735522453651,
     "data": {
-        "lastNav": "2024-12-16",
+        "lastNav": "2024-12-26",
         "fund": {
             "proj_id": "M0664_2560",
             "regis_id": "MF0039_2561",
@@ -12392,6 +12392,96 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-12-18T08:08:48.623"
+            },
+            {
+                "nav_date": "2024-12-19",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-GLOBFIN-IA",
+                "net_asset": 11900160,
+                "last_val": 14.6793,
+                "previous_val": 0,
+                "sell_price": 14.8365,
+                "buy_price": 14.6793,
+                "sell_swap_price": 14.6793,
+                "buy_swap_price": 14.8365,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-23T16:07:50.287"
+            },
+            {
+                "nav_date": "2024-12-20",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-GLOBFIN-IA",
+                "net_asset": 11752164,
+                "last_val": 14.4967,
+                "previous_val": 0,
+                "sell_price": 14.6519,
+                "buy_price": 14.4967,
+                "sell_swap_price": 14.4967,
+                "buy_swap_price": 14.6519,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-24T16:07:30.36"
+            },
+            {
+                "nav_date": "2024-12-23",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-GLOBFIN-IA",
+                "net_asset": 11775564,
+                "last_val": 14.5256,
+                "previous_val": 0,
+                "sell_price": 14.6811,
+                "buy_price": 14.5256,
+                "sell_swap_price": 14.5256,
+                "buy_swap_price": 14.6811,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-25T16:07:06.77"
+            },
+            {
+                "nav_date": "2024-12-24",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-GLOBFIN-IA",
+                "net_asset": 11779989,
+                "last_val": 14.531,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-26T16:06:33.327"
+            },
+            {
+                "nav_date": "2024-12-25",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-GLOBFIN-IA",
+                "net_asset": 11785086,
+                "last_val": 14.5373,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-27T16:08:53.23"
+            },
+            {
+                "nav_date": "2024-12-26",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-GLOBFIN-IA",
+                "net_asset": 11786833,
+                "last_val": 14.5395,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-28T16:06:42.577"
             }
         ]
     }

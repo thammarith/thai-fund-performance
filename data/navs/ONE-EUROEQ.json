@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1734503518533,
-    "nextUpdate": 1734589576469,
+    "lastUpdate": 1735436875195,
+    "nextUpdate": 1735522453651,
     "data": {
-        "lastNav": "2024-12-13",
+        "lastNav": "2024-12-25",
         "fund": {
             "proj_id": "M0078_2561",
             "regis_id": "MF0074_2561",
@@ -902,6 +902,81 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-12-18T08:08:48.623"
+            },
+            {
+                "nav_date": "2024-12-19",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-EUROEQ",
+                "net_asset": 465123616,
+                "last_val": 16.2571,
+                "previous_val": 0,
+                "sell_price": 16.5011,
+                "buy_price": 16.2571,
+                "sell_swap_price": 16.2571,
+                "buy_swap_price": 16.5011,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-24T16:07:30.36"
+            },
+            {
+                "nav_date": "2024-12-20",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-EUROEQ",
+                "net_asset": 460866656,
+                "last_val": 16.0905,
+                "previous_val": 0,
+                "sell_price": 16.332,
+                "buy_price": 16.0905,
+                "sell_swap_price": 16.0905,
+                "buy_swap_price": 16.332,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-25T16:07:06.77"
+            },
+            {
+                "nav_date": "2024-12-23",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-EUROEQ",
+                "net_asset": 461407520,
+                "last_val": 16.1097,
+                "previous_val": 0,
+                "sell_price": 16.3514,
+                "buy_price": 16.1097,
+                "sell_swap_price": 16.1097,
+                "buy_swap_price": 16.3514,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-28T16:06:42.577"
+            },
+            {
+                "nav_date": "2024-12-24",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-EUROEQ",
+                "net_asset": 461409792,
+                "last_val": 16.108,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-28T16:06:42.577"
+            },
+            {
+                "nav_date": "2024-12-25",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-EUROEQ",
+                "net_asset": 461167520,
+                "last_val": 16.0995,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-28T16:06:42.577"
             }
         ]
     }

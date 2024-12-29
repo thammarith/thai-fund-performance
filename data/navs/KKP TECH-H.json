@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1734504391053,
-    "nextUpdate": 1734589576469,
+    "lastUpdate": 1735437065988,
+    "nextUpdate": 1735522453651,
     "data": {
-        "lastNav": "2024-12-16",
+        "lastNav": "2024-12-26",
         "fund": {
             "proj_id": "M0471_2563",
             "regis_id": "MF0301_2563",
@@ -11852,6 +11852,81 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-12-18T08:08:48.623"
+            },
+            {
+                "nav_date": "2024-12-19",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP TECH-H",
+                "net_asset": 4879868928,
+                "last_val": 17.4944,
+                "previous_val": 0,
+                "sell_price": 17.5382,
+                "buy_price": 17.4944,
+                "sell_swap_price": 17.4944,
+                "buy_swap_price": 17.5382,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-23T16:07:50.287"
+            },
+            {
+                "nav_date": "2024-12-20",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP TECH-H",
+                "net_asset": 4940342784,
+                "last_val": 17.7148,
+                "previous_val": 0,
+                "sell_price": 17.7592,
+                "buy_price": 17.7148,
+                "sell_swap_price": 17.7148,
+                "buy_swap_price": 17.7592,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-24T16:07:30.36"
+            },
+            {
+                "nav_date": "2024-12-23",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP TECH-H",
+                "net_asset": 4991004160,
+                "last_val": 17.8809,
+                "previous_val": 0,
+                "sell_price": 17.9257,
+                "buy_price": 17.8809,
+                "sell_swap_price": 17.8809,
+                "buy_swap_price": 17.9257,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-25T16:07:06.77"
+            },
+            {
+                "nav_date": "2024-12-24",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP TECH-H",
+                "net_asset": 4900552704,
+                "last_val": 18.0751,
+                "previous_val": 0,
+                "sell_price": 18.1204,
+                "buy_price": 18.0751,
+                "sell_swap_price": 18.0751,
+                "buy_swap_price": 18.1204,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-27T16:08:53.23"
+            },
+            {
+                "nav_date": "2024-12-26",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP TECH-H",
+                "net_asset": 3359748864,
+                "last_val": 18.0738,
+                "previous_val": 0,
+                "sell_price": 18.1191,
+                "buy_price": 18.0738,
+                "sell_swap_price": 18.0738,
+                "buy_swap_price": 18.1191,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-28T16:06:42.577"
             }
         ]
     }

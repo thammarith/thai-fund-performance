@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1734435129654,
-    "nextUpdate": 1734518851283,
+    "lastUpdate": 1735436387965,
+    "nextUpdate": 1735522453651,
     "data": {
-        "lastNav": "2024-12-12",
+        "lastNav": "2024-12-25",
         "fund": {
             "proj_id": "M0059_2564",
             "regis_id": "MF0073_2564",
@@ -12197,6 +12197,81 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-12-17T16:07:18.81"
+            },
+            {
+                "nav_date": "2024-12-19",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBCLEANA",
+                "net_asset": 449761984,
+                "last_val": 3.441,
+                "previous_val": 0,
+                "sell_price": 3.4963,
+                "buy_price": 3.441,
+                "sell_swap_price": 3.441,
+                "buy_swap_price": 3.4963,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-24T16:07:30.36"
+            },
+            {
+                "nav_date": "2024-12-20",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBCLEANA",
+                "net_asset": 454800640,
+                "last_val": 3.4796,
+                "previous_val": 0,
+                "sell_price": 3.5355,
+                "buy_price": 3.4796,
+                "sell_swap_price": 3.4796,
+                "buy_swap_price": 3.5355,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-25T16:07:06.77"
+            },
+            {
+                "nav_date": "2024-12-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBCLEANA",
+                "net_asset": 460004384,
+                "last_val": 3.5194,
+                "previous_val": 0,
+                "sell_price": 3.576,
+                "buy_price": 3.5194,
+                "sell_swap_price": 3.5194,
+                "buy_swap_price": 3.576,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-27T16:08:53.23"
+            },
+            {
+                "nav_date": "2024-12-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBCLEANA",
+                "net_asset": 461386592,
+                "last_val": 3.53,
+                "previous_val": 0,
+                "sell_price": 3.5868,
+                "buy_price": 3.53,
+                "sell_swap_price": 3.53,
+                "buy_swap_price": 3.5868,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-27T16:08:53.23"
+            },
+            {
+                "nav_date": "2024-12-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBCLEANA",
+                "net_asset": 461444256,
+                "last_val": 3.5287,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-28T16:06:42.577"
             }
         ]
     }

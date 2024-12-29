@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1734497360740,
-    "nextUpdate": 1734583136346,
+    "lastUpdate": 1735436771016,
+    "nextUpdate": 1735522453651,
     "data": {
-        "lastNav": "2024-12-13",
+        "lastNav": "2024-12-25",
         "fund": {
             "proj_id": "M0866_2554",
             "regis_id": "MF0472_2555",
@@ -902,6 +902,81 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-12-18T08:08:48.623"
+            },
+            {
+                "nav_date": "2024-12-19",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGLOB",
+                "net_asset": 482610528,
+                "last_val": 8.6901,
+                "previous_val": 0,
+                "sell_price": 8.7367,
+                "buy_price": 8.6901,
+                "sell_swap_price": 8.6901,
+                "buy_swap_price": 8.7367,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-24T16:07:30.36"
+            },
+            {
+                "nav_date": "2024-12-20",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGLOB",
+                "net_asset": 480267136,
+                "last_val": 8.6979,
+                "previous_val": 0,
+                "sell_price": 8.7445,
+                "buy_price": 8.6979,
+                "sell_swap_price": 8.6979,
+                "buy_swap_price": 8.7445,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-25T16:07:06.77"
+            },
+            {
+                "nav_date": "2024-12-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGLOB",
+                "net_asset": 466541632,
+                "last_val": 8.6789,
+                "previous_val": 0,
+                "sell_price": 8.7254,
+                "buy_price": 8.6789,
+                "sell_swap_price": 8.6789,
+                "buy_swap_price": 8.7254,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-26T16:06:33.327"
+            },
+            {
+                "nav_date": "2024-12-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGLOB",
+                "net_asset": 466215968,
+                "last_val": 8.6784,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-27T16:08:53.23"
+            },
+            {
+                "nav_date": "2024-12-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGLOB",
+                "net_asset": 466173408,
+                "last_val": 8.6776,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-28T16:06:42.577"
             }
         ]
     }

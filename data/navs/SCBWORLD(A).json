@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1734436516063,
-    "nextUpdate": 1734518851283,
+    "lastUpdate": 1735436587502,
+    "nextUpdate": 1735522453651,
     "data": {
-        "lastNav": "2024-12-13",
+        "lastNav": "2024-12-26",
         "fund": {
             "proj_id": "M0465_2564",
             "regis_id": "MF0417_2564",
@@ -10142,6 +10142,96 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-12-17T16:07:18.81"
+            },
+            {
+                "nav_date": "2024-12-19",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBWORLD(A)",
+                "net_asset": 4551602688,
+                "last_val": 11.0986,
+                "previous_val": 0,
+                "sell_price": 11.1597,
+                "buy_price": 11.0931,
+                "sell_swap_price": 11.0931,
+                "buy_swap_price": 11.1597,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-23T16:07:50.287"
+            },
+            {
+                "nav_date": "2024-12-20",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBWORLD(A)",
+                "net_asset": 4599344128,
+                "last_val": 11.1817,
+                "previous_val": 0,
+                "sell_price": 11.2433,
+                "buy_price": 11.1761,
+                "sell_swap_price": 11.1761,
+                "buy_swap_price": 11.2433,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-24T16:07:30.36"
+            },
+            {
+                "nav_date": "2024-12-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBWORLD(A)",
+                "net_asset": 4610983936,
+                "last_val": 11.231,
+                "previous_val": 0,
+                "sell_price": 11.2929,
+                "buy_price": 11.2254,
+                "sell_swap_price": 11.2254,
+                "buy_swap_price": 11.2929,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-25T16:07:06.77"
+            },
+            {
+                "nav_date": "2024-12-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBWORLD(A)",
+                "net_asset": 4764747776,
+                "last_val": 11.3269,
+                "previous_val": 0,
+                "sell_price": 11.3893,
+                "buy_price": 11.3212,
+                "sell_swap_price": 11.3212,
+                "buy_swap_price": 11.3893,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-26T16:06:33.327"
+            },
+            {
+                "nav_date": "2024-12-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBWORLD(A)",
+                "net_asset": 4778190848,
+                "last_val": 11.3263,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-27T16:08:53.23"
+            },
+            {
+                "nav_date": "2024-12-26",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBWORLD(A)",
+                "net_asset": 4786172416,
+                "last_val": 11.3453,
+                "previous_val": 0,
+                "sell_price": 11.4078,
+                "buy_price": 11.3396,
+                "sell_swap_price": 11.3396,
+                "buy_swap_price": 11.4078,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-28T16:06:42.577"
             }
         ]
     }

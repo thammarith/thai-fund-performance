@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1734433658709,
-    "nextUpdate": 1734518851283,
+    "lastUpdate": 1735436196339,
+    "nextUpdate": 1735522453651,
     "data": {
-        "lastNav": "2024-12-12",
+        "lastNav": "2024-12-20",
         "fund": {
             "proj_id": "M0350_2563",
             "regis_id": "MF0245_2563",
@@ -827,6 +827,36 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-12-17T16:07:18.81"
+            },
+            {
+                "nav_date": "2024-12-19",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-ASIACV-A(A)",
+                "net_asset": 1503654912,
+                "last_val": 6.01,
+                "previous_val": 0,
+                "sell_price": 6.1003,
+                "buy_price": 6.01,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-24T16:07:30.36"
+            },
+            {
+                "nav_date": "2024-12-20",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-ASIACV-A(A)",
+                "net_asset": 1495681408,
+                "last_val": 5.9905,
+                "previous_val": 0,
+                "sell_price": 6.0805,
+                "buy_price": 5.9905,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-28T16:06:42.577"
             }
         ]
     }

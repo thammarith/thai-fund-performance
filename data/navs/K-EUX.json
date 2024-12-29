@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1734434569607,
-    "nextUpdate": 1734518851283,
+    "lastUpdate": 1735436307362,
+    "nextUpdate": 1735522453651,
     "data": {
-        "lastNav": "2024-12-13",
+        "lastNav": "2024-12-23",
         "fund": {
             "proj_id": "M0668_2558",
             "regis_id": "MF0172_2559",
@@ -11777,6 +11777,51 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-12-17T16:07:18.81"
+            },
+            {
+                "nav_date": "2024-12-19",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-EUX",
+                "net_asset": 1050876544,
+                "last_val": 18.8423,
+                "previous_val": 0,
+                "sell_price": 18.8612,
+                "buy_price": 18.814,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-23T16:07:50.287"
+            },
+            {
+                "nav_date": "2024-12-20",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-EUX",
+                "net_asset": 1047822592,
+                "last_val": 18.7955,
+                "previous_val": 0,
+                "sell_price": 18.8144,
+                "buy_price": 18.7673,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-24T16:07:30.36"
+            },
+            {
+                "nav_date": "2024-12-23",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-EUX",
+                "net_asset": 1041126400,
+                "last_val": 18.7201,
+                "previous_val": 0,
+                "sell_price": 18.7389,
+                "buy_price": 18.692,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-28T16:06:42.577"
             }
         ]
     }

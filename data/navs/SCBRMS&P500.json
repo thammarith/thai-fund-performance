@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1734436379718,
-    "nextUpdate": 1734518851283,
+    "lastUpdate": 1735436562814,
+    "nextUpdate": 1735522453651,
     "data": {
-        "lastNav": "2024-12-13",
+        "lastNav": "2024-12-26",
         "fund": {
             "proj_id": "M0426_2562",
             "regis_id": "MF0438_2562",
@@ -12332,6 +12332,96 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-12-17T16:07:18.81"
+            },
+            {
+                "nav_date": "2024-12-19",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBRMS&P500",
+                "net_asset": 3984279296,
+                "last_val": 18.4918,
+                "previous_val": 0,
+                "sell_price": 18.4919,
+                "buy_price": 18.4918,
+                "sell_swap_price": 18.4918,
+                "buy_swap_price": 18.4919,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-23T16:07:50.287"
+            },
+            {
+                "nav_date": "2024-12-20",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBRMS&P500",
+                "net_asset": 4076791040,
+                "last_val": 18.6849,
+                "previous_val": 0,
+                "sell_price": 18.685,
+                "buy_price": 18.6849,
+                "sell_swap_price": 18.6849,
+                "buy_swap_price": 18.685,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-24T16:07:30.36"
+            },
+            {
+                "nav_date": "2024-12-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBRMS&P500",
+                "net_asset": 4132175872,
+                "last_val": 18.7859,
+                "previous_val": 0,
+                "sell_price": 18.786,
+                "buy_price": 18.7859,
+                "sell_swap_price": 18.7859,
+                "buy_swap_price": 18.786,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-25T16:07:06.77"
+            },
+            {
+                "nav_date": "2024-12-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBRMS&P500",
+                "net_asset": 4242156288,
+                "last_val": 18.986,
+                "previous_val": 0,
+                "sell_price": 18.9861,
+                "buy_price": 18.986,
+                "sell_swap_price": 18.986,
+                "buy_swap_price": 18.9861,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-26T16:06:33.327"
+            },
+            {
+                "nav_date": "2024-12-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBRMS&P500",
+                "net_asset": 4292687872,
+                "last_val": 18.9857,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-27T16:08:53.23"
+            },
+            {
+                "nav_date": "2024-12-26",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBRMS&P500",
+                "net_asset": 4290297600,
+                "last_val": 18.9751,
+                "previous_val": 0,
+                "sell_price": 18.9752,
+                "buy_price": 18.9751,
+                "sell_swap_price": 18.9751,
+                "buy_swap_price": 18.9752,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-28T16:06:42.577"
             }
         ]
     }

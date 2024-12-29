@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1734433122783,
-    "nextUpdate": 1734518851283,
+    "lastUpdate": 1735436134860,
+    "nextUpdate": 1735522453651,
     "data": {
-        "lastNav": "2024-12-12",
+        "lastNav": "2024-12-24",
         "fund": {
             "proj_id": "M0159_2555",
             "regis_id": "MF0560_2555",
@@ -11972,6 +11972,66 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-12-17T16:07:18.81"
+            },
+            {
+                "nav_date": "2024-12-19",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-USA-A(D)",
+                "net_asset": 7105256448,
+                "last_val": 13.7649,
+                "previous_val": 0,
+                "sell_price": 13.9715,
+                "buy_price": 13.7649,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-24T16:07:30.36"
+            },
+            {
+                "nav_date": "2024-12-20",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-USA-A(D)",
+                "net_asset": 7208375808,
+                "last_val": 13.9448,
+                "previous_val": 0,
+                "sell_price": 14.1541,
+                "buy_price": 13.9448,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-25T16:07:06.77"
+            },
+            {
+                "nav_date": "2024-12-23",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-USA-A(D)",
+                "net_asset": 7150913024,
+                "last_val": 13.9975,
+                "previous_val": 0,
+                "sell_price": 14.2076,
+                "buy_price": 13.9975,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-27T16:08:53.23"
+            },
+            {
+                "nav_date": "2024-12-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-USA-A(D)",
+                "net_asset": 7054231040,
+                "last_val": 14.1376,
+                "previous_val": 0,
+                "sell_price": 14.3498,
+                "buy_price": 14.1376,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-28T16:06:42.577"
             }
         ]
     }

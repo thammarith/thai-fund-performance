@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1734433729216,
-    "nextUpdate": 1734518851283,
+    "lastUpdate": 1735436204584,
+    "nextUpdate": 1735522453651,
     "data": {
-        "lastNav": "2024-12-12",
+        "lastNav": "2024-12-20",
         "fund": {
             "proj_id": "M0381_2563",
             "regis_id": "MF0262_2563",
@@ -842,6 +842,36 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-12-17T16:07:18.81"
+            },
+            {
+                "nav_date": "2024-12-19",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-PLANET-A(A)",
+                "net_asset": 1335153408,
+                "last_val": 10.9431,
+                "previous_val": 0,
+                "sell_price": 11.1073,
+                "buy_price": 10.9431,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-24T16:07:30.36"
+            },
+            {
+                "nav_date": "2024-12-20",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-PLANET-A(A)",
+                "net_asset": 1336338304,
+                "last_val": 10.9617,
+                "previous_val": 0,
+                "sell_price": 11.1262,
+                "buy_price": 10.9617,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-28T16:06:42.577"
             }
         ]
     }

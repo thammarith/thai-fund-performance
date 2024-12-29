@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1734434184381,
-    "nextUpdate": 1734518851283,
+    "lastUpdate": 1735436260358,
+    "nextUpdate": 1735522453651,
     "data": {
-        "lastNav": "2024-12-13",
+        "lastNav": "2024-12-23",
         "fund": {
             "proj_id": "M0529_2563",
             "regis_id": "MF0066_2564",
@@ -11432,6 +11432,51 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-12-17T16:07:18.81"
+            },
+            {
+                "nav_date": "2024-12-19",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K2035RMF",
+                "net_asset": 846898944,
+                "last_val": 10.8859,
+                "previous_val": 0,
+                "sell_price": 10.886,
+                "buy_price": 10.8859,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-23T16:07:50.287"
+            },
+            {
+                "nav_date": "2024-12-20",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K2035RMF",
+                "net_asset": 851416192,
+                "last_val": 10.9355,
+                "previous_val": 0,
+                "sell_price": 10.9356,
+                "buy_price": 10.9355,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-24T16:07:30.36"
+            },
+            {
+                "nav_date": "2024-12-23",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K2035RMF",
+                "net_asset": 857147264,
+                "last_val": 10.983,
+                "previous_val": 0,
+                "sell_price": 10.9831,
+                "buy_price": 10.983,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-28T16:06:42.577"
             }
         ]
     }

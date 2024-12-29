@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1734436148632,
-    "nextUpdate": 1734518851283,
+    "lastUpdate": 1735436519862,
+    "nextUpdate": 1735522453651,
     "data": {
-        "lastNav": "2024-12-12",
+        "lastNav": "2024-12-25",
         "fund": {
             "proj_id": "M0329_2563",
             "regis_id": "MF0399_2563",
@@ -3377,6 +3377,81 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-12-17T16:07:18.81"
+            },
+            {
+                "nav_date": "2024-12-19",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBMLCA(E)",
+                "net_asset": 1931509.25,
+                "last_val": 7.2643,
+                "previous_val": 0,
+                "sell_price": 7.2644,
+                "buy_price": 7.2565,
+                "sell_swap_price": 7.2565,
+                "buy_swap_price": 7.2644,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-24T16:07:30.36"
+            },
+            {
+                "nav_date": "2024-12-20",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBMLCA(E)",
+                "net_asset": 1923973.38,
+                "last_val": 7.2323,
+                "previous_val": 0,
+                "sell_price": 7.2324,
+                "buy_price": 7.2246,
+                "sell_swap_price": 7.2246,
+                "buy_swap_price": 7.2324,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-25T16:07:06.77"
+            },
+            {
+                "nav_date": "2024-12-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBMLCA(E)",
+                "net_asset": 1915133.88,
+                "last_val": 7.1873,
+                "previous_val": 0,
+                "sell_price": 7.1874,
+                "buy_price": 7.1796,
+                "sell_swap_price": 7.1796,
+                "buy_swap_price": 7.1874,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-26T16:06:33.327"
+            },
+            {
+                "nav_date": "2024-12-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBMLCA(E)",
+                "net_asset": 1935320,
+                "last_val": 7.2548,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-27T16:08:53.23"
+            },
+            {
+                "nav_date": "2024-12-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBMLCA(E)",
+                "net_asset": 1935952,
+                "last_val": 7.2571,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-28T16:06:42.577"
             }
         ]
     }

@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1734504093319,
-    "nextUpdate": 1734589576469,
+    "lastUpdate": 1735437007387,
+    "nextUpdate": 1735522453651,
     "data": {
-        "lastNav": "2024-12-16",
+        "lastNav": "2024-12-26",
         "fund": {
             "proj_id": "M0264_2564",
             "regis_id": "MF0296_2564",
@@ -10697,6 +10697,96 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-12-18T08:08:48.623"
+            },
+            {
+                "nav_date": "2024-12-19",
+                "unique_id": "C0000000709",
+                "class_abbr_name": "KFGG-I",
+                "net_asset": 17766462,
+                "last_val": 7.3886,
+                "previous_val": 0,
+                "sell_price": 7.3887,
+                "buy_price": 7.3886,
+                "sell_swap_price": 7.3886,
+                "buy_swap_price": 7.3887,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-23T16:07:50.287"
+            },
+            {
+                "nav_date": "2024-12-20",
+                "unique_id": "C0000000709",
+                "class_abbr_name": "KFGG-I",
+                "net_asset": 17664328,
+                "last_val": 7.3461,
+                "previous_val": 0,
+                "sell_price": 7.3462,
+                "buy_price": 7.3461,
+                "sell_swap_price": 7.3461,
+                "buy_swap_price": 7.3462,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-24T16:07:30.36"
+            },
+            {
+                "nav_date": "2024-12-23",
+                "unique_id": "C0000000709",
+                "class_abbr_name": "KFGG-I",
+                "net_asset": 17910468,
+                "last_val": 7.4485,
+                "previous_val": 0,
+                "sell_price": 7.4486,
+                "buy_price": 7.4485,
+                "sell_swap_price": 7.4485,
+                "buy_swap_price": 7.4486,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-25T16:07:06.77"
+            },
+            {
+                "nav_date": "2024-12-24",
+                "unique_id": "C0000000709",
+                "class_abbr_name": "KFGG-I",
+                "net_asset": 17931006,
+                "last_val": 7.457,
+                "previous_val": 0,
+                "sell_price": 7.4571,
+                "buy_price": 7.457,
+                "sell_swap_price": 7.457,
+                "buy_swap_price": 7.4571,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-26T16:06:33.327"
+            },
+            {
+                "nav_date": "2024-12-25",
+                "unique_id": "C0000000709",
+                "class_abbr_name": "KFGG-I",
+                "net_asset": 17991920,
+                "last_val": 7.4569,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-27T16:08:53.23"
+            },
+            {
+                "nav_date": "2024-12-26",
+                "unique_id": "C0000000709",
+                "class_abbr_name": "KFGG-I",
+                "net_asset": 17991546,
+                "last_val": 7.4567,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-28T16:06:42.577"
             }
         ]
     }

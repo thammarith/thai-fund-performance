@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1734436465966,
-    "nextUpdate": 1734518851283,
+    "lastUpdate": 1735436576636,
+    "nextUpdate": 1735522453651,
     "data": {
-        "lastNav": "2024-12-13",
+        "lastNav": "2024-12-26",
         "fund": {
             "proj_id": "M0450_2565",
             "regis_id": "MF0304_2565",
@@ -932,6 +932,96 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-12-17T16:07:18.81"
+            },
+            {
+                "nav_date": "2024-12-19",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBINDO(A)",
+                "net_asset": 139814432,
+                "last_val": 7.0969,
+                "previous_val": 0,
+                "sell_price": 7.1385,
+                "buy_price": 7.0934,
+                "sell_swap_price": 7.0934,
+                "buy_swap_price": 7.1385,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-23T16:07:50.287"
+            },
+            {
+                "nav_date": "2024-12-20",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBINDO(A)",
+                "net_asset": 122916448,
+                "last_val": 7.2161,
+                "previous_val": 0,
+                "sell_price": 7.2584,
+                "buy_price": 7.2125,
+                "sell_swap_price": 7.2125,
+                "buy_swap_price": 7.2584,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-24T16:07:30.36"
+            },
+            {
+                "nav_date": "2024-12-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBINDO(A)",
+                "net_asset": 124956056,
+                "last_val": 7.4196,
+                "previous_val": 0,
+                "sell_price": 7.4631,
+                "buy_price": 7.4159,
+                "sell_swap_price": 7.4159,
+                "buy_swap_price": 7.4631,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-25T16:07:06.77"
+            },
+            {
+                "nav_date": "2024-12-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBINDO(A)",
+                "net_asset": 126448272,
+                "last_val": 7.3835,
+                "previous_val": 0,
+                "sell_price": 7.4268,
+                "buy_price": 7.3798,
+                "sell_swap_price": 7.3798,
+                "buy_swap_price": 7.4268,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-26T16:06:33.327"
+            },
+            {
+                "nav_date": "2024-12-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBINDO(A)",
+                "net_asset": 126279296,
+                "last_val": 7.3829,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-27T16:08:53.23"
+            },
+            {
+                "nav_date": "2024-12-26",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBINDO(A)",
+                "net_asset": 126090472,
+                "last_val": 7.3718,
+                "previous_val": 0,
+                "sell_price": 7.415,
+                "buy_price": 7.3681,
+                "sell_swap_price": 7.3681,
+                "buy_swap_price": 7.415,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-28T16:06:42.577"
             }
         ]
     }

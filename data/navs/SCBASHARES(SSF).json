@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1734436355397,
-    "nextUpdate": 1734518851283,
+    "lastUpdate": 1735436557889,
+    "nextUpdate": 1735522453651,
     "data": {
-        "lastNav": "2024-12-13",
+        "lastNav": "2024-12-26",
         "fund": {
             "proj_id": "M0420_2564",
             "regis_id": "MF0371_2564",
@@ -9242,6 +9242,96 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-12-17T16:07:18.81"
+            },
+            {
+                "nav_date": "2024-12-19",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBASHARES(SSF)",
+                "net_asset": 84695480,
+                "last_val": 5.2662,
+                "previous_val": 0,
+                "sell_price": 5.2663,
+                "buy_price": 5.2662,
+                "sell_swap_price": 5.2662,
+                "buy_swap_price": 5.2663,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-23T16:07:50.287"
+            },
+            {
+                "nav_date": "2024-12-20",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBASHARES(SSF)",
+                "net_asset": 84740824,
+                "last_val": 5.2531,
+                "previous_val": 0,
+                "sell_price": 5.2532,
+                "buy_price": 5.2531,
+                "sell_swap_price": 5.2531,
+                "buy_swap_price": 5.2532,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-24T16:07:30.36"
+            },
+            {
+                "nav_date": "2024-12-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBASHARES(SSF)",
+                "net_asset": 84314984,
+                "last_val": 5.2166,
+                "previous_val": 0,
+                "sell_price": 5.2167,
+                "buy_price": 5.2166,
+                "sell_swap_price": 5.2166,
+                "buy_swap_price": 5.2167,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-25T16:07:06.77"
+            },
+            {
+                "nav_date": "2024-12-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBASHARES(SSF)",
+                "net_asset": 84694592,
+                "last_val": 5.2155,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-26T16:06:33.327"
+            },
+            {
+                "nav_date": "2024-12-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBASHARES(SSF)",
+                "net_asset": 84688216,
+                "last_val": 5.2151,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-27T16:08:53.23"
+            },
+            {
+                "nav_date": "2024-12-26",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBASHARES(SSF)",
+                "net_asset": 84744032,
+                "last_val": 5.2185,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-28T16:06:42.577"
             }
         ]
     }

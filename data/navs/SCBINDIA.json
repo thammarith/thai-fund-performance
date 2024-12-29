@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1734435156586,
-    "nextUpdate": 1734518851283,
+    "lastUpdate": 1735436391430,
+    "nextUpdate": 1735522453651,
     "data": {
-        "lastNav": "2024-12-13",
+        "lastNav": "2024-12-26",
         "fund": {
             "proj_id": "M0065_2558",
             "regis_id": "MF0179_2558",
@@ -962,6 +962,96 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-12-17T16:07:18.81"
+            },
+            {
+                "nav_date": "2024-12-19",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBINDIA",
+                "net_asset": 454124000,
+                "last_val": 12.6229,
+                "previous_val": 0,
+                "sell_price": 12.6924,
+                "buy_price": 12.6166,
+                "sell_swap_price": 12.6166,
+                "buy_swap_price": 12.6924,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-23T16:07:50.287"
+            },
+            {
+                "nav_date": "2024-12-20",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBINDIA",
+                "net_asset": 453047424,
+                "last_val": 12.5952,
+                "previous_val": 0,
+                "sell_price": 12.6646,
+                "buy_price": 12.5889,
+                "sell_swap_price": 12.5889,
+                "buy_swap_price": 12.6646,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-24T16:07:30.36"
+            },
+            {
+                "nav_date": "2024-12-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBINDIA",
+                "net_asset": 451248448,
+                "last_val": 12.5459,
+                "previous_val": 0,
+                "sell_price": 12.615,
+                "buy_price": 12.5396,
+                "sell_swap_price": 12.5396,
+                "buy_swap_price": 12.615,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-25T16:07:06.77"
+            },
+            {
+                "nav_date": "2024-12-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBINDIA",
+                "net_asset": 452193472,
+                "last_val": 12.5683,
+                "previous_val": 0,
+                "sell_price": 12.6375,
+                "buy_price": 12.562,
+                "sell_swap_price": 12.562,
+                "buy_swap_price": 12.6375,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-26T16:06:33.327"
+            },
+            {
+                "nav_date": "2024-12-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBINDIA",
+                "net_asset": 452089792,
+                "last_val": 12.5672,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-27T16:08:53.23"
+            },
+            {
+                "nav_date": "2024-12-26",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBINDIA",
+                "net_asset": 450214592,
+                "last_val": 12.5151,
+                "previous_val": 0,
+                "sell_price": 12.5841,
+                "buy_price": 12.5088,
+                "sell_swap_price": 12.5088,
+                "buy_swap_price": 12.5841,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-28T16:06:42.577"
             }
         ]
     }

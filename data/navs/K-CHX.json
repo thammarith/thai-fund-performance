@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1734434855986,
-    "nextUpdate": 1734518851283,
+    "lastUpdate": 1735436354376,
+    "nextUpdate": 1735522453651,
     "data": {
-        "lastNav": "2024-12-16",
+        "lastNav": "2024-12-27",
         "fund": {
             "proj_id": "M1261_2557",
             "regis_id": "MF0464_2558",
@@ -872,6 +872,81 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-12-17T16:07:18.81"
+            },
+            {
+                "nav_date": "2024-12-19",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-CHX",
+                "net_asset": 2059290880,
+                "last_val": 11.5575,
+                "previous_val": 0,
+                "sell_price": 11.5692,
+                "buy_price": 11.5402,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-20T16:08:16.48"
+            },
+            {
+                "nav_date": "2024-12-20",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-CHX",
+                "net_asset": 2046423552,
+                "last_val": 11.4892,
+                "previous_val": 0,
+                "sell_price": 11.5008,
+                "buy_price": 11.472,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-23T16:07:50.287"
+            },
+            {
+                "nav_date": "2024-12-23",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-CHX",
+                "net_asset": 2059227648,
+                "last_val": 11.5553,
+                "previous_val": 0,
+                "sell_price": 11.567,
+                "buy_price": 11.538,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-24T16:07:30.36"
+            },
+            {
+                "nav_date": "2024-12-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-CHX",
+                "net_asset": 2079529472,
+                "last_val": 11.6784,
+                "previous_val": 0,
+                "sell_price": 11.6902,
+                "buy_price": 11.6609,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-27T16:08:53.23"
+            },
+            {
+                "nav_date": "2024-12-27",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-CHX",
+                "net_asset": 2078391296,
+                "last_val": 11.6853,
+                "previous_val": 0,
+                "sell_price": 11.6971,
+                "buy_price": 11.6678,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-28T16:06:42.577"
             }
         ]
     }

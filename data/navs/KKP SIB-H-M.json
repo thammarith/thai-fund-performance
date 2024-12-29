@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1734504565848,
-    "nextUpdate": 1734589576469,
+    "lastUpdate": 1735437100003,
+    "nextUpdate": 1735522453651,
     "data": {
-        "lastNav": "2024-11-21",
+        "lastNav": "2024-12-24",
         "fund": {
             "proj_id": "M0826_2567",
             "regis_id": "MF0587_2567",
@@ -242,6 +242,66 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-12-18T08:08:48.623"
+            },
+            {
+                "nav_date": "2024-12-19",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SIB-H-M",
+                "net_asset": 188126096,
+                "last_val": 9.9041,
+                "previous_val": 0,
+                "sell_price": 9.9042,
+                "buy_price": 9.9041,
+                "sell_swap_price": 9.9041,
+                "buy_swap_price": 9.9042,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-23T16:07:50.287"
+            },
+            {
+                "nav_date": "2024-12-20",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SIB-H-M",
+                "net_asset": 188940256,
+                "last_val": 9.924,
+                "previous_val": 0,
+                "sell_price": 9.9241,
+                "buy_price": 9.924,
+                "sell_swap_price": 9.924,
+                "buy_swap_price": 9.9241,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-24T16:07:30.36"
+            },
+            {
+                "nav_date": "2024-12-23",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SIB-H-M",
+                "net_asset": 198681328,
+                "last_val": 9.895,
+                "previous_val": 0,
+                "sell_price": 9.8951,
+                "buy_price": 9.895,
+                "sell_swap_price": 9.895,
+                "buy_swap_price": 9.8951,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-25T16:07:06.77"
+            },
+            {
+                "nav_date": "2024-12-24",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SIB-H-M",
+                "net_asset": 198672224,
+                "last_val": 9.8945,
+                "previous_val": 0,
+                "sell_price": 9.8946,
+                "buy_price": 9.8945,
+                "sell_swap_price": 9.8945,
+                "buy_swap_price": 9.8946,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-28T16:06:42.577"
             }
         ]
     }

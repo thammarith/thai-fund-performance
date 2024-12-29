@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1734433456855,
-    "nextUpdate": 1734518851283,
+    "lastUpdate": 1735436173375,
+    "nextUpdate": 1735522453651,
     "data": {
-        "lastNav": "2024-12-13",
+        "lastNav": "2024-12-23",
         "fund": {
             "proj_id": "M0278_2564",
             "regis_id": "MF0265_2564",
@@ -9677,6 +9677,51 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-12-17T16:07:18.81"
+            },
+            {
+                "nav_date": "2024-12-19",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-WPLIGHT",
+                "net_asset": 2583827200,
+                "last_val": 9.9243,
+                "previous_val": 0,
+                "sell_price": 9.974,
+                "buy_price": 9.9243,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-23T16:07:50.287"
+            },
+            {
+                "nav_date": "2024-12-20",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-WPLIGHT",
+                "net_asset": 2586893568,
+                "last_val": 9.9065,
+                "previous_val": 0,
+                "sell_price": 9.9561,
+                "buy_price": 9.9065,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-24T16:07:30.36"
+            },
+            {
+                "nav_date": "2024-12-23",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-WPLIGHT",
+                "net_asset": 2635785984,
+                "last_val": 9.9135,
+                "previous_val": 0,
+                "sell_price": 9.9632,
+                "buy_price": 9.9135,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2024-12-28T16:06:42.577"
             }
         ]
     }
