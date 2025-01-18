@@ -1,0 +1,38 @@
+{
+    "lastUpdate": 1737170558198,
+    "nextUpdate": 1737256721239,
+    "data": {
+        "lastNav": "2024-12-30",
+        "fund": {
+            "proj_id": "M0432_2567",
+            "regis_id": "MF0563_2567",
+            "regis_date": "2024-10-09",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิดเค ไชน่า ไพรเวทอิควิตี้ 24B ห้ามขายผู้ลงทุนรายย่อย",
+            "proj_name_en": "K China Private Equity 24B Fund Not for Retail Investors",
+            "proj_abbr_name": "K-CHAPE24B-UI",
+            "fund_status": "RG",
+            "unique_id": "C0000000021",
+            "permit_us_investment": null,
+            "invest_country_flag": "1",
+            "last_upd_date": "2025-01-18T08:02:06.097"
+        },
+        "navs": [
+            {
+                "nav_date": "2024-12-30",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-CHAPE24B-UI",
+                "net_asset": 391769216,
+                "last_val": 10.22,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-01-18T08:08:32.363"
+            }
+        ]
+    }
+}

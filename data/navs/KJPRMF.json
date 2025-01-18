@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1735436291558,
-    "nextUpdate": 1735522453651,
+    "lastUpdate": 1737170646167,
+    "nextUpdate": 1737256721239,
     "data": {
-        "lastNav": "2024-12-20",
+        "lastNav": "2025-01-15",
         "fund": {
             "proj_id": "M0608_2557",
             "regis_id": "MF0798_2557",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-12-17T16:03:03.58"
+            "last_upd_date": "2025-01-18T08:02:06.097"
         },
         "navs": [
             {
@@ -10907,6 +10907,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-12-28T16:06:42.577"
+            },
+            {
+                "nav_date": "2024-12-30",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KJPRMF",
+                "net_asset": 630262144,
+                "last_val": 18.4464,
+                "previous_val": 0,
+                "sell_price": 18.4465,
+                "buy_price": 18.4464,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-01-08T16:08:06.317"
+            },
+            {
+                "nav_date": "2025-01-06",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KJPRMF",
+                "net_asset": 631289408,
+                "last_val": 18.4035,
+                "previous_val": 0,
+                "sell_price": 18.4036,
+                "buy_price": 18.4035,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-01-09T16:05:00.623"
+            },
+            {
+                "nav_date": "2025-01-07",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KJPRMF",
+                "net_asset": 637517632,
+                "last_val": 18.6495,
+                "previous_val": 0,
+                "sell_price": 18.6496,
+                "buy_price": 18.6495,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-01-13T16:07:28.987"
+            },
+            {
+                "nav_date": "2025-01-08",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KJPRMF",
+                "net_asset": 633201792,
+                "last_val": 18.5143,
+                "previous_val": 0,
+                "sell_price": 18.5144,
+                "buy_price": 18.5143,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-01-15T21:06:59.313"
+            },
+            {
+                "nav_date": "2025-01-10",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KJPRMF",
+                "net_asset": 620389824,
+                "last_val": 18.1918,
+                "previous_val": 0,
+                "sell_price": 18.1919,
+                "buy_price": 18.1918,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-01-16T16:07:18.267"
+            },
+            {
+                "nav_date": "2025-01-14",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KJPRMF",
+                "net_asset": 611979904,
+                "last_val": 17.969,
+                "previous_val": 0,
+                "sell_price": 17.9691,
+                "buy_price": 17.969,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-01-17T16:04:47.73"
+            },
+            {
+                "nav_date": "2025-01-15",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KJPRMF",
+                "net_asset": 616076096,
+                "last_val": 18.0824,
+                "previous_val": 0,
+                "sell_price": 18.0825,
+                "buy_price": 18.0824,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-01-18T08:08:32.363"
             }
         ]
     }

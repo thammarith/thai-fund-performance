@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1734434795497,
-    "nextUpdate": 1734518851283,
+    "lastUpdate": 1737170710770,
+    "nextUpdate": 1737256721239,
     "data": {
-        "lastNav": "2024-10-31",
+        "lastNav": "2024-12-30",
         "fund": {
             "proj_id": "M0890_2567",
             "regis_id": "MF0617_2567",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2024-12-17T16:03:03.58"
+            "last_upd_date": "2025-01-18T08:02:06.097"
         },
         "navs": [
             {
@@ -47,6 +47,21 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-12-17T16:07:18.81"
+            },
+            {
+                "nav_date": "2024-12-30",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KGB6MBO",
+                "net_asset": 4292380416,
+                "last_val": 10.0433,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-01-18T08:08:32.363"
             }
         ]
     }

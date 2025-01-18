@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1728359228077,
-    "nextUpdate": 1728445306840,
+    "lastUpdate": 1737170572056,
+    "nextUpdate": 1737256721239,
     "data": {
-        "lastNav": "2024-10-01",
+        "lastNav": "2024-12-30",
         "fund": {
             "proj_id": "M0455_2561",
             "regis_id": "MF0271_2562",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-09-20T07:02:31.393"
+            "last_upd_date": "2025-01-18T08:02:06.097"
         },
         "navs": [
             {
@@ -62,6 +62,21 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-10-03T08:50:21.037"
+            },
+            {
+                "nav_date": "2024-12-30",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GPE19A-UI",
+                "net_asset": 3499596544,
+                "last_val": 13.7548,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-01-18T08:08:32.363"
             }
         ]
     }

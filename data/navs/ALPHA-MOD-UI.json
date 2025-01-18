@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1734433786116,
-    "nextUpdate": 1734518851283,
+    "lastUpdate": 1737170530161,
+    "nextUpdate": 1737256721239,
     "data": {
-        "lastNav": "2024-12-09",
+        "lastNav": "2025-01-13",
         "fund": {
             "proj_id": "M0397_2566",
             "regis_id": "MF0545_2566",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-12-17T16:03:03.58"
+            "last_upd_date": "2025-01-18T08:02:06.097"
         },
         "navs": [
             {
@@ -1817,6 +1817,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-12-17T16:07:18.81"
+            },
+            {
+                "nav_date": "2024-12-30",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "ALPHA-MOD-UI",
+                "net_asset": 537900928,
+                "last_val": 10.4356,
+                "previous_val": 0,
+                "sell_price": 10.5661,
+                "buy_price": 10.3312,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-01-08T16:08:06.317"
+            },
+            {
+                "nav_date": "2025-01-02",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "ALPHA-MOD-UI",
+                "net_asset": 539868032,
+                "last_val": 10.4738,
+                "previous_val": 0,
+                "sell_price": 10.6048,
+                "buy_price": 10.3691,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-01-09T16:05:00.623"
+            },
+            {
+                "nav_date": "2025-01-03",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "ALPHA-MOD-UI",
+                "net_asset": 541219264,
+                "last_val": 10.5,
+                "previous_val": 0,
+                "sell_price": 10.6314,
+                "buy_price": 10.395,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-01-13T16:07:28.987"
+            },
+            {
+                "nav_date": "2025-01-06",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "ALPHA-MOD-UI",
+                "net_asset": 541953216,
+                "last_val": 10.5143,
+                "previous_val": 0,
+                "sell_price": 10.6458,
+                "buy_price": 10.4092,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-01-14T16:06:39.33"
+            },
+            {
+                "nav_date": "2025-01-07",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "ALPHA-MOD-UI",
+                "net_asset": 540089024,
+                "last_val": 10.4781,
+                "previous_val": 0,
+                "sell_price": 10.6092,
+                "buy_price": 10.3733,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-01-15T21:06:59.313"
+            },
+            {
+                "nav_date": "2025-01-08",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "ALPHA-MOD-UI",
+                "net_asset": 538127680,
+                "last_val": 10.44,
+                "previous_val": 0,
+                "sell_price": 10.5706,
+                "buy_price": 10.3356,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-01-16T16:07:18.267"
+            },
+            {
+                "nav_date": "2025-01-10",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "ALPHA-MOD-UI",
+                "net_asset": 535826656,
+                "last_val": 10.3954,
+                "previous_val": 0,
+                "sell_price": 10.5254,
+                "buy_price": 10.2914,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-01-17T16:04:47.73"
+            },
+            {
+                "nav_date": "2025-01-13",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "ALPHA-MOD-UI",
+                "net_asset": 534873344,
+                "last_val": 10.3769,
+                "previous_val": 0,
+                "sell_price": 10.5067,
+                "buy_price": 10.2731,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-01-18T08:08:32.363"
             }
         ]
     }

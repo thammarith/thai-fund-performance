@@ -1,0 +1,68 @@
+{
+    "lastUpdate": 1737170764040,
+    "nextUpdate": 1737256721239,
+    "data": {
+        "lastNav": "2025-01-15",
+        "fund": {
+            "proj_id": "M0027_2568",
+            "regis_id": "MF0016_2568",
+            "regis_date": "2025-01-15",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิดไทยพาณิชย์คอมเพล็กซ์รีเทิร์น 1YU ห้ามขายผู้ลงทุนรายย่อย",
+            "proj_name_en": "SCB Complex Return 1YU Not for Retail Investors",
+            "proj_abbr_name": "SCBCR1YU",
+            "fund_status": "RG",
+            "unique_id": "C0000000239",
+            "permit_us_investment": null,
+            "invest_country_flag": "1",
+            "last_upd_date": "2025-01-18T08:02:06.097"
+        },
+        "navs": [
+            {
+                "nav_date": "2025-01-15",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBCR1YU",
+                "net_asset": 5689990656,
+                "last_val": 9.9744,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-01-16T16:07:18.267"
+            },
+            {
+                "nav_date": "2025-01-16",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBCR1YU",
+                "net_asset": 5690039296,
+                "last_val": 9.9745,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-01-17T16:04:47.73"
+            },
+            {
+                "nav_date": "2025-01-17",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBCR1YU",
+                "net_asset": 5642378240,
+                "last_val": 9.8909,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-01-18T08:08:32.363"
+            }
+        ]
+    }
+}

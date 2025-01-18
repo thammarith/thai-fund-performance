@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1735436367118,
-    "nextUpdate": 1735522453651,
+    "lastUpdate": 1737170745969,
+    "nextUpdate": 1737256721239,
     "data": {
-        "lastNav": "2024-12-27",
+        "lastNav": "2025-01-17",
         "fund": {
             "proj_id": "M0006_2539",
             "regis_id": "008_2540",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000239",
             "permit_us_investment": null,
             "invest_country_flag": "4",
-            "last_upd_date": "2024-12-17T16:03:03.58"
+            "last_upd_date": "2025-01-18T08:02:06.097"
         },
         "navs": [
             {
@@ -100007,6 +100007,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-12-28T16:06:42.577"
+            },
+            {
+                "nav_date": "2024-12-30",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBRF",
+                "net_asset": 1011421376,
+                "last_val": 22.3231,
+                "previous_val": 0,
+                "sell_price": 22.3232,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 22.3232,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-01-02T21:06:59.57"
+            },
+            {
+                "nav_date": "2025-01-02",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBRF",
+                "net_asset": 1013761984,
+                "last_val": 22.3335,
+                "previous_val": 0,
+                "sell_price": 22.3336,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 22.3336,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-01-03T16:07:08.173"
+            },
+            {
+                "nav_date": "2025-01-03",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBRF",
+                "net_asset": 1026277568,
+                "last_val": 22.3373,
+                "previous_val": 0,
+                "sell_price": 22.3374,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 22.3374,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-01-06T16:07:14.93"
+            },
+            {
+                "nav_date": "2025-01-14",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBRF",
+                "net_asset": 1080844672,
+                "last_val": 22.321,
+                "previous_val": 0,
+                "sell_price": 22.3211,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 22.3211,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-01-15T21:06:59.313"
+            },
+            {
+                "nav_date": "2025-01-15",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBRF",
+                "net_asset": 1084821632,
+                "last_val": 22.3182,
+                "previous_val": 0,
+                "sell_price": 22.3183,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 22.3183,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-01-16T16:07:18.267"
+            },
+            {
+                "nav_date": "2025-01-16",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBRF",
+                "net_asset": 1085107712,
+                "last_val": 22.323,
+                "previous_val": 0,
+                "sell_price": 22.3231,
+                "buy_price": 22.323,
+                "sell_swap_price": 22.323,
+                "buy_swap_price": 22.3231,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-01-17T16:04:47.73"
+            },
+            {
+                "nav_date": "2025-01-17",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBRF",
+                "net_asset": 922372800,
+                "last_val": 22.3236,
+                "previous_val": 0,
+                "sell_price": 22.3237,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 22.3237,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-01-18T08:08:32.363"
             }
         ]
     }

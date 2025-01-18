@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1735436170731,
-    "nextUpdate": 1735522453651,
+    "lastUpdate": 1737170470194,
+    "nextUpdate": 1737256721239,
     "data": {
-        "lastNav": "2024-12-23",
+        "lastNav": "2025-01-16",
         "fund": {
             "proj_id": "M0274_2560",
             "regis_id": "MF0413_2560",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "4",
-            "last_upd_date": "2024-12-17T16:03:03.58"
+            "last_upd_date": "2025-01-18T08:02:06.097"
         },
         "navs": [
             {
@@ -10322,6 +10322,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-12-28T16:06:42.577"
+            },
+            {
+                "nav_date": "2024-12-30",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-FITS",
+                "net_asset": 29688996,
+                "last_val": 11.0821,
+                "previous_val": 0,
+                "sell_price": 11.1376,
+                "buy_price": 11.0267,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-01-07T16:03:32.95"
+            },
+            {
+                "nav_date": "2025-01-06",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-FITS",
+                "net_asset": 29937950,
+                "last_val": 11.1156,
+                "previous_val": 0,
+                "sell_price": 11.1713,
+                "buy_price": 11.06,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-01-08T16:08:06.317"
+            },
+            {
+                "nav_date": "2025-01-07",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-FITS",
+                "net_asset": 29911324,
+                "last_val": 11.0938,
+                "previous_val": 0,
+                "sell_price": 11.1494,
+                "buy_price": 11.0383,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-01-09T16:05:00.623"
+            },
+            {
+                "nav_date": "2025-01-08",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-FITS",
+                "net_asset": 29910748,
+                "last_val": 11.0776,
+                "previous_val": 0,
+                "sell_price": 11.1331,
+                "buy_price": 11.0222,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-01-13T16:07:28.987"
+            },
+            {
+                "nav_date": "2025-01-10",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-FITS",
+                "net_asset": 29744190,
+                "last_val": 11.0179,
+                "previous_val": 0,
+                "sell_price": 11.0731,
+                "buy_price": 10.9628,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-01-16T16:07:18.267"
+            },
+            {
+                "nav_date": "2025-01-15",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-FITS",
+                "net_asset": 29887148,
+                "last_val": 11.0639,
+                "previous_val": 0,
+                "sell_price": 11.1193,
+                "buy_price": 11.0086,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-01-17T16:04:47.73"
+            },
+            {
+                "nav_date": "2025-01-16",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-FITS",
+                "net_asset": 29801122,
+                "last_val": 11.0719,
+                "previous_val": 0,
+                "sell_price": 11.1274,
+                "buy_price": 11.0165,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-01-18T08:08:32.363"
             }
         ]
     }

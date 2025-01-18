@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1735436354376,
-    "nextUpdate": 1735522453651,
+    "lastUpdate": 1737170730380,
+    "nextUpdate": 1737256721239,
     "data": {
-        "lastNav": "2024-12-27",
+        "lastNav": "2025-01-17",
         "fund": {
             "proj_id": "M1261_2557",
             "regis_id": "MF0464_2558",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-12-17T16:03:03.58"
+            "last_upd_date": "2025-01-18T08:02:06.097"
         },
         "navs": [
             {
@@ -947,6 +947,96 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-12-28T16:06:42.577"
+            },
+            {
+                "nav_date": "2025-01-08",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-CHX",
+                "net_asset": 2031263232,
+                "last_val": 11.226,
+                "previous_val": 0,
+                "sell_price": 11.2373,
+                "buy_price": 11.2092,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-01-10T16:06:47.913"
+            },
+            {
+                "nav_date": "2025-01-10",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-CHX",
+                "net_asset": 2004072064,
+                "last_val": 11.0694,
+                "previous_val": 0,
+                "sell_price": 11.0806,
+                "buy_price": 11.0528,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-01-13T16:07:28.987"
+            },
+            {
+                "nav_date": "2025-01-14",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-CHX",
+                "net_asset": 2043936256,
+                "last_val": 11.222,
+                "previous_val": 0,
+                "sell_price": 11.2333,
+                "buy_price": 11.2052,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-01-15T21:06:59.313"
+            },
+            {
+                "nav_date": "2025-01-15",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-CHX",
+                "net_asset": 2034290688,
+                "last_val": 11.1771,
+                "previous_val": 0,
+                "sell_price": 11.1884,
+                "buy_price": 11.1603,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-01-16T16:07:18.267"
+            },
+            {
+                "nav_date": "2025-01-16",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-CHX",
+                "net_asset": 2034773376,
+                "last_val": 11.1797,
+                "previous_val": 0,
+                "sell_price": 11.191,
+                "buy_price": 11.1629,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-01-17T16:04:47.73"
+            },
+            {
+                "nav_date": "2025-01-17",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-CHX",
+                "net_asset": 2031338368,
+                "last_val": 11.1593,
+                "previous_val": 0,
+                "sell_price": 11.1706,
+                "buy_price": 11.1426,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-01-18T08:08:32.363"
             }
         ]
     }
