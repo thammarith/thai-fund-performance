@@ -1,0 +1,38 @@
+{
+    "lastUpdate": 1738988920959,
+    "nextUpdate": 1739074791928,
+    "data": {
+        "lastNav": "2025-01-31",
+        "fund": {
+            "proj_id": "M1054_2567",
+            "regis_id": "MF0004_2568",
+            "regis_date": "2025-01-08",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิดเค พันธบัตร 6 เดือน BT",
+            "proj_name_en": "K Government Bond 6 Months BT Fund",
+            "proj_abbr_name": "K-GB6MBT",
+            "fund_status": "RG",
+            "unique_id": "C0000000021",
+            "permit_us_investment": null,
+            "invest_country_flag": "3",
+            "last_upd_date": "2025-01-18T08:02:06.097"
+        },
+        "navs": [
+            {
+                "nav_date": "2025-01-31",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GB6MBT",
+                "net_asset": 4754489856,
+                "last_val": 10.0042,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-02-08T08:08:25.81"
+            }
+        ]
+    }
+}

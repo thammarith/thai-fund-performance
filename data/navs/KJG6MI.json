@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1737170679069,
-    "nextUpdate": 1737256721239,
+    "lastUpdate": 1738988868786,
+    "nextUpdate": 1739074791928,
     "data": {
-        "lastNav": "2024-12-30",
+        "lastNav": "2025-01-31",
         "fund": {
             "proj_id": "M0713_2567",
             "regis_id": "MF0491_2567",
@@ -77,6 +77,21 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-01-18T08:08:32.363"
+            },
+            {
+                "nav_date": "2025-01-31",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KJG6MI",
+                "net_asset": 5288436736,
+                "last_val": 10.1039,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-02-08T08:08:25.81"
             }
         ]
     }

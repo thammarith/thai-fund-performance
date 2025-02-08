@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1737185005708,
-    "nextUpdate": 1737270964609,
+    "lastUpdate": 1738991015118,
+    "nextUpdate": 1739076746439,
     "data": {
-        "lastNav": "2024-12-30",
+        "lastNav": "2025-01-31",
         "fund": {
             "proj_id": "M0371_2565",
             "regis_id": "MF0296_2565",
@@ -182,6 +182,51 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-01-18T08:08:32.363"
+            },
+            {
+                "nav_date": "2025-01-29",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP PREIT-UI-R",
+                "net_asset": 178450992,
+                "last_val": 8.8218,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 8.6454,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-02-05T16:04:27.1"
+            },
+            {
+                "nav_date": "2025-01-30",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP PREIT-UI-R",
+                "net_asset": 178360272,
+                "last_val": 8.8173,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 8.641,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-02-05T16:04:27.1"
+            },
+            {
+                "nav_date": "2025-01-31",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP PREIT-UI-R",
+                "net_asset": 178083648,
+                "last_val": 8.8037,
+                "previous_val": 0,
+                "sell_price": 8.9138,
+                "buy_price": 8.6276,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-02-08T08:08:25.81"
             }
         ]
     }
