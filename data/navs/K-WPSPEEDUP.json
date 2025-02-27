@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1738988615506,
-    "nextUpdate": 1739074791928,
+    "lastUpdate": 1740657320429,
+    "nextUpdate": 1740743492709,
     "data": {
-        "lastNav": "2025-02-06",
+        "lastNav": "2025-02-25",
         "fund": {
             "proj_id": "M0280_2564",
             "regis_id": "MF0268_2564",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "4",
-            "last_upd_date": "2025-01-18T08:02:06.097"
+            "last_upd_date": "2025-02-27T16:02:06.343"
         },
         "navs": [
             {
@@ -10082,6 +10082,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-02-08T08:08:25.81"
+            },
+            {
+                "nav_date": "2025-02-10",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-WPSPEEDUP",
+                "net_asset": 13568678912,
+                "last_val": 9.3895,
+                "previous_val": 0,
+                "sell_price": 9.4365,
+                "buy_price": 9.3895,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-02-14T16:03:20.21"
+            },
+            {
+                "nav_date": "2025-02-13",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-WPSPEEDUP",
+                "net_asset": 13565675520,
+                "last_val": 9.3734,
+                "previous_val": 0,
+                "sell_price": 9.4204,
+                "buy_price": 9.3734,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-02-17T16:07:14.62"
+            },
+            {
+                "nav_date": "2025-02-14",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-WPSPEEDUP",
+                "net_asset": 13514165248,
+                "last_val": 9.3885,
+                "previous_val": 0,
+                "sell_price": 9.4355,
+                "buy_price": 9.3885,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-02-19T16:07:11.443"
+            },
+            {
+                "nav_date": "2025-02-18",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-WPSPEEDUP",
+                "net_asset": 13585554432,
+                "last_val": 9.4105,
+                "previous_val": 0,
+                "sell_price": 9.4577,
+                "buy_price": 9.4105,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-02-20T16:07:45.41"
+            },
+            {
+                "nav_date": "2025-02-19",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-WPSPEEDUP",
+                "net_asset": 13557210112,
+                "last_val": 9.397,
+                "previous_val": 0,
+                "sell_price": 9.4441,
+                "buy_price": 9.397,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-02-21T16:07:44.88"
+            },
+            {
+                "nav_date": "2025-02-20",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-WPSPEEDUP",
+                "net_asset": 13514919936,
+                "last_val": 9.3757,
+                "previous_val": 0,
+                "sell_price": 9.4227,
+                "buy_price": 9.3757,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-02-24T16:08:31.763"
+            },
+            {
+                "nav_date": "2025-02-21",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-WPSPEEDUP",
+                "net_asset": 13498088448,
+                "last_val": 9.3753,
+                "previous_val": 0,
+                "sell_price": 9.4223,
+                "buy_price": 9.3753,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-02-26T16:05:34.797"
+            },
+            {
+                "nav_date": "2025-02-25",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-WPSPEEDUP",
+                "net_asset": 13329113088,
+                "last_val": 9.2497,
+                "previous_val": 0,
+                "sell_price": 9.296,
+                "buy_price": 9.2497,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-02-27T16:05:12.28"
             }
         ]
     }
