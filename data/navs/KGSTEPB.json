@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1738988728722,
-    "nextUpdate": 1739074791928,
+    "lastUpdate": 1740657428979,
+    "nextUpdate": 1740743492709,
     "data": {
-        "lastNav": "2025-02-05",
+        "lastNav": "2025-02-24",
         "fund": {
             "proj_id": "M0452_2567",
             "regis_id": "MF0387_2567",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-01-18T08:02:06.097"
+            "last_upd_date": "2025-02-27T16:02:06.343"
         },
         "navs": [
             {
@@ -1097,6 +1097,141 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-02-08T08:08:25.81"
+            },
+            {
+                "nav_date": "2025-02-10",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KGSTEPB",
+                "net_asset": 1342113536,
+                "last_val": 10.1002,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 10.1002,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-02-14T16:03:20.21"
+            },
+            {
+                "nav_date": "2025-02-11",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KGSTEPB",
+                "net_asset": 1336854784,
+                "last_val": 10.0913,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 10.0913,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-02-17T16:07:14.62"
+            },
+            {
+                "nav_date": "2025-02-13",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KGSTEPB",
+                "net_asset": 1331774336,
+                "last_val": 10.0946,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 10.0946,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-02-19T16:07:11.443"
+            },
+            {
+                "nav_date": "2025-02-14",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KGSTEPB",
+                "net_asset": 1325113216,
+                "last_val": 10.1127,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 10.1127,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-02-20T16:07:45.41"
+            },
+            {
+                "nav_date": "2025-02-18",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KGSTEPB",
+                "net_asset": 1307901568,
+                "last_val": 10.1028,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 10.1028,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-02-21T16:07:44.88"
+            },
+            {
+                "nav_date": "2025-02-19",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KGSTEPB",
+                "net_asset": 1286632320,
+                "last_val": 10.097,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 10.097,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-02-24T16:08:31.763"
+            },
+            {
+                "nav_date": "2025-02-20",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KGSTEPB",
+                "net_asset": 1276971392,
+                "last_val": 10.1033,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 10.1033,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-02-25T16:05:11.28"
+            },
+            {
+                "nav_date": "2025-02-21",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KGSTEPB",
+                "net_asset": 1273951232,
+                "last_val": 10.118,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 10.118,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-02-26T16:05:34.797"
+            },
+            {
+                "nav_date": "2025-02-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KGSTEPB",
+                "net_asset": 1239475712,
+                "last_val": 10.1067,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 10.1067,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-02-27T16:05:12.28"
             }
         ]
     }

@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1738988819324,
-    "nextUpdate": 1739074791928,
+    "lastUpdate": 1740657513971,
+    "nextUpdate": 1740743492709,
     "data": {
-        "lastNav": "2025-02-06",
+        "lastNav": "2025-02-25",
         "fund": {
             "proj_id": "M0596_2566",
             "regis_id": "MF0479_2566",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "4",
-            "last_upd_date": "2025-01-18T08:02:06.097"
+            "last_upd_date": "2025-02-27T16:02:06.343"
         },
         "navs": [
             {
@@ -2972,6 +2972,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-02-08T08:08:25.81"
+            },
+            {
+                "nav_date": "2025-02-10",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KWPULTIRMF",
+                "net_asset": 336904608,
+                "last_val": 10.9243,
+                "previous_val": 0,
+                "sell_price": 10.9244,
+                "buy_price": 10.9243,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-02-14T16:03:20.21"
+            },
+            {
+                "nav_date": "2025-02-13",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KWPULTIRMF",
+                "net_asset": 335675392,
+                "last_val": 10.9038,
+                "previous_val": 0,
+                "sell_price": 10.9039,
+                "buy_price": 10.9038,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-02-17T16:07:14.62"
+            },
+            {
+                "nav_date": "2025-02-14",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KWPULTIRMF",
+                "net_asset": 336378752,
+                "last_val": 10.9243,
+                "previous_val": 0,
+                "sell_price": 10.9244,
+                "buy_price": 10.9243,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-02-19T16:07:11.443"
+            },
+            {
+                "nav_date": "2025-02-18",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KWPULTIRMF",
+                "net_asset": 338014304,
+                "last_val": 10.9557,
+                "previous_val": 0,
+                "sell_price": 10.9558,
+                "buy_price": 10.9557,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-02-20T16:07:45.41"
+            },
+            {
+                "nav_date": "2025-02-19",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KWPULTIRMF",
+                "net_asset": 336401120,
+                "last_val": 10.9365,
+                "previous_val": 0,
+                "sell_price": 10.9366,
+                "buy_price": 10.9365,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-02-21T16:07:44.88"
+            },
+            {
+                "nav_date": "2025-02-20",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KWPULTIRMF",
+                "net_asset": 336697952,
+                "last_val": 10.9037,
+                "previous_val": 0,
+                "sell_price": 10.9038,
+                "buy_price": 10.9037,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-02-24T16:08:31.763"
+            },
+            {
+                "nav_date": "2025-02-21",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KWPULTIRMF",
+                "net_asset": 336873568,
+                "last_val": 10.9012,
+                "previous_val": 0,
+                "sell_price": 10.9013,
+                "buy_price": 10.9012,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-02-26T16:05:34.797"
+            },
+            {
+                "nav_date": "2025-02-25",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KWPULTIRMF",
+                "net_asset": 331115008,
+                "last_val": 10.7106,
+                "previous_val": 0,
+                "sell_price": 10.7107,
+                "buy_price": 10.7106,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-02-27T16:05:12.28"
             }
         ]
     }

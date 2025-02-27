@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1738988907544,
-    "nextUpdate": 1739074791928,
+    "lastUpdate": 1740657598395,
+    "nextUpdate": 1740743492709,
     "data": {
-        "lastNav": "2025-02-06",
+        "lastNav": "2025-02-25",
         "fund": {
             "proj_id": "M0907_2566",
             "regis_id": "MF0129_2567",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-01-18T08:02:06.097"
+            "last_upd_date": "2025-02-27T16:02:06.343"
         },
         "navs": [
             {
@@ -1202,6 +1202,141 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-02-08T08:08:25.81"
+            },
+            {
+                "nav_date": "2025-02-10",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KINDIARMF",
+                "net_asset": 336368832,
+                "last_val": 10.4862,
+                "previous_val": 0,
+                "sell_price": 10.4863,
+                "buy_price": 10.4862,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-02-13T16:08:49.697"
+            },
+            {
+                "nav_date": "2025-02-11",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KINDIARMF",
+                "net_asset": 331675712,
+                "last_val": 10.3419,
+                "previous_val": 0,
+                "sell_price": 10.342,
+                "buy_price": 10.3419,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-02-14T16:03:20.21"
+            },
+            {
+                "nav_date": "2025-02-13",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KINDIARMF",
+                "net_asset": 327670976,
+                "last_val": 10.3048,
+                "previous_val": 0,
+                "sell_price": 10.3049,
+                "buy_price": 10.3048,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-02-17T16:07:14.62"
+            },
+            {
+                "nav_date": "2025-02-14",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KINDIARMF",
+                "net_asset": 319132064,
+                "last_val": 10.1457,
+                "previous_val": 0,
+                "sell_price": 10.1458,
+                "buy_price": 10.1457,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-02-19T16:07:11.443"
+            },
+            {
+                "nav_date": "2025-02-18",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KINDIARMF",
+                "net_asset": 315272128,
+                "last_val": 10.0294,
+                "previous_val": 0,
+                "sell_price": 10.0295,
+                "buy_price": 10.0294,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-02-21T16:07:44.88"
+            },
+            {
+                "nav_date": "2025-02-20",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KINDIARMF",
+                "net_asset": 317940096,
+                "last_val": 10.2392,
+                "previous_val": 0,
+                "sell_price": 10.2393,
+                "buy_price": 10.2392,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-02-24T16:08:31.763"
+            },
+            {
+                "nav_date": "2025-02-21",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KINDIARMF",
+                "net_asset": 309975840,
+                "last_val": 10.1696,
+                "previous_val": 0,
+                "sell_price": 10.1697,
+                "buy_price": 10.1696,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-02-25T16:05:11.28"
+            },
+            {
+                "nav_date": "2025-02-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KINDIARMF",
+                "net_asset": 285712064,
+                "last_val": 10.053,
+                "previous_val": 0,
+                "sell_price": 10.0531,
+                "buy_price": 10.053,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-02-26T16:05:34.797"
+            },
+            {
+                "nav_date": "2025-02-25",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KINDIARMF",
+                "net_asset": 282347392,
+                "last_val": 10.0255,
+                "previous_val": 0,
+                "sell_price": 10.0256,
+                "buy_price": 10.0255,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-02-27T16:05:12.28"
             }
         ]
     }

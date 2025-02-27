@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1738988821724,
-    "nextUpdate": 1739074791928,
+    "lastUpdate": 1740657516406,
+    "nextUpdate": 1740743492709,
     "data": {
-        "lastNav": "2025-02-05",
+        "lastNav": "2025-02-24",
         "fund": {
             "proj_id": "M0599_2566",
             "regis_id": "MF0505_2566",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-01-18T08:02:06.097"
+            "last_upd_date": "2025-02-27T16:02:06.343"
         },
         "navs": [
             {
@@ -3017,6 +3017,141 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-02-08T08:08:25.81"
+            },
+            {
+                "nav_date": "2025-02-10",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KGTECHRMF",
+                "net_asset": 656238528,
+                "last_val": 13.5975,
+                "previous_val": 0,
+                "sell_price": 13.5976,
+                "buy_price": 13.5975,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-02-14T16:03:20.21"
+            },
+            {
+                "nav_date": "2025-02-11",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KGTECHRMF",
+                "net_asset": 654787904,
+                "last_val": 13.5071,
+                "previous_val": 0,
+                "sell_price": 13.5072,
+                "buy_price": 13.5071,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-02-17T16:07:14.62"
+            },
+            {
+                "nav_date": "2025-02-13",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KGTECHRMF",
+                "net_asset": 659248768,
+                "last_val": 13.5969,
+                "previous_val": 0,
+                "sell_price": 13.597,
+                "buy_price": 13.5969,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-02-19T16:07:11.443"
+            },
+            {
+                "nav_date": "2025-02-14",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KGTECHRMF",
+                "net_asset": 659260544,
+                "last_val": 13.5739,
+                "previous_val": 0,
+                "sell_price": 13.574,
+                "buy_price": 13.5739,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-02-20T16:07:45.41"
+            },
+            {
+                "nav_date": "2025-02-18",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KGTECHRMF",
+                "net_asset": 666140416,
+                "last_val": 13.6915,
+                "previous_val": 0,
+                "sell_price": 13.6916,
+                "buy_price": 13.6915,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-02-21T16:07:44.88"
+            },
+            {
+                "nav_date": "2025-02-19",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KGTECHRMF",
+                "net_asset": 669348928,
+                "last_val": 13.7406,
+                "previous_val": 0,
+                "sell_price": 13.7407,
+                "buy_price": 13.7406,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-02-24T16:08:31.763"
+            },
+            {
+                "nav_date": "2025-02-20",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KGTECHRMF",
+                "net_asset": 668471936,
+                "last_val": 13.6914,
+                "previous_val": 0,
+                "sell_price": 13.6915,
+                "buy_price": 13.6914,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-02-25T16:05:11.28"
+            },
+            {
+                "nav_date": "2025-02-21",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KGTECHRMF",
+                "net_asset": 649640192,
+                "last_val": 13.2939,
+                "previous_val": 0,
+                "sell_price": 13.294,
+                "buy_price": 13.2939,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-02-26T16:05:34.797"
+            },
+            {
+                "nav_date": "2025-02-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KGTECHRMF",
+                "net_asset": 639988480,
+                "last_val": 13.0909,
+                "previous_val": 0,
+                "sell_price": 13.091,
+                "buy_price": 13.0909,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-02-27T16:05:12.28"
             }
         ]
     }

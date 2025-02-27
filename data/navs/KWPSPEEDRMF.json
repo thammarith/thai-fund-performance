@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1738988734203,
-    "nextUpdate": 1739074791928,
+    "lastUpdate": 1740657433272,
+    "nextUpdate": 1740743492709,
     "data": {
-        "lastNav": "2025-02-06",
+        "lastNav": "2025-02-25",
         "fund": {
             "proj_id": "M0455_2567",
             "regis_id": "MF0537_2567",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "4",
-            "last_upd_date": "2025-01-18T08:02:06.097"
+            "last_upd_date": "2025-02-27T16:02:06.343"
         },
         "navs": [
             {
@@ -1142,6 +1142,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-02-08T08:08:25.81"
+            },
+            {
+                "nav_date": "2025-02-10",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KWPSPEEDRMF",
+                "net_asset": 108055960,
+                "last_val": 10.3023,
+                "previous_val": 0,
+                "sell_price": 10.3024,
+                "buy_price": 10.3023,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-02-14T16:03:20.21"
+            },
+            {
+                "nav_date": "2025-02-13",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KWPSPEEDRMF",
+                "net_asset": 109044984,
+                "last_val": 10.2842,
+                "previous_val": 0,
+                "sell_price": 10.2843,
+                "buy_price": 10.2842,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-02-17T16:07:14.62"
+            },
+            {
+                "nav_date": "2025-02-14",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KWPSPEEDRMF",
+                "net_asset": 110035960,
+                "last_val": 10.3,
+                "previous_val": 0,
+                "sell_price": 10.3001,
+                "buy_price": 10.3,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-02-19T16:07:11.443"
+            },
+            {
+                "nav_date": "2025-02-18",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KWPSPEEDRMF",
+                "net_asset": 110566944,
+                "last_val": 10.3217,
+                "previous_val": 0,
+                "sell_price": 10.3218,
+                "buy_price": 10.3217,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-02-20T16:07:45.41"
+            },
+            {
+                "nav_date": "2025-02-19",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KWPSPEEDRMF",
+                "net_asset": 115189328,
+                "last_val": 10.3092,
+                "previous_val": 0,
+                "sell_price": 10.3093,
+                "buy_price": 10.3092,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-02-21T16:07:44.88"
+            },
+            {
+                "nav_date": "2025-02-20",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KWPSPEEDRMF",
+                "net_asset": 120201512,
+                "last_val": 10.2899,
+                "previous_val": 0,
+                "sell_price": 10.29,
+                "buy_price": 10.2899,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-02-24T16:08:31.763"
+            },
+            {
+                "nav_date": "2025-02-21",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KWPSPEEDRMF",
+                "net_asset": 121012544,
+                "last_val": 10.2889,
+                "previous_val": 0,
+                "sell_price": 10.289,
+                "buy_price": 10.2889,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-02-26T16:05:34.797"
+            },
+            {
+                "nav_date": "2025-02-25",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KWPSPEEDRMF",
+                "net_asset": 119562232,
+                "last_val": 10.1602,
+                "previous_val": 0,
+                "sell_price": 10.1603,
+                "buy_price": 10.1602,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-02-27T16:05:12.28"
             }
         ]
     }

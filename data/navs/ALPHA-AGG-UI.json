@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1738988675796,
-    "nextUpdate": 1739074791928,
+    "lastUpdate": 1740657378804,
+    "nextUpdate": 1740743492709,
     "data": {
-        "lastNav": "2025-01-24",
+        "lastNav": "2025-02-20",
         "fund": {
             "proj_id": "M0398_2566",
             "regis_id": "MF0546_2566",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-01-18T08:02:06.097"
+            "last_upd_date": "2025-02-27T16:02:06.343"
         },
         "navs": [
             {
@@ -1997,6 +1997,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-02-08T08:08:25.81"
+            },
+            {
+                "nav_date": "2025-02-10",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "ALPHA-AGG-UI",
+                "net_asset": 329901792,
+                "last_val": 10.7392,
+                "previous_val": 0,
+                "sell_price": 10.9541,
+                "buy_price": 10.6318,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-02-18T16:07:32.467"
+            },
+            {
+                "nav_date": "2025-02-11",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "ALPHA-AGG-UI",
+                "net_asset": 329409216,
+                "last_val": 10.7232,
+                "previous_val": 0,
+                "sell_price": 10.9378,
+                "buy_price": 10.616,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-02-20T16:07:45.41"
+            },
+            {
+                "nav_date": "2025-02-13",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "ALPHA-AGG-UI",
+                "net_asset": 330523488,
+                "last_val": 10.7594,
+                "previous_val": 0,
+                "sell_price": 10.9747,
+                "buy_price": 10.6518,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-02-21T16:07:44.88"
+            },
+            {
+                "nav_date": "2025-02-14",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "ALPHA-AGG-UI",
+                "net_asset": 330956608,
+                "last_val": 10.7735,
+                "previous_val": 0,
+                "sell_price": 10.9891,
+                "buy_price": 10.6658,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-02-24T16:08:31.763"
+            },
+            {
+                "nav_date": "2025-02-18",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "ALPHA-AGG-UI",
+                "net_asset": 331153472,
+                "last_val": 10.7799,
+                "previous_val": 0,
+                "sell_price": 10.9956,
+                "buy_price": 10.6721,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-02-25T16:05:11.28"
+            },
+            {
+                "nav_date": "2025-02-19",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "ALPHA-AGG-UI",
+                "net_asset": 330761376,
+                "last_val": 10.7672,
+                "previous_val": 0,
+                "sell_price": 10.9826,
+                "buy_price": 10.6595,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-02-26T16:05:34.797"
+            },
+            {
+                "nav_date": "2025-02-20",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "ALPHA-AGG-UI",
+                "net_asset": 329440896,
+                "last_val": 10.7242,
+                "previous_val": 0,
+                "sell_price": 10.9388,
+                "buy_price": 10.617,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-02-27T16:05:12.28"
             }
         ]
     }
