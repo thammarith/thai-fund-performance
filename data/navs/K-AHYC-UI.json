@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1738988518537,
-    "nextUpdate": 1739074791928,
+    "lastUpdate": 1740657230757,
+    "nextUpdate": 1740743492709,
     "data": {
-        "lastNav": "2025-02-05",
+        "lastNav": "2025-02-24",
         "fund": {
             "proj_id": "M0144_2564",
             "regis_id": "MF0148_2564",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-01-18T08:02:06.097"
+            "last_upd_date": "2025-02-27T16:02:06.343"
         },
         "navs": [
             {
@@ -6977,6 +6977,141 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-02-08T08:08:25.81"
+            },
+            {
+                "nav_date": "2025-02-10",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-AHYC-UI",
+                "net_asset": 1040238784,
+                "last_val": 8.7669,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 8.7669,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-02-14T16:03:20.21"
+            },
+            {
+                "nav_date": "2025-02-11",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-AHYC-UI",
+                "net_asset": 1044399424,
+                "last_val": 8.802,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 8.802,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-02-17T16:07:14.62"
+            },
+            {
+                "nav_date": "2025-02-13",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-AHYC-UI",
+                "net_asset": 1043506944,
+                "last_val": 8.7945,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 8.7945,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-02-19T16:07:11.443"
+            },
+            {
+                "nav_date": "2025-02-14",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-AHYC-UI",
+                "net_asset": 1043878720,
+                "last_val": 8.826,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 8.826,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-02-20T16:07:45.41"
+            },
+            {
+                "nav_date": "2025-02-18",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-AHYC-UI",
+                "net_asset": 1047556736,
+                "last_val": 8.8571,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 8.8571,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-02-21T16:07:44.88"
+            },
+            {
+                "nav_date": "2025-02-19",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-AHYC-UI",
+                "net_asset": 1048924672,
+                "last_val": 8.8687,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 8.8687,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-02-24T16:08:31.763"
+            },
+            {
+                "nav_date": "2025-02-20",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-AHYC-UI",
+                "net_asset": 1051009792,
+                "last_val": 8.8863,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 8.8863,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-02-25T16:05:11.28"
+            },
+            {
+                "nav_date": "2025-02-21",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-AHYC-UI",
+                "net_asset": 1052745600,
+                "last_val": 8.901,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 8.901,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-02-26T16:05:34.797"
+            },
+            {
+                "nav_date": "2025-02-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-AHYC-UI",
+                "net_asset": 1054228416,
+                "last_val": 8.9135,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 8.9135,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-02-27T16:05:12.28"
             }
         ]
     }

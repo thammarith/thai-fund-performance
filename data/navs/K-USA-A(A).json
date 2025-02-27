@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1738988530805,
-    "nextUpdate": 1739074791928,
+    "lastUpdate": 1740657242885,
+    "nextUpdate": 1740743492709,
     "data": {
-        "lastNav": "2025-02-05",
+        "lastNav": "2025-02-24",
         "fund": {
             "proj_id": "M0159_2555",
             "regis_id": "MF0560_2555",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-01-18T08:02:06.097"
+            "last_upd_date": "2025-02-27T16:02:06.343"
         },
         "navs": [
             {
@@ -12347,6 +12347,141 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-02-08T08:08:25.81"
+            },
+            {
+                "nav_date": "2025-02-10",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-USA-A(A)",
+                "net_asset": 4603323392,
+                "last_val": 18.3956,
+                "previous_val": 0,
+                "sell_price": 18.6716,
+                "buy_price": 18.3956,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-02-14T16:03:20.21"
+            },
+            {
+                "nav_date": "2025-02-11",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-USA-A(A)",
+                "net_asset": 4595894784,
+                "last_val": 18.2855,
+                "previous_val": 0,
+                "sell_price": 18.5599,
+                "buy_price": 18.2855,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-02-17T16:07:14.62"
+            },
+            {
+                "nav_date": "2025-02-13",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-USA-A(A)",
+                "net_asset": 4535131648,
+                "last_val": 18.0154,
+                "previous_val": 0,
+                "sell_price": 18.2857,
+                "buy_price": 18.0154,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-02-19T16:07:11.443"
+            },
+            {
+                "nav_date": "2025-02-14",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-USA-A(A)",
+                "net_asset": 4541440000,
+                "last_val": 18.0654,
+                "previous_val": 0,
+                "sell_price": 18.3365,
+                "buy_price": 18.0654,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-02-20T16:07:45.41"
+            },
+            {
+                "nav_date": "2025-02-18",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-USA-A(A)",
+                "net_asset": 4552611840,
+                "last_val": 18.1057,
+                "previous_val": 0,
+                "sell_price": 18.3774,
+                "buy_price": 18.1057,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-02-21T16:07:44.88"
+            },
+            {
+                "nav_date": "2025-02-19",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-USA-A(A)",
+                "net_asset": 4541486080,
+                "last_val": 18.0802,
+                "previous_val": 0,
+                "sell_price": 18.3515,
+                "buy_price": 18.0802,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-02-24T16:08:31.763"
+            },
+            {
+                "nav_date": "2025-02-20",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-USA-A(A)",
+                "net_asset": 4522078720,
+                "last_val": 17.9543,
+                "previous_val": 0,
+                "sell_price": 18.2237,
+                "buy_price": 17.9543,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-02-25T16:05:11.28"
+            },
+            {
+                "nav_date": "2025-02-21",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-USA-A(A)",
+                "net_asset": 4431844352,
+                "last_val": 17.5787,
+                "previous_val": 0,
+                "sell_price": 17.8425,
+                "buy_price": 17.5787,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-02-26T16:05:34.797"
+            },
+            {
+                "nav_date": "2025-02-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-USA-A(A)",
+                "net_asset": 4465908224,
+                "last_val": 17.4475,
+                "previous_val": 0,
+                "sell_price": 17.7093,
+                "buy_price": 17.4475,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-02-27T16:05:12.28"
             }
         ]
     }
