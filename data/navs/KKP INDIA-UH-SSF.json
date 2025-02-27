@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1738991039396,
-    "nextUpdate": 1739076746439,
+    "lastUpdate": 1740658872072,
+    "nextUpdate": 1740743492709,
     "data": {
-        "lastNav": "2025-02-06",
+        "lastNav": "2025-02-24",
         "fund": {
             "proj_id": "M0427_2567",
             "regis_id": "MF0332_2567",
@@ -15,7 +15,7 @@
             "unique_id": "C0000005025",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-01-18T08:02:06.097"
+            "last_upd_date": "2025-02-27T16:02:06.343"
         },
         "navs": [
             {
@@ -1172,6 +1172,141 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-02-08T08:08:25.81"
+            },
+            {
+                "nav_date": "2025-02-10",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP INDIA-UH-SSF",
+                "net_asset": 11537275,
+                "last_val": 8.4534,
+                "previous_val": 0,
+                "sell_price": 8.4535,
+                "buy_price": 8.4534,
+                "sell_swap_price": 8.4534,
+                "buy_swap_price": 8.4535,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-02-13T16:08:49.697"
+            },
+            {
+                "nav_date": "2025-02-11",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP INDIA-UH-SSF",
+                "net_asset": 10540491,
+                "last_val": 8.3879,
+                "previous_val": 0,
+                "sell_price": 8.388,
+                "buy_price": 8.3879,
+                "sell_swap_price": 8.3879,
+                "buy_swap_price": 8.388,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-02-14T16:03:20.21"
+            },
+            {
+                "nav_date": "2025-02-13",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP INDIA-UH-SSF",
+                "net_asset": 10524330,
+                "last_val": 8.375,
+                "previous_val": 0,
+                "sell_price": 8.3751,
+                "buy_price": 8.375,
+                "sell_swap_price": 8.375,
+                "buy_swap_price": 8.3751,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-02-17T16:07:14.62"
+            },
+            {
+                "nav_date": "2025-02-14",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP INDIA-UH-SSF",
+                "net_asset": 10346865,
+                "last_val": 8.2565,
+                "previous_val": 0,
+                "sell_price": 8.2566,
+                "buy_price": 8.2565,
+                "sell_swap_price": 8.2565,
+                "buy_swap_price": 8.2566,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-02-19T16:07:11.443"
+            },
+            {
+                "nav_date": "2025-02-18",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP INDIA-UH-SSF",
+                "net_asset": 10443144,
+                "last_val": 8.3293,
+                "previous_val": 0,
+                "sell_price": 8.3294,
+                "buy_price": 8.3293,
+                "sell_swap_price": 8.3293,
+                "buy_swap_price": 8.3294,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-02-20T16:07:45.41"
+            },
+            {
+                "nav_date": "2025-02-19",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP INDIA-UH-SSF",
+                "net_asset": 10415512,
+                "last_val": 8.3178,
+                "previous_val": 0,
+                "sell_price": 8.3179,
+                "buy_price": 8.3178,
+                "sell_swap_price": 8.3178,
+                "buy_swap_price": 8.3179,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-02-21T16:07:44.88"
+            },
+            {
+                "nav_date": "2025-02-20",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP INDIA-UH-SSF",
+                "net_asset": 10363172,
+                "last_val": 8.2799,
+                "previous_val": 0,
+                "sell_price": 8.28,
+                "buy_price": 8.2799,
+                "sell_swap_price": 8.2799,
+                "buy_swap_price": 8.28,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-02-24T16:08:31.763"
+            },
+            {
+                "nav_date": "2025-02-21",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP INDIA-UH-SSF",
+                "net_asset": 10223256,
+                "last_val": 8.1945,
+                "previous_val": 0,
+                "sell_price": 8.1946,
+                "buy_price": 8.1945,
+                "sell_swap_price": 8.1945,
+                "buy_swap_price": 8.1946,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-02-25T16:05:11.28"
+            },
+            {
+                "nav_date": "2025-02-24",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP INDIA-UH-SSF",
+                "net_asset": 10151221,
+                "last_val": 8.1476,
+                "previous_val": 0,
+                "sell_price": 8.1477,
+                "buy_price": 8.1476,
+                "sell_swap_price": 8.1476,
+                "buy_swap_price": 8.1477,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-02-27T16:05:12.28"
             }
         ]
     }
