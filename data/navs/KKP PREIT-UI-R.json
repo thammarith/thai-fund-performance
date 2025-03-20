@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1738991015118,
-    "nextUpdate": 1739076746439,
+    "lastUpdate": 1742464066774,
+    "nextUpdate": 1742550399775,
     "data": {
-        "lastNav": "2025-01-31",
+        "lastNav": "2025-02-28",
         "fund": {
             "proj_id": "M0371_2565",
             "regis_id": "MF0296_2565",
@@ -15,7 +15,7 @@
             "unique_id": "C0000005025",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-01-18T08:02:06.097"
+            "last_upd_date": "2025-02-27T16:02:06.343"
         },
         "navs": [
             {
@@ -227,6 +227,21 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-02-08T08:08:25.81"
+            },
+            {
+                "nav_date": "2025-02-28",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP PREIT-UI-R",
+                "net_asset": 183809440,
+                "last_val": 8.9961,
+                "previous_val": 0,
+                "sell_price": 9.1087,
+                "buy_price": 8.8162,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-20T08:08:26.257"
             }
         ]
     }
