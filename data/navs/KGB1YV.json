@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1738988783444,
-    "nextUpdate": 1739074791928,
+    "lastUpdate": 1742447542134,
+    "nextUpdate": 1742533560294,
     "data": {
-        "lastNav": "2025-01-31",
+        "lastNav": "2025-02-28",
         "fund": {
             "proj_id": "M0565_2567",
             "regis_id": "MF0380_2567",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2025-01-18T08:02:06.097"
+            "last_upd_date": "2025-02-27T16:02:06.343"
         },
         "navs": [
             {
@@ -92,6 +92,21 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-02-08T08:08:25.81"
+            },
+            {
+                "nav_date": "2025-02-28",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KGB1YV",
+                "net_asset": 5117038592,
+                "last_val": 10.1431,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-20T08:08:26.257"
             }
         ]
     }

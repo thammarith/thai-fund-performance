@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1740658240692,
-    "nextUpdate": 1740743492709,
+    "lastUpdate": 1742458259953,
+    "nextUpdate": 1742544197279,
     "data": {
-        "lastNav": "2025-02-26",
+        "lastNav": "2025-02-28",
         "fund": {
             "proj_id": "M0628_2567",
             "regis_id": "MF0413_2567",
@@ -1562,6 +1562,21 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-02-27T16:05:12.28"
+            },
+            {
+                "nav_date": "2025-02-28",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBASF6MX2",
+                "net_asset": 1332623232,
+                "last_val": 10.1277,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 10.1277,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-03T16:07:06.03"
             }
         ]
     }

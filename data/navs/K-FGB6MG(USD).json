@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1740657152693,
-    "nextUpdate": 1740743492709,
+    "lastUpdate": 1742447210890,
+    "nextUpdate": 1742533560294,
     "data": {
-        "lastNav": "2025-01-31",
+        "lastNav": "2025-02-28",
         "fund": {
             "proj_id": "M0047_2568",
             "regis_id": "MF0032_2568",
@@ -32,6 +32,21 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-02-27T16:05:12.28"
+            },
+            {
+                "nav_date": "2025-02-28",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-FGB6MG(USD)",
+                "net_asset": 56367340,
+                "last_val": 10.1249,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-20T08:08:26.257"
             }
         ]
     }

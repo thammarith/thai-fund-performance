@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1740658445888,
-    "nextUpdate": 1740743492709,
+    "lastUpdate": 1742458461698,
+    "nextUpdate": 1742544197279,
     "data": {
-        "lastNav": "2025-02-26",
+        "lastNav": "2025-03-06",
         "fund": {
             "proj_id": "M0975_2567",
             "regis_id": "MF0699_2567",
@@ -842,6 +842,81 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-02-27T16:05:12.28"
+            },
+            {
+                "nav_date": "2025-02-28",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSB3M19",
+                "net_asset": 1764868096,
+                "last_val": 10.0414,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-03T16:07:06.03"
+            },
+            {
+                "nav_date": "2025-03-03",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSB3M19",
+                "net_asset": 1765116416,
+                "last_val": 10.0428,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-04T16:05:51.037"
+            },
+            {
+                "nav_date": "2025-03-04",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSB3M19",
+                "net_asset": 1765199232,
+                "last_val": 10.0433,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-05T16:08:10.15"
+            },
+            {
+                "nav_date": "2025-03-05",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSB3M19",
+                "net_asset": 1765282048,
+                "last_val": 10.0437,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-06T16:08:02.163"
+            },
+            {
+                "nav_date": "2025-03-06",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSB3M19",
+                "net_asset": 1765287040,
+                "last_val": 10.0438,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 10.0438,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-07T16:05:50.207"
             }
         ]
     }

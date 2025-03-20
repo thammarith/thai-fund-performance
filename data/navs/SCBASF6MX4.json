@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1740658267152,
-    "nextUpdate": 1740743492709,
+    "lastUpdate": 1742458287630,
+    "nextUpdate": 1742544197279,
     "data": {
-        "lastNav": "2025-02-26",
+        "lastNav": "2025-03-07",
         "fund": {
             "proj_id": "M0663_2567",
             "regis_id": "MF0447_2567",
@@ -1562,6 +1562,96 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-02-27T16:05:12.28"
+            },
+            {
+                "nav_date": "2025-02-28",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBASF6MX4",
+                "net_asset": 2783635200,
+                "last_val": 10.1832,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-03T16:07:06.03"
+            },
+            {
+                "nav_date": "2025-03-03",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBASF6MX4",
+                "net_asset": 2786910720,
+                "last_val": 10.1952,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-04T16:05:51.037"
+            },
+            {
+                "nav_date": "2025-03-04",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBASF6MX4",
+                "net_asset": 2760973312,
+                "last_val": 10.1003,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-05T16:08:10.15"
+            },
+            {
+                "nav_date": "2025-03-05",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBASF6MX4",
+                "net_asset": 2751194624,
+                "last_val": 10.0645,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-06T16:08:02.163"
+            },
+            {
+                "nav_date": "2025-03-06",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBASF6MX4",
+                "net_asset": 2765832960,
+                "last_val": 10.1181,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-07T16:05:50.207"
+            },
+            {
+                "nav_date": "2025-03-07",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBASF6MX4",
+                "net_asset": 2767249408,
+                "last_val": 10.1233,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 10.1233,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-10T16:04:00.487"
             }
         ]
     }
