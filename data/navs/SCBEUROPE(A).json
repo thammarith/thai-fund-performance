@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742457928143,
-    "nextUpdate": 1742544197279,
+    "lastUpdate": 1743675998604,
+    "nextUpdate": 1743761853878,
     "data": {
-        "lastNav": "2025-03-18",
+        "lastNav": "2025-04-01",
         "fund": {
             "proj_id": "M0274_2564",
             "regis_id": "MF0232_2564",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000239",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -12317,6 +12317,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBEUROPE(A)",
+                "net_asset": 849693376,
+                "last_val": 8.6724,
+                "previous_val": 0,
+                "sell_price": 8.8026,
+                "buy_price": 8.6724,
+                "sell_swap_price": 8.6724,
+                "buy_swap_price": 8.8026,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBEUROPE(A)",
+                "net_asset": 855546432,
+                "last_val": 8.7161,
+                "previous_val": 0,
+                "sell_price": 8.8469,
+                "buy_price": 8.7161,
+                "sell_swap_price": 8.7161,
+                "buy_swap_price": 8.8469,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBEUROPE(A)",
+                "net_asset": 823462656,
+                "last_val": 8.7331,
+                "previous_val": 0,
+                "sell_price": 8.8642,
+                "buy_price": 8.7331,
+                "sell_swap_price": 8.7331,
+                "buy_swap_price": 8.8642,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBEUROPE(A)",
+                "net_asset": 795814144,
+                "last_val": 8.636,
+                "previous_val": 0,
+                "sell_price": 8.7656,
+                "buy_price": 8.636,
+                "sell_swap_price": 8.636,
+                "buy_swap_price": 8.7656,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-28T16:08:01.17"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBEUROPE(A)",
+                "net_asset": 792839296,
+                "last_val": 8.5574,
+                "previous_val": 0,
+                "sell_price": 8.6859,
+                "buy_price": 8.5574,
+                "sell_swap_price": 8.5574,
+                "buy_swap_price": 8.6859,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-31T16:08:23.61"
+            },
+            {
+                "nav_date": "2025-03-28",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBEUROPE(A)",
+                "net_asset": 725394240,
+                "last_val": 8.4194,
+                "previous_val": 0,
+                "sell_price": 8.5458,
+                "buy_price": 8.4194,
+                "sell_swap_price": 8.4194,
+                "buy_swap_price": 8.5458,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBEUROPE(A)",
+                "net_asset": 717136256,
+                "last_val": 8.3107,
+                "previous_val": 0,
+                "sell_price": 8.4355,
+                "buy_price": 8.3107,
+                "sell_swap_price": 8.3107,
+                "buy_swap_price": 8.4355,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBEUROPE(A)",
+                "net_asset": 726191168,
+                "last_val": 8.3995,
+                "previous_val": 0,
+                "sell_price": 8.5256,
+                "buy_price": 8.3995,
+                "sell_swap_price": 8.3995,
+                "buy_swap_price": 8.5256,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

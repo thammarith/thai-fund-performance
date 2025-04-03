@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742447491300,
-    "nextUpdate": 1742533560294,
+    "lastUpdate": 1743675659836,
+    "nextUpdate": 1743761853878,
     "data": {
-        "lastNav": "2025-03-19",
+        "lastNav": "2025-04-02",
         "fund": {
             "proj_id": "M0447_2551",
             "regis_id": "344_2551",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -14312,6 +14312,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GOLD-A(A)",
+                "net_asset": 1996516096,
+                "last_val": 17.0777,
+                "previous_val": 0,
+                "sell_price": 17.0949,
+                "buy_price": 17.0606,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-24T16:09:34.06"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GOLD-A(A)",
+                "net_asset": 2025107456,
+                "last_val": 17.0413,
+                "previous_val": 0,
+                "sell_price": 17.0584,
+                "buy_price": 17.0243,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GOLD-A(A)",
+                "net_asset": 2019349120,
+                "last_val": 17.0173,
+                "previous_val": 0,
+                "sell_price": 17.0344,
+                "buy_price": 17.0003,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GOLD-A(A)",
+                "net_asset": 2027093248,
+                "last_val": 17.0134,
+                "previous_val": 0,
+                "sell_price": 17.0305,
+                "buy_price": 16.9964,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GOLD-A(A)",
+                "net_asset": 2045621888,
+                "last_val": 17.0819,
+                "previous_val": 0,
+                "sell_price": 17.0991,
+                "buy_price": 17.0648,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GOLD-A(A)",
+                "net_asset": 2130120064,
+                "last_val": 17.6385,
+                "previous_val": 0,
+                "sell_price": 17.6562,
+                "buy_price": 17.6209,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-02",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GOLD-A(A)",
+                "net_asset": 2153234688,
+                "last_val": 17.6394,
+                "previous_val": 0,
+                "sell_price": 17.6571,
+                "buy_price": 17.6218,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

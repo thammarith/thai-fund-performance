@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742447221544,
-    "nextUpdate": 1742533560294,
+    "lastUpdate": 1743675493906,
+    "nextUpdate": 1743761853878,
     "data": {
-        "lastNav": "2025-03-18",
+        "lastNav": "2025-04-01",
         "fund": {
             "proj_id": "M0059_2554",
             "regis_id": "MF0278_2554",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -1997,6 +1997,96 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-INDIA-A(A)",
+                "net_asset": 888778176,
+                "last_val": 12.5042,
+                "previous_val": 0,
+                "sell_price": 12.6919,
+                "buy_price": 12.5042,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-INDIA-A(A)",
+                "net_asset": 902916032,
+                "last_val": 12.6712,
+                "previous_val": 0,
+                "sell_price": 12.8614,
+                "buy_price": 12.6712,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-INDIA-A(A)",
+                "net_asset": 898789184,
+                "last_val": 12.5585,
+                "previous_val": 0,
+                "sell_price": 12.747,
+                "buy_price": 12.5585,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-INDIA-A(A)",
+                "net_asset": 893075136,
+                "last_val": 12.4618,
+                "previous_val": 0,
+                "sell_price": 12.6488,
+                "buy_price": 12.4618,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-31T16:08:23.61"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-INDIA-A(A)",
+                "net_asset": 877644288,
+                "last_val": 12.5211,
+                "previous_val": 0,
+                "sell_price": 12.709,
+                "buy_price": 12.5211,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-INDIA-A(A)",
+                "net_asset": 851081152,
+                "last_val": 12.3557,
+                "previous_val": 0,
+                "sell_price": 12.5411,
+                "buy_price": 12.3557,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

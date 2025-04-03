@@ -1,0 +1,113 @@
+{
+    "lastUpdate": 1743675707420,
+    "nextUpdate": 1743761853878,
+    "data": {
+        "lastNav": "2025-04-01",
+        "fund": {
+            "proj_id": "M0596_2566",
+            "regis_id": "MF0479_2566",
+            "regis_date": "2023-11-21",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิดเค เวลธ์พลัส อัลติเมท เพื่อการเลี้ยงชีพ",
+            "proj_name_en": "K WealthPLUS Ultimate RMF",
+            "proj_abbr_name": "K-WPULTIRMF",
+            "fund_status": "RG",
+            "unique_id": "C0000000021",
+            "permit_us_investment": null,
+            "invest_country_flag": "4",
+            "last_upd_date": "2025-04-03T16:09:10.253"
+        },
+        "navs": [
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-WPULTIRMF",
+                "net_asset": 312398432,
+                "last_val": 10.4448,
+                "previous_val": 0,
+                "sell_price": 10.4449,
+                "buy_price": 10.4448,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-WPULTIRMF",
+                "net_asset": 316400192,
+                "last_val": 10.5767,
+                "previous_val": 0,
+                "sell_price": 10.5768,
+                "buy_price": 10.5767,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-WPULTIRMF",
+                "net_asset": 317946880,
+                "last_val": 10.6258,
+                "previous_val": 0,
+                "sell_price": 10.6259,
+                "buy_price": 10.6258,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-WPULTIRMF",
+                "net_asset": 316862688,
+                "last_val": 10.5772,
+                "previous_val": 0,
+                "sell_price": 10.5773,
+                "buy_price": 10.5772,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-31T16:08:23.61"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-WPULTIRMF",
+                "net_asset": 315462848,
+                "last_val": 10.5192,
+                "previous_val": 0,
+                "sell_price": 10.5193,
+                "buy_price": 10.5192,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-WPULTIRMF",
+                "net_asset": 310639424,
+                "last_val": 10.3548,
+                "previous_val": 0,
+                "sell_price": 10.3549,
+                "buy_price": 10.3548,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
+            }
+        ]
+    }
+}

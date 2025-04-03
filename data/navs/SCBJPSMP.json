@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742457822972,
-    "nextUpdate": 1742544197279,
+    "lastUpdate": 1743675880750,
+    "nextUpdate": 1743761853878,
     "data": {
-        "lastNav": "2025-03-18",
+        "lastNav": "2025-04-01",
         "fund": {
             "proj_id": "M0142_2561",
             "regis_id": "MF0186_2561",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000239",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -13127,6 +13127,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBJPSMP",
+                "net_asset": 0,
+                "last_val": 9.2354,
+                "previous_val": 0,
+                "sell_price": 9.2355,
+                "buy_price": 9.2354,
+                "sell_swap_price": 9.2354,
+                "buy_swap_price": 9.2355,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBJPSMP",
+                "net_asset": 0,
+                "last_val": 9.2554,
+                "previous_val": 0,
+                "sell_price": 9.2555,
+                "buy_price": 9.2554,
+                "sell_swap_price": 9.2554,
+                "buy_swap_price": 9.2555,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBJPSMP",
+                "net_asset": 0,
+                "last_val": 9.2574,
+                "previous_val": 0,
+                "sell_price": 9.2575,
+                "buy_price": 9.2574,
+                "sell_swap_price": 9.2574,
+                "buy_swap_price": 9.2575,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBJPSMP",
+                "net_asset": 0,
+                "last_val": 9.2828,
+                "previous_val": 0,
+                "sell_price": 9.2829,
+                "buy_price": 9.2828,
+                "sell_swap_price": 9.2828,
+                "buy_swap_price": 9.2829,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-28T16:08:01.17"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBJPSMP",
+                "net_asset": 0,
+                "last_val": 9.3304,
+                "previous_val": 0,
+                "sell_price": 9.3305,
+                "buy_price": 9.3304,
+                "sell_swap_price": 9.3304,
+                "buy_swap_price": 9.3305,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-31T16:08:23.61"
+            },
+            {
+                "nav_date": "2025-03-28",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBJPSMP",
+                "net_asset": 0,
+                "last_val": 9.1742,
+                "previous_val": 0,
+                "sell_price": 9.1743,
+                "buy_price": 9.1742,
+                "sell_swap_price": 9.1742,
+                "buy_swap_price": 9.1743,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBJPSMP",
+                "net_asset": 0,
+                "last_val": 9.0325,
+                "previous_val": 0,
+                "sell_price": 9.0326,
+                "buy_price": 9.0325,
+                "sell_swap_price": 9.0325,
+                "buy_swap_price": 9.0326,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBJPSMP",
+                "net_asset": 0,
+                "last_val": 8.9772,
+                "previous_val": 0,
+                "sell_price": 8.9773,
+                "buy_price": 8.9772,
+                "sell_swap_price": 8.9772,
+                "buy_swap_price": 8.9773,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

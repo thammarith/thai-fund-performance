@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742447743044,
-    "nextUpdate": 1742533560294,
+    "lastUpdate": 1743675796509,
+    "nextUpdate": 1743761853878,
     "data": {
-        "lastNav": "2025-03-18",
+        "lastNav": "2025-04-01",
         "fund": {
             "proj_id": "M0031_2557",
             "regis_id": "MF0111_2557",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000239",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -13097,6 +13097,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBEUEQE",
+                "net_asset": 98021208,
+                "last_val": 18.8783,
+                "previous_val": 0,
+                "sell_price": 18.8878,
+                "buy_price": 18.8487,
+                "sell_swap_price": 18.8487,
+                "buy_swap_price": 18.8878,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBEUEQE",
+                "net_asset": 98022152,
+                "last_val": 18.8692,
+                "previous_val": 0,
+                "sell_price": 18.8787,
+                "buy_price": 18.8396,
+                "sell_swap_price": 18.8396,
+                "buy_swap_price": 18.8787,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBEUEQE",
+                "net_asset": 98392448,
+                "last_val": 19.0194,
+                "previous_val": 0,
+                "sell_price": 19.029,
+                "buy_price": 18.9895,
+                "sell_swap_price": 18.9895,
+                "buy_swap_price": 19.029,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBEUEQE",
+                "net_asset": 97650424,
+                "last_val": 18.8797,
+                "previous_val": 0,
+                "sell_price": 18.8892,
+                "buy_price": 18.8501,
+                "sell_swap_price": 18.8501,
+                "buy_swap_price": 18.8892,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-28T16:08:01.17"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBEUEQE",
+                "net_asset": 97381096,
+                "last_val": 18.8049,
+                "previous_val": 0,
+                "sell_price": 18.8144,
+                "buy_price": 18.7754,
+                "sell_swap_price": 18.7754,
+                "buy_swap_price": 18.8144,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-31T16:08:23.61"
+            },
+            {
+                "nav_date": "2025-03-28",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBEUEQE",
+                "net_asset": 96540512,
+                "last_val": 18.6651,
+                "previous_val": 0,
+                "sell_price": 18.6745,
+                "buy_price": 18.6358,
+                "sell_swap_price": 18.6358,
+                "buy_swap_price": 18.6745,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBEUEQE",
+                "net_asset": 94776848,
+                "last_val": 18.3244,
+                "previous_val": 0,
+                "sell_price": 18.3337,
+                "buy_price": 18.2956,
+                "sell_swap_price": 18.2956,
+                "buy_swap_price": 18.3337,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBEUEQE",
+                "net_asset": 95985512,
+                "last_val": 18.5383,
+                "previous_val": 0,
+                "sell_price": 18.5477,
+                "buy_price": 18.5092,
+                "sell_swap_price": 18.5092,
+                "buy_swap_price": 18.5477,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

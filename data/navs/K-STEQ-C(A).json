@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742447201038,
-    "nextUpdate": 1742533560294,
+    "lastUpdate": 1743675482804,
+    "nextUpdate": 1743761853878,
     "data": {
-        "lastNav": "2025-03-19",
+        "lastNav": "2025-04-02",
         "fund": {
             "proj_id": "M0037_2536",
             "regis_id": "036_2537",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -2432,6 +2432,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-STEQ-C(A)",
+                "net_asset": 8754.1,
+                "last_val": 29.856,
+                "previous_val": 0,
+                "sell_price": 29.8561,
+                "buy_price": 29.856,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-24T16:09:34.06"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-STEQ-C(A)",
+                "net_asset": 8786.68,
+                "last_val": 29.9671,
+                "previous_val": 0,
+                "sell_price": 29.9672,
+                "buy_price": 29.9671,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-STEQ-C(A)",
+                "net_asset": 8708.31,
+                "last_val": 29.6998,
+                "previous_val": 0,
+                "sell_price": 29.6999,
+                "buy_price": 29.6998,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-STEQ-C(A)",
+                "net_asset": 8725.06,
+                "last_val": 29.7569,
+                "previous_val": 0,
+                "sell_price": 29.757,
+                "buy_price": 29.7569,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-STEQ-C(A)",
+                "net_asset": 8722.38,
+                "last_val": 29.7478,
+                "previous_val": 0,
+                "sell_price": 29.7479,
+                "buy_price": 29.7478,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-31T16:08:23.61"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-STEQ-C(A)",
+                "net_asset": 8505.1,
+                "last_val": 29.0067,
+                "previous_val": 0,
+                "sell_price": 29.0068,
+                "buy_price": 29.0067,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-STEQ-C(A)",
+                "net_asset": 8606.03,
+                "last_val": 29.351,
+                "previous_val": 0,
+                "sell_price": 29.3511,
+                "buy_price": 29.351,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-02",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-STEQ-C(A)",
+                "net_asset": 8620.1,
+                "last_val": 29.399,
+                "previous_val": 0,
+                "sell_price": 29.3991,
+                "buy_price": 29.399,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742458248754,
-    "nextUpdate": 1742544197279,
+    "lastUpdate": 1743676207543,
+    "nextUpdate": 1743761853878,
     "data": {
-        "lastNav": "2025-03-19",
+        "lastNav": "2025-04-02",
         "fund": {
             "proj_id": "M0620_2552",
             "regis_id": "574_2552",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000239",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -4007,6 +4007,141 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBCE",
+                "net_asset": 714630976,
+                "last_val": 8.092,
+                "previous_val": 0,
+                "sell_price": 8.1391,
+                "buy_price": 8.0855,
+                "sell_swap_price": 8.0855,
+                "buy_swap_price": 8.1391,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-24T16:09:34.06"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBCE",
+                "net_asset": 729571968,
+                "last_val": 8.1748,
+                "previous_val": 0,
+                "sell_price": 8.2223,
+                "buy_price": 8.1683,
+                "sell_swap_price": 8.1683,
+                "buy_swap_price": 8.2223,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBCE",
+                "net_asset": 716210688,
+                "last_val": 8.0016,
+                "previous_val": 0,
+                "sell_price": 8.0481,
+                "buy_price": 7.9952,
+                "sell_swap_price": 7.9952,
+                "buy_swap_price": 8.0481,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBCE",
+                "net_asset": 714464064,
+                "last_val": 8.0285,
+                "previous_val": 0,
+                "sell_price": 8.0751,
+                "buy_price": 8.0221,
+                "sell_swap_price": 8.0221,
+                "buy_swap_price": 8.0751,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBCE",
+                "net_asset": 712879424,
+                "last_val": 8.0265,
+                "previous_val": 0,
+                "sell_price": 8.0731,
+                "buy_price": 8.0201,
+                "sell_swap_price": 8.0201,
+                "buy_swap_price": 8.0731,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-28T16:08:01.17"
+            },
+            {
+                "nav_date": "2025-03-28",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBCE",
+                "net_asset": 727711296,
+                "last_val": 8.0288,
+                "previous_val": 0,
+                "sell_price": 8.0754,
+                "buy_price": 8.0224,
+                "sell_swap_price": 8.0224,
+                "buy_swap_price": 8.0754,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-31T16:08:23.61"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBCE",
+                "net_asset": 715469504,
+                "last_val": 7.8796,
+                "previous_val": 0,
+                "sell_price": 7.9254,
+                "buy_price": 7.8733,
+                "sell_swap_price": 7.8733,
+                "buy_swap_price": 7.9254,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBCE",
+                "net_asset": 720355072,
+                "last_val": 7.9497,
+                "previous_val": 0,
+                "sell_price": 7.9959,
+                "buy_price": 7.9433,
+                "sell_swap_price": 7.9433,
+                "buy_swap_price": 7.9959,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-02",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBCE",
+                "net_asset": 718443904,
+                "last_val": 7.9581,
+                "previous_val": 0,
+                "sell_price": 8.0044,
+                "buy_price": 7.9517,
+                "sell_swap_price": 7.9517,
+                "buy_swap_price": 8.0044,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

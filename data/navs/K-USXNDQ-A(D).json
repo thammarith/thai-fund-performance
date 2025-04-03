@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742447423933,
-    "nextUpdate": 1742533560294,
+    "lastUpdate": 1743675623504,
+    "nextUpdate": 1743761853878,
     "data": {
-        "lastNav": "2025-03-18",
+        "lastNav": "2025-04-01",
         "fund": {
             "proj_id": "M0369_2555",
             "regis_id": "MF0216_2556",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -1682,6 +1682,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-USXNDQ-A(D)",
+                "net_asset": 7089273856,
+                "last_val": 23.3829,
+                "previous_val": 0,
+                "sell_price": 23.4064,
+                "buy_price": 23.3478,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-USXNDQ-A(D)",
+                "net_asset": 7240990720,
+                "last_val": 23.8545,
+                "previous_val": 0,
+                "sell_price": 23.8785,
+                "buy_price": 23.8187,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-USXNDQ-A(D)",
+                "net_asset": 7284326400,
+                "last_val": 23.9841,
+                "previous_val": 0,
+                "sell_price": 24.0082,
+                "buy_price": 23.9481,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-USXNDQ-A(D)",
+                "net_asset": 7167058944,
+                "last_val": 23.5599,
+                "previous_val": 0,
+                "sell_price": 23.5836,
+                "buy_price": 23.5246,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-31T16:08:23.61"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-USXNDQ-A(D)",
+                "net_asset": 6991936512,
+                "last_val": 23.422,
+                "previous_val": 0,
+                "sell_price": 23.4455,
+                "buy_price": 23.3869,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-USXNDQ-A(D)",
+                "net_asset": 6821726720,
+                "last_val": 22.8263,
+                "previous_val": 0,
+                "sell_price": 22.8492,
+                "buy_price": 22.7921,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-USXNDQ-A(D)",
+                "net_asset": 6784257536,
+                "last_val": 23.0208,
+                "previous_val": 0,
+                "sell_price": 23.0439,
+                "buy_price": 22.9863,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

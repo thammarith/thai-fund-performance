@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742447746672,
-    "nextUpdate": 1742533560294,
+    "lastUpdate": 1743675797900,
+    "nextUpdate": 1743761853878,
     "data": {
-        "lastNav": "2025-03-17",
+        "lastNav": "2025-03-31",
         "fund": {
             "proj_id": "M0033_2560",
             "regis_id": "MF0068_2560",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000239",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -12842,6 +12842,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGMTA",
+                "net_asset": 108928952,
+                "last_val": 8.0877,
+                "previous_val": 0,
+                "sell_price": 8.2176,
+                "buy_price": 8.0877,
+                "sell_swap_price": 8.0877,
+                "buy_swap_price": 8.2176,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGMTA",
+                "net_asset": 109152448,
+                "last_val": 8.1043,
+                "previous_val": 0,
+                "sell_price": 8.2345,
+                "buy_price": 8.1043,
+                "sell_swap_price": 8.1043,
+                "buy_swap_price": 8.2345,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGMTA",
+                "net_asset": 109522608,
+                "last_val": 8.1318,
+                "previous_val": 0,
+                "sell_price": 8.2624,
+                "buy_price": 8.1318,
+                "sell_swap_price": 8.1318,
+                "buy_swap_price": 8.2624,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-28T16:08:01.17"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGMTA",
+                "net_asset": 109050496,
+                "last_val": 8.0967,
+                "previous_val": 0,
+                "sell_price": 8.2268,
+                "buy_price": 8.0967,
+                "sell_swap_price": 8.0967,
+                "buy_swap_price": 8.2268,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-31T16:08:23.61"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGMTA",
+                "net_asset": 108616328,
+                "last_val": 8.0645,
+                "previous_val": 0,
+                "sell_price": 8.194,
+                "buy_price": 8.0645,
+                "sell_swap_price": 8.0645,
+                "buy_swap_price": 8.194,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-03-28",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGMTA",
+                "net_asset": 108259672,
+                "last_val": 8.038,
+                "previous_val": 0,
+                "sell_price": 8.1671,
+                "buy_price": 8.038,
+                "sell_swap_price": 8.038,
+                "buy_swap_price": 8.1671,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGMTA",
+                "net_asset": 107647200,
+                "last_val": 7.9925,
+                "previous_val": 0,
+                "sell_price": 8.1209,
+                "buy_price": 7.9925,
+                "sell_swap_price": 7.9925,
+                "buy_swap_price": 8.1209,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

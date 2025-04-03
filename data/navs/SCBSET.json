@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742447734175,
-    "nextUpdate": 1742533560294,
+    "lastUpdate": 1743675791571,
+    "nextUpdate": 1743761853878,
     "data": {
-        "lastNav": "2025-03-19",
+        "lastNav": "2025-04-02",
         "fund": {
             "proj_id": "M0026_2539",
             "regis_id": "045_2539",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000239",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -4007,6 +4007,141 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSET",
+                "net_asset": 9785050112,
+                "last_val": 16.4403,
+                "previous_val": 0,
+                "sell_price": 16.4404,
+                "buy_price": 16.4403,
+                "sell_swap_price": 16.4403,
+                "buy_swap_price": 16.4404,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-24T16:09:34.06"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSET",
+                "net_asset": 9807926272,
+                "last_val": 16.4971,
+                "previous_val": 0,
+                "sell_price": 16.4972,
+                "buy_price": 16.4971,
+                "sell_swap_price": 16.4971,
+                "buy_swap_price": 16.4972,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSET",
+                "net_asset": 9763403776,
+                "last_val": 16.4256,
+                "previous_val": 0,
+                "sell_price": 16.4257,
+                "buy_price": 16.4256,
+                "sell_swap_price": 16.4256,
+                "buy_swap_price": 16.4257,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSET",
+                "net_asset": 9792102400,
+                "last_val": 16.5022,
+                "previous_val": 0,
+                "sell_price": 16.5023,
+                "buy_price": 16.5022,
+                "sell_swap_price": 16.5022,
+                "buy_swap_price": 16.5023,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSET",
+                "net_asset": 9774630912,
+                "last_val": 16.4745,
+                "previous_val": 0,
+                "sell_price": 16.4746,
+                "buy_price": 16.4745,
+                "sell_swap_price": 16.4745,
+                "buy_swap_price": 16.4746,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-28T16:08:01.17"
+            },
+            {
+                "nav_date": "2025-03-28",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSET",
+                "net_asset": 9667806208,
+                "last_val": 16.2918,
+                "previous_val": 0,
+                "sell_price": 16.2919,
+                "buy_price": 16.2918,
+                "sell_swap_price": 16.2918,
+                "buy_swap_price": 16.2919,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-31T16:08:23.61"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSET",
+                "net_asset": 9519501312,
+                "last_val": 16.0371,
+                "previous_val": 0,
+                "sell_price": 16.0372,
+                "buy_price": 16.0371,
+                "sell_swap_price": 16.0371,
+                "buy_swap_price": 16.0372,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSET",
+                "net_asset": 9607116800,
+                "last_val": 16.1769,
+                "previous_val": 0,
+                "sell_price": 16.177,
+                "buy_price": 16.1769,
+                "sell_swap_price": 16.1769,
+                "buy_swap_price": 16.177,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-02",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSET",
+                "net_asset": 9620462592,
+                "last_val": 16.2468,
+                "previous_val": 0,
+                "sell_price": 16.2469,
+                "buy_price": 16.2468,
+                "sell_swap_price": 16.2468,
+                "buy_swap_price": 16.2469,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

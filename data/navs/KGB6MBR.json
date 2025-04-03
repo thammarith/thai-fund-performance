@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742447678099,
-    "nextUpdate": 1742533560294,
+    "lastUpdate": 1743675759198,
+    "nextUpdate": 1743761853878,
     "data": {
-        "lastNav": "2025-02-28",
+        "lastNav": "2025-03-31",
         "fund": {
             "proj_id": "M1007_2567",
             "regis_id": "MF0710_2567",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -47,6 +47,21 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KGB6MBR",
+                "net_asset": 8107958272,
+                "last_val": 10.0595,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

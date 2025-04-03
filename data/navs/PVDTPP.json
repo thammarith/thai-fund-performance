@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742458135363,
-    "nextUpdate": 1742544197279,
+    "lastUpdate": 1743676134672,
+    "nextUpdate": 1743761853878,
     "data": {
-        "lastNav": "2025-03-19",
+        "lastNav": "2025-04-02",
         "fund": {
             "proj_id": "M0481_2562",
             "regis_id": "MF0388_2562",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000239",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -5417,6 +5417,141 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "PVDTPP",
+                "net_asset": 1579589.75,
+                "last_val": 10.5827,
+                "previous_val": 0,
+                "sell_price": 10.5828,
+                "buy_price": 10.5827,
+                "sell_swap_price": 10.5827,
+                "buy_swap_price": 10.5828,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-24T16:09:34.06"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "PVDTPP",
+                "net_asset": 4800416.5,
+                "last_val": 10.5846,
+                "previous_val": 0,
+                "sell_price": 10.5847,
+                "buy_price": 10.5846,
+                "sell_swap_price": 10.5846,
+                "buy_swap_price": 10.5847,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "PVDTPP",
+                "net_asset": 4800667,
+                "last_val": 10.5851,
+                "previous_val": 0,
+                "sell_price": 10.5852,
+                "buy_price": 10.5851,
+                "sell_swap_price": 10.5851,
+                "buy_swap_price": 10.5852,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "PVDTPP",
+                "net_asset": 2800812.5,
+                "last_val": 10.5857,
+                "previous_val": 0,
+                "sell_price": 10.5858,
+                "buy_price": 10.5857,
+                "sell_swap_price": 10.5857,
+                "buy_swap_price": 10.5858,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "PVDTPP",
+                "net_asset": 2800949.5,
+                "last_val": 10.5862,
+                "previous_val": 0,
+                "sell_price": 10.5863,
+                "buy_price": 10.5862,
+                "sell_swap_price": 10.5862,
+                "buy_swap_price": 10.5863,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-28T16:08:01.17"
+            },
+            {
+                "nav_date": "2025-03-28",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "PVDTPP",
+                "net_asset": 8451390,
+                "last_val": 10.5868,
+                "previous_val": 0,
+                "sell_price": 10.5869,
+                "buy_price": 10.5868,
+                "sell_swap_price": 10.5868,
+                "buy_swap_price": 10.5869,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-31T16:08:23.61"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "PVDTPP",
+                "net_asset": 8452695,
+                "last_val": 10.5884,
+                "previous_val": 0,
+                "sell_price": 10.5885,
+                "buy_price": 10.5884,
+                "sell_swap_price": 10.5884,
+                "buy_swap_price": 10.5885,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "PVDTPP",
+                "net_asset": 8453055,
+                "last_val": 10.5889,
+                "previous_val": 0,
+                "sell_price": 10.589,
+                "buy_price": 10.5889,
+                "sell_swap_price": 10.5889,
+                "buy_swap_price": 10.589,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-02",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "PVDTPP",
+                "net_asset": 8453582,
+                "last_val": 10.5895,
+                "previous_val": 0,
+                "sell_price": 10.5896,
+                "buy_price": 10.5895,
+                "sell_swap_price": 10.5895,
+                "buy_swap_price": 10.5896,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

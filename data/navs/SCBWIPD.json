@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742457913473,
-    "nextUpdate": 1742544197279,
+    "lastUpdate": 1743675988504,
+    "nextUpdate": 1743761853878,
     "data": {
-        "lastNav": "2025-03-17",
+        "lastNav": "2025-03-31",
         "fund": {
             "proj_id": "M0259_2563",
             "regis_id": "MF0204_2563",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000239",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -10427,6 +10427,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBWIPD",
+                "net_asset": 1517892.88,
+                "last_val": 9.6149,
+                "previous_val": 0,
+                "sell_price": 9.7179,
+                "buy_price": 9.6149,
+                "sell_swap_price": 9.6149,
+                "buy_swap_price": 9.7179,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBWIPD",
+                "net_asset": 1515665,
+                "last_val": 9.5945,
+                "previous_val": 0,
+                "sell_price": 9.6973,
+                "buy_price": 9.5945,
+                "sell_swap_price": 9.5945,
+                "buy_swap_price": 9.6973,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBWIPD",
+                "net_asset": 1518319.38,
+                "last_val": 9.6176,
+                "previous_val": 0,
+                "sell_price": 9.7206,
+                "buy_price": 9.6176,
+                "sell_swap_price": 9.6176,
+                "buy_swap_price": 9.7206,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-28T16:08:01.17"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBWIPD",
+                "net_asset": 1517094.13,
+                "last_val": 9.6099,
+                "previous_val": 0,
+                "sell_price": 9.7128,
+                "buy_price": 9.6099,
+                "sell_swap_price": 9.6099,
+                "buy_swap_price": 9.7128,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-31T16:08:23.61"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBWIPD",
+                "net_asset": 1513844.75,
+                "last_val": 9.5894,
+                "previous_val": 0,
+                "sell_price": 9.6921,
+                "buy_price": 9.5894,
+                "sell_swap_price": 9.5894,
+                "buy_swap_price": 9.6921,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-03-28",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBWIPD",
+                "net_asset": 1519580,
+                "last_val": 9.6257,
+                "previous_val": 0,
+                "sell_price": 9.7288,
+                "buy_price": 9.6257,
+                "sell_swap_price": 9.6257,
+                "buy_swap_price": 9.7288,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBWIPD",
+                "net_asset": 1520218.25,
+                "last_val": 9.6172,
+                "previous_val": 0,
+                "sell_price": 9.7202,
+                "buy_price": 9.6172,
+                "sell_swap_price": 9.6172,
+                "buy_swap_price": 9.7202,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

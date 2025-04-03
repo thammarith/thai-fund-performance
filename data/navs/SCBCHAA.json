@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742447705652,
-    "nextUpdate": 1742533560294,
+    "lastUpdate": 1743675774720,
+    "nextUpdate": 1743761853878,
     "data": {
-        "lastNav": "2025-03-19",
+        "lastNav": "2025-04-02",
         "fund": {
             "proj_id": "M0005_2558",
             "regis_id": "MF0081_2558",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000239",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -12182,6 +12182,141 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBCHAA",
+                "net_asset": 1231196288,
+                "last_val": 8.0272,
+                "previous_val": 0,
+                "sell_price": 8.0738,
+                "buy_price": 8.0208,
+                "sell_swap_price": 8.0208,
+                "buy_swap_price": 8.0738,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-24T16:09:34.06"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBCHAA",
+                "net_asset": 1253086848,
+                "last_val": 8.1011,
+                "previous_val": 0,
+                "sell_price": 8.1482,
+                "buy_price": 8.0946,
+                "sell_swap_price": 8.0946,
+                "buy_swap_price": 8.1482,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBCHAA",
+                "net_asset": 1253582592,
+                "last_val": 8.0735,
+                "previous_val": 0,
+                "sell_price": 8.1205,
+                "buy_price": 8.067,
+                "sell_swap_price": 8.067,
+                "buy_swap_price": 8.1205,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBCHAA",
+                "net_asset": 1255211008,
+                "last_val": 8.0522,
+                "previous_val": 0,
+                "sell_price": 8.099,
+                "buy_price": 8.0458,
+                "sell_swap_price": 8.0458,
+                "buy_swap_price": 8.099,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBCHAA",
+                "net_asset": 1262674048,
+                "last_val": 8.0799,
+                "previous_val": 0,
+                "sell_price": 8.1269,
+                "buy_price": 8.0734,
+                "sell_swap_price": 8.0734,
+                "buy_swap_price": 8.1269,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-28T16:08:01.17"
+            },
+            {
+                "nav_date": "2025-03-28",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBCHAA",
+                "net_asset": 1261584000,
+                "last_val": 8.0282,
+                "previous_val": 0,
+                "sell_price": 8.0748,
+                "buy_price": 8.0218,
+                "sell_swap_price": 8.0218,
+                "buy_swap_price": 8.0748,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-31T16:08:23.61"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBCHAA",
+                "net_asset": 1254449536,
+                "last_val": 7.9737,
+                "previous_val": 0,
+                "sell_price": 8.0201,
+                "buy_price": 7.9673,
+                "sell_swap_price": 7.9673,
+                "buy_swap_price": 8.0201,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBCHAA",
+                "net_asset": 1256885120,
+                "last_val": 7.9844,
+                "previous_val": 0,
+                "sell_price": 8.0308,
+                "buy_price": 7.978,
+                "sell_swap_price": 7.978,
+                "buy_swap_price": 8.0308,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-02",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBCHAA",
+                "net_asset": 1258283264,
+                "last_val": 7.9824,
+                "previous_val": 0,
+                "sell_price": 8.0288,
+                "buy_price": 7.976,
+                "sell_swap_price": 7.976,
+                "buy_swap_price": 8.0288,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

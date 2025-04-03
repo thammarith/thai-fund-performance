@@ -1,0 +1,113 @@
+{
+    "lastUpdate": 1743675669245,
+    "nextUpdate": 1743761853878,
+    "data": {
+        "lastNav": "2025-03-31",
+        "fund": {
+            "proj_id": "M0470_2563",
+            "regis_id": "MF0365_2563",
+            "regis_date": "2020-12-01",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิดเค ยูเอสเอ หุ้นทุนเพื่อการเลี้ยงชีพ",
+            "proj_name_en": "K USA Equity RMF",
+            "proj_abbr_name": "K-USARMF",
+            "fund_status": "RG",
+            "unique_id": "C0000000021",
+            "permit_us_investment": null,
+            "invest_country_flag": "1",
+            "last_upd_date": "2025-04-03T16:09:10.253"
+        },
+        "navs": [
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-USARMF",
+                "net_asset": 1640621696,
+                "last_val": 6.5147,
+                "previous_val": 0,
+                "sell_price": 6.5148,
+                "buy_price": 6.5147,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-USARMF",
+                "net_asset": 1673491584,
+                "last_val": 6.651,
+                "previous_val": 0,
+                "sell_price": 6.6511,
+                "buy_price": 6.651,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-USARMF",
+                "net_asset": 1680551040,
+                "last_val": 6.6741,
+                "previous_val": 0,
+                "sell_price": 6.6742,
+                "buy_price": 6.6741,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-31T16:08:23.61"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-USARMF",
+                "net_asset": 1649605760,
+                "last_val": 6.5488,
+                "previous_val": 0,
+                "sell_price": 6.5489,
+                "buy_price": 6.5488,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-USARMF",
+                "net_asset": 1640327680,
+                "last_val": 6.5121,
+                "previous_val": 0,
+                "sell_price": 6.5122,
+                "buy_price": 6.5121,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-USARMF",
+                "net_asset": 1603194496,
+                "last_val": 6.3617,
+                "previous_val": 0,
+                "sell_price": 6.3618,
+                "buy_price": 6.3617,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
+            }
+        ]
+    }
+}

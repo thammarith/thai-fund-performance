@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742447567581,
-    "nextUpdate": 1742533560294,
+    "lastUpdate": 1743675700636,
+    "nextUpdate": 1743761853878,
     "data": {
-        "lastNav": "2025-03-18",
+        "lastNav": "2025-04-01",
         "fund": {
             "proj_id": "M0583_2567",
             "regis_id": "MF0425_2567",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -1562,6 +1562,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GSELECTU-A(A)",
+                "net_asset": 1803789952,
+                "last_val": 9.8202,
+                "previous_val": 0,
+                "sell_price": 9.9676,
+                "buy_price": 9.8202,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GSELECTU-A(A)",
+                "net_asset": 1839670272,
+                "last_val": 9.9022,
+                "previous_val": 0,
+                "sell_price": 10.0508,
+                "buy_price": 9.9022,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GSELECTU-A(A)",
+                "net_asset": 1855191808,
+                "last_val": 9.9448,
+                "previous_val": 0,
+                "sell_price": 10.0941,
+                "buy_price": 9.9448,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GSELECTU-A(A)",
+                "net_asset": 1837436288,
+                "last_val": 9.8389,
+                "previous_val": 0,
+                "sell_price": 9.9866,
+                "buy_price": 9.8389,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-31T16:08:23.61"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GSELECTU-A(A)",
+                "net_asset": 1837466880,
+                "last_val": 9.8196,
+                "previous_val": 0,
+                "sell_price": 9.967,
+                "buy_price": 9.8196,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GSELECTU-A(A)",
+                "net_asset": 1817545216,
+                "last_val": 9.6806,
+                "previous_val": 0,
+                "sell_price": 9.8259,
+                "buy_price": 9.6806,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GSELECTU-A(A)",
+                "net_asset": 1875807872,
+                "last_val": 9.7623,
+                "previous_val": 0,
+                "sell_price": 9.9088,
+                "buy_price": 9.7623,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

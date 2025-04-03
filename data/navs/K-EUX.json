@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742447610991,
-    "nextUpdate": 1742533560294,
+    "lastUpdate": 1743675724054,
+    "nextUpdate": 1743761853878,
     "data": {
-        "lastNav": "2025-03-18",
+        "lastNav": "2025-04-01",
         "fund": {
             "proj_id": "M0668_2558",
             "regis_id": "MF0172_2559",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -12527,6 +12527,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-EUX",
+                "net_asset": 1148072704,
+                "last_val": 20.7501,
+                "previous_val": 0,
+                "sell_price": 20.771,
+                "buy_price": 20.719,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-EUX",
+                "net_asset": 1150278272,
+                "last_val": 20.7362,
+                "previous_val": 0,
+                "sell_price": 20.757,
+                "buy_price": 20.7051,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-EUX",
+                "net_asset": 1173494272,
+                "last_val": 20.9689,
+                "previous_val": 0,
+                "sell_price": 20.99,
+                "buy_price": 20.9374,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-EUX",
+                "net_asset": 1158008576,
+                "last_val": 20.7392,
+                "previous_val": 0,
+                "sell_price": 20.76,
+                "buy_price": 20.7081,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-31T16:08:23.61"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-EUX",
+                "net_asset": 1110209024,
+                "last_val": 20.6188,
+                "previous_val": 0,
+                "sell_price": 20.6395,
+                "buy_price": 20.5879,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-EUX",
+                "net_asset": 1019202688,
+                "last_val": 20.1475,
+                "previous_val": 0,
+                "sell_price": 20.1677,
+                "buy_price": 20.1173,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-EUX",
+                "net_asset": 992404032,
+                "last_val": 20.4127,
+                "previous_val": 0,
+                "sell_price": 20.4332,
+                "buy_price": 20.3821,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

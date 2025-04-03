@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742447777760,
-    "nextUpdate": 1742533560294,
+    "lastUpdate": 1743675812280,
+    "nextUpdate": 1743761853878,
     "data": {
-        "lastNav": "2025-03-19",
+        "lastNav": "2025-04-02",
         "fund": {
             "proj_id": "M0057_2567",
             "regis_id": "MF0122_2567",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000239",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -1862,6 +1862,141 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBLOWBETA(A)",
+                "net_asset": 9230485,
+                "last_val": 9.1958,
+                "previous_val": 0,
+                "sell_price": 9.2697,
+                "buy_price": 9.1909,
+                "sell_swap_price": 9.1909,
+                "buy_swap_price": 9.2697,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-24T16:09:34.06"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBLOWBETA(A)",
+                "net_asset": 9224380,
+                "last_val": 9.1897,
+                "previous_val": 0,
+                "sell_price": 9.2635,
+                "buy_price": 9.1848,
+                "sell_swap_price": 9.1848,
+                "buy_swap_price": 9.2635,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBLOWBETA(A)",
+                "net_asset": 9214121,
+                "last_val": 9.1795,
+                "previous_val": 0,
+                "sell_price": 9.2533,
+                "buy_price": 9.1746,
+                "sell_swap_price": 9.1746,
+                "buy_swap_price": 9.2533,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBLOWBETA(A)",
+                "net_asset": 9226265,
+                "last_val": 9.1916,
+                "previous_val": 0,
+                "sell_price": 9.2654,
+                "buy_price": 9.1867,
+                "sell_swap_price": 9.1867,
+                "buy_swap_price": 9.2654,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBLOWBETA(A)",
+                "net_asset": 9238011,
+                "last_val": 9.2033,
+                "previous_val": 0,
+                "sell_price": 9.2772,
+                "buy_price": 9.1984,
+                "sell_swap_price": 9.1984,
+                "buy_swap_price": 9.2772,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-28T16:08:01.17"
+            },
+            {
+                "nav_date": "2025-03-28",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBLOWBETA(A)",
+                "net_asset": 9168232,
+                "last_val": 9.1338,
+                "previous_val": 0,
+                "sell_price": 9.2072,
+                "buy_price": 9.1289,
+                "sell_swap_price": 9.1289,
+                "buy_swap_price": 9.2072,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-31T16:08:23.61"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBLOWBETA(A)",
+                "net_asset": 9049379,
+                "last_val": 9.0154,
+                "previous_val": 0,
+                "sell_price": 9.0878,
+                "buy_price": 9.0106,
+                "sell_swap_price": 9.0106,
+                "buy_swap_price": 9.0878,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBLOWBETA(A)",
+                "net_asset": 9122309,
+                "last_val": 9.0881,
+                "previous_val": 0,
+                "sell_price": 9.1612,
+                "buy_price": 9.0832,
+                "sell_swap_price": 9.0832,
+                "buy_swap_price": 9.1612,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-02",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBLOWBETA(A)",
+                "net_asset": 9151389,
+                "last_val": 9.117,
+                "previous_val": 0,
+                "sell_price": 9.1903,
+                "buy_price": 9.1121,
+                "sell_swap_price": 9.1121,
+                "buy_swap_price": 9.1903,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

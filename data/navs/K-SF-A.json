@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742447429879,
-    "nextUpdate": 1742533560294,
+    "lastUpdate": 1743675626933,
+    "nextUpdate": 1743761853878,
     "data": {
-        "lastNav": "2025-03-19",
+        "lastNav": "2025-04-02",
         "fund": {
             "proj_id": "M0377_2556",
             "regis_id": "MF0340_2556",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "4",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -1877,6 +1877,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-SF-A",
+                "net_asset": 222156406784,
+                "last_val": 11.8008,
+                "previous_val": 0,
+                "sell_price": 11.8009,
+                "buy_price": 11.8008,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-24T16:09:34.06"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-SF-A",
+                "net_asset": 221545955328,
+                "last_val": 11.8019,
+                "previous_val": 0,
+                "sell_price": 11.802,
+                "buy_price": 11.8019,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-SF-A",
+                "net_asset": 221099409408,
+                "last_val": 11.8028,
+                "previous_val": 0,
+                "sell_price": 11.8029,
+                "buy_price": 11.8028,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-SF-A",
+                "net_asset": 220471443456,
+                "last_val": 11.8035,
+                "previous_val": 0,
+                "sell_price": 11.8036,
+                "buy_price": 11.8035,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-SF-A",
+                "net_asset": 225271758848,
+                "last_val": 11.8072,
+                "previous_val": 0,
+                "sell_price": 11.8073,
+                "buy_price": 11.8072,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-31T16:08:23.61"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-SF-A",
+                "net_asset": 219654193152,
+                "last_val": 11.8097,
+                "previous_val": 0,
+                "sell_price": 11.8098,
+                "buy_price": 11.8097,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-SF-A",
+                "net_asset": 219325186048,
+                "last_val": 11.8116,
+                "previous_val": 0,
+                "sell_price": 11.8117,
+                "buy_price": 11.8116,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-02",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-SF-A",
+                "net_asset": 219906277376,
+                "last_val": 11.8118,
+                "previous_val": 0,
+                "sell_price": 11.8119,
+                "buy_price": 11.8118,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

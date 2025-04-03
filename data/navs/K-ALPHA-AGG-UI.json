@@ -1,0 +1,83 @@
+{
+    "lastUpdate": 1743675635499,
+    "nextUpdate": 1743761853878,
+    "data": {
+        "lastNav": "2025-03-26",
+        "fund": {
+            "proj_id": "M0398_2566",
+            "regis_id": "MF0546_2566",
+            "regis_date": "2023-12-19",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิดเค Alpha-Aggressive ห้ามขายผู้ลงทุนรายย่อย",
+            "proj_name_en": "K Alpha-Aggressive Fund Not for Retail Investors",
+            "proj_abbr_name": "K-ALPHA-AGG-UI",
+            "fund_status": "RG",
+            "unique_id": "C0000000021",
+            "permit_us_investment": null,
+            "invest_country_flag": "1",
+            "last_upd_date": "2025-04-03T16:09:10.253"
+        },
+        "navs": [
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-ALPHA-AGG-UI",
+                "net_asset": 314816160,
+                "last_val": 10.3474,
+                "previous_val": 0,
+                "sell_price": 10.5545,
+                "buy_price": 10.2439,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-31T16:08:23.61"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-ALPHA-AGG-UI",
+                "net_asset": 315890592,
+                "last_val": 10.3828,
+                "previous_val": 0,
+                "sell_price": 10.5906,
+                "buy_price": 10.279,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-ALPHA-AGG-UI",
+                "net_asset": 316440864,
+                "last_val": 10.4008,
+                "previous_val": 0,
+                "sell_price": 10.6089,
+                "buy_price": 10.2968,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-ALPHA-AGG-UI",
+                "net_asset": 315541472,
+                "last_val": 10.3713,
+                "previous_val": 0,
+                "sell_price": 10.5788,
+                "buy_price": 10.2676,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
+            }
+        ]
+    }
+}

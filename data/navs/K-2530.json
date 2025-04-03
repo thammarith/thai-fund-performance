@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742447334764,
-    "nextUpdate": 1742533560294,
+    "lastUpdate": 1743675569607,
+    "nextUpdate": 1743761853878,
     "data": {
-        "lastNav": "2025-03-19",
+        "lastNav": "2025-04-02",
         "fund": {
             "proj_id": "M0211_2550",
             "regis_id": "145_2550",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "4",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -63917,6 +63917,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-2530",
+                "net_asset": 402582880,
+                "last_val": 21.9164,
+                "previous_val": 0,
+                "sell_price": 21.9165,
+                "buy_price": 21.8616,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-24T16:09:34.06"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-2530",
+                "net_asset": 402067360,
+                "last_val": 21.9293,
+                "previous_val": 0,
+                "sell_price": 21.9294,
+                "buy_price": 21.8745,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-2530",
+                "net_asset": 400247904,
+                "last_val": 21.8301,
+                "previous_val": 0,
+                "sell_price": 21.8302,
+                "buy_price": 21.7755,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-2530",
+                "net_asset": 400474272,
+                "last_val": 21.8397,
+                "previous_val": 0,
+                "sell_price": 21.8398,
+                "buy_price": 21.7851,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-2530",
+                "net_asset": 400840544,
+                "last_val": 21.8286,
+                "previous_val": 0,
+                "sell_price": 21.8287,
+                "buy_price": 21.774,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-31T16:08:23.61"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-2530",
+                "net_asset": 394315584,
+                "last_val": 21.6752,
+                "previous_val": 0,
+                "sell_price": 21.6753,
+                "buy_price": 21.621,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-2530",
+                "net_asset": 395692064,
+                "last_val": 21.7642,
+                "previous_val": 0,
+                "sell_price": 21.7643,
+                "buy_price": 21.7098,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-02",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-2530",
+                "net_asset": 396760512,
+                "last_val": 21.8211,
+                "previous_val": 0,
+                "sell_price": 21.8212,
+                "buy_price": 21.7665,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

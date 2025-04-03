@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742447575859,
-    "nextUpdate": 1742533560294,
+    "lastUpdate": 1743675704742,
+    "nextUpdate": 1743761853878,
     "data": {
-        "lastNav": "2025-03-18",
+        "lastNav": "2025-04-01",
         "fund": {
             "proj_id": "M0596_2558",
             "regis_id": "MF0123_2559",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -1607,6 +1607,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GINFRA-A(D)",
+                "net_asset": 763811136,
+                "last_val": 9.9891,
+                "previous_val": 0,
+                "sell_price": 10.139,
+                "buy_price": 9.9891,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GINFRA-A(D)",
+                "net_asset": 761836800,
+                "last_val": 10.0004,
+                "previous_val": 0,
+                "sell_price": 10.1505,
+                "buy_price": 10.0004,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GINFRA-A(D)",
+                "net_asset": 761074432,
+                "last_val": 9.9987,
+                "previous_val": 0,
+                "sell_price": 10.1488,
+                "buy_price": 9.9987,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GINFRA-A(D)",
+                "net_asset": 768219200,
+                "last_val": 10.0469,
+                "previous_val": 0,
+                "sell_price": 10.1977,
+                "buy_price": 10.0469,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-31T16:08:23.61"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GINFRA-A(D)",
+                "net_asset": 771004992,
+                "last_val": 10.0614,
+                "previous_val": 0,
+                "sell_price": 10.2124,
+                "buy_price": 10.0614,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GINFRA-A(D)",
+                "net_asset": 777196608,
+                "last_val": 10.1358,
+                "previous_val": 0,
+                "sell_price": 10.2879,
+                "buy_price": 10.1358,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GINFRA-A(D)",
+                "net_asset": 780821824,
+                "last_val": 10.2103,
+                "previous_val": 0,
+                "sell_price": 10.3636,
+                "buy_price": 10.2103,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

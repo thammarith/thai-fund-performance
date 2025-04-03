@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1737170558198,
-    "nextUpdate": 1737256721239,
+    "lastUpdate": 1743675653652,
+    "nextUpdate": 1743761853878,
     "data": {
-        "lastNav": "2024-12-30",
+        "lastNav": "2025-03-31",
         "fund": {
             "proj_id": "M0432_2567",
             "regis_id": "MF0563_2567",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-01-18T08:02:06.097"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -32,6 +32,21 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-01-18T08:08:32.363"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-CHAPE24B-UI",
+                "net_asset": 391873984,
+                "last_val": 10.2228,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

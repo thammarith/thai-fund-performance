@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742447325265,
-    "nextUpdate": 1742533560294,
+    "lastUpdate": 1743675564149,
+    "nextUpdate": 1743761853878,
     "data": {
-        "lastNav": "2025-03-19",
+        "lastNav": "2025-04-02",
         "fund": {
             "proj_id": "M0209_2548",
             "regis_id": "050_2548",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -53642,6 +53642,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-SET50",
+                "net_asset": 5931339776,
+                "last_val": 27.9384,
+                "previous_val": 0,
+                "sell_price": 27.9664,
+                "buy_price": 27.9105,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-24T16:09:34.06"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-SET50",
+                "net_asset": 5959836160,
+                "last_val": 28.0705,
+                "previous_val": 0,
+                "sell_price": 28.0987,
+                "buy_price": 28.0424,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-SET50",
+                "net_asset": 5937459200,
+                "last_val": 27.9566,
+                "previous_val": 0,
+                "sell_price": 27.9847,
+                "buy_price": 27.9286,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-SET50",
+                "net_asset": 5973130752,
+                "last_val": 28.1065,
+                "previous_val": 0,
+                "sell_price": 28.1347,
+                "buy_price": 28.0784,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-SET50",
+                "net_asset": 5924785152,
+                "last_val": 28.0954,
+                "previous_val": 0,
+                "sell_price": 28.1236,
+                "buy_price": 28.0673,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-31T16:08:23.61"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-SET50",
+                "net_asset": 5759419392,
+                "last_val": 27.3896,
+                "previous_val": 0,
+                "sell_price": 27.4171,
+                "buy_price": 27.3622,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-SET50",
+                "net_asset": 5820401152,
+                "last_val": 27.6758,
+                "previous_val": 0,
+                "sell_price": 27.7036,
+                "buy_price": 27.6481,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-02",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-SET50",
+                "net_asset": 5860500992,
+                "last_val": 27.8149,
+                "previous_val": 0,
+                "sell_price": 27.8428,
+                "buy_price": 27.7871,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

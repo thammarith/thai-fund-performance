@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742458233320,
-    "nextUpdate": 1742544197279,
+    "lastUpdate": 1743676196329,
+    "nextUpdate": 1743761853878,
     "data": {
-        "lastNav": "2025-03-19",
+        "lastNav": "2025-04-02",
         "fund": {
             "proj_id": "M0593_2552",
             "regis_id": "MF0342_2554",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000239",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -15347,6 +15347,141 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBENERGYP",
+                "net_asset": 0,
+                "last_val": 7.4113,
+                "previous_val": 0,
+                "sell_price": 7.4173,
+                "buy_price": 7.4054,
+                "sell_swap_price": 7.4054,
+                "buy_swap_price": 7.4173,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-24T16:09:34.06"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBENERGYP",
+                "net_asset": 0,
+                "last_val": 7.4576,
+                "previous_val": 0,
+                "sell_price": 7.4637,
+                "buy_price": 7.4516,
+                "sell_swap_price": 7.4516,
+                "buy_swap_price": 7.4637,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBENERGYP",
+                "net_asset": 0,
+                "last_val": 7.4828,
+                "previous_val": 0,
+                "sell_price": 7.4889,
+                "buy_price": 7.4768,
+                "sell_swap_price": 7.4768,
+                "buy_swap_price": 7.4889,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBENERGYP",
+                "net_asset": 0,
+                "last_val": 7.4965,
+                "previous_val": 0,
+                "sell_price": 7.5026,
+                "buy_price": 7.4905,
+                "sell_swap_price": 7.4905,
+                "buy_swap_price": 7.5026,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBENERGYP",
+                "net_asset": 0,
+                "last_val": 7.5097,
+                "previous_val": 0,
+                "sell_price": 7.5158,
+                "buy_price": 7.5037,
+                "sell_swap_price": 7.5037,
+                "buy_swap_price": 7.5158,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-28T16:08:01.17"
+            },
+            {
+                "nav_date": "2025-03-28",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBENERGYP",
+                "net_asset": 0,
+                "last_val": 7.4364,
+                "previous_val": 0,
+                "sell_price": 7.4424,
+                "buy_price": 7.4305,
+                "sell_swap_price": 7.4305,
+                "buy_swap_price": 7.4424,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-31T16:08:23.61"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBENERGYP",
+                "net_asset": 0,
+                "last_val": 7.4009,
+                "previous_val": 0,
+                "sell_price": 7.4069,
+                "buy_price": 7.395,
+                "sell_swap_price": 7.395,
+                "buy_swap_price": 7.4069,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBENERGYP",
+                "net_asset": 0,
+                "last_val": 7.4588,
+                "previous_val": 0,
+                "sell_price": 7.4649,
+                "buy_price": 7.4528,
+                "sell_swap_price": 7.4528,
+                "buy_swap_price": 7.4649,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-02",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBENERGYP",
+                "net_asset": 0,
+                "last_val": 7.4629,
+                "previous_val": 0,
+                "sell_price": 7.469,
+                "buy_price": 7.4569,
+                "sell_swap_price": 7.4569,
+                "buy_swap_price": 7.469,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

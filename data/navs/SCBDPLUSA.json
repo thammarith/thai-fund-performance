@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742447692275,
-    "nextUpdate": 1742533560294,
+    "lastUpdate": 1743675767235,
+    "nextUpdate": 1743761853878,
     "data": {
-        "lastNav": "2025-03-18",
+        "lastNav": "2025-04-01",
         "fund": {
             "proj_id": "M0002_2563",
             "regis_id": "MF0023_2563",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000239",
             "permit_us_investment": null,
             "invest_country_flag": "4",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -13112,6 +13112,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBDPLUSA",
+                "net_asset": 604551488,
+                "last_val": 9.5821,
+                "previous_val": 0,
+                "sell_price": 9.654,
+                "buy_price": 9.5821,
+                "sell_swap_price": 9.5821,
+                "buy_swap_price": 9.654,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBDPLUSA",
+                "net_asset": 603109184,
+                "last_val": 9.5777,
+                "previous_val": 0,
+                "sell_price": 9.6495,
+                "buy_price": 9.5777,
+                "sell_swap_price": 9.5777,
+                "buy_swap_price": 9.6495,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBDPLUSA",
+                "net_asset": 597369152,
+                "last_val": 9.5794,
+                "previous_val": 0,
+                "sell_price": 9.6513,
+                "buy_price": 9.5794,
+                "sell_swap_price": 9.5794,
+                "buy_swap_price": 9.6513,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBDPLUSA",
+                "net_asset": 596745984,
+                "last_val": 9.5739,
+                "previous_val": 0,
+                "sell_price": 9.6457,
+                "buy_price": 9.5739,
+                "sell_swap_price": 9.5739,
+                "buy_swap_price": 9.6457,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-28T16:08:01.17"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBDPLUSA",
+                "net_asset": 596402624,
+                "last_val": 9.5684,
+                "previous_val": 0,
+                "sell_price": 9.6402,
+                "buy_price": 9.5684,
+                "sell_swap_price": 9.5684,
+                "buy_swap_price": 9.6402,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-31T16:08:23.61"
+            },
+            {
+                "nav_date": "2025-03-28",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBDPLUSA",
+                "net_asset": 596459392,
+                "last_val": 9.5889,
+                "previous_val": 0,
+                "sell_price": 9.6608,
+                "buy_price": 9.5889,
+                "sell_swap_price": 9.5889,
+                "buy_swap_price": 9.6608,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBDPLUSA",
+                "net_asset": 596362560,
+                "last_val": 9.5882,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBDPLUSA",
+                "net_asset": 597256960,
+                "last_val": 9.6026,
+                "previous_val": 0,
+                "sell_price": 9.6746,
+                "buy_price": 9.6026,
+                "sell_swap_price": 9.6026,
+                "buy_swap_price": 9.6746,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742458198173,
-    "nextUpdate": 1742544197279,
+    "lastUpdate": 1743676171508,
+    "nextUpdate": 1743761853878,
     "data": {
-        "lastNav": "2025-03-19",
+        "lastNav": "2025-04-02",
         "fund": {
             "proj_id": "M0543_2562",
             "regis_id": "MF0565_2562",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000239",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -15347,6 +15347,141 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBEQUALA",
+                "net_asset": 1608499.13,
+                "last_val": 7.726,
+                "previous_val": 0,
+                "sell_price": 7.7715,
+                "buy_price": 7.7219,
+                "sell_swap_price": 7.7219,
+                "buy_swap_price": 7.7715,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-24T16:09:34.06"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBEQUALA",
+                "net_asset": 1605607.25,
+                "last_val": 7.7121,
+                "previous_val": 0,
+                "sell_price": 7.7576,
+                "buy_price": 7.708,
+                "sell_swap_price": 7.708,
+                "buy_swap_price": 7.7576,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBEQUALA",
+                "net_asset": 1586226.25,
+                "last_val": 7.619,
+                "previous_val": 0,
+                "sell_price": 7.664,
+                "buy_price": 7.6149,
+                "sell_swap_price": 7.6149,
+                "buy_swap_price": 7.664,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBEQUALA",
+                "net_asset": 1591412.25,
+                "last_val": 7.6439,
+                "previous_val": 0,
+                "sell_price": 7.689,
+                "buy_price": 7.6398,
+                "sell_swap_price": 7.6398,
+                "buy_swap_price": 7.689,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBEQUALA",
+                "net_asset": 1589746.38,
+                "last_val": 7.6359,
+                "previous_val": 0,
+                "sell_price": 7.681,
+                "buy_price": 7.6318,
+                "sell_swap_price": 7.6318,
+                "buy_swap_price": 7.681,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-28T16:08:01.17"
+            },
+            {
+                "nav_date": "2025-03-28",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBEQUALA",
+                "net_asset": 1570250.38,
+                "last_val": 7.5422,
+                "previous_val": 0,
+                "sell_price": 7.5867,
+                "buy_price": 7.5382,
+                "sell_swap_price": 7.5382,
+                "buy_swap_price": 7.5867,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-31T16:08:23.61"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBEQUALA",
+                "net_asset": 1535738,
+                "last_val": 7.3765,
+                "previous_val": 0,
+                "sell_price": 7.42,
+                "buy_price": 7.3726,
+                "sell_swap_price": 7.3726,
+                "buy_swap_price": 7.42,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBEQUALA",
+                "net_asset": 1544008.38,
+                "last_val": 7.4162,
+                "previous_val": 0,
+                "sell_price": 7.46,
+                "buy_price": 7.4122,
+                "sell_swap_price": 7.4122,
+                "buy_swap_price": 7.46,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-02",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBEQUALA",
+                "net_asset": 1556454.38,
+                "last_val": 7.452,
+                "previous_val": 0,
+                "sell_price": 7.496,
+                "buy_price": 7.448,
+                "sell_swap_price": 7.448,
+                "buy_swap_price": 7.496,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

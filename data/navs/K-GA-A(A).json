@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742447251606,
-    "nextUpdate": 1742533560294,
+    "lastUpdate": 1743675510399,
+    "nextUpdate": 1743761853878,
     "data": {
-        "lastNav": "2025-03-18",
+        "lastNav": "2025-04-01",
         "fund": {
             "proj_id": "M0080_2545",
             "regis_id": "023_2545",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -10037,6 +10037,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GA-A(A)",
+                "net_asset": 742372352,
+                "last_val": 12.2006,
+                "previous_val": 0,
+                "sell_price": 12.3837,
+                "buy_price": 12.2006,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GA-A(A)",
+                "net_asset": 748174656,
+                "last_val": 12.2941,
+                "previous_val": 0,
+                "sell_price": 12.4786,
+                "buy_price": 12.2941,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GA-A(A)",
+                "net_asset": 751119552,
+                "last_val": 12.3427,
+                "previous_val": 0,
+                "sell_price": 12.5279,
+                "buy_price": 12.3427,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GA-A(A)",
+                "net_asset": 749959424,
+                "last_val": 12.2908,
+                "previous_val": 0,
+                "sell_price": 12.4753,
+                "buy_price": 12.2908,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-31T16:08:23.61"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GA-A(A)",
+                "net_asset": 746382528,
+                "last_val": 12.2322,
+                "previous_val": 0,
+                "sell_price": 12.4158,
+                "buy_price": 12.2322,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GA-A(A)",
+                "net_asset": 732577088,
+                "last_val": 12.0059,
+                "previous_val": 0,
+                "sell_price": 12.1861,
+                "buy_price": 12.0059,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GA-A(A)",
+                "net_asset": 738121344,
+                "last_val": 12.0946,
+                "previous_val": 0,
+                "sell_price": 12.2761,
+                "buy_price": 12.0946,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

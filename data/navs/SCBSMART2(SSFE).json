@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742457972669,
-    "nextUpdate": 1742544197279,
+    "lastUpdate": 1743676030986,
+    "nextUpdate": 1743761853878,
     "data": {
-        "lastNav": "2025-03-19",
+        "lastNav": "2025-04-02",
         "fund": {
             "proj_id": "M0311_2555",
             "regis_id": "MF0618_2555",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000239",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -9227,6 +9227,141 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSMART2(SSFE)",
+                "net_asset": 2513789,
+                "last_val": 10.1649,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 10.1649,
+                "sell_swap_price": 10.1649,
+                "buy_swap_price": 10.165,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-24T16:09:34.06"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSMART2(SSFE)",
+                "net_asset": 2511937.75,
+                "last_val": 10.1574,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 10.1574,
+                "sell_swap_price": 10.1574,
+                "buy_swap_price": 10.1575,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSMART2(SSFE)",
+                "net_asset": 2510418.75,
+                "last_val": 10.1513,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 10.1513,
+                "sell_swap_price": 10.1513,
+                "buy_swap_price": 10.1514,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSMART2(SSFE)",
+                "net_asset": 2514203.25,
+                "last_val": 10.1666,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 10.1666,
+                "sell_swap_price": 10.1666,
+                "buy_swap_price": 10.1667,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSMART2(SSFE)",
+                "net_asset": 2512078.75,
+                "last_val": 10.158,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 10.158,
+                "sell_swap_price": 10.158,
+                "buy_swap_price": 10.1581,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-28T16:08:01.17"
+            },
+            {
+                "nav_date": "2025-03-28",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSMART2(SSFE)",
+                "net_asset": 2506882.25,
+                "last_val": 10.137,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 10.137,
+                "sell_swap_price": 10.137,
+                "buy_swap_price": 10.1371,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-31T16:08:23.61"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSMART2(SSFE)",
+                "net_asset": 2495829.75,
+                "last_val": 10.0923,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 10.0923,
+                "sell_swap_price": 10.0923,
+                "buy_swap_price": 10.0924,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSMART2(SSFE)",
+                "net_asset": 2504997.25,
+                "last_val": 10.1294,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 10.1294,
+                "sell_swap_price": 10.1294,
+                "buy_swap_price": 10.1295,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-02",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSMART2(SSFE)",
+                "net_asset": 2503702,
+                "last_val": 10.1401,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 10.1401,
+                "sell_swap_price": 10.1401,
+                "buy_swap_price": 10.1402,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

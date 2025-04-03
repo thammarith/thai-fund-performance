@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742458182605,
-    "nextUpdate": 1742544197279,
+    "lastUpdate": 1743676160129,
+    "nextUpdate": 1743761853878,
     "data": {
-        "lastNav": "2025-03-18",
+        "lastNav": "2025-04-01",
         "fund": {
             "proj_id": "M0536_2563",
             "regis_id": "MF0012_2564",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000239",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -13127,6 +13127,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBUSAP",
+                "net_asset": 38017128,
+                "last_val": 6.7099,
+                "previous_val": 0,
+                "sell_price": 6.71,
+                "buy_price": 6.7099,
+                "sell_swap_price": 6.7099,
+                "buy_swap_price": 6.71,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBUSAP",
+                "net_asset": 61852636,
+                "last_val": 7.0323,
+                "previous_val": 0,
+                "sell_price": 7.0324,
+                "buy_price": 7.0323,
+                "sell_swap_price": 7.0323,
+                "buy_swap_price": 7.0324,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBUSAP",
+                "net_asset": 62767136,
+                "last_val": 7.1363,
+                "previous_val": 0,
+                "sell_price": 7.1364,
+                "buy_price": 7.1363,
+                "sell_swap_price": 7.1363,
+                "buy_swap_price": 7.1364,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBUSAP",
+                "net_asset": 61189856,
+                "last_val": 6.957,
+                "previous_val": 0,
+                "sell_price": 6.9571,
+                "buy_price": 6.957,
+                "sell_swap_price": 6.957,
+                "buy_swap_price": 6.9571,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-28T16:08:01.17"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBUSAP",
+                "net_asset": 65580172,
+                "last_val": 6.8929,
+                "previous_val": 0,
+                "sell_price": 6.893,
+                "buy_price": 6.8929,
+                "sell_swap_price": 6.8929,
+                "buy_swap_price": 6.893,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-31T16:08:23.61"
+            },
+            {
+                "nav_date": "2025-03-28",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBUSAP",
+                "net_asset": 29417416,
+                "last_val": 6.5664,
+                "previous_val": 0,
+                "sell_price": 6.5665,
+                "buy_price": 6.5664,
+                "sell_swap_price": 6.5664,
+                "buy_swap_price": 6.5665,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBUSAP",
+                "net_asset": 28064432,
+                "last_val": 6.2644,
+                "previous_val": 0,
+                "sell_price": 6.2645,
+                "buy_price": 6.2644,
+                "sell_swap_price": 6.2644,
+                "buy_swap_price": 6.2645,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBUSAP",
+                "net_asset": 28862974,
+                "last_val": 6.4426,
+                "previous_val": 0,
+                "sell_price": 6.4427,
+                "buy_price": 6.4426,
+                "sell_swap_price": 6.4426,
+                "buy_swap_price": 6.4427,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

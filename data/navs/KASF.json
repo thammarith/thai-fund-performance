@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742447280889,
-    "nextUpdate": 1742533560294,
+    "lastUpdate": 1743675528201,
+    "nextUpdate": 1743761853878,
     "data": {
-        "lastNav": "2025-03-19",
+        "lastNav": "2025-04-02",
         "fund": {
             "proj_id": "M0134_2545",
             "regis_id": "060_2545",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -79157,6 +79157,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KASF",
+                "net_asset": 736057216,
+                "last_val": 16.6958,
+                "previous_val": 0,
+                "sell_price": 16.8211,
+                "buy_price": 16.6958,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-24T16:09:34.06"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KASF",
+                "net_asset": 725340160,
+                "last_val": 16.6986,
+                "previous_val": 0,
+                "sell_price": 16.8239,
+                "buy_price": 16.6986,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KASF",
+                "net_asset": 723745536,
+                "last_val": 16.7001,
+                "previous_val": 0,
+                "sell_price": 16.8255,
+                "buy_price": 16.7001,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KASF",
+                "net_asset": 605775872,
+                "last_val": 16.7015,
+                "previous_val": 0,
+                "sell_price": 16.8269,
+                "buy_price": 16.7015,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KASF",
+                "net_asset": 605828928,
+                "last_val": 16.703,
+                "previous_val": 0,
+                "sell_price": 16.8284,
+                "buy_price": 16.703,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-31T16:08:23.61"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KASF",
+                "net_asset": 591235136,
+                "last_val": 16.7145,
+                "previous_val": 0,
+                "sell_price": 16.84,
+                "buy_price": 16.7145,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KASF",
+                "net_asset": 589094656,
+                "last_val": 16.7199,
+                "previous_val": 0,
+                "sell_price": 16.8454,
+                "buy_price": 16.7199,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-02",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KASF",
+                "net_asset": 583553920,
+                "last_val": 16.7256,
+                "previous_val": 0,
+                "sell_price": 16.8511,
+                "buy_price": 16.7256,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

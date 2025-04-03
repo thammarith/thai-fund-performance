@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742447414735,
-    "nextUpdate": 1742533560294,
+    "lastUpdate": 1743675618395,
+    "nextUpdate": 1743761853878,
     "data": {
-        "lastNav": "2025-03-18",
+        "lastNav": "2025-04-01",
         "fund": {
             "proj_id": "M0345_2562",
             "regis_id": "MF0342_2562",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -1577,6 +1577,96 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-HIT-A(A)",
+                "net_asset": 929068544,
+                "last_val": 15.0051,
+                "previous_val": 0,
+                "sell_price": 15.2303,
+                "buy_price": 15.0051,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-HIT-A(A)",
+                "net_asset": 930822784,
+                "last_val": 15.0221,
+                "previous_val": 0,
+                "sell_price": 15.2475,
+                "buy_price": 15.0221,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-HIT-A(A)",
+                "net_asset": 942973184,
+                "last_val": 15.1947,
+                "previous_val": 0,
+                "sell_price": 15.4227,
+                "buy_price": 15.1947,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-HIT-A(A)",
+                "net_asset": 944908480,
+                "last_val": 15.2231,
+                "previous_val": 0,
+                "sell_price": 15.4515,
+                "buy_price": 15.2231,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-31T16:08:23.61"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-HIT-A(A)",
+                "net_asset": 934852672,
+                "last_val": 15.0487,
+                "previous_val": 0,
+                "sell_price": 15.2745,
+                "buy_price": 15.0487,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-HIT-A(A)",
+                "net_asset": 906097920,
+                "last_val": 14.5754,
+                "previous_val": 0,
+                "sell_price": 14.7941,
+                "buy_price": 14.5754,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

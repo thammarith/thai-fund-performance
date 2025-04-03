@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742447349284,
-    "nextUpdate": 1742533560294,
+    "lastUpdate": 1743675581925,
+    "nextUpdate": 1743761853878,
     "data": {
-        "lastNav": "2025-03-19",
+        "lastNav": "2025-04-02",
         "fund": {
             "proj_id": "M0250_2558",
             "regis_id": "MF0317_2558",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "4",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -33677,6 +33677,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-ICT",
+                "net_asset": 221355840,
+                "last_val": 12.1187,
+                "previous_val": 0,
+                "sell_price": 12.1309,
+                "buy_price": 12.1066,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-24T16:09:34.06"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-ICT",
+                "net_asset": 225993568,
+                "last_val": 12.335,
+                "previous_val": 0,
+                "sell_price": 12.3474,
+                "buy_price": 12.3227,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-ICT",
+                "net_asset": 227708736,
+                "last_val": 12.4251,
+                "previous_val": 0,
+                "sell_price": 12.4376,
+                "buy_price": 12.4127,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-ICT",
+                "net_asset": 224507968,
+                "last_val": 12.3536,
+                "previous_val": 0,
+                "sell_price": 12.3661,
+                "buy_price": 12.3412,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-ICT",
+                "net_asset": 225358352,
+                "last_val": 12.4047,
+                "previous_val": 0,
+                "sell_price": 12.4172,
+                "buy_price": 12.3923,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-31T16:08:23.61"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-ICT",
+                "net_asset": 223752784,
+                "last_val": 12.3359,
+                "previous_val": 0,
+                "sell_price": 12.3483,
+                "buy_price": 12.3236,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-ICT",
+                "net_asset": 228433392,
+                "last_val": 12.6022,
+                "previous_val": 0,
+                "sell_price": 12.6149,
+                "buy_price": 12.5896,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-02",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-ICT",
+                "net_asset": 225447072,
+                "last_val": 12.4524,
+                "previous_val": 0,
+                "sell_price": 12.465,
+                "buy_price": 12.4399,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

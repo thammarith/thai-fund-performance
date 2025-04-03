@@ -1,0 +1,53 @@
+{
+    "lastUpdate": 1743676021914,
+    "nextUpdate": 1743761853878,
+    "data": {
+        "lastNav": "2025-04-01",
+        "fund": {
+            "proj_id": "M0300_2568",
+            "regis_id": "MF0184_2568",
+            "regis_date": "2025-04-01",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิดไทยพาณิชย์ตราสารภาครัฐ 6 เดือน 25",
+            "proj_name_en": "SCB Sovereign Bond 6M25",
+            "proj_abbr_name": "SCBSB6M25",
+            "fund_status": "RG",
+            "unique_id": "C0000000239",
+            "permit_us_investment": null,
+            "invest_country_flag": "1",
+            "last_upd_date": "2025-04-03T16:09:10.253"
+        },
+        "navs": [
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSB6M25",
+                "net_asset": 3625079296,
+                "last_val": 10.0336,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-02",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSB6M25",
+                "net_asset": 3628915456,
+                "last_val": 10.0442,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
+            }
+        ]
+    }
+}

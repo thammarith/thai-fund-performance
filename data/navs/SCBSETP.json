@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742447734178,
-    "nextUpdate": 1742533560294,
+    "lastUpdate": 1743675791574,
+    "nextUpdate": 1743761853878,
     "data": {
-        "lastNav": "2025-03-19",
+        "lastNav": "2025-04-02",
         "fund": {
             "proj_id": "M0026_2539",
             "regis_id": "045_2539",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000239",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -15317,6 +15317,141 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSETP",
+                "net_asset": 355018560,
+                "last_val": 17.1526,
+                "previous_val": 0,
+                "sell_price": 17.1527,
+                "buy_price": 17.1526,
+                "sell_swap_price": 17.1526,
+                "buy_swap_price": 17.1527,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-24T16:09:34.06"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSETP",
+                "net_asset": 356264640,
+                "last_val": 17.2128,
+                "previous_val": 0,
+                "sell_price": 17.2129,
+                "buy_price": 17.2128,
+                "sell_swap_price": 17.2128,
+                "buy_swap_price": 17.2129,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSETP",
+                "net_asset": 354727552,
+                "last_val": 17.1385,
+                "previous_val": 0,
+                "sell_price": 17.1386,
+                "buy_price": 17.1385,
+                "sell_swap_price": 17.1385,
+                "buy_swap_price": 17.1386,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSETP",
+                "net_asset": 356389504,
+                "last_val": 17.2188,
+                "previous_val": 0,
+                "sell_price": 17.2189,
+                "buy_price": 17.2188,
+                "sell_swap_price": 17.2188,
+                "buy_swap_price": 17.2189,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSETP",
+                "net_asset": 355797696,
+                "last_val": 17.1902,
+                "previous_val": 0,
+                "sell_price": 17.1903,
+                "buy_price": 17.1902,
+                "sell_swap_price": 17.1902,
+                "buy_swap_price": 17.1903,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-28T16:08:01.17"
+            },
+            {
+                "nav_date": "2025-03-28",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSETP",
+                "net_asset": 351860128,
+                "last_val": 17,
+                "previous_val": 0,
+                "sell_price": 17.0001,
+                "buy_price": 17,
+                "sell_swap_price": 17,
+                "buy_swap_price": 17.0001,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-31T16:08:23.61"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSETP",
+                "net_asset": 346379168,
+                "last_val": 16.7352,
+                "previous_val": 0,
+                "sell_price": 16.7353,
+                "buy_price": 16.7352,
+                "sell_swap_price": 16.7352,
+                "buy_swap_price": 16.7353,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSETP",
+                "net_asset": 349404096,
+                "last_val": 16.8813,
+                "previous_val": 0,
+                "sell_price": 16.8814,
+                "buy_price": 16.8813,
+                "sell_swap_price": 16.8813,
+                "buy_swap_price": 16.8814,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-02",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSETP",
+                "net_asset": 349516864,
+                "last_val": 16.9546,
+                "previous_val": 0,
+                "sell_price": 16.9547,
+                "buy_price": 16.9546,
+                "sell_swap_price": 16.9546,
+                "buy_swap_price": 16.9547,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

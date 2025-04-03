@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742447394935,
-    "nextUpdate": 1742533560294,
+    "lastUpdate": 1743675606598,
+    "nextUpdate": 1743761853878,
     "data": {
-        "lastNav": "2025-03-18",
+        "lastNav": "2025-04-01",
         "fund": {
             "proj_id": "M0282_2560",
             "regis_id": "MF0416_2560",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "4",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -10412,6 +10412,96 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-FITXL",
+                "net_asset": 290159616,
+                "last_val": 10.9548,
+                "previous_val": 0,
+                "sell_price": 11.0097,
+                "buy_price": 10.9,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-FITXL",
+                "net_asset": 292531520,
+                "last_val": 11.0544,
+                "previous_val": 0,
+                "sell_price": 11.1098,
+                "buy_price": 10.9991,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-FITXL",
+                "net_asset": 292232960,
+                "last_val": 11.0611,
+                "previous_val": 0,
+                "sell_price": 11.1165,
+                "buy_price": 11.0058,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-FITXL",
+                "net_asset": 289883040,
+                "last_val": 10.9734,
+                "previous_val": 0,
+                "sell_price": 11.0284,
+                "buy_price": 10.9185,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-31T16:08:23.61"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-FITXL",
+                "net_asset": 289536992,
+                "last_val": 10.9596,
+                "previous_val": 0,
+                "sell_price": 11.0145,
+                "buy_price": 10.9048,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-FITXL",
+                "net_asset": 285418912,
+                "last_val": 10.8215,
+                "previous_val": 0,
+                "sell_price": 10.8757,
+                "buy_price": 10.7674,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

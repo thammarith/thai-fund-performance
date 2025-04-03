@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742447464332,
-    "nextUpdate": 1742533560294,
+    "lastUpdate": 1743675645423,
+    "nextUpdate": 1743761853878,
     "data": {
-        "lastNav": "2025-03-19",
+        "lastNav": "2025-04-02",
         "fund": {
             "proj_id": "M0425_2559",
             "regis_id": "MF0520_2559",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -15407,6 +15407,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KS50LTF-A(A)",
+                "net_asset": 9630746,
+                "last_val": 9.8011,
+                "previous_val": 0,
+                "sell_price": 9.811,
+                "buy_price": 9.7913,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-24T16:09:34.06"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KS50LTF-A(A)",
+                "net_asset": 9676132,
+                "last_val": 9.8475,
+                "previous_val": 0,
+                "sell_price": 9.8574,
+                "buy_price": 9.8377,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KS50LTF-A(A)",
+                "net_asset": 9643151,
+                "last_val": 9.8078,
+                "previous_val": 0,
+                "sell_price": 9.8177,
+                "buy_price": 9.798,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KS50LTF-A(A)",
+                "net_asset": 9703162,
+                "last_val": 9.8602,
+                "previous_val": 0,
+                "sell_price": 9.8702,
+                "buy_price": 9.8503,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KS50LTF-A(A)",
+                "net_asset": 9700117,
+                "last_val": 9.8566,
+                "previous_val": 0,
+                "sell_price": 9.8666,
+                "buy_price": 9.8467,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-31T16:08:23.61"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KS50LTF-A(A)",
+                "net_asset": 9370785,
+                "last_val": 9.6075,
+                "previous_val": 0,
+                "sell_price": 9.6172,
+                "buy_price": 9.5979,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KS50LTF-A(A)",
+                "net_asset": 9483539,
+                "last_val": 9.7075,
+                "previous_val": 0,
+                "sell_price": 9.7173,
+                "buy_price": 9.6978,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-02",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KS50LTF-A(A)",
+                "net_asset": 9538683,
+                "last_val": 9.7557,
+                "previous_val": 0,
+                "sell_price": 9.7656,
+                "buy_price": 9.7459,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

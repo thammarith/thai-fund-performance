@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742457846294,
-    "nextUpdate": 1742544197279,
+    "lastUpdate": 1743675900744,
+    "nextUpdate": 1743761853878,
     "data": {
-        "lastNav": "2025-03-19",
+        "lastNav": "2025-04-02",
         "fund": {
             "proj_id": "M0154_2561",
             "regis_id": "MF0136_2561",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000239",
             "permit_us_investment": null,
             "invest_country_flag": "4",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -15332,6 +15332,141 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBFIXEDA",
+                "net_asset": 6701516800,
+                "last_val": 11.0573,
+                "previous_val": 0,
+                "sell_price": 11.0574,
+                "buy_price": 11.0573,
+                "sell_swap_price": 11.0573,
+                "buy_swap_price": 11.0574,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-24T16:09:34.06"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBFIXEDA",
+                "net_asset": 6747502592,
+                "last_val": 11.0599,
+                "previous_val": 0,
+                "sell_price": 11.06,
+                "buy_price": 11.0599,
+                "sell_swap_price": 11.0599,
+                "buy_swap_price": 11.06,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBFIXEDA",
+                "net_asset": 6775432704,
+                "last_val": 11.0591,
+                "previous_val": 0,
+                "sell_price": 11.0592,
+                "buy_price": 11.0591,
+                "sell_swap_price": 11.0591,
+                "buy_swap_price": 11.0592,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBFIXEDA",
+                "net_asset": 6773183488,
+                "last_val": 11.0615,
+                "previous_val": 0,
+                "sell_price": 11.0616,
+                "buy_price": 11.0615,
+                "sell_swap_price": 11.0615,
+                "buy_swap_price": 11.0616,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBFIXEDA",
+                "net_asset": 6805599744,
+                "last_val": 11.0609,
+                "previous_val": 0,
+                "sell_price": 11.061,
+                "buy_price": 11.0609,
+                "sell_swap_price": 11.0609,
+                "buy_swap_price": 11.061,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-28T16:08:01.17"
+            },
+            {
+                "nav_date": "2025-03-28",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBFIXEDA",
+                "net_asset": 6821629440,
+                "last_val": 11.0647,
+                "previous_val": 0,
+                "sell_price": 11.0648,
+                "buy_price": 11.0647,
+                "sell_swap_price": 11.0647,
+                "buy_swap_price": 11.0648,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-31T16:08:23.61"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBFIXEDA",
+                "net_asset": 6849614336,
+                "last_val": 11.0678,
+                "previous_val": 0,
+                "sell_price": 11.0679,
+                "buy_price": 11.0678,
+                "sell_swap_price": 11.0678,
+                "buy_swap_price": 11.0679,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBFIXEDA",
+                "net_asset": 6942301696,
+                "last_val": 11.0686,
+                "previous_val": 0,
+                "sell_price": 11.0687,
+                "buy_price": 11.0686,
+                "sell_swap_price": 11.0686,
+                "buy_swap_price": 11.0687,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-02",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBFIXEDA",
+                "net_asset": 6993481216,
+                "last_val": 11.0724,
+                "previous_val": 0,
+                "sell_price": 11.0725,
+                "buy_price": 11.0724,
+                "sell_swap_price": 11.0724,
+                "buy_swap_price": 11.0725,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

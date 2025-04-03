@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742447243226,
-    "nextUpdate": 1742533560294,
+    "lastUpdate": 1743675505114,
+    "nextUpdate": 1743761853878,
     "data": {
-        "lastNav": "2025-03-18",
+        "lastNav": "2025-04-01",
         "fund": {
             "proj_id": "M0070_2557",
             "regis_id": "MF0233_2557",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -2042,6 +2042,96 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GB-A(D)",
+                "net_asset": 1001495168,
+                "last_val": 9.0804,
+                "previous_val": 0,
+                "sell_price": 9.1259,
+                "buy_price": 9.0804,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GB-A(D)",
+                "net_asset": 999851392,
+                "last_val": 9.061,
+                "previous_val": 0,
+                "sell_price": 9.1064,
+                "buy_price": 9.061,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GB-A(D)",
+                "net_asset": 998270720,
+                "last_val": 9.0735,
+                "previous_val": 0,
+                "sell_price": 9.119,
+                "buy_price": 9.0735,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GB-A(D)",
+                "net_asset": 995435968,
+                "last_val": 9.0682,
+                "previous_val": 0,
+                "sell_price": 9.1136,
+                "buy_price": 9.0682,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-31T16:08:23.61"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GB-A(D)",
+                "net_asset": 994600768,
+                "last_val": 9.0577,
+                "previous_val": 0,
+                "sell_price": 9.1031,
+                "buy_price": 9.0577,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GB-A(D)",
+                "net_asset": 999617088,
+                "last_val": 9.1076,
+                "previous_val": 0,
+                "sell_price": 9.1532,
+                "buy_price": 9.1076,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

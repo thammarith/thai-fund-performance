@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742447640713,
-    "nextUpdate": 1742533560294,
+    "lastUpdate": 1743675736795,
+    "nextUpdate": 1743761853878,
     "data": {
-        "lastNav": "2025-03-19",
+        "lastNav": "2025-04-02",
         "fund": {
             "proj_id": "M0776_2567",
             "regis_id": "MF0701_2567",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "4",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -1022,6 +1022,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-BL30-ThaiESG",
+                "net_asset": 376204992,
+                "last_val": 9.7804,
+                "previous_val": 0,
+                "sell_price": 9.7805,
+                "buy_price": 9.7804,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-24T16:09:34.06"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-BL30-ThaiESG",
+                "net_asset": 376595360,
+                "last_val": 9.778,
+                "previous_val": 0,
+                "sell_price": 9.7781,
+                "buy_price": 9.778,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-BL30-ThaiESG",
+                "net_asset": 375524384,
+                "last_val": 9.7368,
+                "previous_val": 0,
+                "sell_price": 9.7369,
+                "buy_price": 9.7368,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-BL30-ThaiESG",
+                "net_asset": 375919616,
+                "last_val": 9.7454,
+                "previous_val": 0,
+                "sell_price": 9.7455,
+                "buy_price": 9.7454,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-BL30-ThaiESG",
+                "net_asset": 376010560,
+                "last_val": 9.7473,
+                "previous_val": 0,
+                "sell_price": 9.7474,
+                "buy_price": 9.7473,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-31T16:08:23.61"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-BL30-ThaiESG",
+                "net_asset": 375096608,
+                "last_val": 9.7184,
+                "previous_val": 0,
+                "sell_price": 9.7185,
+                "buy_price": 9.7184,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-BL30-ThaiESG",
+                "net_asset": 376728096,
+                "last_val": 9.7387,
+                "previous_val": 0,
+                "sell_price": 9.7388,
+                "buy_price": 9.7387,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-02",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-BL30-ThaiESG",
+                "net_asset": 378177120,
+                "last_val": 9.7716,
+                "previous_val": 0,
+                "sell_price": 9.7717,
+                "buy_price": 9.7716,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

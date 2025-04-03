@@ -1,0 +1,113 @@
+{
+    "lastUpdate": 1743675725432,
+    "nextUpdate": 1743761853878,
+    "data": {
+        "lastNav": "2025-04-01",
+        "fund": {
+            "proj_id": "M0679_2557",
+            "regis_id": "MF0797_2557",
+            "regis_date": "2014-11-26",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิดเค ยูโรเปียน หุ้นทุนเพื่อการเลี้ยงชีพ",
+            "proj_name_en": "K European Equity RMF",
+            "proj_abbr_name": "K-EURMF",
+            "fund_status": "RG",
+            "unique_id": "C0000000021",
+            "permit_us_investment": null,
+            "invest_country_flag": "1",
+            "last_upd_date": "2025-04-03T16:09:10.253"
+        },
+        "navs": [
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-EURMF",
+                "net_asset": 1052548608,
+                "last_val": 18.69,
+                "previous_val": 0,
+                "sell_price": 18.6901,
+                "buy_price": 18.69,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-EURMF",
+                "net_asset": 1052886592,
+                "last_val": 18.6874,
+                "previous_val": 0,
+                "sell_price": 18.6875,
+                "buy_price": 18.6874,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-EURMF",
+                "net_asset": 1057159616,
+                "last_val": 18.7702,
+                "previous_val": 0,
+                "sell_price": 18.7703,
+                "buy_price": 18.7702,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-EURMF",
+                "net_asset": 1046369728,
+                "last_val": 18.5715,
+                "previous_val": 0,
+                "sell_price": 18.5716,
+                "buy_price": 18.5715,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-31T16:08:23.61"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-EURMF",
+                "net_asset": 1033097472,
+                "last_val": 18.3368,
+                "previous_val": 0,
+                "sell_price": 18.3369,
+                "buy_price": 18.3368,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-EURMF",
+                "net_asset": 1016961728,
+                "last_val": 18.0265,
+                "previous_val": 0,
+                "sell_price": 18.0266,
+                "buy_price": 18.0265,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
+            }
+        ]
+    }
+}

@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742447216520,
-    "nextUpdate": 1742533560294,
+    "lastUpdate": 1743675491133,
+    "nextUpdate": 1743761853878,
     "data": {
-        "lastNav": "2025-03-19",
+        "lastNav": "2025-04-02",
         "fund": {
             "proj_id": "M0054_2560",
             "regis_id": "MF0318_2560",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "4",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -15962,6 +15962,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-FIXEDPLUS-A",
+                "net_asset": 29075779584,
+                "last_val": 11.4464,
+                "previous_val": 0,
+                "sell_price": 11.4465,
+                "buy_price": 11.4464,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-24T16:09:34.06"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-FIXEDPLUS-A",
+                "net_asset": 29505929216,
+                "last_val": 11.4392,
+                "previous_val": 0,
+                "sell_price": 11.4393,
+                "buy_price": 11.4392,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-FIXEDPLUS-A",
+                "net_asset": 29810982912,
+                "last_val": 11.4317,
+                "previous_val": 0,
+                "sell_price": 11.4318,
+                "buy_price": 11.4317,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-FIXEDPLUS-A",
+                "net_asset": 30040117248,
+                "last_val": 11.4385,
+                "previous_val": 0,
+                "sell_price": 11.4386,
+                "buy_price": 11.4385,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-FIXEDPLUS-A",
+                "net_asset": 30090909696,
+                "last_val": 11.4406,
+                "previous_val": 0,
+                "sell_price": 11.4407,
+                "buy_price": 11.4406,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-31T16:08:23.61"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-FIXEDPLUS-A",
+                "net_asset": 30408654848,
+                "last_val": 11.4684,
+                "previous_val": 0,
+                "sell_price": 11.4685,
+                "buy_price": 11.4684,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-FIXEDPLUS-A",
+                "net_asset": 30221463552,
+                "last_val": 11.4734,
+                "previous_val": 0,
+                "sell_price": 11.4735,
+                "buy_price": 11.4734,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-02",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-FIXEDPLUS-A",
+                "net_asset": 30562193408,
+                "last_val": 11.4931,
+                "previous_val": 0,
+                "sell_price": 11.4932,
+                "buy_price": 11.4931,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

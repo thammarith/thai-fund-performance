@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742447198105,
-    "nextUpdate": 1742533560294,
+    "lastUpdate": 1743675481017,
+    "nextUpdate": 1743761853878,
     "data": {
-        "lastNav": "2025-03-19",
+        "lastNav": "2025-04-02",
         "fund": {
             "proj_id": "M0036_2565",
             "regis_id": "MF0087_2565",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "4",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -10547,6 +10547,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-DFIXED",
+                "net_asset": 279623232,
+                "last_val": 10.6902,
+                "previous_val": 0,
+                "sell_price": 10.6903,
+                "buy_price": 10.6902,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-24T16:09:34.06"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-DFIXED",
+                "net_asset": 278559072,
+                "last_val": 10.6888,
+                "previous_val": 0,
+                "sell_price": 10.6889,
+                "buy_price": 10.6888,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-DFIXED",
+                "net_asset": 278428832,
+                "last_val": 10.6838,
+                "previous_val": 0,
+                "sell_price": 10.6839,
+                "buy_price": 10.6838,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-DFIXED",
+                "net_asset": 278804288,
+                "last_val": 10.6867,
+                "previous_val": 0,
+                "sell_price": 10.6868,
+                "buy_price": 10.6867,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-DFIXED",
+                "net_asset": 278904768,
+                "last_val": 10.6905,
+                "previous_val": 0,
+                "sell_price": 10.6906,
+                "buy_price": 10.6905,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-31T16:08:23.61"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-DFIXED",
+                "net_asset": 279442912,
+                "last_val": 10.7112,
+                "previous_val": 0,
+                "sell_price": 10.7113,
+                "buy_price": 10.7112,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-DFIXED",
+                "net_asset": 279547296,
+                "last_val": 10.7152,
+                "previous_val": 0,
+                "sell_price": 10.7153,
+                "buy_price": 10.7152,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-02",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-DFIXED",
+                "net_asset": 279786560,
+                "last_val": 10.7243,
+                "previous_val": 0,
+                "sell_price": 10.7244,
+                "buy_price": 10.7243,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

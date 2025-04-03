@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742458033748,
-    "nextUpdate": 1742544197279,
+    "lastUpdate": 1743676065909,
+    "nextUpdate": 1743761853878,
     "data": {
-        "lastNav": "2025-03-18",
+        "lastNav": "2025-04-01",
         "fund": {
             "proj_id": "M0374_2565",
             "regis_id": "MF0251_2565",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000239",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -1757,6 +1757,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBRMJAPAN(A)",
+                "net_asset": 54673164,
+                "last_val": 13.7882,
+                "previous_val": 0,
+                "sell_price": 13.7883,
+                "buy_price": 13.7882,
+                "sell_swap_price": 13.7882,
+                "buy_swap_price": 13.7883,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBRMJAPAN(A)",
+                "net_asset": 55432228,
+                "last_val": 13.9338,
+                "previous_val": 0,
+                "sell_price": 13.9339,
+                "buy_price": 13.9338,
+                "sell_swap_price": 13.9338,
+                "buy_swap_price": 13.9339,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBRMJAPAN(A)",
+                "net_asset": 55396428,
+                "last_val": 13.9086,
+                "previous_val": 0,
+                "sell_price": 13.9087,
+                "buy_price": 13.9086,
+                "sell_swap_price": 13.9086,
+                "buy_swap_price": 13.9087,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBRMJAPAN(A)",
+                "net_asset": 55449100,
+                "last_val": 13.9171,
+                "previous_val": 0,
+                "sell_price": 13.9172,
+                "buy_price": 13.9171,
+                "sell_swap_price": 13.9171,
+                "buy_swap_price": 13.9172,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-28T16:08:01.17"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBRMJAPAN(A)",
+                "net_asset": 55875728,
+                "last_val": 14.0214,
+                "previous_val": 0,
+                "sell_price": 14.0215,
+                "buy_price": 14.0214,
+                "sell_swap_price": 14.0214,
+                "buy_swap_price": 14.0215,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-31T16:08:23.61"
+            },
+            {
+                "nav_date": "2025-03-28",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBRMJAPAN(A)",
+                "net_asset": 54323408,
+                "last_val": 13.634,
+                "previous_val": 0,
+                "sell_price": 13.6341,
+                "buy_price": 13.634,
+                "sell_swap_price": 13.634,
+                "buy_swap_price": 13.6341,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBRMJAPAN(A)",
+                "net_asset": 53335156,
+                "last_val": 13.381,
+                "previous_val": 0,
+                "sell_price": 13.3811,
+                "buy_price": 13.381,
+                "sell_swap_price": 13.381,
+                "buy_swap_price": 13.3811,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBRMJAPAN(A)",
+                "net_asset": 53390128,
+                "last_val": 13.3907,
+                "previous_val": 0,
+                "sell_price": 13.3908,
+                "buy_price": 13.3907,
+                "sell_swap_price": 13.3907,
+                "buy_swap_price": 13.3908,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742447559164,
-    "nextUpdate": 1742533560294,
+    "lastUpdate": 1743675696341,
+    "nextUpdate": 1743761853878,
     "data": {
-        "lastNav": "2025-03-18",
+        "lastNav": "2025-04-01",
         "fund": {
             "proj_id": "M0579_2552",
             "regis_id": "519_2552",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -12017,6 +12017,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-CHINA-A(D)",
+                "net_asset": 12685139968,
+                "last_val": 5.332,
+                "previous_val": 0,
+                "sell_price": 5.4121,
+                "buy_price": 5.332,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-CHINA-A(D)",
+                "net_asset": 12858547200,
+                "last_val": 5.3935,
+                "previous_val": 0,
+                "sell_price": 5.4745,
+                "buy_price": 5.3935,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-CHINA-A(D)",
+                "net_asset": 12629835776,
+                "last_val": 5.2938,
+                "previous_val": 0,
+                "sell_price": 5.3733,
+                "buy_price": 5.2938,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-CHINA-A(D)",
+                "net_asset": 12612056064,
+                "last_val": 5.2858,
+                "previous_val": 0,
+                "sell_price": 5.3652,
+                "buy_price": 5.2858,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-31T16:08:23.61"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-CHINA-A(D)",
+                "net_asset": 12649876480,
+                "last_val": 5.3049,
+                "previous_val": 0,
+                "sell_price": 5.3846,
+                "buy_price": 5.3049,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-CHINA-A(D)",
+                "net_asset": 12316350464,
+                "last_val": 5.1682,
+                "previous_val": 0,
+                "sell_price": 5.2458,
+                "buy_price": 5.1682,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-CHINA-A(D)",
+                "net_asset": 12359601152,
+                "last_val": 5.1833,
+                "previous_val": 0,
+                "sell_price": 5.2612,
+                "buy_price": 5.1833,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

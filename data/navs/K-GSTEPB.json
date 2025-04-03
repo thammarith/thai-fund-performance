@@ -1,0 +1,113 @@
+{
+    "lastUpdate": 1743675661976,
+    "nextUpdate": 1743761853878,
+    "data": {
+        "lastNav": "2025-03-31",
+        "fund": {
+            "proj_id": "M0452_2567",
+            "regis_id": "MF0387_2567",
+            "regis_date": "2024-07-23",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิดเค การันตีสเตปอัป B",
+            "proj_name_en": "K Guaranteed Step-up B Fund",
+            "proj_abbr_name": "K-GSTEPB",
+            "fund_status": "RG",
+            "unique_id": "C0000000021",
+            "permit_us_investment": null,
+            "invest_country_flag": "1",
+            "last_upd_date": "2025-04-03T16:09:10.253"
+        },
+        "navs": [
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GSTEPB",
+                "net_asset": 1176556160,
+                "last_val": 10.1059,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 10.1059,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GSTEPB",
+                "net_asset": 1167261568,
+                "last_val": 10.1086,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 10.1086,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GSTEPB",
+                "net_asset": 1165058944,
+                "last_val": 10.1082,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 10.1082,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-31T16:08:23.61"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GSTEPB",
+                "net_asset": 1150402816,
+                "last_val": 10.1,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 10.1,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GSTEPB",
+                "net_asset": 1149203200,
+                "last_val": 10.1004,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 10.1004,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GSTEPB",
+                "net_asset": 1143772544,
+                "last_val": 10.0971,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 10.0971,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
+            }
+        ]
+    }
+}

@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742447796342,
-    "nextUpdate": 1742533560294,
+    "lastUpdate": 1743675823525,
+    "nextUpdate": 1743761853878,
     "data": {
-        "lastNav": "2025-03-18",
+        "lastNav": "2025-04-01",
         "fund": {
             "proj_id": "M0065_2558",
             "regis_id": "MF0179_2558",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000239",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -13127,6 +13127,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBINDIAE",
+                "net_asset": 106228512,
+                "last_val": 15.5635,
+                "previous_val": 0,
+                "sell_price": 15.5714,
+                "buy_price": 15.539,
+                "sell_swap_price": 15.539,
+                "buy_swap_price": 15.5714,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBINDIAE",
+                "net_asset": 108189896,
+                "last_val": 15.8247,
+                "previous_val": 0,
+                "sell_price": 15.8327,
+                "buy_price": 15.7999,
+                "sell_swap_price": 15.7999,
+                "buy_swap_price": 15.8327,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBINDIAE",
+                "net_asset": 108390584,
+                "last_val": 15.8375,
+                "previous_val": 0,
+                "sell_price": 15.8455,
+                "buy_price": 15.8127,
+                "sell_swap_price": 15.8127,
+                "buy_swap_price": 15.8455,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBINDIAE",
+                "net_asset": 107485696,
+                "last_val": 15.6634,
+                "previous_val": 0,
+                "sell_price": 15.6713,
+                "buy_price": 15.6388,
+                "sell_swap_price": 15.6388,
+                "buy_swap_price": 15.6713,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-28T16:08:01.17"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBINDIAE",
+                "net_asset": 108547648,
+                "last_val": 15.7495,
+                "previous_val": 0,
+                "sell_price": 15.7575,
+                "buy_price": 15.7247,
+                "sell_swap_price": 15.7247,
+                "buy_swap_price": 15.7575,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-31T16:08:23.61"
+            },
+            {
+                "nav_date": "2025-03-28",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBINDIAE",
+                "net_asset": 108071824,
+                "last_val": 15.6273,
+                "previous_val": 0,
+                "sell_price": 15.6352,
+                "buy_price": 15.6028,
+                "sell_swap_price": 15.6028,
+                "buy_swap_price": 15.6352,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBINDIAE",
+                "net_asset": 108812440,
+                "last_val": 15.6606,
+                "previous_val": 0,
+                "sell_price": 15.6685,
+                "buy_price": 15.636,
+                "sell_swap_price": 15.636,
+                "buy_swap_price": 15.6685,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBINDIAE",
+                "net_asset": 108063704,
+                "last_val": 15.5453,
+                "previous_val": 0,
+                "sell_price": 15.5532,
+                "buy_price": 15.5209,
+                "sell_swap_price": 15.5209,
+                "buy_swap_price": 15.5532,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

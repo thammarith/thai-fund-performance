@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742447246153,
-    "nextUpdate": 1742533560294,
+    "lastUpdate": 1743675507265,
+    "nextUpdate": 1743761853878,
     "data": {
-        "lastNav": "2025-03-19",
+        "lastNav": "2025-04-02",
         "fund": {
             "proj_id": "M0074_2558",
             "regis_id": "MF0171_2559",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -2207,6 +2207,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-JPX-C(A)",
+                "net_asset": 109941688,
+                "last_val": 22.8879,
+                "previous_val": 0,
+                "sell_price": 22.9109,
+                "buy_price": 22.8879,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-24T16:09:34.06"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-JPX-C(A)",
+                "net_asset": 110425456,
+                "last_val": 22.8084,
+                "previous_val": 0,
+                "sell_price": 22.8313,
+                "buy_price": 22.8084,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-JPX-C(A)",
+                "net_asset": 110596904,
+                "last_val": 22.8438,
+                "previous_val": 0,
+                "sell_price": 22.8667,
+                "buy_price": 22.8438,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-JPX-C(A)",
+                "net_asset": 111246104,
+                "last_val": 22.9779,
+                "previous_val": 0,
+                "sell_price": 23.001,
+                "buy_price": 22.9779,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-JPX-C(A)",
+                "net_asset": 112002952,
+                "last_val": 22.927,
+                "previous_val": 0,
+                "sell_price": 22.95,
+                "buy_price": 22.927,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-31T16:08:23.61"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-JPX-C(A)",
+                "net_asset": 107387712,
+                "last_val": 21.9822,
+                "previous_val": 0,
+                "sell_price": 22.0043,
+                "buy_price": 21.9822,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-JPX-C(A)",
+                "net_asset": 108098832,
+                "last_val": 21.9788,
+                "previous_val": 0,
+                "sell_price": 22.0009,
+                "buy_price": 21.9788,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-02",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-JPX-C(A)",
+                "net_asset": 107876568,
+                "last_val": 21.9336,
+                "previous_val": 0,
+                "sell_price": 21.9556,
+                "buy_price": 21.9336,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742447792823,
-    "nextUpdate": 1742533560294,
+    "lastUpdate": 1743675820414,
+    "nextUpdate": 1743761853878,
     "data": {
-        "lastNav": "2025-03-18",
+        "lastNav": "2025-04-01",
         "fund": {
             "proj_id": "M0061_2561",
             "regis_id": "MF0055_2561",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000239",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -13142,6 +13142,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBFINR",
+                "net_asset": 7718762,
+                "last_val": 9.7537,
+                "previous_val": 0,
+                "sell_price": 9.8321,
+                "buy_price": 9.7537,
+                "sell_swap_price": 9.7537,
+                "buy_swap_price": 9.8321,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBFINR",
+                "net_asset": 7695761.5,
+                "last_val": 9.7246,
+                "previous_val": 0,
+                "sell_price": 9.8027,
+                "buy_price": 9.7246,
+                "sell_swap_price": 9.7246,
+                "buy_swap_price": 9.8027,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBFINR",
+                "net_asset": 7699533,
+                "last_val": 9.7256,
+                "previous_val": 0,
+                "sell_price": 9.8037,
+                "buy_price": 9.7256,
+                "sell_swap_price": 9.7256,
+                "buy_swap_price": 9.8037,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBFINR",
+                "net_asset": 7695038,
+                "last_val": 9.7199,
+                "previous_val": 0,
+                "sell_price": 9.798,
+                "buy_price": 9.7199,
+                "sell_swap_price": 9.7199,
+                "buy_swap_price": 9.798,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-28T16:08:01.17"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBFINR",
+                "net_asset": 7681019.5,
+                "last_val": 9.7022,
+                "previous_val": 0,
+                "sell_price": 9.7802,
+                "buy_price": 9.7022,
+                "sell_swap_price": 9.7022,
+                "buy_swap_price": 9.7802,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-31T16:08:23.61"
+            },
+            {
+                "nav_date": "2025-03-28",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBFINR",
+                "net_asset": 7707903,
+                "last_val": 9.7362,
+                "previous_val": 0,
+                "sell_price": 9.8144,
+                "buy_price": 9.7362,
+                "sell_swap_price": 9.7362,
+                "buy_swap_price": 9.8144,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBFINR",
+                "net_asset": 7703440.5,
+                "last_val": 9.7305,
+                "previous_val": 0,
+                "sell_price": 9.8087,
+                "buy_price": 9.7305,
+                "sell_swap_price": 9.7305,
+                "buy_swap_price": 9.8087,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBFINR",
+                "net_asset": 7709187.5,
+                "last_val": 9.7378,
+                "previous_val": 0,
+                "sell_price": 9.816,
+                "buy_price": 9.7378,
+                "sell_swap_price": 9.7378,
+                "buy_swap_price": 9.816,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

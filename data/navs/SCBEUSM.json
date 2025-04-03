@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742457819911,
-    "nextUpdate": 1742544197279,
+    "lastUpdate": 1743675878708,
+    "nextUpdate": 1743761853878,
     "data": {
-        "lastNav": "2025-03-18",
+        "lastNav": "2025-04-01",
         "fund": {
             "proj_id": "M0141_2559",
             "regis_id": "MF0228_2559",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000239",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -1742,6 +1742,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBEUSM",
+                "net_asset": 661131008,
+                "last_val": 15.3095,
+                "previous_val": 0,
+                "sell_price": 15.5553,
+                "buy_price": 15.3095,
+                "sell_swap_price": 15.3095,
+                "buy_swap_price": 15.5553,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBEUSM",
+                "net_asset": 660275136,
+                "last_val": 15.2989,
+                "previous_val": 0,
+                "sell_price": 15.5445,
+                "buy_price": 15.2989,
+                "sell_swap_price": 15.2989,
+                "buy_swap_price": 15.5445,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBEUSM",
+                "net_asset": 671641984,
+                "last_val": 15.4986,
+                "previous_val": 0,
+                "sell_price": 15.7475,
+                "buy_price": 15.4986,
+                "sell_swap_price": 15.4986,
+                "buy_swap_price": 15.7475,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBEUSM",
+                "net_asset": 667113088,
+                "last_val": 15.4268,
+                "previous_val": 0,
+                "sell_price": 15.6745,
+                "buy_price": 15.4268,
+                "sell_swap_price": 15.4268,
+                "buy_swap_price": 15.6745,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-28T16:08:01.17"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBEUSM",
+                "net_asset": 657725888,
+                "last_val": 15.1853,
+                "previous_val": 0,
+                "sell_price": 15.4291,
+                "buy_price": 15.1853,
+                "sell_swap_price": 15.1853,
+                "buy_swap_price": 15.4291,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-31T16:08:23.61"
+            },
+            {
+                "nav_date": "2025-03-28",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBEUSM",
+                "net_asset": 657741440,
+                "last_val": 15.1994,
+                "previous_val": 0,
+                "sell_price": 15.4435,
+                "buy_price": 15.1994,
+                "sell_swap_price": 15.1994,
+                "buy_swap_price": 15.4435,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBEUSM",
+                "net_asset": 641835968,
+                "last_val": 14.7421,
+                "previous_val": 0,
+                "sell_price": 14.9788,
+                "buy_price": 14.7421,
+                "sell_swap_price": 14.7421,
+                "buy_swap_price": 14.9788,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBEUSM",
+                "net_asset": 656316544,
+                "last_val": 14.9276,
+                "previous_val": 0,
+                "sell_price": 15.1673,
+                "buy_price": 14.9276,
+                "sell_swap_price": 14.9276,
+                "buy_swap_price": 15.1673,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

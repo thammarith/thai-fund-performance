@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742458210742,
-    "nextUpdate": 1742544197279,
+    "lastUpdate": 1743676179011,
+    "nextUpdate": 1743761853878,
     "data": {
-        "lastNav": "2025-03-19",
+        "lastNav": "2025-04-02",
         "fund": {
             "proj_id": "M0548_2564",
             "regis_id": "MF0062_2565",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000239",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -10127,6 +10127,141 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBRMVIET(A)",
+                "net_asset": 741278592,
+                "last_val": 7.3691,
+                "previous_val": 0,
+                "sell_price": 7.3692,
+                "buy_price": 7.3691,
+                "sell_swap_price": 7.3691,
+                "buy_swap_price": 7.3692,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-24T16:09:34.06"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBRMVIET(A)",
+                "net_asset": 743779904,
+                "last_val": 7.4043,
+                "previous_val": 0,
+                "sell_price": 7.4044,
+                "buy_price": 7.4043,
+                "sell_swap_price": 7.4043,
+                "buy_swap_price": 7.4044,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBRMVIET(A)",
+                "net_asset": 743808192,
+                "last_val": 7.4018,
+                "previous_val": 0,
+                "sell_price": 7.4019,
+                "buy_price": 7.4018,
+                "sell_swap_price": 7.4018,
+                "buy_swap_price": 7.4019,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBRMVIET(A)",
+                "net_asset": 741881792,
+                "last_val": 7.371,
+                "previous_val": 0,
+                "sell_price": 7.3711,
+                "buy_price": 7.371,
+                "sell_swap_price": 7.371,
+                "buy_swap_price": 7.3711,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBRMVIET(A)",
+                "net_asset": 740709056,
+                "last_val": 7.3507,
+                "previous_val": 0,
+                "sell_price": 7.3508,
+                "buy_price": 7.3507,
+                "sell_swap_price": 7.3507,
+                "buy_swap_price": 7.3508,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-28T16:08:01.17"
+            },
+            {
+                "nav_date": "2025-03-28",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBRMVIET(A)",
+                "net_asset": 737321792,
+                "last_val": 7.3152,
+                "previous_val": 0,
+                "sell_price": 7.3153,
+                "buy_price": 7.3152,
+                "sell_swap_price": 7.3152,
+                "buy_swap_price": 7.3153,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-31T16:08:23.61"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBRMVIET(A)",
+                "net_asset": 728897088,
+                "last_val": 7.2472,
+                "previous_val": 0,
+                "sell_price": 7.2473,
+                "buy_price": 7.2472,
+                "sell_swap_price": 7.2472,
+                "buy_swap_price": 7.2473,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBRMVIET(A)",
+                "net_asset": 735745088,
+                "last_val": 7.3149,
+                "previous_val": 0,
+                "sell_price": 7.315,
+                "buy_price": 7.3149,
+                "sell_swap_price": 7.3149,
+                "buy_swap_price": 7.315,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-02",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBRMVIET(A)",
+                "net_asset": 736250112,
+                "last_val": 7.3187,
+                "previous_val": 0,
+                "sell_price": 7.3188,
+                "buy_price": 7.3187,
+                "sell_swap_price": 7.3187,
+                "buy_swap_price": 7.3188,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

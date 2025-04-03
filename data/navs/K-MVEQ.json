@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742447195240,
-    "nextUpdate": 1742533560294,
+    "lastUpdate": 1743675479351,
+    "nextUpdate": 1743761853878,
     "data": {
-        "lastNav": "2025-03-19",
+        "lastNav": "2025-04-02",
         "fund": {
             "proj_id": "M0030_2559",
             "regis_id": "MF0303_2559",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -30557,6 +30557,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-MVEQ",
+                "net_asset": 51959132,
+                "last_val": 9.3769,
+                "previous_val": 0,
+                "sell_price": 9.4708,
+                "buy_price": 9.3769,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-24T16:09:34.06"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-MVEQ",
+                "net_asset": 52268484,
+                "last_val": 9.4327,
+                "previous_val": 0,
+                "sell_price": 9.5271,
+                "buy_price": 9.4327,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-MVEQ",
+                "net_asset": 52102296,
+                "last_val": 9.4027,
+                "previous_val": 0,
+                "sell_price": 9.4968,
+                "buy_price": 9.4027,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-MVEQ",
+                "net_asset": 52056952,
+                "last_val": 9.3943,
+                "previous_val": 0,
+                "sell_price": 9.4883,
+                "buy_price": 9.3943,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-MVEQ",
+                "net_asset": 52072896,
+                "last_val": 9.3972,
+                "previous_val": 0,
+                "sell_price": 9.4913,
+                "buy_price": 9.3972,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-31T16:08:23.61"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-MVEQ",
+                "net_asset": 51211988,
+                "last_val": 9.2418,
+                "previous_val": 0,
+                "sell_price": 9.3343,
+                "buy_price": 9.2418,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-MVEQ",
+                "net_asset": 51687992,
+                "last_val": 9.3268,
+                "previous_val": 0,
+                "sell_price": 9.4202,
+                "buy_price": 9.3268,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-02",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-MVEQ",
+                "net_asset": 51839336,
+                "last_val": 9.354,
+                "previous_val": 0,
+                "sell_price": 9.4476,
+                "buy_price": 9.354,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742447708049,
-    "nextUpdate": 1742533560294,
+    "lastUpdate": 1743675776153,
+    "nextUpdate": 1743761853878,
     "data": {
-        "lastNav": "2025-03-17",
+        "lastNav": "2025-03-31",
         "fund": {
             "proj_id": "M0005_2565",
             "regis_id": "MF0092_2565",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000239",
             "permit_us_investment": null,
             "invest_country_flag": "4",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -9587,6 +9587,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBCIO(A)",
+                "net_asset": 268824608,
+                "last_val": 9.8707,
+                "previous_val": 0,
+                "sell_price": 10.0292,
+                "buy_price": 9.8707,
+                "sell_swap_price": 9.8707,
+                "buy_swap_price": 10.0292,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBCIO(A)",
+                "net_asset": 270595744,
+                "last_val": 9.9355,
+                "previous_val": 0,
+                "sell_price": 10.0951,
+                "buy_price": 9.9355,
+                "sell_swap_price": 9.9355,
+                "buy_swap_price": 10.0951,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBCIO(A)",
+                "net_asset": 270472416,
+                "last_val": 9.9381,
+                "previous_val": 0,
+                "sell_price": 10.0977,
+                "buy_price": 9.9381,
+                "sell_swap_price": 9.9381,
+                "buy_swap_price": 10.0977,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-28T16:08:01.17"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBCIO(A)",
+                "net_asset": 264337328,
+                "last_val": 9.8772,
+                "previous_val": 0,
+                "sell_price": 10.0358,
+                "buy_price": 9.8772,
+                "sell_swap_price": 9.8772,
+                "buy_swap_price": 10.0358,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-31T16:08:23.61"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBCIO(A)",
+                "net_asset": 264079216,
+                "last_val": 9.8626,
+                "previous_val": 0,
+                "sell_price": 10.021,
+                "buy_price": 9.8626,
+                "sell_swap_price": 9.8626,
+                "buy_swap_price": 10.021,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-03-28",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBCIO(A)",
+                "net_asset": 261865824,
+                "last_val": 9.7778,
+                "previous_val": 0,
+                "sell_price": 9.9348,
+                "buy_price": 9.7778,
+                "sell_swap_price": 9.7778,
+                "buy_swap_price": 9.9348,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBCIO(A)",
+                "net_asset": 261245264,
+                "last_val": 9.7562,
+                "previous_val": 0,
+                "sell_price": 9.9129,
+                "buy_price": 9.7562,
+                "sell_swap_price": 9.7562,
+                "buy_swap_price": 9.9129,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

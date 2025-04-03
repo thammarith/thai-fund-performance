@@ -1,6 +1,6 @@
 {
-    "lastUpdate": 1740657099064,
-    "nextUpdate": 1743076292712,
+    "lastUpdate": 1743675460118,
+    "nextUpdate": 1746267453879,
     "data": [
         {
             "proj_id": "M0055_2568",
@@ -14,7 +14,7 @@
             "unique_id": "C0000024008",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         {
             "proj_id": "M0071_2561",
@@ -28,21 +28,21 @@
             "unique_id": "C0000024008",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         {
             "proj_id": "M0074_2568",
-            "regis_id": null,
-            "regis_date": "-",
+            "regis_id": "MF0105_2568",
+            "regis_date": "2025-02-25",
             "cancel_date": "-",
             "proj_name_th": "กองทุนเปิด MEGA WORLD 30 เพื่อการเลี้ยงชีพ",
             "proj_name_en": "MEGA WORLD 30 RETIREMENT MUTUAL FUND",
             "proj_abbr_name": "MEGAWORLD30RMF",
-            "fund_status": "SE",
+            "fund_status": "RG",
             "unique_id": "C0000024008",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         {
             "proj_id": "M0096_2567",
@@ -56,7 +56,7 @@
             "unique_id": "C0000024008",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         {
             "proj_id": "M0130_2567",
@@ -70,7 +70,35 @@
             "unique_id": "C0000024008",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
+        },
+        {
+            "proj_id": "M0140_2568",
+            "regis_id": "MF0138_2568",
+            "regis_date": "2025-03-12",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิดทาลิส หุ้นยูเอส 500-UNHEDGE",
+            "proj_name_en": "TALIS US EQUITY 500-UNHEDGE",
+            "proj_abbr_name": "TLUS500-UH",
+            "fund_status": "RG",
+            "unique_id": "C0000024008",
+            "permit_us_investment": null,
+            "invest_country_flag": "1",
+            "last_upd_date": "2025-04-03T16:09:10.253"
+        },
+        {
+            "proj_id": "M0146_2568",
+            "regis_id": null,
+            "regis_date": "-",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิด MEGA 10 ARTIFICIAL INTELLIGENCE CHINA",
+            "proj_name_en": "MEGA 10 ARTIFICIAL INTELLIGENCE CHINA FUND",
+            "proj_abbr_name": "MEGA10AICHINA",
+            "fund_status": "SE",
+            "unique_id": "C0000024008",
+            "permit_us_investment": null,
+            "invest_country_flag": "1",
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         {
             "proj_id": "M0155_2565",
@@ -84,7 +112,35 @@
             "unique_id": "C0000024008",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
+        },
+        {
+            "proj_id": "M0187_2568",
+            "regis_id": null,
+            "regis_date": "-",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิด MEGA 10 ARTIFICIAL INTELLIGENCE CHINA เพื่อการเลี้ยงชีพ",
+            "proj_name_en": "MEGA 10 ARTIFICIAL INTELLIGENCE CHINA RETIREMENT MUTUAL FUND",
+            "proj_abbr_name": "MEGA10AICHINARMF",
+            "fund_status": "SE",
+            "unique_id": "C0000024008",
+            "permit_us_investment": null,
+            "invest_country_flag": "1",
+            "last_upd_date": "2025-04-03T16:09:10.253"
+        },
+        {
+            "proj_id": "M0209_2568",
+            "regis_id": "MF0137_2568",
+            "regis_date": "2025-03-12",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิดทาลิส หุ้นยูเอส 500-HEDGE",
+            "proj_name_en": "TALIS US EQUITY 500-HEDGE",
+            "proj_abbr_name": "TLUS500-H",
+            "fund_status": "RG",
+            "unique_id": "C0000024008",
+            "permit_us_investment": null,
+            "invest_country_flag": "1",
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         {
             "proj_id": "M0241_2567",
@@ -98,7 +154,7 @@
             "unique_id": "C0000024008",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         {
             "proj_id": "M0344_2564",
@@ -112,7 +168,7 @@
             "unique_id": "C0000024008",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         {
             "proj_id": "M0442_2567",
@@ -126,7 +182,7 @@
             "unique_id": "C0000024008",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         {
             "proj_id": "M0457_2564",
@@ -140,7 +196,7 @@
             "unique_id": "C0000024008",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         {
             "proj_id": "M0478_2564",
@@ -154,7 +210,7 @@
             "unique_id": "C0000024008",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         {
             "proj_id": "M0485_2560",
@@ -168,7 +224,7 @@
             "unique_id": "C0000024008",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         {
             "proj_id": "M0525_2566",
@@ -182,7 +238,7 @@
             "unique_id": "C0000024008",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         {
             "proj_id": "M0532_2559",
@@ -196,7 +252,7 @@
             "unique_id": "C0000024008",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         {
             "proj_id": "M0539_2567",
@@ -210,7 +266,7 @@
             "unique_id": "C0000024008",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         {
             "proj_id": "M0574_2567",
@@ -224,7 +280,7 @@
             "unique_id": "C0000024008",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         {
             "proj_id": "M0585_2559",
@@ -238,7 +294,7 @@
             "unique_id": "C0000024008",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         {
             "proj_id": "M0595_2565",
@@ -252,7 +308,7 @@
             "unique_id": "C0000024008",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         {
             "proj_id": "M0596_2559",
@@ -266,7 +322,7 @@
             "unique_id": "C0000024008",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         {
             "proj_id": "M0598_2559",
@@ -280,7 +336,7 @@
             "unique_id": "C0000024008",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         {
             "proj_id": "M0614_2560",
@@ -294,7 +350,7 @@
             "unique_id": "C0000024008",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         {
             "proj_id": "M0616_2560",
@@ -308,7 +364,7 @@
             "unique_id": "C0000024008",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         {
             "proj_id": "M0619_2565",
@@ -322,7 +378,7 @@
             "unique_id": "C0000024008",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         {
             "proj_id": "M0628_2559",
@@ -336,7 +392,7 @@
             "unique_id": "C0000024008",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         {
             "proj_id": "M0669_2559",
@@ -350,7 +406,7 @@
             "unique_id": "C0000024008",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         {
             "proj_id": "M0681_2559",
@@ -364,7 +420,7 @@
             "unique_id": "C0000024008",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         {
             "proj_id": "M0682_2566",
@@ -378,7 +434,7 @@
             "unique_id": "C0000024008",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         {
             "proj_id": "M0683_2559",
@@ -392,7 +448,7 @@
             "unique_id": "C0000024008",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         {
             "proj_id": "M0761_2566",
@@ -406,7 +462,7 @@
             "unique_id": "C0000024008",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         {
             "proj_id": "M0822_2566",
@@ -420,7 +476,7 @@
             "unique_id": "C0000024008",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         {
             "proj_id": "M0864_2567",
@@ -434,7 +490,7 @@
             "unique_id": "C0000024008",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         }
     ]
 }

@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742447792819,
-    "nextUpdate": 1742533560294,
+    "lastUpdate": 1743675820412,
+    "nextUpdate": 1743761853878,
     "data": {
-        "lastNav": "2025-03-18",
+        "lastNav": "2025-04-01",
         "fund": {
             "proj_id": "M0061_2561",
             "regis_id": "MF0055_2561",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000239",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -13142,6 +13142,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBFINA",
+                "net_asset": 1728293632,
+                "last_val": 9.754,
+                "previous_val": 0,
+                "sell_price": 9.8324,
+                "buy_price": 9.754,
+                "sell_swap_price": 9.754,
+                "buy_swap_price": 9.8324,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBFINA",
+                "net_asset": 1723142656,
+                "last_val": 9.7249,
+                "previous_val": 0,
+                "sell_price": 9.803,
+                "buy_price": 9.7249,
+                "sell_swap_price": 9.7249,
+                "buy_swap_price": 9.803,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBFINA",
+                "net_asset": 1723363712,
+                "last_val": 9.7259,
+                "previous_val": 0,
+                "sell_price": 9.8041,
+                "buy_price": 9.7259,
+                "sell_swap_price": 9.7259,
+                "buy_swap_price": 9.8041,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBFINA",
+                "net_asset": 1701077376,
+                "last_val": 9.7202,
+                "previous_val": 0,
+                "sell_price": 9.7983,
+                "buy_price": 9.7202,
+                "sell_swap_price": 9.7202,
+                "buy_swap_price": 9.7983,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-28T16:08:01.17"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBFINA",
+                "net_asset": 1679174272,
+                "last_val": 9.7025,
+                "previous_val": 0,
+                "sell_price": 9.7805,
+                "buy_price": 9.7025,
+                "sell_swap_price": 9.7025,
+                "buy_swap_price": 9.7805,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-31T16:08:23.61"
+            },
+            {
+                "nav_date": "2025-03-28",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBFINA",
+                "net_asset": 1684264320,
+                "last_val": 9.7365,
+                "previous_val": 0,
+                "sell_price": 9.8147,
+                "buy_price": 9.7365,
+                "sell_swap_price": 9.7365,
+                "buy_swap_price": 9.8147,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBFINA",
+                "net_asset": 1683289600,
+                "last_val": 9.7308,
+                "previous_val": 0,
+                "sell_price": 9.809,
+                "buy_price": 9.7308,
+                "sell_swap_price": 9.7308,
+                "buy_swap_price": 9.809,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBFINA",
+                "net_asset": 1684542592,
+                "last_val": 9.7381,
+                "previous_val": 0,
+                "sell_price": 9.8163,
+                "buy_price": 9.7381,
+                "sell_swap_price": 9.7381,
+                "buy_swap_price": 9.8163,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

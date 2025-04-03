@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742447404293,
-    "nextUpdate": 1742533560294,
+    "lastUpdate": 1743675612310,
+    "nextUpdate": 1743761853878,
     "data": {
-        "lastNav": "2025-03-19",
+        "lastNav": "2025-04-02",
         "fund": {
             "proj_id": "M0315_2547",
             "regis_id": "075_2547",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -15407,6 +15407,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KDLTF-A(D)",
+                "net_asset": 8180356.5,
+                "last_val": 13.0903,
+                "previous_val": 0,
+                "sell_price": 13.2213,
+                "buy_price": 13.0903,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-24T16:09:34.06"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KDLTF-A(D)",
+                "net_asset": 8209393,
+                "last_val": 13.1368,
+                "previous_val": 0,
+                "sell_price": 13.2683,
+                "buy_price": 13.1368,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KDLTF-A(D)",
+                "net_asset": 8155207,
+                "last_val": 13.0485,
+                "previous_val": 0,
+                "sell_price": 13.1791,
+                "buy_price": 13.0485,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KDLTF-A(D)",
+                "net_asset": 8153684.5,
+                "last_val": 13.1012,
+                "previous_val": 0,
+                "sell_price": 13.2323,
+                "buy_price": 13.1012,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KDLTF-A(D)",
+                "net_asset": 8135986,
+                "last_val": 13.0712,
+                "previous_val": 0,
+                "sell_price": 13.202,
+                "buy_price": 13.0712,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-31T16:08:23.61"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KDLTF-A(D)",
+                "net_asset": 7948889,
+                "last_val": 12.769,
+                "previous_val": 0,
+                "sell_price": 12.8968,
+                "buy_price": 12.769,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KDLTF-A(D)",
+                "net_asset": 8051047.5,
+                "last_val": 12.9349,
+                "previous_val": 0,
+                "sell_price": 13.0644,
+                "buy_price": 12.9349,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-02",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KDLTF-A(D)",
+                "net_asset": 8089708,
+                "last_val": 12.9938,
+                "previous_val": 0,
+                "sell_price": 13.1238,
+                "buy_price": 12.9938,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

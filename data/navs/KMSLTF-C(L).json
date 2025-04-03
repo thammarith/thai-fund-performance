@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742447512721,
-    "nextUpdate": 1742533560294,
+    "lastUpdate": 1743675672374,
+    "nextUpdate": 1743761853878,
     "data": {
-        "lastNav": "2025-03-19",
+        "lastNav": "2025-04-02",
         "fund": {
             "proj_id": "M0511_2559",
             "regis_id": "MF0522_2559",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -15407,6 +15407,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KMSLTF-C(L)",
+                "net_asset": 551342016,
+                "last_val": 9.0028,
+                "previous_val": 0,
+                "sell_price": 9.0029,
+                "buy_price": 9.0028,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-24T16:09:34.06"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KMSLTF-C(L)",
+                "net_asset": 548491776,
+                "last_val": 8.9599,
+                "previous_val": 0,
+                "sell_price": 8.96,
+                "buy_price": 8.9599,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KMSLTF-C(L)",
+                "net_asset": 537125696,
+                "last_val": 8.8015,
+                "previous_val": 0,
+                "sell_price": 8.8016,
+                "buy_price": 8.8015,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KMSLTF-C(L)",
+                "net_asset": 537655232,
+                "last_val": 8.8166,
+                "previous_val": 0,
+                "sell_price": 8.8167,
+                "buy_price": 8.8166,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KMSLTF-C(L)",
+                "net_asset": 531762880,
+                "last_val": 8.765,
+                "previous_val": 0,
+                "sell_price": 8.7651,
+                "buy_price": 8.765,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-31T16:08:23.61"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KMSLTF-C(L)",
+                "net_asset": 509673280,
+                "last_val": 8.3758,
+                "previous_val": 0,
+                "sell_price": 8.3759,
+                "buy_price": 8.3758,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KMSLTF-C(L)",
+                "net_asset": 509547488,
+                "last_val": 8.3798,
+                "previous_val": 0,
+                "sell_price": 8.3799,
+                "buy_price": 8.3798,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-02",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KMSLTF-C(L)",
+                "net_asset": 513771008,
+                "last_val": 8.4602,
+                "previous_val": 0,
+                "sell_price": 8.4603,
+                "buy_price": 8.4602,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

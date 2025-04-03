@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742447520789,
-    "nextUpdate": 1742533560294,
+    "lastUpdate": 1743675676755,
+    "nextUpdate": 1743761853878,
     "data": {
-        "lastNav": "2025-03-18",
+        "lastNav": "2025-04-01",
         "fund": {
             "proj_id": "M0512_2567",
             "regis_id": "MF0473_2567",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -1532,6 +1532,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GPINUH-A(A)",
+                "net_asset": 475073504,
+                "last_val": 10.3601,
+                "previous_val": 0,
+                "sell_price": 10.4638,
+                "buy_price": 10.3601,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GPINUH-A(A)",
+                "net_asset": 475494656,
+                "last_val": 10.3693,
+                "previous_val": 0,
+                "sell_price": 10.4731,
+                "buy_price": 10.3693,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GPINUH-A(A)",
+                "net_asset": 475430752,
+                "last_val": 10.3991,
+                "previous_val": 0,
+                "sell_price": 10.5032,
+                "buy_price": 10.3991,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GPINUH-A(A)",
+                "net_asset": 476878048,
+                "last_val": 10.428,
+                "previous_val": 0,
+                "sell_price": 10.5324,
+                "buy_price": 10.428,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-31T16:08:23.61"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GPINUH-A(A)",
+                "net_asset": 478414752,
+                "last_val": 10.4645,
+                "previous_val": 0,
+                "sell_price": 10.5692,
+                "buy_price": 10.4645,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GPINUH-A(A)",
+                "net_asset": 482430976,
+                "last_val": 10.4728,
+                "previous_val": 0,
+                "sell_price": 10.5776,
+                "buy_price": 10.4728,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GPINUH-A(A)",
+                "net_asset": 509881152,
+                "last_val": 10.5467,
+                "previous_val": 0,
+                "sell_price": 10.6523,
+                "buy_price": 10.5467,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

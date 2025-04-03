@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742457934932,
-    "nextUpdate": 1742544197279,
+    "lastUpdate": 1743676006369,
+    "nextUpdate": 1743761853878,
     "data": {
-        "lastNav": "2025-03-19",
+        "lastNav": "2025-04-02",
         "fund": {
             "proj_id": "M0279_2561",
             "regis_id": "MF0242_2561",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000239",
             "permit_us_investment": null,
             "invest_country_flag": "4",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -9227,6 +9227,141 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBPIN(SSFE)",
+                "net_asset": 3851953.5,
+                "last_val": 9.9723,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 9.9723,
+                "sell_swap_price": 9.9723,
+                "buy_swap_price": 9.9724,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-24T16:09:34.06"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBPIN(SSFE)",
+                "net_asset": 3836365.25,
+                "last_val": 9.9574,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 9.9574,
+                "sell_swap_price": 9.9574,
+                "buy_swap_price": 9.9575,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBPIN(SSFE)",
+                "net_asset": 3840750.75,
+                "last_val": 9.9685,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 9.9685,
+                "sell_swap_price": 9.9685,
+                "buy_swap_price": 9.9686,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBPIN(SSFE)",
+                "net_asset": 3847812.25,
+                "last_val": 9.9868,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 9.9868,
+                "sell_swap_price": 9.9868,
+                "buy_swap_price": 9.9869,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBPIN(SSFE)",
+                "net_asset": 3828937.5,
+                "last_val": 9.9378,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 9.9378,
+                "sell_swap_price": 9.9378,
+                "buy_swap_price": 9.9379,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-28T16:08:01.17"
+            },
+            {
+                "nav_date": "2025-03-28",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBPIN(SSFE)",
+                "net_asset": 3832288.5,
+                "last_val": 9.9413,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 9.9413,
+                "sell_swap_price": 9.9413,
+                "buy_swap_price": 9.9414,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-31T16:08:23.61"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBPIN(SSFE)",
+                "net_asset": 3808355.75,
+                "last_val": 9.8792,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBPIN(SSFE)",
+                "net_asset": 3835134.5,
+                "last_val": 9.9487,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 9.9487,
+                "sell_swap_price": 9.9487,
+                "buy_swap_price": 9.9488,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-02",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBPIN(SSFE)",
+                "net_asset": 3685190.75,
+                "last_val": 9.9281,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 9.9281,
+                "sell_swap_price": 9.9281,
+                "buy_swap_price": 9.9282,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

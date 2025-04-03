@@ -1,0 +1,113 @@
+{
+    "lastUpdate": 1743675687117,
+    "nextUpdate": 1743761853878,
+    "data": {
+        "lastNav": "2025-04-01",
+        "fund": {
+            "proj_id": "M0552_2565",
+            "regis_id": "MF0390_2565",
+            "regis_date": "2022-11-29",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิดเค โกลบอล อินคัม เพื่อการเลี้ยงชีพ",
+            "proj_name_en": "K Global Income RMF",
+            "proj_abbr_name": "K-GINCOMERMF",
+            "fund_status": "RG",
+            "unique_id": "C0000000021",
+            "permit_us_investment": null,
+            "invest_country_flag": "1",
+            "last_upd_date": "2025-04-03T16:09:10.253"
+        },
+        "navs": [
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GINCOMERMF",
+                "net_asset": 563910528,
+                "last_val": 10.7709,
+                "previous_val": 0,
+                "sell_price": 10.771,
+                "buy_price": 10.7709,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GINCOMERMF",
+                "net_asset": 565467520,
+                "last_val": 10.8221,
+                "previous_val": 0,
+                "sell_price": 10.8222,
+                "buy_price": 10.8221,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GINCOMERMF",
+                "net_asset": 566061248,
+                "last_val": 10.8372,
+                "previous_val": 0,
+                "sell_price": 10.8373,
+                "buy_price": 10.8372,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GINCOMERMF",
+                "net_asset": 565553728,
+                "last_val": 10.8207,
+                "previous_val": 0,
+                "sell_price": 10.8208,
+                "buy_price": 10.8207,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-31T16:08:23.61"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GINCOMERMF",
+                "net_asset": 564011072,
+                "last_val": 10.7921,
+                "previous_val": 0,
+                "sell_price": 10.7922,
+                "buy_price": 10.7921,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GINCOMERMF",
+                "net_asset": 560939200,
+                "last_val": 10.7281,
+                "previous_val": 0,
+                "sell_price": 10.7282,
+                "buy_price": 10.7281,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
+            }
+        ]
+    }
+}

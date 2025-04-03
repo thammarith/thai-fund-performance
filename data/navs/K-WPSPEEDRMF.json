@@ -1,0 +1,113 @@
+{
+    "lastUpdate": 1743675664731,
+    "nextUpdate": 1743761853878,
+    "data": {
+        "lastNav": "2025-04-01",
+        "fund": {
+            "proj_id": "M0455_2567",
+            "regis_id": "MF0537_2567",
+            "regis_date": "2024-09-25",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิดเค เวลธ์พลัส สปีดอัพ เพื่อการเลี้ยงชีพ",
+            "proj_name_en": "K WealthPLUS SpeedUp RMF",
+            "proj_abbr_name": "K-WPSPEEDRMF",
+            "fund_status": "RG",
+            "unique_id": "C0000000021",
+            "permit_us_investment": null,
+            "invest_country_flag": "4",
+            "last_upd_date": "2025-04-03T16:09:10.253"
+        },
+        "navs": [
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-WPSPEEDRMF",
+                "net_asset": 124272704,
+                "last_val": 9.982,
+                "previous_val": 0,
+                "sell_price": 9.9821,
+                "buy_price": 9.982,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-WPSPEEDRMF",
+                "net_asset": 125372424,
+                "last_val": 10.0736,
+                "previous_val": 0,
+                "sell_price": 10.0737,
+                "buy_price": 10.0736,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-WPSPEEDRMF",
+                "net_asset": 126280608,
+                "last_val": 10.108,
+                "previous_val": 0,
+                "sell_price": 10.1081,
+                "buy_price": 10.108,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-WPSPEEDRMF",
+                "net_asset": 126177272,
+                "last_val": 10.0745,
+                "previous_val": 0,
+                "sell_price": 10.0746,
+                "buy_price": 10.0745,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-31T16:08:23.61"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-WPSPEEDRMF",
+                "net_asset": 125837680,
+                "last_val": 10.0317,
+                "previous_val": 0,
+                "sell_price": 10.0318,
+                "buy_price": 10.0317,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-WPSPEEDRMF",
+                "net_asset": 124510344,
+                "last_val": 9.9232,
+                "previous_val": 0,
+                "sell_price": 9.9233,
+                "buy_price": 9.9232,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
+            }
+        ]
+    }
+}

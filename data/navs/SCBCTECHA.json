@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742457801773,
-    "nextUpdate": 1742544197279,
+    "lastUpdate": 1743675863345,
+    "nextUpdate": 1743761853878,
     "data": {
-        "lastNav": "2025-03-18",
+        "lastNav": "2025-04-01",
         "fund": {
             "proj_id": "M0120_2564",
             "regis_id": "MF0138_2564",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000239",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -13052,6 +13052,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBCTECHA",
+                "net_asset": 2414308864,
+                "last_val": 4.6592,
+                "previous_val": 0,
+                "sell_price": 4.7115,
+                "buy_price": 4.6569,
+                "sell_swap_price": 4.6569,
+                "buy_swap_price": 4.7115,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBCTECHA",
+                "net_asset": 2476960512,
+                "last_val": 4.6638,
+                "previous_val": 0,
+                "sell_price": 4.7161,
+                "buy_price": 4.6615,
+                "sell_swap_price": 4.6615,
+                "buy_swap_price": 4.7161,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBCTECHA",
+                "net_asset": 2444620288,
+                "last_val": 4.5604,
+                "previous_val": 0,
+                "sell_price": 4.6116,
+                "buy_price": 4.5581,
+                "sell_swap_price": 4.5581,
+                "buy_swap_price": 4.6116,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBCTECHA",
+                "net_asset": 2464425216,
+                "last_val": 4.5675,
+                "previous_val": 0,
+                "sell_price": 4.6188,
+                "buy_price": 4.5652,
+                "sell_swap_price": 4.5652,
+                "buy_swap_price": 4.6188,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-28T16:08:01.17"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBCTECHA",
+                "net_asset": 2522095104,
+                "last_val": 4.6322,
+                "previous_val": 0,
+                "sell_price": 4.6842,
+                "buy_price": 4.6299,
+                "sell_swap_price": 4.6299,
+                "buy_swap_price": 4.6842,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-31T16:08:23.61"
+            },
+            {
+                "nav_date": "2025-03-28",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBCTECHA",
+                "net_asset": 2454123520,
+                "last_val": 4.4926,
+                "previous_val": 0,
+                "sell_price": 4.543,
+                "buy_price": 4.4904,
+                "sell_swap_price": 4.4904,
+                "buy_swap_price": 4.543,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBCTECHA",
+                "net_asset": 2443172096,
+                "last_val": 4.4728,
+                "previous_val": 0,
+                "sell_price": 4.523,
+                "buy_price": 4.4706,
+                "sell_swap_price": 4.4706,
+                "buy_swap_price": 4.523,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBCTECHA",
+                "net_asset": 2451343872,
+                "last_val": 4.4844,
+                "previous_val": 0,
+                "sell_price": 4.5347,
+                "buy_price": 4.4822,
+                "sell_swap_price": 4.4822,
+                "buy_swap_price": 4.5347,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

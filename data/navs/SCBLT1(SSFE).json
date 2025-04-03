@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742458251742,
-    "nextUpdate": 1742544197279,
+    "lastUpdate": 1743676226327,
+    "nextUpdate": 1743761853878,
     "data": {
-        "lastNav": "2025-03-19",
+        "lastNav": "2025-04-02",
         "fund": {
             "proj_id": "M0623_2547",
             "regis_id": "078_2547",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000239",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -9242,6 +9242,141 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBLT1(SSFE)",
+                "net_asset": 3093937,
+                "last_val": 14.4117,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 14.4117,
+                "sell_swap_price": 14.4117,
+                "buy_swap_price": 14.4118,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-24T16:09:34.06"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBLT1(SSFE)",
+                "net_asset": 3046833.25,
+                "last_val": 14.4468,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 14.4468,
+                "sell_swap_price": 14.4468,
+                "buy_swap_price": 14.4469,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBLT1(SSFE)",
+                "net_asset": 3031125.75,
+                "last_val": 14.3723,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 14.3723,
+                "sell_swap_price": 14.3723,
+                "buy_swap_price": 14.3724,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBLT1(SSFE)",
+                "net_asset": 3040441,
+                "last_val": 14.4165,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 14.4165,
+                "sell_swap_price": 14.4165,
+                "buy_swap_price": 14.4166,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBLT1(SSFE)",
+                "net_asset": 3032830,
+                "last_val": 14.3804,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 14.3804,
+                "sell_swap_price": 14.3804,
+                "buy_swap_price": 14.3805,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-28T16:08:01.17"
+            },
+            {
+                "nav_date": "2025-03-28",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBLT1(SSFE)",
+                "net_asset": 3011536.5,
+                "last_val": 14.2794,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 14.2794,
+                "sell_swap_price": 14.2794,
+                "buy_swap_price": 14.2795,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-31T16:08:23.61"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBLT1(SSFE)",
+                "net_asset": 2971720.5,
+                "last_val": 14.0906,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 14.0906,
+                "sell_swap_price": 14.0906,
+                "buy_swap_price": 14.0907,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBLT1(SSFE)",
+                "net_asset": 2996991.5,
+                "last_val": 14.2104,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 14.2104,
+                "sell_swap_price": 14.2104,
+                "buy_swap_price": 14.2105,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-02",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBLT1(SSFE)",
+                "net_asset": 3010430.75,
+                "last_val": 14.2742,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 14.2742,
+                "sell_swap_price": 14.2742,
+                "buy_swap_price": 14.2743,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

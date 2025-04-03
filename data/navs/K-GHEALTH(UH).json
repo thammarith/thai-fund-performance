@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742447598106,
-    "nextUpdate": 1742533560294,
+    "lastUpdate": 1743675717307,
+    "nextUpdate": 1743761853878,
     "data": {
-        "lastNav": "2025-03-18",
+        "lastNav": "2025-04-01",
         "fund": {
             "proj_id": "M0639_2558",
             "regis_id": "MF0629_2558",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -11807,6 +11807,96 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GHEALTH(UH)",
+                "net_asset": 812314880,
+                "last_val": 10.5136,
+                "previous_val": 0,
+                "sell_price": 10.6714,
+                "buy_price": 10.5136,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GHEALTH(UH)",
+                "net_asset": 817101568,
+                "last_val": 10.5718,
+                "previous_val": 0,
+                "sell_price": 10.7305,
+                "buy_price": 10.5718,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GHEALTH(UH)",
+                "net_asset": 827680768,
+                "last_val": 10.6036,
+                "previous_val": 0,
+                "sell_price": 10.7628,
+                "buy_price": 10.6036,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GHEALTH(UH)",
+                "net_asset": 817205504,
+                "last_val": 10.4642,
+                "previous_val": 0,
+                "sell_price": 10.6213,
+                "buy_price": 10.4642,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-31T16:08:23.61"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GHEALTH(UH)",
+                "net_asset": 811260160,
+                "last_val": 10.4027,
+                "previous_val": 0,
+                "sell_price": 10.5588,
+                "buy_price": 10.4027,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GHEALTH(UH)",
+                "net_asset": 805721600,
+                "last_val": 10.3423,
+                "previous_val": 0,
+                "sell_price": 10.4975,
+                "buy_price": 10.3423,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

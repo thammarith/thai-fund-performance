@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742447358584,
-    "nextUpdate": 1742533560294,
+    "lastUpdate": 1743675586647,
+    "nextUpdate": 1743761853878,
     "data": {
-        "lastNav": "2025-03-18",
+        "lastNav": "2025-04-01",
         "fund": {
             "proj_id": "M0256_2564",
             "regis_id": "MF0234_2564",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -12227,6 +12227,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-ASIAX",
+                "net_asset": 346068448,
+                "last_val": 7.8277,
+                "previous_val": 0,
+                "sell_price": 7.8356,
+                "buy_price": 7.816,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-ASIAX",
+                "net_asset": 347323840,
+                "last_val": 7.8554,
+                "previous_val": 0,
+                "sell_price": 7.8634,
+                "buy_price": 7.8436,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-ASIAX",
+                "net_asset": 346413184,
+                "last_val": 7.8338,
+                "previous_val": 0,
+                "sell_price": 7.8417,
+                "buy_price": 7.822,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-ASIAX",
+                "net_asset": 343832032,
+                "last_val": 7.7731,
+                "previous_val": 0,
+                "sell_price": 7.781,
+                "buy_price": 7.7614,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-31T16:08:23.61"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-ASIAX",
+                "net_asset": 344632192,
+                "last_val": 7.8184,
+                "previous_val": 0,
+                "sell_price": 7.8263,
+                "buy_price": 7.8067,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-ASIAX",
+                "net_asset": 338306336,
+                "last_val": 7.6436,
+                "previous_val": 0,
+                "sell_price": 7.6513,
+                "buy_price": 7.6321,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-ASIAX",
+                "net_asset": 340201920,
+                "last_val": 7.684,
+                "previous_val": 0,
+                "sell_price": 7.6918,
+                "buy_price": 7.6725,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

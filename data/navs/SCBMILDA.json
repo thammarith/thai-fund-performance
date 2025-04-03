@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742457989825,
-    "nextUpdate": 1742544197279,
+    "lastUpdate": 1743676038783,
+    "nextUpdate": 1743761853878,
     "data": {
-        "lastNav": "2025-03-17",
+        "lastNav": "2025-03-31",
         "fund": {
             "proj_id": "M0324_2562",
             "regis_id": "MF0345_2562",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000239",
             "permit_us_investment": null,
             "invest_country_flag": "4",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -12962,6 +12962,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBMILDA",
+                "net_asset": 34893008,
+                "last_val": 9.9501,
+                "previous_val": 0,
+                "sell_price": 10.0301,
+                "buy_price": 9.9501,
+                "sell_swap_price": 9.9501,
+                "buy_swap_price": 10.0301,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBMILDA",
+                "net_asset": 35049152,
+                "last_val": 9.9947,
+                "previous_val": 0,
+                "sell_price": 10.0751,
+                "buy_price": 9.9947,
+                "sell_swap_price": 9.9947,
+                "buy_swap_price": 10.0751,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBMILDA",
+                "net_asset": 35118760,
+                "last_val": 10.0145,
+                "previous_val": 0,
+                "sell_price": 10.095,
+                "buy_price": 10.0145,
+                "sell_swap_price": 10.0145,
+                "buy_swap_price": 10.095,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-28T16:08:01.17"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBMILDA",
+                "net_asset": 34701636,
+                "last_val": 9.9808,
+                "previous_val": 0,
+                "sell_price": 10.061,
+                "buy_price": 9.9808,
+                "sell_swap_price": 9.9808,
+                "buy_swap_price": 10.061,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-31T16:08:23.61"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBMILDA",
+                "net_asset": 34598500,
+                "last_val": 9.9509,
+                "previous_val": 0,
+                "sell_price": 10.0309,
+                "buy_price": 9.9509,
+                "sell_swap_price": 9.9509,
+                "buy_swap_price": 10.0309,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-03-28",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBMILDA",
+                "net_asset": 34370796,
+                "last_val": 9.8854,
+                "previous_val": 0,
+                "sell_price": 9.9649,
+                "buy_price": 9.8854,
+                "sell_swap_price": 9.8854,
+                "buy_swap_price": 9.9649,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBMILDA",
+                "net_asset": 34268960,
+                "last_val": 9.8561,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

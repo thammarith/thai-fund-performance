@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742457878561,
-    "nextUpdate": 1742544197279,
+    "lastUpdate": 1743675942172,
+    "nextUpdate": 1743761853878,
     "data": {
-        "lastNav": "2025-03-18",
+        "lastNav": "2025-04-01",
         "fund": {
             "proj_id": "M0185_2565",
             "regis_id": "MF0228_2565",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000239",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -8627,6 +8627,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGVALUE(E)",
+                "net_asset": 2726757.75,
+                "last_val": 12.3615,
+                "previous_val": 0,
+                "sell_price": 12.3703,
+                "buy_price": 12.3396,
+                "sell_swap_price": 12.3396,
+                "buy_swap_price": 12.3703,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGVALUE(E)",
+                "net_asset": 2844848.5,
+                "last_val": 12.4109,
+                "previous_val": 0,
+                "sell_price": 12.4197,
+                "buy_price": 12.3889,
+                "sell_swap_price": 12.3889,
+                "buy_swap_price": 12.4197,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGVALUE(E)",
+                "net_asset": 2868056,
+                "last_val": 12.4862,
+                "previous_val": 0,
+                "sell_price": 12.495,
+                "buy_price": 12.4641,
+                "sell_swap_price": 12.4641,
+                "buy_swap_price": 12.495,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGVALUE(E)",
+                "net_asset": 2895347.5,
+                "last_val": 12.4275,
+                "previous_val": 0,
+                "sell_price": 12.4363,
+                "buy_price": 12.4055,
+                "sell_swap_price": 12.4055,
+                "buy_swap_price": 12.4363,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-28T16:08:01.17"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGVALUE(E)",
+                "net_asset": 2883943.25,
+                "last_val": 12.3732,
+                "previous_val": 0,
+                "sell_price": 12.382,
+                "buy_price": 12.3513,
+                "sell_swap_price": 12.3513,
+                "buy_swap_price": 12.382,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-31T16:08:23.61"
+            },
+            {
+                "nav_date": "2025-03-28",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGVALUE(E)",
+                "net_asset": 2845983.25,
+                "last_val": 12.2056,
+                "previous_val": 0,
+                "sell_price": 12.2142,
+                "buy_price": 12.184,
+                "sell_swap_price": 12.184,
+                "buy_swap_price": 12.2142,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGVALUE(E)",
+                "net_asset": 2823692.25,
+                "last_val": 12.0981,
+                "previous_val": 0,
+                "sell_price": 12.1067,
+                "buy_price": 12.0767,
+                "sell_swap_price": 12.0767,
+                "buy_swap_price": 12.1067,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGVALUE(E)",
+                "net_asset": 2858777.5,
+                "last_val": 12.1713,
+                "previous_val": 0,
+                "sell_price": 12.1799,
+                "buy_price": 12.1498,
+                "sell_swap_price": 12.1498,
+                "buy_swap_price": 12.1799,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

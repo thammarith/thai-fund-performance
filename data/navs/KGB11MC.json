@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742447408205,
-    "nextUpdate": 1742533560294,
+    "lastUpdate": 1743675615330,
+    "nextUpdate": 1743761853878,
     "data": {
-        "lastNav": "2025-02-28",
+        "lastNav": "2025-04-02",
         "fund": {
             "proj_id": "M0334_2567",
             "regis_id": "MF0204_2567",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -137,6 +137,36 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KGB11MC",
+                "net_asset": 6855162368,
+                "last_val": 10.1907,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-02",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KGB11MC",
+                "net_asset": 6855673856,
+                "last_val": 10.1915,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

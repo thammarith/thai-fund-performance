@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742457998632,
-    "nextUpdate": 1742544197279,
+    "lastUpdate": 1743676044349,
+    "nextUpdate": 1743761853878,
     "data": {
-        "lastNav": "2025-03-17",
+        "lastNav": "2025-03-31",
         "fund": {
             "proj_id": "M0327_2562",
             "regis_id": "MF0344_2562",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000239",
             "permit_us_investment": null,
             "invest_country_flag": "4",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -12962,6 +12962,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSPICYA",
+                "net_asset": 36740980,
+                "last_val": 10.761,
+                "previous_val": 0,
+                "sell_price": 10.8762,
+                "buy_price": 10.761,
+                "sell_swap_price": 10.761,
+                "buy_swap_price": 10.8762,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSPICYA",
+                "net_asset": 37147124,
+                "last_val": 10.8787,
+                "previous_val": 0,
+                "sell_price": 10.9952,
+                "buy_price": 10.8787,
+                "sell_swap_price": 10.8787,
+                "buy_swap_price": 10.9952,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSPICYA",
+                "net_asset": 37264952,
+                "last_val": 10.9132,
+                "previous_val": 0,
+                "sell_price": 11.0301,
+                "buy_price": 10.9132,
+                "sell_swap_price": 10.9132,
+                "buy_swap_price": 11.0301,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-28T16:08:01.17"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSPICYA",
+                "net_asset": 37010648,
+                "last_val": 10.8388,
+                "previous_val": 0,
+                "sell_price": 10.9549,
+                "buy_price": 10.8388,
+                "sell_swap_price": 10.8388,
+                "buy_swap_price": 10.9549,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-31T16:08:23.61"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSPICYA",
+                "net_asset": 36829532,
+                "last_val": 10.7854,
+                "previous_val": 0,
+                "sell_price": 10.9009,
+                "buy_price": 10.7854,
+                "sell_swap_price": 10.7854,
+                "buy_swap_price": 10.9009,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-03-28",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSPICYA",
+                "net_asset": 36260344,
+                "last_val": 10.6188,
+                "previous_val": 0,
+                "sell_price": 10.7325,
+                "buy_price": 10.6188,
+                "sell_swap_price": 10.6188,
+                "buy_swap_price": 10.7325,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSPICYA",
+                "net_asset": 36085604,
+                "last_val": 10.5667,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }
