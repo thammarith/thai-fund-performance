@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742464078207,
-    "nextUpdate": 1742550399775,
+    "lastUpdate": 1743681943808,
+    "nextUpdate": 1743767978592,
     "data": {
-        "lastNav": "2025-03-18",
+        "lastNav": "2025-04-01",
         "fund": {
             "proj_id": "M0400_2564",
             "regis_id": "MF0408_2564",
@@ -15,7 +15,7 @@
             "unique_id": "C0000005025",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -10577,6 +10577,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP PGE RMF-H",
+                "net_asset": 309062176,
+                "last_val": 10.5843,
+                "previous_val": 0,
+                "sell_price": 10.5844,
+                "buy_price": 10.5843,
+                "sell_swap_price": 10.5843,
+                "buy_swap_price": 10.5844,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP PGE RMF-H",
+                "net_asset": 313472608,
+                "last_val": 10.7362,
+                "previous_val": 0,
+                "sell_price": 10.7363,
+                "buy_price": 10.7362,
+                "sell_swap_price": 10.7362,
+                "buy_swap_price": 10.7363,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP PGE RMF-H",
+                "net_asset": 313249056,
+                "last_val": 10.7426,
+                "previous_val": 0,
+                "sell_price": 10.7427,
+                "buy_price": 10.7426,
+                "sell_swap_price": 10.7426,
+                "buy_swap_price": 10.7427,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP PGE RMF-H",
+                "net_asset": 310455232,
+                "last_val": 10.6235,
+                "previous_val": 0,
+                "sell_price": 10.6236,
+                "buy_price": 10.6235,
+                "sell_swap_price": 10.6235,
+                "buy_swap_price": 10.6236,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-28T16:08:01.17"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP PGE RMF-H",
+                "net_asset": 310165024,
+                "last_val": 10.6065,
+                "previous_val": 0,
+                "sell_price": 10.6066,
+                "buy_price": 10.6065,
+                "sell_swap_price": 10.6065,
+                "buy_swap_price": 10.6066,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP PGE RMF-H",
+                "net_asset": 305315072,
+                "last_val": 10.4354,
+                "previous_val": 0,
+                "sell_price": 10.4355,
+                "buy_price": 10.4354,
+                "sell_swap_price": 10.4354,
+                "buy_swap_price": 10.4355,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP PGE RMF-H",
+                "net_asset": 306832128,
+                "last_val": 10.4756,
+                "previous_val": 0,
+                "sell_price": 10.4757,
+                "buy_price": 10.4756,
+                "sell_swap_price": 10.4756,
+                "buy_swap_price": 10.4757,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

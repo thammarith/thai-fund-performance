@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742458755916,
-    "nextUpdate": 1742544197279,
+    "lastUpdate": 1743681861216,
+    "nextUpdate": 1743767978592,
     "data": {
-        "lastNav": "2025-03-19",
+        "lastNav": "2025-04-02",
         "fund": {
             "proj_id": "M0626_2551",
             "regis_id": "545_2551",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000569",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -57557,6 +57557,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "1AM-TG",
+                "net_asset": 460731360,
+                "last_val": 12.5864,
+                "previous_val": 0,
+                "sell_price": 12.5865,
+                "buy_price": 12.5864,
+                "sell_swap_price": 12.5864,
+                "buy_swap_price": 12.5865,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-24T16:09:34.06"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "1AM-TG",
+                "net_asset": 460782400,
+                "last_val": 12.5878,
+                "previous_val": 0,
+                "sell_price": 12.5879,
+                "buy_price": 12.5878,
+                "sell_swap_price": 12.5878,
+                "buy_swap_price": 12.5879,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "1AM-TG",
+                "net_asset": 461647168,
+                "last_val": 12.5886,
+                "previous_val": 0,
+                "sell_price": 12.5887,
+                "buy_price": 12.5886,
+                "sell_swap_price": 12.5886,
+                "buy_swap_price": 12.5887,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "1AM-TG",
+                "net_asset": 461664096,
+                "last_val": 12.5892,
+                "previous_val": 0,
+                "sell_price": 12.5893,
+                "buy_price": 12.5892,
+                "sell_swap_price": 12.5892,
+                "buy_swap_price": 12.5893,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "1AM-TG",
+                "net_asset": 461688576,
+                "last_val": 12.5896,
+                "previous_val": 0,
+                "sell_price": 12.5897,
+                "buy_price": 12.5896,
+                "sell_swap_price": 12.5896,
+                "buy_swap_price": 12.5897,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-28T16:08:01.17"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "1AM-TG",
+                "net_asset": 462211552,
+                "last_val": 12.5917,
+                "previous_val": 0,
+                "sell_price": 12.5918,
+                "buy_price": 12.5917,
+                "sell_swap_price": 12.5917,
+                "buy_swap_price": 12.5918,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "1AM-TG",
+                "net_asset": 462236224,
+                "last_val": 12.5924,
+                "previous_val": 0,
+                "sell_price": 12.5925,
+                "buy_price": 12.5924,
+                "sell_swap_price": 12.5924,
+                "buy_swap_price": 12.5925,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-02",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "1AM-TG",
+                "net_asset": 462259168,
+                "last_val": 12.593,
+                "previous_val": 0,
+                "sell_price": 12.5931,
+                "buy_price": 12.593,
+                "sell_swap_price": 12.593,
+                "buy_swap_price": 12.5931,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742464192487,
-    "nextUpdate": 1742550399775,
+    "lastUpdate": 1743681997969,
+    "nextUpdate": 1743767978592,
     "data": {
-        "lastNav": "2025-03-18",
+        "lastNav": "2025-04-01",
         "fund": {
             "proj_id": "M0742_2562",
             "regis_id": "MF0205_2563",
@@ -15,7 +15,7 @@
             "unique_id": "C0000005025",
             "permit_us_investment": null,
             "invest_country_flag": "4",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -1697,6 +1697,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SG-AA Ultra Light-SSF",
+                "net_asset": 1841832.38,
+                "last_val": 10.5746,
+                "previous_val": 0,
+                "sell_price": 10.5747,
+                "buy_price": 10.5746,
+                "sell_swap_price": 10.5746,
+                "buy_swap_price": 10.5747,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SG-AA Ultra Light-SSF",
+                "net_asset": 1844499.75,
+                "last_val": 10.5899,
+                "previous_val": 0,
+                "sell_price": 10.59,
+                "buy_price": 10.5899,
+                "sell_swap_price": 10.5899,
+                "buy_swap_price": 10.59,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SG-AA Ultra Light-SSF",
+                "net_asset": 1846016.13,
+                "last_val": 10.5986,
+                "previous_val": 0,
+                "sell_price": 10.5987,
+                "buy_price": 10.5986,
+                "sell_swap_price": 10.5986,
+                "buy_swap_price": 10.5987,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SG-AA Ultra Light-SSF",
+                "net_asset": 1844702.88,
+                "last_val": 10.5911,
+                "previous_val": 0,
+                "sell_price": 10.5912,
+                "buy_price": 10.5911,
+                "sell_swap_price": 10.5911,
+                "buy_swap_price": 10.5912,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-28T16:08:01.17"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SG-AA Ultra Light-SSF",
+                "net_asset": 1843722.63,
+                "last_val": 10.5855,
+                "previous_val": 0,
+                "sell_price": 10.5856,
+                "buy_price": 10.5855,
+                "sell_swap_price": 10.5855,
+                "buy_swap_price": 10.5856,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SG-AA Ultra Light-SSF",
+                "net_asset": 1845698.88,
+                "last_val": 10.5968,
+                "previous_val": 0,
+                "sell_price": 10.5969,
+                "buy_price": 10.5968,
+                "sell_swap_price": 10.5968,
+                "buy_swap_price": 10.5969,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SG-AA Ultra Light-SSF",
+                "net_asset": 1849419,
+                "last_val": 10.6182,
+                "previous_val": 0,
+                "sell_price": 10.6183,
+                "buy_price": 10.6182,
+                "sell_swap_price": 10.6182,
+                "buy_swap_price": 10.6183,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

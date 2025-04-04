@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742464092228,
-    "nextUpdate": 1742550399775,
+    "lastUpdate": 1743681951449,
+    "nextUpdate": 1743767978592,
     "data": {
-        "lastNav": "2025-03-19",
+        "lastNav": "2025-04-02",
         "fund": {
             "proj_id": "M0426_2547",
             "regis_id": "101_2547",
@@ -15,7 +15,7 @@
             "unique_id": "C0000005025",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -24797,6 +24797,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP EQRMF",
+                "net_asset": 1396518144,
+                "last_val": 33.913,
+                "previous_val": 0,
+                "sell_price": 33.9131,
+                "buy_price": 33.913,
+                "sell_swap_price": 33.913,
+                "buy_swap_price": 33.9131,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-24T16:09:34.06"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP EQRMF",
+                "net_asset": 1399222528,
+                "last_val": 33.9766,
+                "previous_val": 0,
+                "sell_price": 33.9767,
+                "buy_price": 33.9766,
+                "sell_swap_price": 33.9766,
+                "buy_swap_price": 33.9767,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP EQRMF",
+                "net_asset": 1387406208,
+                "last_val": 33.6981,
+                "previous_val": 0,
+                "sell_price": 33.6982,
+                "buy_price": 33.6981,
+                "sell_swap_price": 33.6981,
+                "buy_swap_price": 33.6982,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP EQRMF",
+                "net_asset": 1385884032,
+                "last_val": 33.6808,
+                "previous_val": 0,
+                "sell_price": 33.6809,
+                "buy_price": 33.6808,
+                "sell_swap_price": 33.6808,
+                "buy_swap_price": 33.6809,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP EQRMF",
+                "net_asset": 1381878016,
+                "last_val": 33.58,
+                "previous_val": 0,
+                "sell_price": 33.5801,
+                "buy_price": 33.58,
+                "sell_swap_price": 33.58,
+                "buy_swap_price": 33.5801,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-31T16:08:23.61"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP EQRMF",
+                "net_asset": 1343737216,
+                "last_val": 32.6662,
+                "previous_val": 0,
+                "sell_price": 32.6663,
+                "buy_price": 32.6662,
+                "sell_swap_price": 32.6662,
+                "buy_swap_price": 32.6663,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP EQRMF",
+                "net_asset": 1351804928,
+                "last_val": 32.9148,
+                "previous_val": 0,
+                "sell_price": 32.9149,
+                "buy_price": 32.9148,
+                "sell_swap_price": 32.9148,
+                "buy_swap_price": 32.9149,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-02",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP EQRMF",
+                "net_asset": 1357069952,
+                "last_val": 33.0617,
+                "previous_val": 0,
+                "sell_price": 33.0618,
+                "buy_price": 33.0617,
+                "sell_swap_price": 33.0617,
+                "buy_swap_price": 33.0618,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

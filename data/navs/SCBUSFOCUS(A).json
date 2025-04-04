@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742458486021,
-    "nextUpdate": 1742544197279,
+    "lastUpdate": 1743681694081,
+    "nextUpdate": 1743767978592,
     "data": {
-        "lastNav": "2025-03-18",
+        "lastNav": "2025-04-01",
         "fund": {
             "proj_id": "M1020_2567",
             "regis_id": "MF0073_2568",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000239",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -362,6 +362,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBUSFOCUS(A)",
+                "net_asset": 1435297408,
+                "last_val": 9.1447,
+                "previous_val": 0,
+                "sell_price": 9.2426,
+                "buy_price": 9.1447,
+                "sell_swap_price": 9.1447,
+                "buy_swap_price": 9.2426,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBUSFOCUS(A)",
+                "net_asset": 1473156480,
+                "last_val": 9.3872,
+                "previous_val": 0,
+                "sell_price": 9.4877,
+                "buy_price": 9.3872,
+                "sell_swap_price": 9.3872,
+                "buy_swap_price": 9.4877,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBUSFOCUS(A)",
+                "net_asset": 1470300672,
+                "last_val": 9.4076,
+                "previous_val": 0,
+                "sell_price": 9.5084,
+                "buy_price": 9.4076,
+                "sell_swap_price": 9.4076,
+                "buy_swap_price": 9.5084,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBUSFOCUS(A)",
+                "net_asset": 1462021760,
+                "last_val": 9.3386,
+                "previous_val": 0,
+                "sell_price": 9.4386,
+                "buy_price": 9.3386,
+                "sell_swap_price": 9.3386,
+                "buy_swap_price": 9.4386,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-28T16:08:01.17"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBUSFOCUS(A)",
+                "net_asset": 1454744832,
+                "last_val": 9.2829,
+                "previous_val": 0,
+                "sell_price": 9.3823,
+                "buy_price": 9.2829,
+                "sell_swap_price": 9.2829,
+                "buy_swap_price": 9.3823,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-31T16:08:23.61"
+            },
+            {
+                "nav_date": "2025-03-28",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBUSFOCUS(A)",
+                "net_asset": 1433951488,
+                "last_val": 9.1235,
+                "previous_val": 0,
+                "sell_price": 9.2212,
+                "buy_price": 9.1235,
+                "sell_swap_price": 9.1235,
+                "buy_swap_price": 9.2212,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBUSFOCUS(A)",
+                "net_asset": 1415434368,
+                "last_val": 9.0059,
+                "previous_val": 0,
+                "sell_price": 9.1024,
+                "buy_price": 9.0059,
+                "sell_swap_price": 9.0059,
+                "buy_swap_price": 9.1024,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBUSFOCUS(A)",
+                "net_asset": 1437473280,
+                "last_val": 9.1571,
+                "previous_val": 0,
+                "sell_price": 9.2552,
+                "buy_price": 9.1571,
+                "sell_swap_price": 9.1571,
+                "buy_swap_price": 9.2552,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

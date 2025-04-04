@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742458880120,
-    "nextUpdate": 1742544197279,
+    "lastUpdate": 1743681883847,
+    "nextUpdate": 1743767978592,
     "data": {
-        "lastNav": "2025-03-17",
+        "lastNav": "2025-03-31",
         "fund": {
             "proj_id": "M0843_2548",
             "regis_id": "205_2548",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000569",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -13082,6 +13082,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-GEM",
+                "net_asset": 6459957.5,
+                "last_val": 9.7888,
+                "previous_val": 0,
+                "sell_price": 9.8936,
+                "buy_price": 9.7626,
+                "sell_swap_price": 9.7626,
+                "buy_swap_price": 9.8936,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-GEM",
+                "net_asset": 6496258.5,
+                "last_val": 9.8438,
+                "previous_val": 0,
+                "sell_price": 9.9492,
+                "buy_price": 9.8175,
+                "sell_swap_price": 9.8175,
+                "buy_swap_price": 9.9492,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-GEM",
+                "net_asset": 6475551.5,
+                "last_val": 9.8124,
+                "previous_val": 0,
+                "sell_price": 9.9175,
+                "buy_price": 9.7862,
+                "sell_swap_price": 9.7862,
+                "buy_swap_price": 9.9175,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-28T16:08:01.17"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-GEM",
+                "net_asset": 6438293.5,
+                "last_val": 9.7701,
+                "previous_val": 0,
+                "sell_price": 9.8747,
+                "buy_price": 9.744,
+                "sell_swap_price": 9.744,
+                "buy_swap_price": 9.8747,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-31T16:08:23.61"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-GEM",
+                "net_asset": 6439980.5,
+                "last_val": 9.7727,
+                "previous_val": 0,
+                "sell_price": 9.8774,
+                "buy_price": 9.7466,
+                "sell_swap_price": 9.7466,
+                "buy_swap_price": 9.8774,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-03-28",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-GEM",
+                "net_asset": 6340249.5,
+                "last_val": 9.6213,
+                "previous_val": 0,
+                "sell_price": 9.7243,
+                "buy_price": 9.5956,
+                "sell_swap_price": 9.5956,
+                "buy_swap_price": 9.7243,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-GEM",
+                "net_asset": 6262984,
+                "last_val": 9.5041,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

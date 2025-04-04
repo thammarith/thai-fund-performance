@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742458909109,
-    "nextUpdate": 1742544197279,
+    "lastUpdate": 1743681902761,
+    "nextUpdate": 1743767978592,
     "data": {
-        "lastNav": "2025-03-18",
+        "lastNav": "2025-04-01",
         "fund": {
             "proj_id": "M0080_2567",
             "regis_id": "MF0062_2567",
@@ -15,7 +15,7 @@
             "unique_id": "C0000005025",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -1697,6 +1697,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP EMXCN-UH-M",
+                "net_asset": 104169136,
+                "last_val": 9.5601,
+                "previous_val": 0,
+                "sell_price": 9.5602,
+                "buy_price": 9.5601,
+                "sell_swap_price": 9.5601,
+                "buy_swap_price": 9.5602,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP EMXCN-UH-M",
+                "net_asset": 105750288,
+                "last_val": 9.6263,
+                "previous_val": 0,
+                "sell_price": 9.6264,
+                "buy_price": 9.6263,
+                "sell_swap_price": 9.6263,
+                "buy_swap_price": 9.6264,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP EMXCN-UH-M",
+                "net_asset": 106173584,
+                "last_val": 9.6648,
+                "previous_val": 0,
+                "sell_price": 9.6649,
+                "buy_price": 9.6648,
+                "sell_swap_price": 9.6648,
+                "buy_swap_price": 9.6649,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP EMXCN-UH-M",
+                "net_asset": 105241152,
+                "last_val": 9.58,
+                "previous_val": 0,
+                "sell_price": 9.5801,
+                "buy_price": 9.58,
+                "sell_swap_price": 9.58,
+                "buy_swap_price": 9.5801,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-28T16:08:01.17"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP EMXCN-UH-M",
+                "net_asset": 106058696,
+                "last_val": 9.5652,
+                "previous_val": 0,
+                "sell_price": 9.5653,
+                "buy_price": 9.5652,
+                "sell_swap_price": 9.5652,
+                "buy_swap_price": 9.5653,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP EMXCN-UH-M",
+                "net_asset": 104201064,
+                "last_val": 9.3977,
+                "previous_val": 0,
+                "sell_price": 9.3978,
+                "buy_price": 9.3977,
+                "sell_swap_price": 9.3977,
+                "buy_swap_price": 9.3978,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP EMXCN-UH-M",
+                "net_asset": 106106384,
+                "last_val": 9.5034,
+                "previous_val": 0,
+                "sell_price": 9.5035,
+                "buy_price": 9.5034,
+                "sell_swap_price": 9.5034,
+                "buy_swap_price": 9.5035,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742458779796,
-    "nextUpdate": 1742544197279,
+    "lastUpdate": 1743681876365,
+    "nextUpdate": 1743767978592,
     "data": {
-        "lastNav": "2025-03-19",
+        "lastNav": "2025-04-02",
         "fund": {
             "proj_id": "M0746_2550",
             "regis_id": "353_2550",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000569",
             "permit_us_investment": null,
             "invest_country_flag": "4",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -14597,6 +14597,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "1AM-DAILY-SSF",
+                "net_asset": 130962440,
+                "last_val": 12.8519,
+                "previous_val": 0,
+                "sell_price": 12.852,
+                "buy_price": 12.8519,
+                "sell_swap_price": 12.8519,
+                "buy_swap_price": 12.852,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-24T16:09:34.06"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "1AM-DAILY-SSF",
+                "net_asset": 131134776,
+                "last_val": 12.8536,
+                "previous_val": 0,
+                "sell_price": 12.8537,
+                "buy_price": 12.8536,
+                "sell_swap_price": 12.8536,
+                "buy_swap_price": 12.8537,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "1AM-DAILY-SSF",
+                "net_asset": 131188696,
+                "last_val": 12.8542,
+                "previous_val": 0,
+                "sell_price": 12.8543,
+                "buy_price": 12.8542,
+                "sell_swap_price": 12.8542,
+                "buy_swap_price": 12.8543,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "1AM-DAILY-SSF",
+                "net_asset": 130814248,
+                "last_val": 12.8549,
+                "previous_val": 0,
+                "sell_price": 12.855,
+                "buy_price": 12.8549,
+                "sell_swap_price": 12.8549,
+                "buy_swap_price": 12.855,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "1AM-DAILY-SSF",
+                "net_asset": 130954088,
+                "last_val": 12.8554,
+                "previous_val": 0,
+                "sell_price": 12.8555,
+                "buy_price": 12.8554,
+                "sell_swap_price": 12.8554,
+                "buy_swap_price": 12.8555,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-28T16:08:01.17"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "1AM-DAILY-SSF",
+                "net_asset": 130984472,
+                "last_val": 12.8578,
+                "previous_val": 0,
+                "sell_price": 12.8579,
+                "buy_price": 12.8578,
+                "sell_swap_price": 12.8578,
+                "buy_swap_price": 12.8579,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "1AM-DAILY-SSF",
+                "net_asset": 131797072,
+                "last_val": 12.8585,
+                "previous_val": 0,
+                "sell_price": 12.8586,
+                "buy_price": 12.8585,
+                "sell_swap_price": 12.8585,
+                "buy_swap_price": 12.8586,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-02",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "1AM-DAILY-SSF",
+                "net_asset": 132097496,
+                "last_val": 12.8592,
+                "previous_val": 0,
+                "sell_price": 12.8593,
+                "buy_price": 12.8592,
+                "sell_swap_price": 12.8592,
+                "buy_swap_price": 12.8593,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

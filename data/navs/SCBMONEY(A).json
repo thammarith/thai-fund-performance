@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742458421485,
-    "nextUpdate": 1742544197279,
+    "lastUpdate": 1743681663483,
+    "nextUpdate": 1743767978592,
     "data": {
-        "lastNav": "2025-03-19",
+        "lastNav": "2025-04-02",
         "fund": {
             "proj_id": "M0910_2566",
             "regis_id": "MF0097_2567",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000239",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -1877,6 +1877,141 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBMONEY(A)",
+                "net_asset": 783737088,
+                "last_val": 10.2162,
+                "previous_val": 0,
+                "sell_price": 10.2163,
+                "buy_price": 10.2162,
+                "sell_swap_price": 10.2162,
+                "buy_swap_price": 10.2163,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-24T16:09:34.06"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBMONEY(A)",
+                "net_asset": 803311744,
+                "last_val": 10.2178,
+                "previous_val": 0,
+                "sell_price": 10.2179,
+                "buy_price": 10.2178,
+                "sell_swap_price": 10.2178,
+                "buy_swap_price": 10.2179,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBMONEY(A)",
+                "net_asset": 810875904,
+                "last_val": 10.2183,
+                "previous_val": 0,
+                "sell_price": 10.2184,
+                "buy_price": 10.2183,
+                "sell_swap_price": 10.2183,
+                "buy_swap_price": 10.2184,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBMONEY(A)",
+                "net_asset": 814550336,
+                "last_val": 10.2188,
+                "previous_val": 0,
+                "sell_price": 10.2189,
+                "buy_price": 10.2188,
+                "sell_swap_price": 10.2188,
+                "buy_swap_price": 10.2189,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBMONEY(A)",
+                "net_asset": 824851008,
+                "last_val": 10.2193,
+                "previous_val": 0,
+                "sell_price": 10.2194,
+                "buy_price": 10.2193,
+                "sell_swap_price": 10.2193,
+                "buy_swap_price": 10.2194,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-28T16:08:01.17"
+            },
+            {
+                "nav_date": "2025-03-28",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBMONEY(A)",
+                "net_asset": 826022016,
+                "last_val": 10.2198,
+                "previous_val": 0,
+                "sell_price": 10.2199,
+                "buy_price": 10.2198,
+                "sell_swap_price": 10.2198,
+                "buy_swap_price": 10.2199,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-31T16:08:23.61"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBMONEY(A)",
+                "net_asset": 832989504,
+                "last_val": 10.2217,
+                "previous_val": 0,
+                "sell_price": 10.2218,
+                "buy_price": 10.2217,
+                "sell_swap_price": 10.2217,
+                "buy_swap_price": 10.2218,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBMONEY(A)",
+                "net_asset": 825205888,
+                "last_val": 10.2225,
+                "previous_val": 0,
+                "sell_price": 10.2226,
+                "buy_price": 10.2225,
+                "sell_swap_price": 10.2225,
+                "buy_swap_price": 10.2226,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-02",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBMONEY(A)",
+                "net_asset": 824838272,
+                "last_val": 10.2233,
+                "previous_val": 0,
+                "sell_price": 10.2234,
+                "buy_price": 10.2233,
+                "sell_swap_price": 10.2233,
+                "buy_swap_price": 10.2234,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

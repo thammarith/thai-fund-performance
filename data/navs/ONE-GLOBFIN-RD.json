@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742458769383,
-    "nextUpdate": 1742544197279,
+    "lastUpdate": 1743681870431,
+    "nextUpdate": 1743767978592,
     "data": {
-        "lastNav": "2025-03-18",
+        "lastNav": "2025-04-01",
         "fund": {
             "proj_id": "M0664_2560",
             "regis_id": "MF0039_2561",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000569",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -13217,6 +13217,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-GLOBFIN-RD",
+                "net_asset": 16134799,
+                "last_val": 11.7087,
+                "previous_val": 0,
+                "sell_price": 11.8844,
+                "buy_price": 11.7087,
+                "sell_swap_price": 11.7087,
+                "buy_swap_price": 11.8844,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-GLOBFIN-RD",
+                "net_asset": 16554218,
+                "last_val": 11.9991,
+                "previous_val": 0,
+                "sell_price": 12.1792,
+                "buy_price": 11.9991,
+                "sell_swap_price": 11.9991,
+                "buy_swap_price": 12.1792,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-GLOBFIN-RD",
+                "net_asset": 16688990,
+                "last_val": 12.0924,
+                "previous_val": 0,
+                "sell_price": 12.2739,
+                "buy_price": 12.0924,
+                "sell_swap_price": 12.0924,
+                "buy_swap_price": 12.2739,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-GLOBFIN-RD",
+                "net_asset": 16586298,
+                "last_val": 12.0905,
+                "previous_val": 0,
+                "sell_price": 12.272,
+                "buy_price": 12.0905,
+                "sell_swap_price": 12.0905,
+                "buy_swap_price": 12.272,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-28T16:08:01.17"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-GLOBFIN-RD",
+                "net_asset": 16319869,
+                "last_val": 11.8947,
+                "previous_val": 0,
+                "sell_price": 12.0732,
+                "buy_price": 11.8947,
+                "sell_swap_price": 11.8947,
+                "buy_swap_price": 12.0732,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-31T16:08:23.61"
+            },
+            {
+                "nav_date": "2025-03-28",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-GLOBFIN-RD",
+                "net_asset": 15839210,
+                "last_val": 11.5444,
+                "previous_val": 0,
+                "sell_price": 11.7177,
+                "buy_price": 11.5444,
+                "sell_swap_price": 11.5444,
+                "buy_swap_price": 11.7177,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-GLOBFIN-RD",
+                "net_asset": 15563366,
+                "last_val": 11.3433,
+                "previous_val": 0,
+                "sell_price": 11.5135,
+                "buy_price": 11.3433,
+                "sell_swap_price": 11.3433,
+                "buy_swap_price": 11.5135,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-GLOBFIN-RD",
+                "net_asset": 15733796,
+                "last_val": 11.4849,
+                "previous_val": 0,
+                "sell_price": 11.6573,
+                "buy_price": 11.4849,
+                "sell_swap_price": 11.4849,
+                "buy_swap_price": 11.6573,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

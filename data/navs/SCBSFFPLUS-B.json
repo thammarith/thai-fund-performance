@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742458303409,
-    "nextUpdate": 1742544197279,
+    "lastUpdate": 1743681607862,
+    "nextUpdate": 1743767978592,
     "data": {
-        "lastNav": "2025-03-19",
+        "lastNav": "2025-04-02",
         "fund": {
             "proj_id": "M0732_2556",
             "regis_id": "MF0730_2556",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000239",
             "permit_us_investment": null,
             "invest_country_flag": "4",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -15332,6 +15332,141 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSFFPLUS-B",
+                "net_asset": 24492662784,
+                "last_val": 11.5976,
+                "previous_val": 0,
+                "sell_price": 11.5977,
+                "buy_price": 11.5976,
+                "sell_swap_price": 11.5976,
+                "buy_swap_price": 11.5977,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-24T16:09:34.06"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSFFPLUS-B",
+                "net_asset": 24491059200,
+                "last_val": 11.5992,
+                "previous_val": 0,
+                "sell_price": 11.5993,
+                "buy_price": 11.5992,
+                "sell_swap_price": 11.5992,
+                "buy_swap_price": 11.5993,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSFFPLUS-B",
+                "net_asset": 24526430208,
+                "last_val": 11.5996,
+                "previous_val": 0,
+                "sell_price": 11.5997,
+                "buy_price": 11.5996,
+                "sell_swap_price": 11.5996,
+                "buy_swap_price": 11.5997,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSFFPLUS-B",
+                "net_asset": 24574556160,
+                "last_val": 11.6002,
+                "previous_val": 0,
+                "sell_price": 11.6003,
+                "buy_price": 11.6002,
+                "sell_swap_price": 11.6002,
+                "buy_swap_price": 11.6003,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSFFPLUS-B",
+                "net_asset": 24614316032,
+                "last_val": 11.6009,
+                "previous_val": 0,
+                "sell_price": 11.601,
+                "buy_price": 11.6009,
+                "sell_swap_price": 11.6009,
+                "buy_swap_price": 11.601,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-28T16:08:01.17"
+            },
+            {
+                "nav_date": "2025-03-28",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSFFPLUS-B",
+                "net_asset": 24652396544,
+                "last_val": 11.6015,
+                "previous_val": 0,
+                "sell_price": 11.6016,
+                "buy_price": 11.6015,
+                "sell_swap_price": 11.6015,
+                "buy_swap_price": 11.6016,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-31T16:08:23.61"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSFFPLUS-B",
+                "net_asset": 24766494720,
+                "last_val": 11.604,
+                "previous_val": 0,
+                "sell_price": 11.6041,
+                "buy_price": 11.604,
+                "sell_swap_price": 11.604,
+                "buy_swap_price": 11.6041,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSFFPLUS-B",
+                "net_asset": 24760451072,
+                "last_val": 11.6052,
+                "previous_val": 0,
+                "sell_price": 11.6053,
+                "buy_price": 11.6052,
+                "sell_swap_price": 11.6052,
+                "buy_swap_price": 11.6053,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-02",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSFFPLUS-B",
+                "net_asset": 24728555520,
+                "last_val": 11.6062,
+                "previous_val": 0,
+                "sell_price": 11.6063,
+                "buy_price": 11.6062,
+                "sell_swap_price": 11.6062,
+                "buy_swap_price": 11.6063,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

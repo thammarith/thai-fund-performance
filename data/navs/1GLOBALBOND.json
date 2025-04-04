@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742458694057,
-    "nextUpdate": 1742544197279,
+    "lastUpdate": 1743681819179,
+    "nextUpdate": 1743767978592,
     "data": {
-        "lastNav": "2025-03-17",
+        "lastNav": "2025-03-31",
         "fund": {
             "proj_id": "M0430_2550",
             "regis_id": "044_2551",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000569",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -13082,6 +13082,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "1GLOBALBOND",
+                "net_asset": 38757136,
+                "last_val": 8.7999,
+                "previous_val": 0,
+                "sell_price": 8.8,
+                "buy_price": 8.7999,
+                "sell_swap_price": 8.7999,
+                "buy_swap_price": 8.8,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "1GLOBALBOND",
+                "net_asset": 38633792,
+                "last_val": 8.7719,
+                "previous_val": 0,
+                "sell_price": 8.772,
+                "buy_price": 8.7719,
+                "sell_swap_price": 8.7719,
+                "buy_swap_price": 8.772,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "1GLOBALBOND",
+                "net_asset": 38634392,
+                "last_val": 8.772,
+                "previous_val": 0,
+                "sell_price": 8.7721,
+                "buy_price": 8.772,
+                "sell_swap_price": 8.772,
+                "buy_swap_price": 8.7721,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-28T16:08:01.17"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "1GLOBALBOND",
+                "net_asset": 38729188,
+                "last_val": 8.7622,
+                "previous_val": 0,
+                "sell_price": 8.7623,
+                "buy_price": 8.7622,
+                "sell_swap_price": 8.7622,
+                "buy_swap_price": 8.7623,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-31T16:08:23.61"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "1GLOBALBOND",
+                "net_asset": 38618352,
+                "last_val": 8.7371,
+                "previous_val": 0,
+                "sell_price": 8.7372,
+                "buy_price": 8.7371,
+                "sell_swap_price": 8.7371,
+                "buy_swap_price": 8.7372,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-03-28",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "1GLOBALBOND",
+                "net_asset": 38841292,
+                "last_val": 8.7876,
+                "previous_val": 0,
+                "sell_price": 8.7877,
+                "buy_price": 8.7876,
+                "sell_swap_price": 8.7876,
+                "buy_swap_price": 8.7877,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "1GLOBALBOND",
+                "net_asset": 38894452,
+                "last_val": 8.7996,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

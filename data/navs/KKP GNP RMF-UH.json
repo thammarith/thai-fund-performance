@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742464066365,
-    "nextUpdate": 1742550399775,
+    "lastUpdate": 1743681937054,
+    "nextUpdate": 1743767978592,
     "data": {
-        "lastNav": "2025-03-18",
+        "lastNav": "2025-04-01",
         "fund": {
             "proj_id": "M0369_2561",
             "regis_id": "MF0404_2561",
@@ -15,7 +15,7 @@
             "unique_id": "C0000005025",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -12302,6 +12302,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP GNP RMF-UH",
+                "net_asset": 611407616,
+                "last_val": 19.0006,
+                "previous_val": 0,
+                "sell_price": 19.0007,
+                "buy_price": 19.0006,
+                "sell_swap_price": 19.0006,
+                "buy_swap_price": 19.0007,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP GNP RMF-UH",
+                "net_asset": 619118208,
+                "last_val": 19.232,
+                "previous_val": 0,
+                "sell_price": 19.2321,
+                "buy_price": 19.232,
+                "sell_swap_price": 19.232,
+                "buy_swap_price": 19.2321,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP GNP RMF-UH",
+                "net_asset": 623670272,
+                "last_val": 19.3714,
+                "previous_val": 0,
+                "sell_price": 19.3715,
+                "buy_price": 19.3714,
+                "sell_swap_price": 19.3714,
+                "buy_swap_price": 19.3715,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP GNP RMF-UH",
+                "net_asset": 613634368,
+                "last_val": 19.0555,
+                "previous_val": 0,
+                "sell_price": 19.0556,
+                "buy_price": 19.0555,
+                "sell_swap_price": 19.0555,
+                "buy_swap_price": 19.0556,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-28T16:08:01.17"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP GNP RMF-UH",
+                "net_asset": 612279552,
+                "last_val": 18.9731,
+                "previous_val": 0,
+                "sell_price": 18.9732,
+                "buy_price": 18.9731,
+                "sell_swap_price": 18.9731,
+                "buy_swap_price": 18.9732,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP GNP RMF-UH",
+                "net_asset": 599096192,
+                "last_val": 18.5454,
+                "previous_val": 0,
+                "sell_price": 18.5455,
+                "buy_price": 18.5454,
+                "sell_swap_price": 18.5454,
+                "buy_swap_price": 18.5455,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP GNP RMF-UH",
+                "net_asset": 606167488,
+                "last_val": 18.7465,
+                "previous_val": 0,
+                "sell_price": 18.7466,
+                "buy_price": 18.7465,
+                "sell_swap_price": 18.7465,
+                "buy_swap_price": 18.7466,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

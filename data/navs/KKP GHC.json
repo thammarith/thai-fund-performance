@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742464007968,
-    "nextUpdate": 1742550399775,
+    "lastUpdate": 1743681906328,
+    "nextUpdate": 1743767978592,
     "data": {
-        "lastNav": "2025-03-18",
+        "lastNav": "2025-04-01",
         "fund": {
             "proj_id": "M0109_2551",
             "regis_id": "075_2551",
@@ -15,7 +15,7 @@
             "unique_id": "C0000005025",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -12422,6 +12422,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP GHC",
+                "net_asset": 95645016,
+                "last_val": 15.9643,
+                "previous_val": 0,
+                "sell_price": 16.124,
+                "buy_price": 15.9643,
+                "sell_swap_price": 15.9643,
+                "buy_swap_price": 16.124,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP GHC",
+                "net_asset": 96508000,
+                "last_val": 16.108,
+                "previous_val": 0,
+                "sell_price": 16.2692,
+                "buy_price": 16.108,
+                "sell_swap_price": 16.108,
+                "buy_swap_price": 16.2692,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP GHC",
+                "net_asset": 95273984,
+                "last_val": 15.9005,
+                "previous_val": 0,
+                "sell_price": 16.0596,
+                "buy_price": 15.9005,
+                "sell_swap_price": 15.9005,
+                "buy_swap_price": 16.0596,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP GHC",
+                "net_asset": 94125512,
+                "last_val": 15.7088,
+                "previous_val": 0,
+                "sell_price": 15.866,
+                "buy_price": 15.7088,
+                "sell_swap_price": 15.7088,
+                "buy_swap_price": 15.866,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-28T16:08:01.17"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP GHC",
+                "net_asset": 94656968,
+                "last_val": 15.7965,
+                "previous_val": 0,
+                "sell_price": 15.9546,
+                "buy_price": 15.7965,
+                "sell_swap_price": 15.7965,
+                "buy_swap_price": 15.9546,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP GHC",
+                "net_asset": 93328696,
+                "last_val": 15.573,
+                "previous_val": 0,
+                "sell_price": 15.7288,
+                "buy_price": 15.573,
+                "sell_swap_price": 15.573,
+                "buy_swap_price": 15.7288,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP GHC",
+                "net_asset": 91341848,
+                "last_val": 15.2295,
+                "previous_val": 0,
+                "sell_price": 15.3819,
+                "buy_price": 15.2295,
+                "sell_swap_price": 15.2295,
+                "buy_swap_price": 15.3819,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

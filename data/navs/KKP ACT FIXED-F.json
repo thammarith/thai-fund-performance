@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742464134797,
-    "nextUpdate": 1742550399775,
+    "lastUpdate": 1743681971662,
+    "nextUpdate": 1743767978592,
     "data": {
-        "lastNav": "2025-03-19",
+        "lastNav": "2025-04-02",
         "fund": {
             "proj_id": "M0526_2558",
             "regis_id": "MF0517_2558",
@@ -15,7 +15,7 @@
             "unique_id": "C0000005025",
             "permit_us_investment": null,
             "invest_country_flag": "4",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -14732,6 +14732,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP ACT FIXED-F",
+                "net_asset": 243888496,
+                "last_val": 12.3237,
+                "previous_val": 0,
+                "sell_price": 12.3238,
+                "buy_price": 12.3237,
+                "sell_swap_price": 12.3237,
+                "buy_swap_price": 12.3238,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-24T16:09:34.06"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP ACT FIXED-F",
+                "net_asset": 243859632,
+                "last_val": 12.3222,
+                "previous_val": 0,
+                "sell_price": 12.3223,
+                "buy_price": 12.3222,
+                "sell_swap_price": 12.3222,
+                "buy_swap_price": 12.3223,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP ACT FIXED-F",
+                "net_asset": 243745616,
+                "last_val": 12.3164,
+                "previous_val": 0,
+                "sell_price": 12.3165,
+                "buy_price": 12.3164,
+                "sell_swap_price": 12.3164,
+                "buy_swap_price": 12.3165,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP ACT FIXED-F",
+                "net_asset": 243843664,
+                "last_val": 12.3214,
+                "previous_val": 0,
+                "sell_price": 12.3215,
+                "buy_price": 12.3214,
+                "sell_swap_price": 12.3214,
+                "buy_swap_price": 12.3215,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP ACT FIXED-F",
+                "net_asset": 243791936,
+                "last_val": 12.3188,
+                "previous_val": 0,
+                "sell_price": 12.3189,
+                "buy_price": 12.3188,
+                "sell_swap_price": 12.3188,
+                "buy_swap_price": 12.3189,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-31T16:08:23.61"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP ACT FIXED-F",
+                "net_asset": 244341408,
+                "last_val": 12.3465,
+                "previous_val": 0,
+                "sell_price": 12.3466,
+                "buy_price": 12.3465,
+                "sell_swap_price": 12.3465,
+                "buy_swap_price": 12.3466,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP ACT FIXED-F",
+                "net_asset": 235842304,
+                "last_val": 12.3518,
+                "previous_val": 0,
+                "sell_price": 12.3519,
+                "buy_price": 12.3518,
+                "sell_swap_price": 12.3518,
+                "buy_swap_price": 12.3519,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-02",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP ACT FIXED-F",
+                "net_asset": 235988016,
+                "last_val": 12.3595,
+                "previous_val": 0,
+                "sell_price": 12.3596,
+                "buy_price": 12.3595,
+                "sell_swap_price": 12.3595,
+                "buy_swap_price": 12.3596,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

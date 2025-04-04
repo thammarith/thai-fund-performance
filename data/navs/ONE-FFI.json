@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742458730530,
-    "nextUpdate": 1742544197279,
+    "lastUpdate": 1743681843581,
+    "nextUpdate": 1743767978592,
     "data": {
-        "lastNav": "2025-03-18",
+        "lastNav": "2025-04-01",
         "fund": {
             "proj_id": "M0565_2566",
             "regis_id": "MF0516_2567",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000569",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -1682,6 +1682,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-FFI",
+                "net_asset": 862297920,
+                "last_val": 10.3521,
+                "previous_val": 0,
+                "sell_price": 10.3781,
+                "buy_price": 10.3521,
+                "sell_swap_price": 10.3521,
+                "buy_swap_price": 10.3781,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-FFI",
+                "net_asset": 863900928,
+                "last_val": 10.3588,
+                "previous_val": 0,
+                "sell_price": 10.3848,
+                "buy_price": 10.3588,
+                "sell_swap_price": 10.3588,
+                "buy_swap_price": 10.3848,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-FFI",
+                "net_asset": 864101760,
+                "last_val": 10.3853,
+                "previous_val": 0,
+                "sell_price": 10.4114,
+                "buy_price": 10.3853,
+                "sell_swap_price": 10.3853,
+                "buy_swap_price": 10.4114,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-FFI",
+                "net_asset": 863176960,
+                "last_val": 10.3863,
+                "previous_val": 0,
+                "sell_price": 10.4124,
+                "buy_price": 10.3863,
+                "sell_swap_price": 10.3863,
+                "buy_swap_price": 10.4124,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-28T16:08:01.17"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-FFI",
+                "net_asset": 861923840,
+                "last_val": 10.3652,
+                "previous_val": 0,
+                "sell_price": 10.3912,
+                "buy_price": 10.3652,
+                "sell_swap_price": 10.3652,
+                "buy_swap_price": 10.3912,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-31T16:08:23.61"
+            },
+            {
+                "nav_date": "2025-03-28",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-FFI",
+                "net_asset": 912101824,
+                "last_val": 10.3958,
+                "previous_val": 0,
+                "sell_price": 10.4219,
+                "buy_price": 10.3958,
+                "sell_swap_price": 10.3958,
+                "buy_swap_price": 10.4219,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-FFI",
+                "net_asset": 910672704,
+                "last_val": 10.3795,
+                "previous_val": 0,
+                "sell_price": 10.4055,
+                "buy_price": 10.3795,
+                "sell_swap_price": 10.3795,
+                "buy_swap_price": 10.4055,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-FFI",
+                "net_asset": 930907200,
+                "last_val": 10.4415,
+                "previous_val": 0,
+                "sell_price": 10.4677,
+                "buy_price": 10.4415,
+                "sell_swap_price": 10.4415,
+                "buy_swap_price": 10.4677,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

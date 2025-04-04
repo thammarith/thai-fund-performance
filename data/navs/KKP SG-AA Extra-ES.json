@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742464107301,
-    "nextUpdate": 1742550399775,
+    "lastUpdate": 1743681958999,
+    "nextUpdate": 1743767978592,
     "data": {
-        "lastNav": "2025-03-18",
+        "lastNav": "2025-04-01",
         "fund": {
             "proj_id": "M0471_2561",
             "regis_id": "MF0104_2562",
@@ -15,7 +15,7 @@
             "unique_id": "C0000005025",
             "permit_us_investment": null,
             "invest_country_flag": "4",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -1697,6 +1697,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SG-AA Extra-ES",
+                "net_asset": 3666040.5,
+                "last_val": 11.1247,
+                "previous_val": 0,
+                "sell_price": 11.1248,
+                "buy_price": 11.1247,
+                "sell_swap_price": 11.1247,
+                "buy_swap_price": 11.1248,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SG-AA Extra-ES",
+                "net_asset": 3694855,
+                "last_val": 11.213,
+                "previous_val": 0,
+                "sell_price": 11.2131,
+                "buy_price": 11.213,
+                "sell_swap_price": 11.213,
+                "buy_swap_price": 11.2131,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SG-AA Extra-ES",
+                "net_asset": 3716781.5,
+                "last_val": 11.2461,
+                "previous_val": 0,
+                "sell_price": 11.2462,
+                "buy_price": 11.2461,
+                "sell_swap_price": 11.2461,
+                "buy_swap_price": 11.2462,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SG-AA Extra-ES",
+                "net_asset": 3676650.75,
+                "last_val": 11.1782,
+                "previous_val": 0,
+                "sell_price": 11.1783,
+                "buy_price": 11.1782,
+                "sell_swap_price": 11.1782,
+                "buy_swap_price": 11.1783,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-28T16:08:01.17"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SG-AA Extra-ES",
+                "net_asset": 3666296.5,
+                "last_val": 11.1467,
+                "previous_val": 0,
+                "sell_price": 11.1468,
+                "buy_price": 11.1467,
+                "sell_swap_price": 11.1467,
+                "buy_swap_price": 11.1468,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SG-AA Extra-ES",
+                "net_asset": 3629760.75,
+                "last_val": 11.0251,
+                "previous_val": 0,
+                "sell_price": 11.0252,
+                "buy_price": 11.0251,
+                "sell_swap_price": 11.0251,
+                "buy_swap_price": 11.0252,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SG-AA Extra-ES",
+                "net_asset": 3675899.5,
+                "last_val": 11.1041,
+                "previous_val": 0,
+                "sell_price": 11.1042,
+                "buy_price": 11.1041,
+                "sell_swap_price": 11.1041,
+                "buy_swap_price": 11.1042,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

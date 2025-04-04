@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742464196301,
-    "nextUpdate": 1742550399775,
+    "lastUpdate": 1743681999716,
+    "nextUpdate": 1743767978592,
     "data": {
-        "lastNav": "2025-03-18",
+        "lastNav": "2025-04-01",
         "fund": {
             "proj_id": "M0743_2562",
             "regis_id": "MF0056_2563",
@@ -15,7 +15,7 @@
             "unique_id": "C0000005025",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -12077,6 +12077,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP GINFRAEQ-H",
+                "net_asset": 1492738432,
+                "last_val": 15.6445,
+                "previous_val": 0,
+                "sell_price": 15.801,
+                "buy_price": 15.6445,
+                "sell_swap_price": 15.6445,
+                "buy_swap_price": 15.801,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP GINFRAEQ-H",
+                "net_asset": 1488321408,
+                "last_val": 15.5702,
+                "previous_val": 0,
+                "sell_price": 15.726,
+                "buy_price": 15.5702,
+                "sell_swap_price": 15.5702,
+                "buy_swap_price": 15.726,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP GINFRAEQ-H",
+                "net_asset": 1497840256,
+                "last_val": 15.5593,
+                "previous_val": 0,
+                "sell_price": 15.715,
+                "buy_price": 15.5593,
+                "sell_swap_price": 15.5593,
+                "buy_swap_price": 15.715,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP GINFRAEQ-H",
+                "net_asset": 1513639680,
+                "last_val": 15.7146,
+                "previous_val": 0,
+                "sell_price": 15.8718,
+                "buy_price": 15.7146,
+                "sell_swap_price": 15.7146,
+                "buy_swap_price": 15.8718,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-28T16:08:01.17"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP GINFRAEQ-H",
+                "net_asset": 1515843840,
+                "last_val": 15.7199,
+                "previous_val": 0,
+                "sell_price": 15.8772,
+                "buy_price": 15.7199,
+                "sell_swap_price": 15.7199,
+                "buy_swap_price": 15.8772,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP GINFRAEQ-H",
+                "net_asset": 1529745536,
+                "last_val": 15.8799,
+                "previous_val": 0,
+                "sell_price": 16.0388,
+                "buy_price": 15.8799,
+                "sell_swap_price": 15.8799,
+                "buy_swap_price": 16.0388,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP GINFRAEQ-H",
+                "net_asset": 1540672256,
+                "last_val": 15.9362,
+                "previous_val": 0,
+                "sell_price": 16.0957,
+                "buy_price": 15.9362,
+                "sell_swap_price": 15.9362,
+                "buy_swap_price": 16.0957,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

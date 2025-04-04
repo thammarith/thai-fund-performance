@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742458277170,
-    "nextUpdate": 1742544197279,
+    "lastUpdate": 1743681598011,
+    "nextUpdate": 1743767978592,
     "data": {
-        "lastNav": "2025-03-18",
+        "lastNav": "2025-04-01",
         "fund": {
             "proj_id": "M0643_2555",
             "regis_id": "MF0819_2555",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000239",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -13142,6 +13142,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBS&P500-SSF",
+                "net_asset": 3555732480,
+                "last_val": 28.31,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 28.2973,
+                "sell_swap_price": 28.2973,
+                "buy_swap_price": 28.3228,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBS&P500-SSF",
+                "net_asset": 3615916544,
+                "last_val": 28.7919,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 28.7789,
+                "sell_swap_price": 28.7789,
+                "buy_swap_price": 28.805,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBS&P500-SSF",
+                "net_asset": 3624637440,
+                "last_val": 28.8592,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 28.8462,
+                "sell_swap_price": 28.8462,
+                "buy_swap_price": 28.8723,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBS&P500-SSF",
+                "net_asset": 3585603584,
+                "last_val": 28.5369,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 28.5241,
+                "sell_swap_price": 28.5241,
+                "buy_swap_price": 28.5498,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-28T16:08:01.17"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBS&P500-SSF",
+                "net_asset": 3573322752,
+                "last_val": 28.4396,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 28.4268,
+                "sell_swap_price": 28.4268,
+                "buy_swap_price": 28.4525,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-31T16:08:23.61"
+            },
+            {
+                "nav_date": "2025-03-28",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBS&P500-SSF",
+                "net_asset": 3501515520,
+                "last_val": 27.8683,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 27.8558,
+                "sell_swap_price": 27.8558,
+                "buy_swap_price": 27.8809,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBS&P500-SSF",
+                "net_asset": 3522344448,
+                "last_val": 28.0351,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 28.0225,
+                "sell_swap_price": 28.0225,
+                "buy_swap_price": 28.0478,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBS&P500-SSF",
+                "net_asset": 3536169728,
+                "last_val": 28.1537,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 28.141,
+                "sell_swap_price": 28.141,
+                "buy_swap_price": 28.1665,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

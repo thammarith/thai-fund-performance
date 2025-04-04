@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742464050262,
-    "nextUpdate": 1742550399775,
+    "lastUpdate": 1743681929619,
+    "nextUpdate": 1743767978592,
     "data": {
-        "lastNav": "2025-03-18",
+        "lastNav": "2025-04-01",
         "fund": {
             "proj_id": "M0316_2562",
             "regis_id": "MF0302_2562",
@@ -15,7 +15,7 @@
             "unique_id": "C0000005025",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -1697,6 +1697,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP PGE-H-M",
+                "net_asset": 1.06,
+                "last_val": 14.8884,
+                "previous_val": 0,
+                "sell_price": 14.8885,
+                "buy_price": 14.8884,
+                "sell_swap_price": 14.8884,
+                "buy_swap_price": 14.8885,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP PGE-H-M",
+                "net_asset": 1.08,
+                "last_val": 15.1017,
+                "previous_val": 0,
+                "sell_price": 15.1018,
+                "buy_price": 15.1017,
+                "sell_swap_price": 15.1017,
+                "buy_swap_price": 15.1018,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP PGE-H-M",
+                "net_asset": 1.08,
+                "last_val": 15.1111,
+                "previous_val": 0,
+                "sell_price": 15.1112,
+                "buy_price": 15.1111,
+                "sell_swap_price": 15.1111,
+                "buy_swap_price": 15.1112,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP PGE-H-M",
+                "net_asset": 1.06,
+                "last_val": 14.9441,
+                "previous_val": 0,
+                "sell_price": 14.9442,
+                "buy_price": 14.9441,
+                "sell_swap_price": 14.9441,
+                "buy_swap_price": 14.9442,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-28T16:08:01.17"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP PGE-H-M",
+                "net_asset": 1.06,
+                "last_val": 14.9204,
+                "previous_val": 0,
+                "sell_price": 14.9205,
+                "buy_price": 14.9204,
+                "sell_swap_price": 14.9204,
+                "buy_swap_price": 14.9205,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP PGE-H-M",
+                "net_asset": 1.04,
+                "last_val": 14.6808,
+                "previous_val": 0,
+                "sell_price": 14.6809,
+                "buy_price": 14.6808,
+                "sell_swap_price": 14.6808,
+                "buy_swap_price": 14.6809,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP PGE-H-M",
+                "net_asset": 1.04,
+                "last_val": 14.7356,
+                "previous_val": 0,
+                "sell_price": 14.7357,
+                "buy_price": 14.7356,
+                "sell_swap_price": 14.7356,
+                "buy_swap_price": 14.7357,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

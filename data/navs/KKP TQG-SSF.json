@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742464075062,
-    "nextUpdate": 1742550399775,
+    "lastUpdate": 1743681942160,
+    "nextUpdate": 1743767978592,
     "data": {
-        "lastNav": "2025-03-19",
+        "lastNav": "2025-04-02",
         "fund": {
             "proj_id": "M0394_2564",
             "regis_id": "MF0054_2565",
@@ -15,7 +15,7 @@
             "unique_id": "C0000005025",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -10142,6 +10142,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP TQG-SSF",
+                "net_asset": 941495.69,
+                "last_val": 5.1919,
+                "previous_val": 0,
+                "sell_price": 5.192,
+                "buy_price": 5.1919,
+                "sell_swap_price": 5.1919,
+                "buy_swap_price": 5.192,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-24T16:09:34.06"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP TQG-SSF",
+                "net_asset": 936115.56,
+                "last_val": 5.1622,
+                "previous_val": 0,
+                "sell_price": 5.1623,
+                "buy_price": 5.1622,
+                "sell_swap_price": 5.1622,
+                "buy_swap_price": 5.1623,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP TQG-SSF",
+                "net_asset": 930021.81,
+                "last_val": 5.1062,
+                "previous_val": 0,
+                "sell_price": 5.1063,
+                "buy_price": 5.1062,
+                "sell_swap_price": 5.1062,
+                "buy_swap_price": 5.1063,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP TQG-SSF",
+                "net_asset": 927991.63,
+                "last_val": 5.0951,
+                "previous_val": 0,
+                "sell_price": 5.0952,
+                "buy_price": 5.0951,
+                "sell_swap_price": 5.0951,
+                "buy_swap_price": 5.0952,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP TQG-SSF",
+                "net_asset": 920476.44,
+                "last_val": 5.0538,
+                "previous_val": 0,
+                "sell_price": 5.0539,
+                "buy_price": 5.0538,
+                "sell_swap_price": 5.0538,
+                "buy_swap_price": 5.0539,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-31T16:08:23.61"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP TQG-SSF",
+                "net_asset": 886329.94,
+                "last_val": 4.8663,
+                "previous_val": 0,
+                "sell_price": 4.8664,
+                "buy_price": 4.8663,
+                "sell_swap_price": 4.8663,
+                "buy_swap_price": 4.8664,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP TQG-SSF",
+                "net_asset": 900783.75,
+                "last_val": 4.9457,
+                "previous_val": 0,
+                "sell_price": 4.9458,
+                "buy_price": 4.9457,
+                "sell_swap_price": 4.9457,
+                "buy_swap_price": 4.9458,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-02",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP TQG-SSF",
+                "net_asset": 909461.94,
+                "last_val": 4.9933,
+                "previous_val": 0,
+                "sell_price": 4.9934,
+                "buy_price": 4.9933,
+                "sell_swap_price": 4.9933,
+                "buy_swap_price": 4.9934,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

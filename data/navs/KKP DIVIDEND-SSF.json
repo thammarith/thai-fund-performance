@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742464071863,
-    "nextUpdate": 1742550399775,
+    "lastUpdate": 1743681940189,
+    "nextUpdate": 1743767978592,
     "data": {
-        "lastNav": "2025-03-19",
+        "lastNav": "2025-04-02",
         "fund": {
             "proj_id": "M0376_2555",
             "regis_id": "MF0383_2555",
@@ -15,7 +15,7 @@
             "unique_id": "C0000005025",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -11462,6 +11462,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP DIVIDEND-SSF",
+                "net_asset": 17610038,
+                "last_val": 10.9524,
+                "previous_val": 0,
+                "sell_price": 10.9525,
+                "buy_price": 10.9524,
+                "sell_swap_price": 10.9524,
+                "buy_swap_price": 10.9525,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-24T16:09:34.06"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP DIVIDEND-SSF",
+                "net_asset": 17612330,
+                "last_val": 10.9538,
+                "previous_val": 0,
+                "sell_price": 10.9539,
+                "buy_price": 10.9538,
+                "sell_swap_price": 10.9538,
+                "buy_swap_price": 10.9539,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP DIVIDEND-SSF",
+                "net_asset": 17516988,
+                "last_val": 10.8945,
+                "previous_val": 0,
+                "sell_price": 10.8946,
+                "buy_price": 10.8945,
+                "sell_swap_price": 10.8945,
+                "buy_swap_price": 10.8946,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP DIVIDEND-SSF",
+                "net_asset": 17495480,
+                "last_val": 10.8812,
+                "previous_val": 0,
+                "sell_price": 10.8813,
+                "buy_price": 10.8812,
+                "sell_swap_price": 10.8812,
+                "buy_swap_price": 10.8813,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP DIVIDEND-SSF",
+                "net_asset": 17519340,
+                "last_val": 10.896,
+                "previous_val": 0,
+                "sell_price": 10.8961,
+                "buy_price": 10.896,
+                "sell_swap_price": 10.896,
+                "buy_swap_price": 10.8961,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-31T16:08:23.61"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP DIVIDEND-SSF",
+                "net_asset": 16991404,
+                "last_val": 10.5677,
+                "previous_val": 0,
+                "sell_price": 10.5678,
+                "buy_price": 10.5677,
+                "sell_swap_price": 10.5677,
+                "buy_swap_price": 10.5678,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP DIVIDEND-SSF",
+                "net_asset": 17146630,
+                "last_val": 10.6642,
+                "previous_val": 0,
+                "sell_price": 10.6643,
+                "buy_price": 10.6642,
+                "sell_swap_price": 10.6642,
+                "buy_swap_price": 10.6643,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-02",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP DIVIDEND-SSF",
+                "net_asset": 17187208,
+                "last_val": 10.6894,
+                "previous_val": 0,
+                "sell_price": 10.6895,
+                "buy_price": 10.6894,
+                "sell_swap_price": 10.6894,
+                "buy_swap_price": 10.6895,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

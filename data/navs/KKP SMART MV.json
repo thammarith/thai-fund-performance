@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742458906135,
-    "nextUpdate": 1742544197279,
+    "lastUpdate": 1743681901027,
+    "nextUpdate": 1743767978592,
     "data": {
-        "lastNav": "2025-03-19",
+        "lastNav": "2025-04-02",
         "fund": {
             "proj_id": "M0078_2559",
             "regis_id": "MF0124_2559",
@@ -15,7 +15,7 @@
             "unique_id": "C0000005025",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -1907,6 +1907,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SMART MV",
+                "net_asset": 89860504,
+                "last_val": 9.542,
+                "previous_val": 0,
+                "sell_price": 9.5421,
+                "buy_price": 9.542,
+                "sell_swap_price": 9.542,
+                "buy_swap_price": 9.5421,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-24T16:09:34.06"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SMART MV",
+                "net_asset": 89900800,
+                "last_val": 9.5459,
+                "previous_val": 0,
+                "sell_price": 9.546,
+                "buy_price": 9.5459,
+                "sell_swap_price": 9.5459,
+                "buy_swap_price": 9.546,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SMART MV",
+                "net_asset": 89844552,
+                "last_val": 9.5399,
+                "previous_val": 0,
+                "sell_price": 9.54,
+                "buy_price": 9.5399,
+                "sell_swap_price": 9.5399,
+                "buy_swap_price": 9.54,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SMART MV",
+                "net_asset": 89681472,
+                "last_val": 9.5222,
+                "previous_val": 0,
+                "sell_price": 9.5223,
+                "buy_price": 9.5222,
+                "sell_swap_price": 9.5222,
+                "buy_swap_price": 9.5223,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SMART MV",
+                "net_asset": 89778432,
+                "last_val": 9.5324,
+                "previous_val": 0,
+                "sell_price": 9.5325,
+                "buy_price": 9.5324,
+                "sell_swap_price": 9.5324,
+                "buy_swap_price": 9.5325,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-31T16:08:23.61"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SMART MV",
+                "net_asset": 87814824,
+                "last_val": 9.3239,
+                "previous_val": 0,
+                "sell_price": 9.324,
+                "buy_price": 9.3239,
+                "sell_swap_price": 9.3239,
+                "buy_swap_price": 9.324,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SMART MV",
+                "net_asset": 88358224,
+                "last_val": 9.3816,
+                "previous_val": 0,
+                "sell_price": 9.3817,
+                "buy_price": 9.3816,
+                "sell_swap_price": 9.3816,
+                "buy_swap_price": 9.3817,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-02",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SMART MV",
+                "net_asset": 88387560,
+                "last_val": 9.3845,
+                "previous_val": 0,
+                "sell_price": 9.3846,
+                "buy_price": 9.3845,
+                "sell_swap_price": 9.3845,
+                "buy_swap_price": 9.3846,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

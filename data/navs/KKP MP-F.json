@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742464011202,
-    "nextUpdate": 1742550399775,
+    "lastUpdate": 1743681908395,
+    "nextUpdate": 1743767978592,
     "data": {
-        "lastNav": "2025-03-19",
+        "lastNav": "2025-04-02",
         "fund": {
             "proj_id": "M0135_2551",
             "regis_id": "435_2551",
@@ -15,7 +15,7 @@
             "unique_id": "C0000005025",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -1907,6 +1907,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP MP-F",
+                "net_asset": 497948896,
+                "last_val": 12.8609,
+                "previous_val": 0,
+                "sell_price": 12.861,
+                "buy_price": 12.8609,
+                "sell_swap_price": 12.8609,
+                "buy_swap_price": 12.861,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-24T16:09:34.06"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP MP-F",
+                "net_asset": 498014880,
+                "last_val": 12.8627,
+                "previous_val": 0,
+                "sell_price": 12.8628,
+                "buy_price": 12.8627,
+                "sell_swap_price": 12.8627,
+                "buy_swap_price": 12.8628,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP MP-F",
+                "net_asset": 492441664,
+                "last_val": 12.8648,
+                "previous_val": 0,
+                "sell_price": 12.8649,
+                "buy_price": 12.8648,
+                "sell_swap_price": 12.8648,
+                "buy_swap_price": 12.8649,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP MP-F",
+                "net_asset": 492235456,
+                "last_val": 12.8651,
+                "previous_val": 0,
+                "sell_price": 12.8652,
+                "buy_price": 12.8651,
+                "sell_swap_price": 12.8651,
+                "buy_swap_price": 12.8652,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP MP-F",
+                "net_asset": 488969856,
+                "last_val": 12.8674,
+                "previous_val": 0,
+                "sell_price": 12.8675,
+                "buy_price": 12.8674,
+                "sell_swap_price": 12.8674,
+                "buy_swap_price": 12.8675,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-31T16:08:23.61"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP MP-F",
+                "net_asset": 491969664,
+                "last_val": 12.8698,
+                "previous_val": 0,
+                "sell_price": 12.8699,
+                "buy_price": 12.8698,
+                "sell_swap_price": 12.8698,
+                "buy_swap_price": 12.8699,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP MP-F",
+                "net_asset": 491990208,
+                "last_val": 12.8703,
+                "previous_val": 0,
+                "sell_price": 12.8704,
+                "buy_price": 12.8703,
+                "sell_swap_price": 12.8703,
+                "buy_swap_price": 12.8704,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-02",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP MP-F",
+                "net_asset": 491980896,
+                "last_val": 12.8709,
+                "previous_val": 0,
+                "sell_price": 12.871,
+                "buy_price": 12.8709,
+                "sell_swap_price": 12.8709,
+                "buy_swap_price": 12.871,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

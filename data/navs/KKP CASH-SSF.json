@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742464120966,
-    "nextUpdate": 1742550399775,
+    "lastUpdate": 1743681966196,
+    "nextUpdate": 1743767978592,
     "data": {
-        "lastNav": "2025-03-19",
+        "lastNav": "2025-04-02",
         "fund": {
             "proj_id": "M0501_2567",
             "regis_id": "MF0663_2567",
@@ -15,7 +15,7 @@
             "unique_id": "C0000005025",
             "permit_us_investment": null,
             "invest_country_flag": "4",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -1172,6 +1172,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP CASH-SSF",
+                "net_asset": 6580684,
+                "last_val": 10.0694,
+                "previous_val": 0,
+                "sell_price": 10.0695,
+                "buy_price": 10.0694,
+                "sell_swap_price": 10.0694,
+                "buy_swap_price": 10.0695,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-24T16:09:34.06"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP CASH-SSF",
+                "net_asset": 6581963.5,
+                "last_val": 10.0713,
+                "previous_val": 0,
+                "sell_price": 10.0714,
+                "buy_price": 10.0713,
+                "sell_swap_price": 10.0713,
+                "buy_swap_price": 10.0714,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP CASH-SSF",
+                "net_asset": 6582377.5,
+                "last_val": 10.072,
+                "previous_val": 0,
+                "sell_price": 10.0721,
+                "buy_price": 10.072,
+                "sell_swap_price": 10.072,
+                "buy_swap_price": 10.0721,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP CASH-SSF",
+                "net_asset": 6583204.5,
+                "last_val": 10.0732,
+                "previous_val": 0,
+                "sell_price": 10.0733,
+                "buy_price": 10.0732,
+                "sell_swap_price": 10.0732,
+                "buy_swap_price": 10.0733,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP CASH-SSF",
+                "net_asset": 6583683,
+                "last_val": 10.0739,
+                "previous_val": 0,
+                "sell_price": 10.074,
+                "buy_price": 10.0739,
+                "sell_swap_price": 10.0739,
+                "buy_swap_price": 10.074,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-31T16:08:23.61"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP CASH-SSF",
+                "net_asset": 6584872.5,
+                "last_val": 10.0758,
+                "previous_val": 0,
+                "sell_price": 10.0759,
+                "buy_price": 10.0758,
+                "sell_swap_price": 10.0758,
+                "buy_swap_price": 10.0759,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP CASH-SSF",
+                "net_asset": 6689995,
+                "last_val": 10.0765,
+                "previous_val": 0,
+                "sell_price": 10.0766,
+                "buy_price": 10.0765,
+                "sell_swap_price": 10.0765,
+                "buy_swap_price": 10.0766,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-02",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP CASH-SSF",
+                "net_asset": 6690567,
+                "last_val": 10.0774,
+                "previous_val": 0,
+                "sell_price": 10.0775,
+                "buy_price": 10.0774,
+                "sell_swap_price": 10.0774,
+                "buy_swap_price": 10.0775,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742464113919,
-    "nextUpdate": 1742550399775,
+    "lastUpdate": 1743681962379,
+    "nextUpdate": 1743767978592,
     "data": {
-        "lastNav": "2025-03-18",
+        "lastNav": "2025-04-01",
         "fund": {
             "proj_id": "M0488_2564",
             "regis_id": "MF0004_2565",
@@ -15,7 +15,7 @@
             "unique_id": "C0000005025",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -9542,6 +9542,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP INCOME-H-SSF",
+                "net_asset": 44446756,
+                "last_val": 9.5963,
+                "previous_val": 0,
+                "sell_price": 9.5964,
+                "buy_price": 9.5963,
+                "sell_swap_price": 9.5963,
+                "buy_swap_price": 9.5964,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP INCOME-H-SSF",
+                "net_asset": 44553468,
+                "last_val": 9.6193,
+                "previous_val": 0,
+                "sell_price": 9.6194,
+                "buy_price": 9.6193,
+                "sell_swap_price": 9.6193,
+                "buy_swap_price": 9.6194,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP INCOME-H-SSF",
+                "net_asset": 44614636,
+                "last_val": 9.6326,
+                "previous_val": 0,
+                "sell_price": 9.6327,
+                "buy_price": 9.6326,
+                "sell_swap_price": 9.6326,
+                "buy_swap_price": 9.6327,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP INCOME-H-SSF",
+                "net_asset": 44550016,
+                "last_val": 9.6186,
+                "previous_val": 0,
+                "sell_price": 9.6187,
+                "buy_price": 9.6186,
+                "sell_swap_price": 9.6186,
+                "buy_swap_price": 9.6187,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-28T16:08:01.17"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP INCOME-H-SSF",
+                "net_asset": 44407896,
+                "last_val": 9.5912,
+                "previous_val": 0,
+                "sell_price": 9.5913,
+                "buy_price": 9.5912,
+                "sell_swap_price": 9.5912,
+                "buy_swap_price": 9.5913,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP INCOME-H-SSF",
+                "net_asset": 44159872,
+                "last_val": 9.5376,
+                "previous_val": 0,
+                "sell_price": 9.5377,
+                "buy_price": 9.5376,
+                "sell_swap_price": 9.5376,
+                "buy_swap_price": 9.5377,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP INCOME-H-SSF",
+                "net_asset": 44314376,
+                "last_val": 9.571,
+                "previous_val": 0,
+                "sell_price": 9.5711,
+                "buy_price": 9.571,
+                "sell_swap_price": 9.571,
+                "buy_swap_price": 9.5711,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742458382736,
-    "nextUpdate": 1742544197279,
+    "lastUpdate": 1743681640514,
+    "nextUpdate": 1743767978592,
     "data": {
-        "lastNav": "2025-03-19",
+        "lastNav": "2025-04-02",
         "fund": {
             "proj_id": "M0850_2566",
             "regis_id": "MF0533_2566",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000239",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -1772,6 +1772,141 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBTP(ThaiESGE)",
+                "net_asset": 17521156,
+                "last_val": 8.7263,
+                "previous_val": 0,
+                "sell_price": 8.7264,
+                "buy_price": 8.7263,
+                "sell_swap_price": 8.7263,
+                "buy_swap_price": 8.7264,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-24T16:09:34.06"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBTP(ThaiESGE)",
+                "net_asset": 17569474,
+                "last_val": 8.7461,
+                "previous_val": 0,
+                "sell_price": 8.7462,
+                "buy_price": 8.7461,
+                "sell_swap_price": 8.7461,
+                "buy_swap_price": 8.7462,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBTP(ThaiESGE)",
+                "net_asset": 17455164,
+                "last_val": 8.6749,
+                "previous_val": 0,
+                "sell_price": 8.675,
+                "buy_price": 8.6749,
+                "sell_swap_price": 8.6749,
+                "buy_swap_price": 8.675,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBTP(ThaiESGE)",
+                "net_asset": 17605736,
+                "last_val": 8.7062,
+                "previous_val": 0,
+                "sell_price": 8.7063,
+                "buy_price": 8.7062,
+                "sell_swap_price": 8.7062,
+                "buy_swap_price": 8.7063,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBTP(ThaiESGE)",
+                "net_asset": 17635146,
+                "last_val": 8.7122,
+                "previous_val": 0,
+                "sell_price": 8.7123,
+                "buy_price": 8.7122,
+                "sell_swap_price": 8.7122,
+                "buy_swap_price": 8.7123,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-28T16:08:01.17"
+            },
+            {
+                "nav_date": "2025-03-28",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBTP(ThaiESGE)",
+                "net_asset": 17513558,
+                "last_val": 8.6323,
+                "previous_val": 0,
+                "sell_price": 8.6324,
+                "buy_price": 8.6323,
+                "sell_swap_price": 8.6323,
+                "buy_swap_price": 8.6324,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-31T16:08:23.61"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBTP(ThaiESGE)",
+                "net_asset": 17400092,
+                "last_val": 8.5092,
+                "previous_val": 0,
+                "sell_price": 8.5093,
+                "buy_price": 8.5092,
+                "sell_swap_price": 8.5092,
+                "buy_swap_price": 8.5093,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBTP(ThaiESGE)",
+                "net_asset": 17673394,
+                "last_val": 8.5813,
+                "previous_val": 0,
+                "sell_price": 8.5814,
+                "buy_price": 8.5813,
+                "sell_swap_price": 8.5813,
+                "buy_swap_price": 8.5814,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-02",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBTP(ThaiESGE)",
+                "net_asset": 17789704,
+                "last_val": 8.626,
+                "previous_val": 0,
+                "sell_price": 8.6261,
+                "buy_price": 8.626,
+                "sell_swap_price": 8.626,
+                "buy_swap_price": 8.6261,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742464217321,
-    "nextUpdate": 1742550399775,
+    "lastUpdate": 1743682006585,
+    "nextUpdate": 1743767978592,
     "data": {
-        "lastNav": "2025-03-19",
+        "lastNav": "2025-04-02",
         "fund": {
             "proj_id": "M0840_2566",
             "regis_id": "MF0526_2566",
@@ -15,7 +15,7 @@
             "unique_id": "C0000005025",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -3812,6 +3812,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP GB THAI ESG",
+                "net_asset": 5095314432,
+                "last_val": 10.9985,
+                "previous_val": 0,
+                "sell_price": 10.9986,
+                "buy_price": 10.9985,
+                "sell_swap_price": 10.9985,
+                "buy_swap_price": 10.9986,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-24T16:09:34.06"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP GB THAI ESG",
+                "net_asset": 5096285184,
+                "last_val": 10.9911,
+                "previous_val": 0,
+                "sell_price": 10.9912,
+                "buy_price": 10.9911,
+                "sell_swap_price": 10.9911,
+                "buy_swap_price": 10.9912,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP GB THAI ESG",
+                "net_asset": 5098001920,
+                "last_val": 10.9795,
+                "previous_val": 0,
+                "sell_price": 10.9796,
+                "buy_price": 10.9795,
+                "sell_swap_price": 10.9795,
+                "buy_swap_price": 10.9796,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP GB THAI ESG",
+                "net_asset": 5118067712,
+                "last_val": 10.9975,
+                "previous_val": 0,
+                "sell_price": 10.9976,
+                "buy_price": 10.9975,
+                "sell_swap_price": 10.9975,
+                "buy_swap_price": 10.9976,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP GB THAI ESG",
+                "net_asset": 5124371968,
+                "last_val": 10.9924,
+                "previous_val": 0,
+                "sell_price": 10.9925,
+                "buy_price": 10.9924,
+                "sell_swap_price": 10.9924,
+                "buy_swap_price": 10.9925,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-31T16:08:23.61"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP GB THAI ESG",
+                "net_asset": 5173813248,
+                "last_val": 11.0774,
+                "previous_val": 0,
+                "sell_price": 11.0775,
+                "buy_price": 11.0774,
+                "sell_swap_price": 11.0774,
+                "buy_swap_price": 11.0775,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP GB THAI ESG",
+                "net_asset": 5183419904,
+                "last_val": 11.0756,
+                "previous_val": 0,
+                "sell_price": 11.0757,
+                "buy_price": 11.0756,
+                "sell_swap_price": 11.0756,
+                "buy_swap_price": 11.0757,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-02",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP GB THAI ESG",
+                "net_asset": 5216568832,
+                "last_val": 11.1136,
+                "previous_val": 0,
+                "sell_price": 11.1137,
+                "buy_price": 11.1136,
+                "sell_swap_price": 11.1136,
+                "buy_swap_price": 11.1137,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

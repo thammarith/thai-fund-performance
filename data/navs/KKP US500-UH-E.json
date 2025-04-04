@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742464046692,
-    "nextUpdate": 1742550399775,
+    "lastUpdate": 1743681927783,
+    "nextUpdate": 1743767978592,
     "data": {
-        "lastNav": "2025-03-18",
+        "lastNav": "2025-04-01",
         "fund": {
             "proj_id": "M0301_2567",
             "regis_id": "MF0215_2567",
@@ -15,7 +15,7 @@
             "unique_id": "C0000005025",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -1307,6 +1307,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP US500-UH-E",
+                "net_asset": 63242152,
+                "last_val": 10.1869,
+                "previous_val": 0,
+                "sell_price": 10.2142,
+                "buy_price": 10.1597,
+                "sell_swap_price": 10.1597,
+                "buy_swap_price": 10.2142,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP US500-UH-E",
+                "net_asset": 64460916,
+                "last_val": 10.3738,
+                "previous_val": 0,
+                "sell_price": 10.4016,
+                "buy_price": 10.3461,
+                "sell_swap_price": 10.3461,
+                "buy_swap_price": 10.4016,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP US500-UH-E",
+                "net_asset": 65493680,
+                "last_val": 10.4212,
+                "previous_val": 0,
+                "sell_price": 10.4492,
+                "buy_price": 10.3933,
+                "sell_swap_price": 10.3933,
+                "buy_swap_price": 10.4492,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP US500-UH-E",
+                "net_asset": 65270288,
+                "last_val": 10.3042,
+                "previous_val": 0,
+                "sell_price": 10.3319,
+                "buy_price": 10.2766,
+                "sell_swap_price": 10.2766,
+                "buy_swap_price": 10.3319,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-28T16:08:01.17"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP US500-UH-E",
+                "net_asset": 66076300,
+                "last_val": 10.2513,
+                "previous_val": 0,
+                "sell_price": 10.2788,
+                "buy_price": 10.2239,
+                "sell_swap_price": 10.2239,
+                "buy_swap_price": 10.2788,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP US500-UH-E",
+                "net_asset": 65632692,
+                "last_val": 10.1203,
+                "previous_val": 0,
+                "sell_price": 10.1475,
+                "buy_price": 10.0932,
+                "sell_swap_price": 10.0932,
+                "buy_swap_price": 10.1475,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP US500-UH-E",
+                "net_asset": 66624616,
+                "last_val": 10.2129,
+                "previous_val": 0,
+                "sell_price": 10.2403,
+                "buy_price": 10.1856,
+                "sell_swap_price": 10.1856,
+                "buy_swap_price": 10.2403,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

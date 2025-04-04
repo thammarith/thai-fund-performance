@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742458760074,
-    "nextUpdate": 1742544197279,
+    "lastUpdate": 1743681863388,
+    "nextUpdate": 1743767978592,
     "data": {
-        "lastNav": "2025-03-19",
+        "lastNav": "2025-04-02",
         "fund": {
             "proj_id": "M0633_2546",
             "regis_id": "078_2546",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000569",
             "permit_us_investment": null,
             "invest_country_flag": "4",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -75542,6 +75542,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "FLEX-RMF",
+                "net_asset": 176437216,
+                "last_val": 20.5334,
+                "previous_val": 0,
+                "sell_price": 20.5335,
+                "buy_price": 20.5334,
+                "sell_swap_price": 20.5334,
+                "buy_swap_price": 20.5335,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-24T16:09:34.06"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "FLEX-RMF",
+                "net_asset": 176178336,
+                "last_val": 20.6151,
+                "previous_val": 0,
+                "sell_price": 20.6152,
+                "buy_price": 20.6151,
+                "sell_swap_price": 20.6151,
+                "buy_swap_price": 20.6152,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "FLEX-RMF",
+                "net_asset": 175505792,
+                "last_val": 20.5364,
+                "previous_val": 0,
+                "sell_price": 20.5365,
+                "buy_price": 20.5364,
+                "sell_swap_price": 20.5364,
+                "buy_swap_price": 20.5365,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "FLEX-RMF",
+                "net_asset": 176070240,
+                "last_val": 20.6015,
+                "previous_val": 0,
+                "sell_price": 20.6016,
+                "buy_price": 20.6015,
+                "sell_swap_price": 20.6015,
+                "buy_swap_price": 20.6016,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "FLEX-RMF",
+                "net_asset": 175840576,
+                "last_val": 20.5747,
+                "previous_val": 0,
+                "sell_price": 20.5748,
+                "buy_price": 20.5747,
+                "sell_swap_price": 20.5747,
+                "buy_swap_price": 20.5748,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-28T16:08:01.17"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "FLEX-RMF",
+                "net_asset": 172121696,
+                "last_val": 20.1395,
+                "previous_val": 0,
+                "sell_price": 20.1396,
+                "buy_price": 20.1395,
+                "sell_swap_price": 20.1395,
+                "buy_swap_price": 20.1396,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "FLEX-RMF",
+                "net_asset": 173756720,
+                "last_val": 20.3395,
+                "previous_val": 0,
+                "sell_price": 20.3396,
+                "buy_price": 20.3395,
+                "sell_swap_price": 20.3395,
+                "buy_swap_price": 20.3396,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-02",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "FLEX-RMF",
+                "net_asset": 174329632,
+                "last_val": 20.3996,
+                "previous_val": 0,
+                "sell_price": 20.3997,
+                "buy_price": 20.3996,
+                "sell_swap_price": 20.3996,
+                "buy_swap_price": 20.3997,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

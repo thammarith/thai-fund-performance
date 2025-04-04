@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742458594096,
-    "nextUpdate": 1742544197279,
+    "lastUpdate": 1743681761796,
+    "nextUpdate": 1743767978592,
     "data": {
-        "lastNav": "2025-03-19",
+        "lastNav": "2025-04-02",
         "fund": {
             "proj_id": "M0093_2553",
             "regis_id": "244_2553",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000569",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -1907,6 +1907,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "GOLD-RMF-P",
+                "net_asset": 10436995,
+                "last_val": 17.9361,
+                "previous_val": 0,
+                "sell_price": 17.9362,
+                "buy_price": 17.8913,
+                "sell_swap_price": 17.8913,
+                "buy_swap_price": 17.9362,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-24T16:09:34.06"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "GOLD-RMF-P",
+                "net_asset": 10414880,
+                "last_val": 17.8981,
+                "previous_val": 0,
+                "sell_price": 17.8982,
+                "buy_price": 17.8534,
+                "sell_swap_price": 17.8534,
+                "buy_swap_price": 17.8982,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "GOLD-RMF-P",
+                "net_asset": 10389332,
+                "last_val": 17.8713,
+                "previous_val": 0,
+                "sell_price": 17.8714,
+                "buy_price": 17.8266,
+                "sell_swap_price": 17.8266,
+                "buy_swap_price": 17.8714,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "GOLD-RMF-P",
+                "net_asset": 10384723,
+                "last_val": 17.8806,
+                "previous_val": 0,
+                "sell_price": 17.8807,
+                "buy_price": 17.8359,
+                "sell_swap_price": 17.8359,
+                "buy_swap_price": 17.8807,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "GOLD-RMF-P",
+                "net_asset": 10404970,
+                "last_val": 17.9327,
+                "previous_val": 0,
+                "sell_price": 17.9328,
+                "buy_price": 17.8879,
+                "sell_swap_price": 17.8879,
+                "buy_swap_price": 17.9328,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-28T16:08:01.17"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "GOLD-RMF-P",
+                "net_asset": 11540676,
+                "last_val": 18.162,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "GOLD-RMF-P",
+                "net_asset": 11787872,
+                "last_val": 18.5511,
+                "previous_val": 0,
+                "sell_price": 18.5512,
+                "buy_price": 18.5047,
+                "sell_swap_price": 18.5047,
+                "buy_swap_price": 18.5512,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-02",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "GOLD-RMF-P",
+                "net_asset": 11793003,
+                "last_val": 18.5591,
+                "previous_val": 0,
+                "sell_price": 18.5592,
+                "buy_price": 18.5127,
+                "sell_swap_price": 18.5127,
+                "buy_swap_price": 18.5592,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

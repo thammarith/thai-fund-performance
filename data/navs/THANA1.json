@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742458544074,
-    "nextUpdate": 1742544197279,
+    "lastUpdate": 1743681727610,
+    "nextUpdate": 1743767978592,
     "data": {
-        "lastNav": "2025-03-19",
+        "lastNav": "2025-04-02",
         "fund": {
             "proj_id": "M0021_2536",
             "regis_id": "007_2537",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000569",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -1907,6 +1907,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "THANA1",
+                "net_asset": 81278320,
+                "last_val": 8.2776,
+                "previous_val": 0,
+                "sell_price": 8.3663,
+                "buy_price": 8.2776,
+                "sell_swap_price": 8.2776,
+                "buy_swap_price": 8.3663,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-24T16:09:34.06"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "THANA1",
+                "net_asset": 81670680,
+                "last_val": 8.3175,
+                "previous_val": 0,
+                "sell_price": 8.4066,
+                "buy_price": 8.3175,
+                "sell_swap_price": 8.3175,
+                "buy_swap_price": 8.4066,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "THANA1",
+                "net_asset": 81311952,
+                "last_val": 8.281,
+                "previous_val": 0,
+                "sell_price": 8.3697,
+                "buy_price": 8.281,
+                "sell_swap_price": 8.281,
+                "buy_swap_price": 8.3697,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "THANA1",
+                "net_asset": 81606360,
+                "last_val": 8.311,
+                "previous_val": 0,
+                "sell_price": 8.4,
+                "buy_price": 8.311,
+                "sell_swap_price": 8.311,
+                "buy_swap_price": 8.4,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "THANA1",
+                "net_asset": 81482072,
+                "last_val": 8.2983,
+                "previous_val": 0,
+                "sell_price": 8.3872,
+                "buy_price": 8.2983,
+                "sell_swap_price": 8.2983,
+                "buy_swap_price": 8.3872,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-28T16:08:01.17"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "THANA1",
+                "net_asset": 79722472,
+                "last_val": 8.1191,
+                "previous_val": 0,
+                "sell_price": 8.2061,
+                "buy_price": 8.1191,
+                "sell_swap_price": 8.1191,
+                "buy_swap_price": 8.2061,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "THANA1",
+                "net_asset": 80576064,
+                "last_val": 8.2061,
+                "previous_val": 0,
+                "sell_price": 8.294,
+                "buy_price": 8.2061,
+                "sell_swap_price": 8.2061,
+                "buy_swap_price": 8.294,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-02",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "THANA1",
+                "net_asset": 80811320,
+                "last_val": 8.2295,
+                "previous_val": 0,
+                "sell_price": 8.3177,
+                "buy_price": 8.2295,
+                "sell_swap_price": 8.2295,
+                "buy_swap_price": 8.3177,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

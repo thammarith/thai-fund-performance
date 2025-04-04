@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742458719205,
-    "nextUpdate": 1742544197279,
+    "lastUpdate": 1743681836282,
+    "nextUpdate": 1743767978592,
     "data": {
-        "lastNav": "2025-03-19",
+        "lastNav": "2025-04-02",
         "fund": {
             "proj_id": "M0512_2546",
             "regis_id": "073_2546",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000569",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -15407,6 +15407,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "1AMSET50-RU",
+                "net_asset": 229795984,
+                "last_val": 50.1007,
+                "previous_val": 0,
+                "sell_price": 50.3688,
+                "buy_price": 50.1007,
+                "sell_swap_price": 50.1007,
+                "buy_swap_price": 50.3688,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-24T16:09:34.06"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "1AMSET50-RU",
+                "net_asset": 230481104,
+                "last_val": 50.3318,
+                "previous_val": 0,
+                "sell_price": 50.6012,
+                "buy_price": 50.3318,
+                "sell_swap_price": 50.3318,
+                "buy_swap_price": 50.6012,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "1AMSET50-RU",
+                "net_asset": 229762752,
+                "last_val": 50.1401,
+                "previous_val": 0,
+                "sell_price": 50.4084,
+                "buy_price": 50.1401,
+                "sell_swap_price": 50.1401,
+                "buy_swap_price": 50.4084,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "1AMSET50-RU",
+                "net_asset": 230777824,
+                "last_val": 50.3539,
+                "previous_val": 0,
+                "sell_price": 50.6234,
+                "buy_price": 50.3539,
+                "sell_swap_price": 50.3539,
+                "buy_swap_price": 50.6234,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "1AMSET50-RU",
+                "net_asset": 231471792,
+                "last_val": 50.2737,
+                "previous_val": 0,
+                "sell_price": 50.5428,
+                "buy_price": 50.2737,
+                "sell_swap_price": 50.2737,
+                "buy_swap_price": 50.5428,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-28T16:08:01.17"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "1AMSET50-RU",
+                "net_asset": 226167664,
+                "last_val": 49.1488,
+                "previous_val": 0,
+                "sell_price": 49.4118,
+                "buy_price": 49.1488,
+                "sell_swap_price": 49.1488,
+                "buy_swap_price": 49.4118,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "1AMSET50-RU",
+                "net_asset": 228853248,
+                "last_val": 49.6817,
+                "previous_val": 0,
+                "sell_price": 49.9476,
+                "buy_price": 49.6817,
+                "sell_swap_price": 49.6817,
+                "buy_swap_price": 49.9476,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-02",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "1AMSET50-RU",
+                "net_asset": 229538096,
+                "last_val": 49.8287,
+                "previous_val": 0,
+                "sell_price": 50.0954,
+                "buy_price": 49.8287,
+                "sell_swap_price": 49.8287,
+                "buy_swap_price": 50.0954,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

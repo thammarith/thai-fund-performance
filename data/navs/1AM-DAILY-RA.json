@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742458779791,
-    "nextUpdate": 1742544197279,
+    "lastUpdate": 1743681876357,
+    "nextUpdate": 1743767978592,
     "data": {
-        "lastNav": "2025-03-19",
+        "lastNav": "2025-04-02",
         "fund": {
             "proj_id": "M0746_2550",
             "regis_id": "353_2550",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000569",
             "permit_us_investment": null,
             "invest_country_flag": "4",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -14597,6 +14597,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "1AM-DAILY-RA",
+                "net_asset": 1712193536,
+                "last_val": 12.8535,
+                "previous_val": 0,
+                "sell_price": 12.8536,
+                "buy_price": 12.8535,
+                "sell_swap_price": 12.8535,
+                "buy_swap_price": 12.8536,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-24T16:09:34.06"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "1AM-DAILY-RA",
+                "net_asset": 1705526656,
+                "last_val": 12.8552,
+                "previous_val": 0,
+                "sell_price": 12.8553,
+                "buy_price": 12.8552,
+                "sell_swap_price": 12.8552,
+                "buy_swap_price": 12.8553,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "1AM-DAILY-RA",
+                "net_asset": 1674768768,
+                "last_val": 12.8558,
+                "previous_val": 0,
+                "sell_price": 12.8559,
+                "buy_price": 12.8558,
+                "sell_swap_price": 12.8558,
+                "buy_swap_price": 12.8559,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "1AM-DAILY-RA",
+                "net_asset": 1721208192,
+                "last_val": 12.8564,
+                "previous_val": 0,
+                "sell_price": 12.8565,
+                "buy_price": 12.8564,
+                "sell_swap_price": 12.8564,
+                "buy_swap_price": 12.8565,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "1AM-DAILY-RA",
+                "net_asset": 1716164864,
+                "last_val": 12.8569,
+                "previous_val": 0,
+                "sell_price": 12.857,
+                "buy_price": 12.8569,
+                "sell_swap_price": 12.8569,
+                "buy_swap_price": 12.857,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-28T16:08:01.17"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "1AM-DAILY-RA",
+                "net_asset": 1777099904,
+                "last_val": 12.8593,
+                "previous_val": 0,
+                "sell_price": 12.8594,
+                "buy_price": 12.8593,
+                "sell_swap_price": 12.8593,
+                "buy_swap_price": 12.8594,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "1AM-DAILY-RA",
+                "net_asset": 1664940288,
+                "last_val": 12.8601,
+                "previous_val": 0,
+                "sell_price": 12.8602,
+                "buy_price": 12.8601,
+                "sell_swap_price": 12.8601,
+                "buy_swap_price": 12.8602,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-02",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "1AM-DAILY-RA",
+                "net_asset": 1663537536,
+                "last_val": 12.8608,
+                "previous_val": 0,
+                "sell_price": 12.8609,
+                "buy_price": 12.8608,
+                "sell_swap_price": 12.8608,
+                "buy_swap_price": 12.8609,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

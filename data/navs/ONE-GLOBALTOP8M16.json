@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742458620533,
-    "nextUpdate": 1742544197279,
+    "lastUpdate": 1743681775236,
+    "nextUpdate": 1743767978592,
     "data": {
-        "lastNav": "2025-03-17",
+        "lastNav": "2025-03-31",
         "fund": {
             "proj_id": "M0138_2564",
             "regis_id": "MF0140_2564",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000569",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -12992,6 +12992,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-GLOBALTOP8M16",
+                "net_asset": 60549700,
+                "last_val": 7.7011,
+                "previous_val": 0,
+                "sell_price": 7.7836,
+                "buy_price": 7.7011,
+                "sell_swap_price": 7.7011,
+                "buy_swap_price": 7.7836,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-GLOBALTOP8M16",
+                "net_asset": 61115108,
+                "last_val": 7.773,
+                "previous_val": 0,
+                "sell_price": 7.8563,
+                "buy_price": 7.773,
+                "sell_swap_price": 7.773,
+                "buy_swap_price": 7.8563,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-GLOBALTOP8M16",
+                "net_asset": 61692468,
+                "last_val": 7.8464,
+                "previous_val": 0,
+                "sell_price": 7.9305,
+                "buy_price": 7.8464,
+                "sell_swap_price": 7.8464,
+                "buy_swap_price": 7.9305,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-28T16:08:01.17"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-GLOBALTOP8M16",
+                "net_asset": 61512816,
+                "last_val": 7.8236,
+                "previous_val": 0,
+                "sell_price": 7.9074,
+                "buy_price": 7.8236,
+                "sell_swap_price": 7.8236,
+                "buy_swap_price": 7.9074,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-31T16:08:23.61"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-GLOBALTOP8M16",
+                "net_asset": 60901916,
+                "last_val": 7.7459,
+                "previous_val": 0,
+                "sell_price": 7.8289,
+                "buy_price": 7.7459,
+                "sell_swap_price": 7.7459,
+                "buy_swap_price": 7.8289,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-03-28",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-GLOBALTOP8M16",
+                "net_asset": 60236236,
+                "last_val": 7.6612,
+                "previous_val": 0,
+                "sell_price": 7.7433,
+                "buy_price": 7.6612,
+                "sell_swap_price": 7.6612,
+                "buy_swap_price": 7.7433,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-GLOBALTOP8M16",
+                "net_asset": 59828588,
+                "last_val": 7.6094,
+                "previous_val": 0,
+                "sell_price": 7.6909,
+                "buy_price": 7.6094,
+                "sell_swap_price": 7.6094,
+                "buy_swap_price": 7.6909,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742458646937,
-    "nextUpdate": 1742544197279,
+    "lastUpdate": 1743681792290,
+    "nextUpdate": 1743767978592,
     "data": {
-        "lastNav": "2025-03-18",
+        "lastNav": "2025-04-01",
         "fund": {
             "proj_id": "M0235_2551",
             "regis_id": "266_2551",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000569",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -13232,6 +13232,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "1US-OPP",
+                "net_asset": 78491496,
+                "last_val": 19.9755,
+                "previous_val": 0,
+                "sell_price": 20.2752,
+                "buy_price": 19.9755,
+                "sell_swap_price": 19.9755,
+                "buy_swap_price": 20.2752,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "1US-OPP",
+                "net_asset": 80180648,
+                "last_val": 20.3806,
+                "previous_val": 0,
+                "sell_price": 20.6864,
+                "buy_price": 20.3806,
+                "sell_swap_price": 20.3806,
+                "buy_swap_price": 20.6864,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "1US-OPP",
+                "net_asset": 80456320,
+                "last_val": 20.4342,
+                "previous_val": 0,
+                "sell_price": 20.7408,
+                "buy_price": 20.4342,
+                "sell_swap_price": 20.4342,
+                "buy_swap_price": 20.7408,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "1US-OPP",
+                "net_asset": 79588824,
+                "last_val": 20.2106,
+                "previous_val": 0,
+                "sell_price": 20.5139,
+                "buy_price": 20.2106,
+                "sell_swap_price": 20.2106,
+                "buy_swap_price": 20.5139,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-28T16:08:01.17"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "1US-OPP",
+                "net_asset": 79238928,
+                "last_val": 20.1189,
+                "previous_val": 0,
+                "sell_price": 20.4208,
+                "buy_price": 20.1189,
+                "sell_swap_price": 20.1189,
+                "buy_swap_price": 20.4208,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-31T16:08:23.61"
+            },
+            {
+                "nav_date": "2025-03-28",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "1US-OPP",
+                "net_asset": 77636896,
+                "last_val": 19.7034,
+                "previous_val": 0,
+                "sell_price": 19.9991,
+                "buy_price": 19.7034,
+                "sell_swap_price": 19.7034,
+                "buy_swap_price": 19.9991,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "1US-OPP",
+                "net_asset": 77997328,
+                "last_val": 19.7948,
+                "previous_val": 0,
+                "sell_price": 20.0918,
+                "buy_price": 19.7948,
+                "sell_swap_price": 19.7948,
+                "buy_swap_price": 20.0918,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "1US-OPP",
+                "net_asset": 78385928,
+                "last_val": 19.879,
+                "previous_val": 0,
+                "sell_price": 20.1773,
+                "buy_price": 19.879,
+                "sell_swap_price": 19.879,
+                "buy_swap_price": 20.1773,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742464054425,
-    "nextUpdate": 1742550399775,
+    "lastUpdate": 1743681931764,
+    "nextUpdate": 1743767978592,
     "data": {
-        "lastNav": "2025-03-19",
+        "lastNav": "2025-04-02",
         "fund": {
             "proj_id": "M0359_2547",
             "regis_id": "096_2547",
@@ -15,7 +15,7 @@
             "unique_id": "C0000005025",
             "permit_us_investment": null,
             "invest_country_flag": "4",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -1907,6 +1907,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP PLUS",
+                "net_asset": 90831159296,
+                "last_val": 14.9111,
+                "previous_val": 0,
+                "sell_price": 14.9112,
+                "buy_price": 14.9111,
+                "sell_swap_price": 14.9111,
+                "buy_swap_price": 14.9112,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-24T16:09:34.06"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP PLUS",
+                "net_asset": 90287751168,
+                "last_val": 14.9135,
+                "previous_val": 0,
+                "sell_price": 14.9136,
+                "buy_price": 14.9135,
+                "sell_swap_price": 14.9135,
+                "buy_swap_price": 14.9136,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP PLUS",
+                "net_asset": 90287202304,
+                "last_val": 14.9145,
+                "previous_val": 0,
+                "sell_price": 14.9146,
+                "buy_price": 14.9145,
+                "sell_swap_price": 14.9145,
+                "buy_swap_price": 14.9146,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP PLUS",
+                "net_asset": 89556787200,
+                "last_val": 14.9153,
+                "previous_val": 0,
+                "sell_price": 14.9154,
+                "buy_price": 14.9153,
+                "sell_swap_price": 14.9153,
+                "buy_swap_price": 14.9154,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP PLUS",
+                "net_asset": 89318473728,
+                "last_val": 14.9167,
+                "previous_val": 0,
+                "sell_price": 14.9168,
+                "buy_price": 14.9167,
+                "sell_swap_price": 14.9167,
+                "buy_swap_price": 14.9168,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-31T16:08:23.61"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP PLUS",
+                "net_asset": 87067525120,
+                "last_val": 14.9208,
+                "previous_val": 0,
+                "sell_price": 14.9209,
+                "buy_price": 14.9208,
+                "sell_swap_price": 14.9208,
+                "buy_swap_price": 14.9209,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP PLUS",
+                "net_asset": 86640394240,
+                "last_val": 14.922,
+                "previous_val": 0,
+                "sell_price": 14.9221,
+                "buy_price": 14.922,
+                "sell_swap_price": 14.922,
+                "buy_swap_price": 14.9221,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-02",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP PLUS",
+                "net_asset": 86359113728,
+                "last_val": 14.923,
+                "previous_val": 0,
+                "sell_price": 14.9231,
+                "buy_price": 14.923,
+                "sell_swap_price": 14.923,
+                "buy_swap_price": 14.9231,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

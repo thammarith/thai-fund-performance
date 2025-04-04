@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742458877472,
-    "nextUpdate": 1742544197279,
+    "lastUpdate": 1743681882290,
+    "nextUpdate": 1743767978592,
     "data": {
-        "lastNav": "2025-03-19",
+        "lastNav": "2025-04-02",
         "fund": {
             "proj_id": "M0818_2566",
             "regis_id": "MF0529_2566",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000569",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -3812,6 +3812,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-THAIESG",
+                "net_asset": 97514040,
+                "last_val": 8.9682,
+                "previous_val": 0,
+                "sell_price": 8.9683,
+                "buy_price": 8.9682,
+                "sell_swap_price": 8.9682,
+                "buy_swap_price": 8.9683,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-24T16:09:34.06"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-THAIESG",
+                "net_asset": 97967680,
+                "last_val": 9.0091,
+                "previous_val": 0,
+                "sell_price": 9.0092,
+                "buy_price": 9.0091,
+                "sell_swap_price": 9.0091,
+                "buy_swap_price": 9.0092,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-THAIESG",
+                "net_asset": 97597824,
+                "last_val": 8.9746,
+                "previous_val": 0,
+                "sell_price": 8.9747,
+                "buy_price": 8.9746,
+                "sell_swap_price": 8.9746,
+                "buy_swap_price": 8.9747,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-THAIESG",
+                "net_asset": 98121944,
+                "last_val": 9.0128,
+                "previous_val": 0,
+                "sell_price": 9.0129,
+                "buy_price": 9.0128,
+                "sell_swap_price": 9.0128,
+                "buy_swap_price": 9.0129,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-THAIESG",
+                "net_asset": 98076160,
+                "last_val": 8.9982,
+                "previous_val": 0,
+                "sell_price": 8.9983,
+                "buy_price": 8.9982,
+                "sell_swap_price": 8.9982,
+                "buy_swap_price": 8.9983,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-28T16:08:01.17"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-THAIESG",
+                "net_asset": 95883368,
+                "last_val": 8.7957,
+                "previous_val": 0,
+                "sell_price": 8.7958,
+                "buy_price": 8.7957,
+                "sell_swap_price": 8.7957,
+                "buy_swap_price": 8.7958,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-THAIESG",
+                "net_asset": 97150392,
+                "last_val": 8.8913,
+                "previous_val": 0,
+                "sell_price": 8.8914,
+                "buy_price": 8.8913,
+                "sell_swap_price": 8.8913,
+                "buy_swap_price": 8.8914,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-02",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-THAIESG",
+                "net_asset": 97460320,
+                "last_val": 8.9174,
+                "previous_val": 0,
+                "sell_price": 8.9175,
+                "buy_price": 8.9174,
+                "sell_swap_price": 8.9174,
+                "buy_swap_price": 8.9175,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

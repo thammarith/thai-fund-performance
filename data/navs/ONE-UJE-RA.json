@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742458597415,
-    "nextUpdate": 1742544197279,
+    "lastUpdate": 1743681763757,
+    "nextUpdate": 1743767978592,
     "data": {
-        "lastNav": "2025-03-18",
+        "lastNav": "2025-04-01",
         "fund": {
             "proj_id": "M0107_2564",
             "regis_id": "MF0160_2564",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000569",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -1787,6 +1787,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-UJE-RA",
+                "net_asset": 55415540,
+                "last_val": 12.8492,
+                "previous_val": 0,
+                "sell_price": 13.042,
+                "buy_price": 12.8492,
+                "sell_swap_price": 12.8492,
+                "buy_swap_price": 13.042,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-UJE-RA",
+                "net_asset": 56302572,
+                "last_val": 12.9381,
+                "previous_val": 0,
+                "sell_price": 13.1323,
+                "buy_price": 12.9381,
+                "sell_swap_price": 12.9381,
+                "buy_swap_price": 13.1323,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-UJE-RA",
+                "net_asset": 56166968,
+                "last_val": 12.9067,
+                "previous_val": 0,
+                "sell_price": 13.1004,
+                "buy_price": 12.9067,
+                "sell_swap_price": 12.9067,
+                "buy_swap_price": 13.1004,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-UJE-RA",
+                "net_asset": 57360112,
+                "last_val": 12.9232,
+                "previous_val": 0,
+                "sell_price": 13.1171,
+                "buy_price": 12.9232,
+                "sell_swap_price": 12.9232,
+                "buy_swap_price": 13.1171,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-28T16:08:01.17"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-UJE-RA",
+                "net_asset": 57651996,
+                "last_val": 12.989,
+                "previous_val": 0,
+                "sell_price": 13.1839,
+                "buy_price": 12.989,
+                "sell_swap_price": 12.989,
+                "buy_swap_price": 13.1839,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-31T16:08:23.61"
+            },
+            {
+                "nav_date": "2025-03-28",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-UJE-RA",
+                "net_asset": 56448224,
+                "last_val": 12.7206,
+                "previous_val": 0,
+                "sell_price": 12.9115,
+                "buy_price": 12.7206,
+                "sell_swap_price": 12.7206,
+                "buy_swap_price": 12.9115,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-UJE-RA",
+                "net_asset": 55335832,
+                "last_val": 12.4699,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-UJE-RA",
+                "net_asset": 55230756,
+                "last_val": 12.4462,
+                "previous_val": 0,
+                "sell_price": 12.633,
+                "buy_price": 12.4462,
+                "sell_swap_price": 12.4462,
+                "buy_swap_price": 12.633,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

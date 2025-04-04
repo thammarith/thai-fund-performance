@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742464153914,
-    "nextUpdate": 1742550399775,
+    "lastUpdate": 1743681980339,
+    "nextUpdate": 1743767978592,
     "data": {
-        "lastNav": "2025-03-19",
+        "lastNav": "2025-04-02",
         "fund": {
             "proj_id": "M0561_2559",
             "regis_id": "MF0529_2559",
@@ -15,7 +15,7 @@
             "unique_id": "C0000005025",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -24782,6 +24782,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SmartMV LTF",
+                "net_asset": 221059024,
+                "last_val": 9.8668,
+                "previous_val": 0,
+                "sell_price": 9.8669,
+                "buy_price": 9.8668,
+                "sell_swap_price": 9.8668,
+                "buy_swap_price": 9.8669,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-24T16:09:34.06"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SmartMV LTF",
+                "net_asset": 221149392,
+                "last_val": 9.8708,
+                "previous_val": 0,
+                "sell_price": 9.8709,
+                "buy_price": 9.8708,
+                "sell_swap_price": 9.8708,
+                "buy_swap_price": 9.8709,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SmartMV LTF",
+                "net_asset": 220679744,
+                "last_val": 9.8647,
+                "previous_val": 0,
+                "sell_price": 9.8648,
+                "buy_price": 9.8647,
+                "sell_swap_price": 9.8647,
+                "buy_swap_price": 9.8648,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SmartMV LTF",
+                "net_asset": 220242432,
+                "last_val": 9.8464,
+                "previous_val": 0,
+                "sell_price": 9.8465,
+                "buy_price": 9.8464,
+                "sell_swap_price": 9.8464,
+                "buy_swap_price": 9.8465,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SmartMV LTF",
+                "net_asset": 220449024,
+                "last_val": 9.8569,
+                "previous_val": 0,
+                "sell_price": 9.857,
+                "buy_price": 9.8569,
+                "sell_swap_price": 9.8569,
+                "buy_swap_price": 9.857,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-31T16:08:23.61"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SmartMV LTF",
+                "net_asset": 215438224,
+                "last_val": 9.6413,
+                "previous_val": 0,
+                "sell_price": 9.6414,
+                "buy_price": 9.6413,
+                "sell_swap_price": 9.6413,
+                "buy_swap_price": 9.6414,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SmartMV LTF",
+                "net_asset": 216364688,
+                "last_val": 9.701,
+                "previous_val": 0,
+                "sell_price": 9.7011,
+                "buy_price": 9.701,
+                "sell_swap_price": 9.701,
+                "buy_swap_price": 9.7011,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-02",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SmartMV LTF",
+                "net_asset": 216000096,
+                "last_val": 9.704,
+                "previous_val": 0,
+                "sell_price": 9.7041,
+                "buy_price": 9.704,
+                "sell_swap_price": 9.704,
+                "buy_swap_price": 9.7041,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }

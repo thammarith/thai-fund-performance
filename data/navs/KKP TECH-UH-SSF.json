@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1742464173594,
-    "nextUpdate": 1742550399775,
+    "lastUpdate": 1743681989254,
+    "nextUpdate": 1743767978592,
     "data": {
-        "lastNav": "2025-03-18",
+        "lastNav": "2025-04-01",
         "fund": {
             "proj_id": "M0605_2567",
             "regis_id": "MF0421_2567",
@@ -15,7 +15,7 @@
             "unique_id": "C0000005025",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-02-27T16:02:06.343"
+            "last_upd_date": "2025-04-03T16:09:10.253"
         },
         "navs": [
             {
@@ -1592,6 +1592,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-03-20T08:08:26.257"
+            },
+            {
+                "nav_date": "2025-03-21",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP TECH-UH-SSF",
+                "net_asset": 7167718.5,
+                "last_val": 10.7578,
+                "previous_val": 0,
+                "sell_price": 10.7579,
+                "buy_price": 10.7578,
+                "sell_swap_price": 10.7578,
+                "buy_swap_price": 10.7579,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-25T16:08:20.75"
+            },
+            {
+                "nav_date": "2025-03-24",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP TECH-UH-SSF",
+                "net_asset": 7337707.5,
+                "last_val": 11.0023,
+                "previous_val": 0,
+                "sell_price": 11.0024,
+                "buy_price": 11.0023,
+                "sell_swap_price": 11.0023,
+                "buy_swap_price": 11.0024,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-26T16:08:11.017"
+            },
+            {
+                "nav_date": "2025-03-25",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP TECH-UH-SSF",
+                "net_asset": 7396915.5,
+                "last_val": 11.0911,
+                "previous_val": 0,
+                "sell_price": 11.0912,
+                "buy_price": 11.0911,
+                "sell_swap_price": 11.0911,
+                "buy_swap_price": 11.0912,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-27T16:09:35.153"
+            },
+            {
+                "nav_date": "2025-03-26",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP TECH-UH-SSF",
+                "net_asset": 7212139.5,
+                "last_val": 10.814,
+                "previous_val": 0,
+                "sell_price": 10.8141,
+                "buy_price": 10.814,
+                "sell_swap_price": 10.814,
+                "buy_swap_price": 10.8141,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-03-28T16:08:01.17"
+            },
+            {
+                "nav_date": "2025-03-27",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP TECH-UH-SSF",
+                "net_asset": 7110151.5,
+                "last_val": 10.6611,
+                "previous_val": 0,
+                "sell_price": 10.6612,
+                "buy_price": 10.6611,
+                "sell_swap_price": 10.6611,
+                "buy_swap_price": 10.6612,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-01T16:07:55.353"
+            },
+            {
+                "nav_date": "2025-03-31",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP TECH-UH-SSF",
+                "net_asset": 6971776,
+                "last_val": 10.3364,
+                "previous_val": 0,
+                "sell_price": 10.3365,
+                "buy_price": 10.3364,
+                "sell_swap_price": 10.3364,
+                "buy_swap_price": 10.3365,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-02T21:04:06.083"
+            },
+            {
+                "nav_date": "2025-04-01",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP TECH-UH-SSF",
+                "net_asset": 7153724,
+                "last_val": 10.4988,
+                "previous_val": 0,
+                "sell_price": 10.4989,
+                "buy_price": 10.4988,
+                "sell_swap_price": 10.4988,
+                "buy_swap_price": 10.4989,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-03T16:08:34.66"
             }
         ]
     }
