@@ -1,0 +1,83 @@
+{
+    "lastUpdate": 1747415638865,
+    "nextUpdate": 1747501471223,
+    "data": {
+        "lastNav": "2025-05-09",
+        "fund": {
+            "proj_id": "M0429_2568",
+            "regis_id": "MF0268_2568",
+            "regis_date": "2025-05-09",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิดเค หุ้นปันผล ไทยเพื่อความยั่งยืนแบบพิเศษ",
+            "proj_name_en": "K High Dividend Stock Thailand ESG Extra Fund",
+            "proj_abbr_name": "K-HDThaiESGX",
+            "fund_status": "RG",
+            "unique_id": "C0000000021",
+            "permit_us_investment": null,
+            "invest_country_flag": "4",
+            "last_upd_date": "2025-05-16T16:11:28.93"
+        },
+        "navs": [
+            {
+                "nav_date": "2025-05-09",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-HDThaiESGX-68",
+                "net_asset": 76829256,
+                "last_val": 9.9995,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-13T16:08:20.143"
+            },
+            {
+                "nav_date": "2025-05-13",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-HDThaiESGX-68",
+                "net_asset": 76797264,
+                "last_val": 9.9953,
+                "previous_val": 0,
+                "sell_price": 9.9954,
+                "buy_price": 9.9953,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-14T16:04:15.25"
+            },
+            {
+                "nav_date": "2025-05-14",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-HDThaiESGX-68",
+                "net_asset": 81834576,
+                "last_val": 9.9797,
+                "previous_val": 0,
+                "sell_price": 9.9798,
+                "buy_price": 9.9797,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-15T21:09:05.917"
+            },
+            {
+                "nav_date": "2025-05-15",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-HDThaiESGX-68",
+                "net_asset": 84756784,
+                "last_val": 9.8743,
+                "previous_val": 0,
+                "sell_price": 9.8744,
+                "buy_price": 9.8743,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-16T16:10:55.48"
+            }
+        ]
+    }
+}

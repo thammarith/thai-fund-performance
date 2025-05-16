@@ -1,0 +1,38 @@
+{
+    "lastUpdate": 1747415699396,
+    "nextUpdate": 1747501471223,
+    "data": {
+        "lastNav": "2025-04-30",
+        "fund": {
+            "proj_id": "M0464_2568",
+            "regis_id": "MF0235_2568",
+            "regis_date": "2025-04-30",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิดเค พันธบัตรต่างประเทศ 6MJ USD",
+            "proj_name_en": "K Foreign Government Bond 6MJ USD Fund",
+            "proj_abbr_name": "K-FGB6MJ(USD)",
+            "fund_status": "RG",
+            "unique_id": "C0000000021",
+            "permit_us_investment": null,
+            "invest_country_flag": "1",
+            "last_upd_date": "2025-05-16T16:11:28.93"
+        },
+        "navs": [
+            {
+                "nav_date": "2025-04-30",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-FGB6MJ(USD)",
+                "net_asset": 12502047,
+                "last_val": 10.0031,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-16T16:10:55.48"
+            }
+        ]
+    }
+}

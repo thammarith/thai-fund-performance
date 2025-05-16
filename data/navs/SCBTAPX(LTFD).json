@@ -1,0 +1,68 @@
+{
+    "lastUpdate": 1747416957994,
+    "nextUpdate": 1747501471223,
+    "data": {
+        "lastNav": "2025-05-13",
+        "fund": {
+            "proj_id": "M0445_2568",
+            "regis_id": "MF0272_2568",
+            "regis_date": "2025-05-09",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิดไทยพาณิชย์ หุ้นแอคทีฟ พลัส ไทยเพื่อความยั่งยืนแบบพิเศษ",
+            "proj_name_en": "SCB Active Equity Plus Thailand ESG Extra Fund",
+            "proj_abbr_name": "SCBTAPX",
+            "fund_status": "RG",
+            "unique_id": "C0000000239",
+            "permit_us_investment": null,
+            "invest_country_flag": "4",
+            "last_upd_date": "2025-05-16T16:11:28.93"
+        },
+        "navs": [
+            {
+                "nav_date": "2025-05-13",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBTAPX(LTFD)",
+                "net_asset": 0,
+                "last_val": 10.0438,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 10.0438,
+                "sell_swap_price": 10.0438,
+                "buy_swap_price": 10.0439,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-14T16:04:15.25"
+            },
+            {
+                "nav_date": "2025-05-14",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBTAPX(LTFD)",
+                "net_asset": 27017004,
+                "last_val": 10.0584,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 10.0584,
+                "sell_swap_price": 10.0584,
+                "buy_swap_price": 10.0585,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-15T21:09:05.917"
+            },
+            {
+                "nav_date": "2025-05-15",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBTAPX(LTFD)",
+                "net_asset": 42227044,
+                "last_val": 9.9168,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 9.9168,
+                "sell_swap_price": 9.9168,
+                "buy_swap_price": 9.9169,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-16T16:10:55.48"
+            }
+        ]
+    }
+}

@@ -1,0 +1,68 @@
+{
+    "lastUpdate": 1747416957143,
+    "nextUpdate": 1747501471223,
+    "data": {
+        "lastNav": "2025-05-13",
+        "fund": {
+            "proj_id": "M0443_2568",
+            "regis_id": "MF0271_2568",
+            "regis_date": "2025-05-09",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิดไทยพาณิชย์ ผสม 70 ไทยเพื่อความยั่งยืนแบบพิเศษ",
+            "proj_name_en": "SCB Mixed 70 Thailand ESG Extra Fund",
+            "proj_abbr_name": "SCBT70X",
+            "fund_status": "RG",
+            "unique_id": "C0000000239",
+            "permit_us_investment": null,
+            "invest_country_flag": "3",
+            "last_upd_date": "2025-05-16T16:11:28.93"
+        },
+        "navs": [
+            {
+                "nav_date": "2025-05-13",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBT70X(LTFD)",
+                "net_asset": 0,
+                "last_val": 9.9909,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 9.9909,
+                "sell_swap_price": 9.9909,
+                "buy_swap_price": 9.991,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-14T16:04:15.25"
+            },
+            {
+                "nav_date": "2025-05-14",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBT70X(LTFD)",
+                "net_asset": 58416476,
+                "last_val": 9.9918,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 9.9918,
+                "sell_swap_price": 9.9918,
+                "buy_swap_price": 9.9919,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-15T21:09:05.917"
+            },
+            {
+                "nav_date": "2025-05-15",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBT70X(LTFD)",
+                "net_asset": 113089312,
+                "last_val": 9.8671,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 9.8671,
+                "sell_swap_price": 9.8671,
+                "buy_swap_price": 9.8672,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-16T16:10:55.48"
+            }
+        ]
+    }
+}

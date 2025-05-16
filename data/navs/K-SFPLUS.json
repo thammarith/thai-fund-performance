@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1743675484491,
-    "nextUpdate": 1743761853878,
+    "lastUpdate": 1747415151028,
+    "nextUpdate": 1747501471223,
     "data": {
-        "lastNav": "2025-04-02",
+        "lastNav": "2025-04-16",
         "fund": {
             "proj_id": "M0038_2559",
             "regis_id": "MF0143_2559",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "4",
-            "last_upd_date": "2025-04-03T16:09:10.253"
+            "last_upd_date": "2025-05-16T16:11:28.93"
         },
         "navs": [
             {
@@ -31817,6 +31817,96 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-04-03T16:08:34.66"
+            },
+            {
+                "nav_date": "2025-04-04",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-SFPLUS",
+                "net_asset": 126152785920,
+                "last_val": 11.3481,
+                "previous_val": 0,
+                "sell_price": 11.3482,
+                "buy_price": 11.3481,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-08T16:07:16.913"
+            },
+            {
+                "nav_date": "2025-04-08",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-SFPLUS",
+                "net_asset": 127066046464,
+                "last_val": 11.3465,
+                "previous_val": 0,
+                "sell_price": 11.3466,
+                "buy_price": 11.3465,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-09T16:08:18.32"
+            },
+            {
+                "nav_date": "2025-04-09",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-SFPLUS",
+                "net_asset": 125548232704,
+                "last_val": 11.3451,
+                "previous_val": 0,
+                "sell_price": 11.3452,
+                "buy_price": 11.3451,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-10T16:08:44.31"
+            },
+            {
+                "nav_date": "2025-04-10",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-SFPLUS",
+                "net_asset": 125067304960,
+                "last_val": 11.3467,
+                "previous_val": 0,
+                "sell_price": 11.3468,
+                "buy_price": 11.3467,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-16T16:08:50.08"
+            },
+            {
+                "nav_date": "2025-04-11",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-SFPLUS",
+                "net_asset": 124399050752,
+                "last_val": 11.3473,
+                "previous_val": 0,
+                "sell_price": 11.3474,
+                "buy_price": 11.3473,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-16T16:08:50.08"
+            },
+            {
+                "nav_date": "2025-04-16",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-SFPLUS",
+                "net_asset": 124165439488,
+                "last_val": 11.3486,
+                "previous_val": 0,
+                "sell_price": 11.3487,
+                "buy_price": 11.3486,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-04-17T08:07:29.927"
             }
         ]
     }

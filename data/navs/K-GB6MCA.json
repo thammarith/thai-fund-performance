@@ -1,0 +1,38 @@
+{
+    "lastUpdate": 1747415579797,
+    "nextUpdate": 1747501471223,
+    "data": {
+        "lastNav": "2025-04-30",
+        "fund": {
+            "proj_id": "M0388_2568",
+            "regis_id": "MF0204_2568",
+            "regis_date": "2025-04-17",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิดเค พันธบัตร 6 เดือน CA",
+            "proj_name_en": "K Government Bond 6 Months CA Fund",
+            "proj_abbr_name": "K-GB6MCA",
+            "fund_status": "RG",
+            "unique_id": "C0000000021",
+            "permit_us_investment": null,
+            "invest_country_flag": "3",
+            "last_upd_date": "2025-05-16T16:11:28.93"
+        },
+        "navs": [
+            {
+                "nav_date": "2025-04-30",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GB6MCA",
+                "net_asset": 7071808000,
+                "last_val": 10.0084,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-16T16:10:55.48"
+            }
+        ]
+    }
+}

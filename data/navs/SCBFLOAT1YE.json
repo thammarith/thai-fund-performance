@@ -1,0 +1,113 @@
+{
+    "lastUpdate": 1747416864438,
+    "nextUpdate": 1747501471223,
+    "data": {
+        "lastNav": "2025-05-07",
+        "fund": {
+            "proj_id": "M0387_2568",
+            "regis_id": "MF0240_2568",
+            "regis_date": "2025-05-07",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิดไทยพาณิชย์ Floating Rate Complex Return 1YE ห้ามขายผู้ลงทุนรายย่อย",
+            "proj_name_en": "SCB Floating Rate Complex Return 1YE Not for Retail Investors",
+            "proj_abbr_name": "SCBFLOAT1YE",
+            "fund_status": "RG",
+            "unique_id": "C0000000239",
+            "permit_us_investment": null,
+            "invest_country_flag": "1",
+            "last_upd_date": "2025-05-16T16:11:28.93"
+        },
+        "navs": [
+            {
+                "nav_date": "2025-05-07",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBFLOAT1YE",
+                "net_asset": 1032040448,
+                "last_val": 9.9855,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-08T16:10:26.68"
+            },
+            {
+                "nav_date": "2025-05-08",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBFLOAT1YE",
+                "net_asset": 1032044736,
+                "last_val": 9.9855,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-09T16:06:23.477"
+            },
+            {
+                "nav_date": "2025-05-09",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBFLOAT1YE",
+                "net_asset": 1037316224,
+                "last_val": 10.0365,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-13T16:08:20.143"
+            },
+            {
+                "nav_date": "2025-05-13",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBFLOAT1YE",
+                "net_asset": 1050369344,
+                "last_val": 10.1628,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-14T16:04:15.25"
+            },
+            {
+                "nav_date": "2025-05-14",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBFLOAT1YE",
+                "net_asset": 1050099200,
+                "last_val": 10.1602,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-15T21:09:05.917"
+            },
+            {
+                "nav_date": "2025-05-15",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBFLOAT1YE",
+                "net_asset": 1033191872,
+                "last_val": 9.9966,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-16T16:10:55.48"
+            }
+        ]
+    }
+}

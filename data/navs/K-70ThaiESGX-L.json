@@ -1,0 +1,53 @@
+{
+    "lastUpdate": 1747415691632,
+    "nextUpdate": 1747501471223,
+    "data": {
+        "lastNav": "2025-05-14",
+        "fund": {
+            "proj_id": "M0455_2568",
+            "regis_id": "MF0269_2568",
+            "regis_date": "2025-05-09",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิดเค 70:30 ไทยเพื่อความยั่งยืนแบบพิเศษ",
+            "proj_name_en": "K 70:30 Thailand ESG Extra Fund",
+            "proj_abbr_name": "K-70ThaiESGX",
+            "fund_status": "RG",
+            "unique_id": "C0000000021",
+            "permit_us_investment": null,
+            "invest_country_flag": "4",
+            "last_upd_date": "2025-05-16T16:11:28.93"
+        },
+        "navs": [
+            {
+                "nav_date": "2025-05-14",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-70ThaiESGX-L",
+                "net_asset": 196396352,
+                "last_val": 9.9711,
+                "previous_val": 0,
+                "sell_price": 9.9712,
+                "buy_price": 9.9711,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-15T21:09:05.917"
+            },
+            {
+                "nav_date": "2025-05-15",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-70ThaiESGX-L",
+                "net_asset": 363838112,
+                "last_val": 9.8758,
+                "previous_val": 0,
+                "sell_price": 9.8759,
+                "buy_price": 9.8758,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-16T16:10:55.48"
+            }
+        ]
+    }
+}
