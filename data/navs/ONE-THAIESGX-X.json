@@ -1,0 +1,83 @@
+{
+    "lastUpdate": 1747417953601,
+    "nextUpdate": 1747503929253,
+    "data": {
+        "lastNav": "2025-05-09",
+        "fund": {
+            "proj_id": "M0392_2568",
+            "regis_id": "MF0255_2568",
+            "regis_date": "2025-05-09",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิด วรรณ หุ้นไทยเพื่อความยั่งยืนแบบพิเศษ",
+            "proj_name_en": "ONE EQUITY THAILAND ESG EXTRA FUND",
+            "proj_abbr_name": "ONE-THAIESGX",
+            "fund_status": "RG",
+            "unique_id": "C0000000569",
+            "permit_us_investment": null,
+            "invest_country_flag": "3",
+            "last_upd_date": "2025-05-16T16:11:28.93"
+        },
+        "navs": [
+            {
+                "nav_date": "2025-05-09",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-THAIESGX-X",
+                "net_asset": 1349862.25,
+                "last_val": 9.9835,
+                "previous_val": 0,
+                "sell_price": 9.9836,
+                "buy_price": 9.9835,
+                "sell_swap_price": 9.9835,
+                "buy_swap_price": 9.9836,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-13T16:08:20.143"
+            },
+            {
+                "nav_date": "2025-05-13",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-THAIESGX-X",
+                "net_asset": 1347734.25,
+                "last_val": 9.9678,
+                "previous_val": 0,
+                "sell_price": 9.9679,
+                "buy_price": 9.9678,
+                "sell_swap_price": 9.9678,
+                "buy_swap_price": 9.9679,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-14T16:04:15.25"
+            },
+            {
+                "nav_date": "2025-05-14",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-THAIESGX-X",
+                "net_asset": 1591797.88,
+                "last_val": 9.9933,
+                "previous_val": 0,
+                "sell_price": 9.9934,
+                "buy_price": 9.9933,
+                "sell_swap_price": 9.9933,
+                "buy_swap_price": 9.9934,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-15T21:09:05.917"
+            },
+            {
+                "nav_date": "2025-05-15",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-THAIESGX-X",
+                "net_asset": 1611852.75,
+                "last_val": 9.811,
+                "previous_val": 0,
+                "sell_price": 9.8111,
+                "buy_price": 9.811,
+                "sell_swap_price": 9.811,
+                "buy_swap_price": 9.8111,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-16T16:10:55.48"
+            }
+        ]
+    }
+}
