@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1747415966863,
-    "nextUpdate": 1747501471223,
+    "lastUpdate": 1748663695472,
+    "nextUpdate": 1748749727337,
     "data": {
-        "lastNav": "2025-05-14",
+        "lastNav": "2025-05-28",
         "fund": {
             "proj_id": "M0861_2553",
             "regis_id": "MF0783_2555",
@@ -422,6 +422,96 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-05-16T16:10:55.48"
+            },
+            {
+                "nav_date": "2025-05-20",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GARMF",
+                "net_asset": 2604844544,
+                "last_val": 16.664,
+                "previous_val": 0,
+                "sell_price": 16.6641,
+                "buy_price": 16.664,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-22T16:09:30.187"
+            },
+            {
+                "nav_date": "2025-05-21",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GARMF",
+                "net_asset": 2600364288,
+                "last_val": 16.6545,
+                "previous_val": 0,
+                "sell_price": 16.6546,
+                "buy_price": 16.6545,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-23T16:08:33.787"
+            },
+            {
+                "nav_date": "2025-05-22",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GARMF",
+                "net_asset": 2580243200,
+                "last_val": 16.5248,
+                "previous_val": 0,
+                "sell_price": 16.5249,
+                "buy_price": 16.5248,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-26T16:04:13.487"
+            },
+            {
+                "nav_date": "2025-05-23",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GARMF",
+                "net_asset": 2576326400,
+                "last_val": 16.5005,
+                "previous_val": 0,
+                "sell_price": 16.5006,
+                "buy_price": 16.5005,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-28T16:05:22.107"
+            },
+            {
+                "nav_date": "2025-05-27",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GARMF",
+                "net_asset": 2596080640,
+                "last_val": 16.6441,
+                "previous_val": 0,
+                "sell_price": 16.6442,
+                "buy_price": 16.6441,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-29T16:08:32.95"
+            },
+            {
+                "nav_date": "2025-05-28",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GARMF",
+                "net_asset": 2595349504,
+                "last_val": 16.6618,
+                "previous_val": 0,
+                "sell_price": 16.6619,
+                "buy_price": 16.6618,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-31T08:08:36.313"
             }
         ]
     }

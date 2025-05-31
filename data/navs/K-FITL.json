@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1747415498976,
-    "nextUpdate": 1747501471223,
+    "lastUpdate": 1748663485095,
+    "nextUpdate": 1748749727337,
     "data": {
-        "lastNav": "2025-05-14",
+        "lastNav": "2025-05-28",
         "fund": {
             "proj_id": "M0281_2560",
             "regis_id": "MF0415_2560",
@@ -11177,6 +11177,96 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-05-16T16:10:55.48"
+            },
+            {
+                "nav_date": "2025-05-20",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-FITL",
+                "net_asset": 217726128,
+                "last_val": 10.8972,
+                "previous_val": 0,
+                "sell_price": 10.9518,
+                "buy_price": 10.8427,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-22T16:09:30.187"
+            },
+            {
+                "nav_date": "2025-05-21",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-FITL",
+                "net_asset": 216154016,
+                "last_val": 10.8225,
+                "previous_val": 0,
+                "sell_price": 10.8767,
+                "buy_price": 10.7684,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-23T16:08:33.787"
+            },
+            {
+                "nav_date": "2025-05-22",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-FITL",
+                "net_asset": 215660016,
+                "last_val": 10.7973,
+                "previous_val": 0,
+                "sell_price": 10.8514,
+                "buy_price": 10.7433,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-26T16:04:13.487"
+            },
+            {
+                "nav_date": "2025-05-23",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-FITL",
+                "net_asset": 214173760,
+                "last_val": 10.7692,
+                "previous_val": 0,
+                "sell_price": 10.8231,
+                "buy_price": 10.7154,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-28T16:05:22.107"
+            },
+            {
+                "nav_date": "2025-05-27",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-FITL",
+                "net_asset": 215466784,
+                "last_val": 10.876,
+                "previous_val": 0,
+                "sell_price": 10.9305,
+                "buy_price": 10.8216,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-29T16:08:32.95"
+            },
+            {
+                "nav_date": "2025-05-28",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-FITL",
+                "net_asset": 214177920,
+                "last_val": 10.8332,
+                "previous_val": 0,
+                "sell_price": 10.8875,
+                "buy_price": 10.779,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-31T08:08:36.313"
             }
         ]
     }

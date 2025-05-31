@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1747415714977,
-    "nextUpdate": 1747501471223,
+    "lastUpdate": 1748663589362,
+    "nextUpdate": 1748749727337,
     "data": {
-        "lastNav": "2025-05-13",
+        "lastNav": "2025-05-27",
         "fund": {
             "proj_id": "M0505_2558",
             "regis_id": "MF0575_2558",
@@ -11657,6 +11657,96 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-05-16T16:10:55.48"
+            },
+            {
+                "nav_date": "2025-05-19",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-EUSAGE",
+                "net_asset": 112263240,
+                "last_val": 10.1945,
+                "previous_val": 0,
+                "sell_price": 10.3475,
+                "buy_price": 10.1945,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-22T16:09:30.187"
+            },
+            {
+                "nav_date": "2025-05-20",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-EUSAGE",
+                "net_asset": 112813248,
+                "last_val": 10.2442,
+                "previous_val": 0,
+                "sell_price": 10.398,
+                "buy_price": 10.2442,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-23T16:08:33.787"
+            },
+            {
+                "nav_date": "2025-05-21",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-EUSAGE",
+                "net_asset": 112653392,
+                "last_val": 10.2334,
+                "previous_val": 0,
+                "sell_price": 10.387,
+                "buy_price": 10.2334,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-26T16:04:13.487"
+            },
+            {
+                "nav_date": "2025-05-22",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-EUSAGE",
+                "net_asset": 111916120,
+                "last_val": 10.1662,
+                "previous_val": 0,
+                "sell_price": 10.3188,
+                "buy_price": 10.1662,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-28T16:05:22.107"
+            },
+            {
+                "nav_date": "2025-05-23",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-EUSAGE",
+                "net_asset": 109851672,
+                "last_val": 10.0683,
+                "previous_val": 0,
+                "sell_price": 10.2194,
+                "buy_price": 10.0683,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-29T16:08:32.95"
+            },
+            {
+                "nav_date": "2025-05-27",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-EUSAGE",
+                "net_asset": 111324568,
+                "last_val": 10.1999,
+                "previous_val": 0,
+                "sell_price": 10.353,
+                "buy_price": 10.1999,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-31T08:08:36.313"
             }
         ]
     }

@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1747415593918,
-    "nextUpdate": 1747501471223,
+    "lastUpdate": 1748663522781,
+    "nextUpdate": 1748749727337,
     "data": {
-        "lastNav": "2025-05-07",
+        "lastNav": "2025-05-22",
         "fund": {
             "proj_id": "M0397_2566",
             "regis_id": "MF0545_2566",
@@ -287,6 +287,66 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-05-16T16:10:55.48"
+            },
+            {
+                "nav_date": "2025-05-19",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-ALPHA-MOD-UI",
+                "net_asset": 521791072,
+                "last_val": 10.1622,
+                "previous_val": 0,
+                "sell_price": 10.2893,
+                "buy_price": 10.0606,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-26T16:04:13.487"
+            },
+            {
+                "nav_date": "2025-05-20",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-ALPHA-MOD-UI",
+                "net_asset": 521218592,
+                "last_val": 10.1706,
+                "previous_val": 0,
+                "sell_price": 10.2978,
+                "buy_price": 10.0689,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-28T16:05:22.107"
+            },
+            {
+                "nav_date": "2025-05-21",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-ALPHA-MOD-UI",
+                "net_asset": 518747584,
+                "last_val": 10.1224,
+                "previous_val": 0,
+                "sell_price": 10.249,
+                "buy_price": 10.0212,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-29T16:08:32.95"
+            },
+            {
+                "nav_date": "2025-05-22",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-ALPHA-MOD-UI",
+                "net_asset": 517343296,
+                "last_val": 10.095,
+                "previous_val": 0,
+                "sell_price": 10.2213,
+                "buy_price": 9.994,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-31T08:08:36.313"
             }
         ]
     }

@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1747415912057,
-    "nextUpdate": 1747501471223,
+    "lastUpdate": 1748663669911,
+    "nextUpdate": 1748749727337,
     "data": {
-        "lastNav": "2025-05-14",
+        "lastNav": "2025-05-28",
         "fund": {
             "proj_id": "M0679_2557",
             "regis_id": "MF0797_2557",
@@ -407,6 +407,96 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-05-16T16:10:55.48"
+            },
+            {
+                "nav_date": "2025-05-20",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-EURMF",
+                "net_asset": 1054730688,
+                "last_val": 18.7798,
+                "previous_val": 0,
+                "sell_price": 18.7799,
+                "buy_price": 18.7798,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-22T16:09:30.187"
+            },
+            {
+                "nav_date": "2025-05-21",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-EURMF",
+                "net_asset": 1049141952,
+                "last_val": 18.6602,
+                "previous_val": 0,
+                "sell_price": 18.6603,
+                "buy_price": 18.6602,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-23T16:08:33.787"
+            },
+            {
+                "nav_date": "2025-05-22",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-EURMF",
+                "net_asset": 1043468416,
+                "last_val": 18.5477,
+                "previous_val": 0,
+                "sell_price": 18.5478,
+                "buy_price": 18.5477,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-26T16:04:13.487"
+            },
+            {
+                "nav_date": "2025-05-23",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-EURMF",
+                "net_asset": 1045238272,
+                "last_val": 18.6058,
+                "previous_val": 0,
+                "sell_price": 18.6059,
+                "buy_price": 18.6058,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-28T16:05:22.107"
+            },
+            {
+                "nav_date": "2025-05-27",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-EURMF",
+                "net_asset": 1047874112,
+                "last_val": 18.6638,
+                "previous_val": 0,
+                "sell_price": 18.6639,
+                "buy_price": 18.6638,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-29T16:08:32.95"
+            },
+            {
+                "nav_date": "2025-05-28",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-EURMF",
+                "net_asset": 1042132096,
+                "last_val": 18.5709,
+                "previous_val": 0,
+                "sell_price": 18.571,
+                "buy_price": 18.5709,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-31T08:08:36.313"
             }
         ]
     }

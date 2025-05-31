@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1747418175455,
-    "nextUpdate": 1747503929253,
+    "lastUpdate": 1748664691880,
+    "nextUpdate": 1748749727337,
     "data": {
-        "lastNav": "2025-05-14",
+        "lastNav": "2025-05-28",
         "fund": {
             "proj_id": "M0009_2561",
             "regis_id": "MF0132_2561",
@@ -2057,6 +2057,96 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-05-16T16:10:55.48"
+            },
+            {
+                "nav_date": "2025-05-20",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP GNP-H",
+                "net_asset": 2007806464,
+                "last_val": 15.8903,
+                "previous_val": 0,
+                "sell_price": 16.089,
+                "buy_price": 15.8903,
+                "sell_swap_price": 15.8903,
+                "buy_swap_price": 16.089,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-22T16:09:30.187"
+            },
+            {
+                "nav_date": "2025-05-21",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP GNP-H",
+                "net_asset": 1971848064,
+                "last_val": 15.7085,
+                "previous_val": 0,
+                "sell_price": 15.905,
+                "buy_price": 15.7085,
+                "sell_swap_price": 15.7085,
+                "buy_swap_price": 15.905,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-23T16:08:33.787"
+            },
+            {
+                "nav_date": "2025-05-22",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP GNP-H",
+                "net_asset": 1940337920,
+                "last_val": 15.7175,
+                "previous_val": 0,
+                "sell_price": 15.9141,
+                "buy_price": 15.7175,
+                "sell_swap_price": 15.7175,
+                "buy_swap_price": 15.9141,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-26T16:04:13.487"
+            },
+            {
+                "nav_date": "2025-05-23",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP GNP-H",
+                "net_asset": 1916343552,
+                "last_val": 15.6619,
+                "previous_val": 0,
+                "sell_price": 15.8578,
+                "buy_price": 15.6619,
+                "sell_swap_price": 15.6619,
+                "buy_swap_price": 15.8578,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-28T16:05:22.107"
+            },
+            {
+                "nav_date": "2025-05-27",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP GNP-H",
+                "net_asset": 1941774976,
+                "last_val": 15.9158,
+                "previous_val": 0,
+                "sell_price": 16.1148,
+                "buy_price": 15.9158,
+                "sell_swap_price": 15.9158,
+                "buy_swap_price": 16.1148,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-29T16:08:32.95"
+            },
+            {
+                "nav_date": "2025-05-28",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP GNP-H",
+                "net_asset": 1926942592,
+                "last_val": 15.817,
+                "previous_val": 0,
+                "sell_price": 16.0148,
+                "buy_price": 15.817,
+                "sell_swap_price": 15.817,
+                "buy_swap_price": 16.0148,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-31T08:08:36.313"
             }
         ]
     }

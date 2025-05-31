@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1747415998409,
-    "nextUpdate": 1747501471223,
+    "lastUpdate": 1748663712252,
+    "nextUpdate": 1748749727337,
     "data": {
-        "lastNav": "2025-04-30",
+        "lastNav": "2025-05-30",
         "fund": {
             "proj_id": "M0991_2567",
             "regis_id": "MF0078_2568",
@@ -62,6 +62,21 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-05-16T16:10:55.48"
+            },
+            {
+                "nav_date": "2025-05-30",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-JG6MK",
+                "net_asset": 5214987776,
+                "last_val": 10.1496,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-31T08:08:36.313"
             }
         ]
     }

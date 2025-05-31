@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1747415653206,
-    "nextUpdate": 1747501471223,
+    "lastUpdate": 1748663553856,
+    "nextUpdate": 1748749727337,
     "data": {
-        "lastNav": "2025-05-13",
+        "lastNav": "2025-05-27",
         "fund": {
             "proj_id": "M0431_2560",
             "regis_id": "MF0376_2560",
@@ -12527,6 +12527,96 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-05-16T16:10:55.48"
+            },
+            {
+                "nav_date": "2025-05-19",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-ALLBASIC",
+                "net_asset": 1360988032,
+                "last_val": 11.0421,
+                "previous_val": 0,
+                "sell_price": 11.0974,
+                "buy_price": 11.0421,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-22T16:09:30.187"
+            },
+            {
+                "nav_date": "2025-05-20",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-ALLBASIC",
+                "net_asset": 1361533056,
+                "last_val": 11.0469,
+                "previous_val": 0,
+                "sell_price": 11.1022,
+                "buy_price": 11.0469,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-23T16:08:33.787"
+            },
+            {
+                "nav_date": "2025-05-21",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-ALLBASIC",
+                "net_asset": 1357583232,
+                "last_val": 11.0155,
+                "previous_val": 0,
+                "sell_price": 11.0707,
+                "buy_price": 11.0155,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-26T16:04:13.487"
+            },
+            {
+                "nav_date": "2025-05-22",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-ALLBASIC",
+                "net_asset": 1353735552,
+                "last_val": 11.0002,
+                "previous_val": 0,
+                "sell_price": 11.0553,
+                "buy_price": 11.0002,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-28T16:05:22.107"
+            },
+            {
+                "nav_date": "2025-05-23",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-ALLBASIC",
+                "net_asset": 1353424512,
+                "last_val": 10.998,
+                "previous_val": 0,
+                "sell_price": 11.0531,
+                "buy_price": 10.998,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-29T16:08:32.95"
+            },
+            {
+                "nav_date": "2025-05-27",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-ALLBASIC",
+                "net_asset": 1358059136,
+                "last_val": 11.0357,
+                "previous_val": 0,
+                "sell_price": 11.091,
+                "buy_price": 11.0357,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-31T08:08:36.313"
             }
         ]
     }

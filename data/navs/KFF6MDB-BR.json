@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1747415995457,
-    "nextUpdate": 1747501471223,
+    "lastUpdate": 1748663710317,
+    "nextUpdate": 1748749727337,
     "data": {
-        "lastNav": "2025-04-30",
+        "lastNav": "2025-05-27",
         "fund": {
             "proj_id": "M0968_2567",
             "regis_id": "MF0698_2567",
@@ -92,6 +92,36 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-05-16T16:10:55.48"
+            },
+            {
+                "nav_date": "2025-05-26",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KFF6MDB-BR",
+                "net_asset": 3244592896,
+                "last_val": 10.0615,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-27T16:03:25.14"
+            },
+            {
+                "nav_date": "2025-05-27",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KFF6MDB-BR",
+                "net_asset": 3255888640,
+                "last_val": 10.0966,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 10.0966,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-29T16:08:32.95"
             }
         ]
     }

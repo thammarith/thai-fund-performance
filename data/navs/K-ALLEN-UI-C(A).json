@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1747415750739,
-    "nextUpdate": 1747501471223,
+    "lastUpdate": 1748663605253,
+    "nextUpdate": 1748749727337,
     "data": {
-        "lastNav": "2025-05-13",
+        "lastNav": "2025-05-27",
         "fund": {
             "proj_id": "M0527_2564",
             "regis_id": "MF0065_2565",
@@ -1877,6 +1877,96 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-05-16T16:10:55.48"
+            },
+            {
+                "nav_date": "2025-05-19",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-ALLEN-UI-C(A)",
+                "net_asset": 648187968,
+                "last_val": 9.8438,
+                "previous_val": 0,
+                "sell_price": 9.8439,
+                "buy_price": 9.8438,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-22T16:09:30.187"
+            },
+            {
+                "nav_date": "2025-05-20",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-ALLEN-UI-C(A)",
+                "net_asset": 648665344,
+                "last_val": 9.851,
+                "previous_val": 0,
+                "sell_price": 9.8511,
+                "buy_price": 9.851,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-23T16:08:33.787"
+            },
+            {
+                "nav_date": "2025-05-21",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-ALLEN-UI-C(A)",
+                "net_asset": 644198336,
+                "last_val": 9.7832,
+                "previous_val": 0,
+                "sell_price": 9.7833,
+                "buy_price": 9.7832,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-26T16:04:13.487"
+            },
+            {
+                "nav_date": "2025-05-22",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-ALLEN-UI-C(A)",
+                "net_asset": 641604160,
+                "last_val": 9.7438,
+                "previous_val": 0,
+                "sell_price": 9.7439,
+                "buy_price": 9.7438,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-28T16:05:22.107"
+            },
+            {
+                "nav_date": "2025-05-23",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-ALLEN-UI-C(A)",
+                "net_asset": 641303680,
+                "last_val": 9.7392,
+                "previous_val": 0,
+                "sell_price": 9.7393,
+                "buy_price": 9.7392,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-29T16:08:32.95"
+            },
+            {
+                "nav_date": "2025-05-27",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-ALLEN-UI-C(A)",
+                "net_asset": 647055424,
+                "last_val": 9.8266,
+                "previous_val": 0,
+                "sell_price": 9.8267,
+                "buy_price": 9.8266,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-31T08:08:36.313"
             }
         ]
     }

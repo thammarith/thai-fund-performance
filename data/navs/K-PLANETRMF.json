@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1747415806624,
-    "nextUpdate": 1747501471223,
+    "lastUpdate": 1748663629115,
+    "nextUpdate": 1748749727337,
     "data": {
-        "lastNav": "2025-05-13",
+        "lastNav": "2025-05-27",
         "fund": {
             "proj_id": "M0580_2566",
             "regis_id": "MF0506_2566",
@@ -392,6 +392,96 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-05-16T16:10:55.48"
+            },
+            {
+                "nav_date": "2025-05-19",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-PLANETRMF",
+                "net_asset": 28381402,
+                "last_val": 11.1848,
+                "previous_val": 0,
+                "sell_price": 11.1849,
+                "buy_price": 11.1848,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-22T16:09:30.187"
+            },
+            {
+                "nav_date": "2025-05-20",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-PLANETRMF",
+                "net_asset": 28202378,
+                "last_val": 11.201,
+                "previous_val": 0,
+                "sell_price": 11.2011,
+                "buy_price": 11.201,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-23T16:08:33.787"
+            },
+            {
+                "nav_date": "2025-05-21",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-PLANETRMF",
+                "net_asset": 27994742,
+                "last_val": 11.1005,
+                "previous_val": 0,
+                "sell_price": 11.1006,
+                "buy_price": 11.1005,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-26T16:04:13.487"
+            },
+            {
+                "nav_date": "2025-05-22",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-PLANETRMF",
+                "net_asset": 27832496,
+                "last_val": 11.0343,
+                "previous_val": 0,
+                "sell_price": 11.0344,
+                "buy_price": 11.0343,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-28T16:05:22.107"
+            },
+            {
+                "nav_date": "2025-05-23",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-PLANETRMF",
+                "net_asset": 27798158,
+                "last_val": 10.9808,
+                "previous_val": 0,
+                "sell_price": 10.9809,
+                "buy_price": 10.9808,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-29T16:08:32.95"
+            },
+            {
+                "nav_date": "2025-05-27",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-PLANETRMF",
+                "net_asset": 27682616,
+                "last_val": 11.1173,
+                "previous_val": 0,
+                "sell_price": 11.1174,
+                "buy_price": 11.1173,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-31T08:08:36.313"
             }
         ]
     }

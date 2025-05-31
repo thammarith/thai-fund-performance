@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1747415547422,
-    "nextUpdate": 1747501471223,
+    "lastUpdate": 1748663503468,
+    "nextUpdate": 1748749727337,
     "data": {
-        "lastNav": "2025-05-13",
+        "lastNav": "2025-05-27",
         "fund": {
             "proj_id": "M0350_2563",
             "regis_id": "MF0245_2563",
@@ -1787,6 +1787,96 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-05-16T16:10:55.48"
+            },
+            {
+                "nav_date": "2025-05-19",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-ASIACV-A(A)",
+                "net_asset": 1394603776,
+                "last_val": 6.2329,
+                "previous_val": 0,
+                "sell_price": 6.3265,
+                "buy_price": 6.2329,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-22T16:09:30.187"
+            },
+            {
+                "nav_date": "2025-05-20",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-ASIACV-A(A)",
+                "net_asset": 1393572864,
+                "last_val": 6.2314,
+                "previous_val": 0,
+                "sell_price": 6.325,
+                "buy_price": 6.2314,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-23T16:08:33.787"
+            },
+            {
+                "nav_date": "2025-05-21",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-ASIACV-A(A)",
+                "net_asset": 1397864704,
+                "last_val": 6.2525,
+                "previous_val": 0,
+                "sell_price": 6.3464,
+                "buy_price": 6.2525,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-26T16:04:13.487"
+            },
+            {
+                "nav_date": "2025-05-22",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-ASIACV-A(A)",
+                "net_asset": 1389451904,
+                "last_val": 6.216,
+                "previous_val": 0,
+                "sell_price": 6.3093,
+                "buy_price": 6.216,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-28T16:05:22.107"
+            },
+            {
+                "nav_date": "2025-05-23",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-ASIACV-A(A)",
+                "net_asset": 1390940032,
+                "last_val": 6.2187,
+                "previous_val": 0,
+                "sell_price": 6.3121,
+                "buy_price": 6.2187,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-29T16:08:32.95"
+            },
+            {
+                "nav_date": "2025-05-27",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-ASIACV-A(A)",
+                "net_asset": 1384610048,
+                "last_val": 6.1933,
+                "previous_val": 0,
+                "sell_price": 6.2863,
+                "buy_price": 6.1933,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-31T08:08:36.313"
             }
         ]
     }

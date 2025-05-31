@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1747418256460,
-    "nextUpdate": 1747503929253,
+    "lastUpdate": 1748664726407,
+    "nextUpdate": 1748749727337,
     "data": {
-        "lastNav": "2025-05-14",
+        "lastNav": "2025-05-28",
         "fund": {
             "proj_id": "M0221_2567",
             "regis_id": "MF0157_2567",
@@ -2072,6 +2072,96 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-05-16T16:10:55.48"
+            },
+            {
+                "nav_date": "2025-05-20",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP GVALUE-UH-SSF",
+                "net_asset": 1669694.5,
+                "last_val": 10.3561,
+                "previous_val": 0,
+                "sell_price": 10.3562,
+                "buy_price": 10.3561,
+                "sell_swap_price": 10.3561,
+                "buy_swap_price": 10.3562,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-22T16:09:30.187"
+            },
+            {
+                "nav_date": "2025-05-21",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP GVALUE-UH-SSF",
+                "net_asset": 1641192.25,
+                "last_val": 10.1794,
+                "previous_val": 0,
+                "sell_price": 10.1795,
+                "buy_price": 10.1794,
+                "sell_swap_price": 10.1794,
+                "buy_swap_price": 10.1795,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-23T16:08:33.787"
+            },
+            {
+                "nav_date": "2025-05-22",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP GVALUE-UH-SSF",
+                "net_asset": 1643481.75,
+                "last_val": 10.1936,
+                "previous_val": 0,
+                "sell_price": 10.1937,
+                "buy_price": 10.1936,
+                "sell_swap_price": 10.1936,
+                "buy_swap_price": 10.1937,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-26T16:04:13.487"
+            },
+            {
+                "nav_date": "2025-05-23",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP GVALUE-UH-SSF",
+                "net_asset": 1635516.63,
+                "last_val": 10.1442,
+                "previous_val": 0,
+                "sell_price": 10.1443,
+                "buy_price": 10.1442,
+                "sell_swap_price": 10.1442,
+                "buy_swap_price": 10.1443,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-28T16:05:22.107"
+            },
+            {
+                "nav_date": "2025-05-27",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP GVALUE-UH-SSF",
+                "net_asset": 1662912.88,
+                "last_val": 10.3141,
+                "previous_val": 0,
+                "sell_price": 10.3142,
+                "buy_price": 10.3141,
+                "sell_swap_price": 10.3141,
+                "buy_swap_price": 10.3142,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-29T16:08:32.95"
+            },
+            {
+                "nav_date": "2025-05-28",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP GVALUE-UH-SSF",
+                "net_asset": 1646607.75,
+                "last_val": 10.213,
+                "previous_val": 0,
+                "sell_price": 10.2131,
+                "buy_price": 10.213,
+                "sell_swap_price": 10.213,
+                "buy_swap_price": 10.2131,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-31T08:08:36.313"
             }
         ]
     }

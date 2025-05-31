@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1747417575896,
-    "nextUpdate": 1747503929253,
+    "lastUpdate": 1748664416430,
+    "nextUpdate": 1748749727337,
     "data": {
-        "lastNav": "2025-05-15",
+        "lastNav": "2025-05-21",
         "fund": {
             "proj_id": "M0942_2567",
             "regis_id": "MF0655_2567",
@@ -1697,6 +1697,36 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-05-16T16:10:55.48"
+            },
+            {
+                "nav_date": "2025-05-19",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSB6M7",
+                "net_asset": 5693272064,
+                "last_val": 10.0957,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-20T08:08:33.76"
+            },
+            {
+                "nav_date": "2025-05-21",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSB6M7",
+                "net_asset": 5693616128,
+                "last_val": 10.0964,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 10.0964,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-22T16:09:30.187"
             }
         ]
     }

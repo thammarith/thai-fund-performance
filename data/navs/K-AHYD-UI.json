@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1747415867090,
-    "nextUpdate": 1747501471223,
+    "lastUpdate": 1748663649030,
+    "nextUpdate": 1748749727337,
     "data": {
-        "lastNav": "2025-05-13",
+        "lastNav": "2025-05-27",
         "fund": {
             "proj_id": "M0600_2563",
             "regis_id": "MF0029_2564",
@@ -5102,6 +5102,96 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-05-16T16:10:55.48"
+            },
+            {
+                "nav_date": "2025-05-19",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-AHYD-UI",
+                "net_asset": 579942912,
+                "last_val": 10.7459,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 10.7459,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-22T16:09:30.187"
+            },
+            {
+                "nav_date": "2025-05-20",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-AHYD-UI",
+                "net_asset": 580481408,
+                "last_val": 10.7558,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 10.7558,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-23T16:08:33.787"
+            },
+            {
+                "nav_date": "2025-05-21",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-AHYD-UI",
+                "net_asset": 579059072,
+                "last_val": 10.735,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 10.735,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-26T16:04:13.487"
+            },
+            {
+                "nav_date": "2025-05-22",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-AHYD-UI",
+                "net_asset": 577357760,
+                "last_val": 10.7035,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 10.7035,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-28T16:05:22.107"
+            },
+            {
+                "nav_date": "2025-05-23",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-AHYD-UI",
+                "net_asset": 577241856,
+                "last_val": 10.7013,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 10.7013,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-29T16:08:32.95"
+            },
+            {
+                "nav_date": "2025-05-27",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-AHYD-UI",
+                "net_asset": 578320256,
+                "last_val": 10.7213,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 10.7213,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-31T08:08:36.313"
             }
         ]
     }

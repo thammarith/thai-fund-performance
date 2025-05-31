@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1747415532392,
-    "nextUpdate": 1747501471223,
+    "lastUpdate": 1748663497960,
+    "nextUpdate": 1748749727337,
     "data": {
-        "lastNav": "2025-05-14",
+        "lastNav": "2025-05-28",
         "fund": {
             "proj_id": "M0327_2556",
             "regis_id": "MF0515_2556",
@@ -8792,6 +8792,96 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-05-16T16:10:55.48"
+            },
+            {
+                "nav_date": "2025-05-20",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-EUROPE-A(D)",
+                "net_asset": 2616388864,
+                "last_val": 11.5313,
+                "previous_val": 0,
+                "sell_price": 11.7044,
+                "buy_price": 11.5313,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-22T16:09:30.187"
+            },
+            {
+                "nav_date": "2025-05-21",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-EUROPE-A(D)",
+                "net_asset": 2599183616,
+                "last_val": 11.4579,
+                "previous_val": 0,
+                "sell_price": 11.6299,
+                "buy_price": 11.4579,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-23T16:08:33.787"
+            },
+            {
+                "nav_date": "2025-05-22",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-EUROPE-A(D)",
+                "net_asset": 2584161792,
+                "last_val": 11.3887,
+                "previous_val": 0,
+                "sell_price": 11.5596,
+                "buy_price": 11.3887,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-26T16:04:13.487"
+            },
+            {
+                "nav_date": "2025-05-23",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-EUROPE-A(D)",
+                "net_asset": 2592240128,
+                "last_val": 11.4245,
+                "previous_val": 0,
+                "sell_price": 11.596,
+                "buy_price": 11.4245,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-28T16:05:22.107"
+            },
+            {
+                "nav_date": "2025-05-27",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-EUROPE-A(D)",
+                "net_asset": 2600010496,
+                "last_val": 11.4596,
+                "previous_val": 0,
+                "sell_price": 11.6316,
+                "buy_price": 11.4596,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-29T16:08:32.95"
+            },
+            {
+                "nav_date": "2025-05-28",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-EUROPE-A(D)",
+                "net_asset": 2590452992,
+                "last_val": 11.4031,
+                "previous_val": 0,
+                "sell_price": 11.5742,
+                "buy_price": 11.4031,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-31T08:08:36.313"
             }
         ]
     }

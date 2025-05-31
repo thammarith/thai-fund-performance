@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1747416323325,
-    "nextUpdate": 1747501471223,
+    "lastUpdate": 1748663861270,
+    "nextUpdate": 1748749727337,
     "data": {
-        "lastNav": "2025-05-15",
+        "lastNav": "2025-05-22",
         "fund": {
             "proj_id": "M0131_2568",
             "regis_id": "MF0086_2568",
@@ -827,6 +827,51 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-05-16T16:10:55.48"
+            },
+            {
+                "nav_date": "2025-05-19",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSB3M31",
+                "net_asset": 3604139776,
+                "last_val": 10.0993,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-20T08:08:33.76"
+            },
+            {
+                "nav_date": "2025-05-21",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSB3M31",
+                "net_asset": 3596099584,
+                "last_val": 10.0768,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-22T16:09:30.187"
+            },
+            {
+                "nav_date": "2025-05-22",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSB3M31",
+                "net_asset": 3583419392,
+                "last_val": 10.0413,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 10.0413,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-23T16:08:33.787"
             }
         ]
     }

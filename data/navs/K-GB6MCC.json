@@ -1,0 +1,38 @@
+{
+    "lastUpdate": 1748663587469,
+    "nextUpdate": 1748749727337,
+    "data": {
+        "lastNav": "2025-05-30",
+        "fund": {
+            "proj_id": "M0488_2568",
+            "regis_id": "MF0285_2568",
+            "regis_date": "2025-05-15",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิดเค พันธบัตร 6 เดือน CC",
+            "proj_name_en": "K Government Bond 6 Months CC Fund",
+            "proj_abbr_name": "K-GB6MCC",
+            "fund_status": "RG",
+            "unique_id": "C0000000021",
+            "permit_us_investment": null,
+            "invest_country_flag": "3",
+            "last_upd_date": "2025-05-16T16:11:28.93"
+        },
+        "navs": [
+            {
+                "nav_date": "2025-05-30",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GB6MCC",
+                "net_asset": 6456964096,
+                "last_val": 10.0077,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-31T08:08:36.313"
+            }
+        ]
+    }
+}

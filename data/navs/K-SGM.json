@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1747415520441,
-    "nextUpdate": 1747501471223,
+    "lastUpdate": 1748663492580,
+    "nextUpdate": 1748749727337,
     "data": {
-        "lastNav": "2025-05-13",
+        "lastNav": "2025-05-27",
         "fund": {
             "proj_id": "M0304_2558",
             "regis_id": "MF0589_2558",
@@ -12017,6 +12017,96 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-05-16T16:10:55.48"
+            },
+            {
+                "nav_date": "2025-05-19",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-SGM",
+                "net_asset": 391086656,
+                "last_val": 10.0591,
+                "previous_val": 0,
+                "sell_price": 10.1346,
+                "buy_price": 10.0591,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-22T16:09:30.187"
+            },
+            {
+                "nav_date": "2025-05-20",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-SGM",
+                "net_asset": 391485376,
+                "last_val": 10.0694,
+                "previous_val": 0,
+                "sell_price": 10.145,
+                "buy_price": 10.0694,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-23T16:08:33.787"
+            },
+            {
+                "nav_date": "2025-05-21",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-SGM",
+                "net_asset": 390603264,
+                "last_val": 10.0464,
+                "previous_val": 0,
+                "sell_price": 10.1218,
+                "buy_price": 10.0464,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-27T16:03:25.14"
+            },
+            {
+                "nav_date": "2025-05-22",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-SGM",
+                "net_asset": 390116192,
+                "last_val": 10.0339,
+                "previous_val": 0,
+                "sell_price": 10.1093,
+                "buy_price": 10.0339,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-28T16:05:22.107"
+            },
+            {
+                "nav_date": "2025-05-23",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-SGM",
+                "net_asset": 390378016,
+                "last_val": 10.0406,
+                "previous_val": 0,
+                "sell_price": 10.116,
+                "buy_price": 10.0406,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-30T16:08:19.01"
+            },
+            {
+                "nav_date": "2025-05-27",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-SGM",
+                "net_asset": 391167840,
+                "last_val": 10.0609,
+                "previous_val": 0,
+                "sell_price": 10.1365,
+                "buy_price": 10.0609,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-31T08:08:36.313"
             }
         ]
     }

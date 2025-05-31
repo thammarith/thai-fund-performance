@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1747418204371,
-    "nextUpdate": 1747503929253,
+    "lastUpdate": 1748664703918,
+    "nextUpdate": 1748749727337,
     "data": {
-        "lastNav": "2025-05-14",
+        "lastNav": "2025-05-28",
         "fund": {
             "proj_id": "M0089_2564",
             "regis_id": "MF0159_2564",
@@ -11087,6 +11087,96 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-05-16T16:10:55.48"
+            },
+            {
+                "nav_date": "2025-05-20",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP G-HYB-H-UI-R",
+                "net_asset": 578249.94,
+                "last_val": 9.4624,
+                "previous_val": 0,
+                "sell_price": 9.5098,
+                "buy_price": 9.4624,
+                "sell_swap_price": 9.4624,
+                "buy_swap_price": 9.5098,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-22T16:09:30.187"
+            },
+            {
+                "nav_date": "2025-05-21",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP G-HYB-H-UI-R",
+                "net_asset": 577512.13,
+                "last_val": 9.4503,
+                "previous_val": 0,
+                "sell_price": 9.4977,
+                "buy_price": 9.4503,
+                "sell_swap_price": 9.4503,
+                "buy_swap_price": 9.4977,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-23T16:08:33.787"
+            },
+            {
+                "nav_date": "2025-05-22",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP G-HYB-H-UI-R",
+                "net_asset": 575821.38,
+                "last_val": 9.4226,
+                "previous_val": 0,
+                "sell_price": 9.4698,
+                "buy_price": 9.4226,
+                "sell_swap_price": 9.4226,
+                "buy_swap_price": 9.4698,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-26T16:04:13.487"
+            },
+            {
+                "nav_date": "2025-05-23",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP G-HYB-H-UI-R",
+                "net_asset": 574989.13,
+                "last_val": 9.409,
+                "previous_val": 0,
+                "sell_price": 9.4561,
+                "buy_price": 9.409,
+                "sell_swap_price": 9.409,
+                "buy_swap_price": 9.4561,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-28T16:05:22.107"
+            },
+            {
+                "nav_date": "2025-05-27",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP G-HYB-H-UI-R",
+                "net_asset": 577023.44,
+                "last_val": 9.4423,
+                "previous_val": 0,
+                "sell_price": 9.4896,
+                "buy_price": 9.4423,
+                "sell_swap_price": 9.4423,
+                "buy_swap_price": 9.4896,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-29T16:08:32.95"
+            },
+            {
+                "nav_date": "2025-05-28",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP G-HYB-H-UI-R",
+                "net_asset": 577442.5,
+                "last_val": 9.4492,
+                "previous_val": 0,
+                "sell_price": 9.4965,
+                "buy_price": 9.4492,
+                "sell_swap_price": 9.4492,
+                "buy_swap_price": 9.4965,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-31T08:08:36.313"
             }
         ]
     }

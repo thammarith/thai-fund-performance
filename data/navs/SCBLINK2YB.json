@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1747416586238,
-    "nextUpdate": 1747501471223,
+    "lastUpdate": 1748663998005,
+    "nextUpdate": 1748749727337,
     "data": {
-        "lastNav": "2025-05-15",
+        "lastNav": "2025-05-27",
         "fund": {
             "proj_id": "M0252_2566",
             "regis_id": "MF0208_2566",
@@ -6122,6 +6122,96 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-05-16T16:10:55.48"
+            },
+            {
+                "nav_date": "2025-05-19",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBLINK2YB",
+                "net_asset": 412970016,
+                "last_val": 10.2223,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-20T08:08:33.76"
+            },
+            {
+                "nav_date": "2025-05-21",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBLINK2YB",
+                "net_asset": 412569184,
+                "last_val": 10.2124,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-22T16:09:30.187"
+            },
+            {
+                "nav_date": "2025-05-22",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBLINK2YB",
+                "net_asset": 413389888,
+                "last_val": 10.2327,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-23T16:08:33.787"
+            },
+            {
+                "nav_date": "2025-05-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBLINK2YB",
+                "net_asset": 412567360,
+                "last_val": 10.2124,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-26T16:04:13.487"
+            },
+            {
+                "nav_date": "2025-05-26",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBLINK2YB",
+                "net_asset": 412913664,
+                "last_val": 10.2209,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-27T16:03:25.14"
+            },
+            {
+                "nav_date": "2025-05-27",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBLINK2YB",
+                "net_asset": 413374688,
+                "last_val": 10.2324,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 10.2324,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-28T16:05:22.107"
             }
         ]
     }

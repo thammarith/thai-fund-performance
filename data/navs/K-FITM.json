@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1747415484536,
-    "nextUpdate": 1747501471223,
+    "lastUpdate": 1748663479660,
+    "nextUpdate": 1748749727337,
     "data": {
-        "lastNav": "2025-05-14",
+        "lastNav": "2025-05-28",
         "fund": {
             "proj_id": "M0279_2560",
             "regis_id": "MF0414_2560",
@@ -11162,6 +11162,96 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-05-16T16:10:55.48"
+            },
+            {
+                "nav_date": "2025-05-20",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-FITM",
+                "net_asset": 125496720,
+                "last_val": 11.6937,
+                "previous_val": 0,
+                "sell_price": 11.7523,
+                "buy_price": 11.6352,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-22T16:09:30.187"
+            },
+            {
+                "nav_date": "2025-05-21",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-FITM",
+                "net_asset": 125185160,
+                "last_val": 11.632,
+                "previous_val": 0,
+                "sell_price": 11.6903,
+                "buy_price": 11.5738,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-23T16:08:33.787"
+            },
+            {
+                "nav_date": "2025-05-22",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-FITM",
+                "net_asset": 123398880,
+                "last_val": 11.6095,
+                "previous_val": 0,
+                "sell_price": 11.6676,
+                "buy_price": 11.5515,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-26T16:04:13.487"
+            },
+            {
+                "nav_date": "2025-05-23",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-FITM",
+                "net_asset": 122144440,
+                "last_val": 11.5889,
+                "previous_val": 0,
+                "sell_price": 11.6469,
+                "buy_price": 11.531,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-28T16:05:22.107"
+            },
+            {
+                "nav_date": "2025-05-27",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-FITM",
+                "net_asset": 123019864,
+                "last_val": 11.6773,
+                "previous_val": 0,
+                "sell_price": 11.7358,
+                "buy_price": 11.6189,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-29T16:08:32.95"
+            },
+            {
+                "nav_date": "2025-05-28",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-FITM",
+                "net_asset": 120996072,
+                "last_val": 11.6431,
+                "previous_val": 0,
+                "sell_price": 11.7014,
+                "buy_price": 11.5849,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-31T08:08:36.313"
             }
         ]
     }

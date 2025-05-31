@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1747415507974,
-    "nextUpdate": 1747501471223,
+    "lastUpdate": 1748663488263,
+    "nextUpdate": 1748749727337,
     "data": {
-        "lastNav": "2025-05-14",
+        "lastNav": "2025-05-28",
         "fund": {
             "proj_id": "M0282_2560",
             "regis_id": "MF0416_2560",
@@ -10742,6 +10742,96 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-05-16T16:10:55.48"
+            },
+            {
+                "nav_date": "2025-05-20",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-FITXL",
+                "net_asset": 292929472,
+                "last_val": 11.289,
+                "previous_val": 0,
+                "sell_price": 11.3455,
+                "buy_price": 11.2326,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-22T16:09:30.187"
+            },
+            {
+                "nav_date": "2025-05-21",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-FITXL",
+                "net_asset": 290500608,
+                "last_val": 11.2063,
+                "previous_val": 0,
+                "sell_price": 11.2624,
+                "buy_price": 11.1503,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-23T16:08:33.787"
+            },
+            {
+                "nav_date": "2025-05-22",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-FITXL",
+                "net_asset": 289446432,
+                "last_val": 11.1776,
+                "previous_val": 0,
+                "sell_price": 11.2336,
+                "buy_price": 11.1217,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-26T16:04:13.487"
+            },
+            {
+                "nav_date": "2025-05-23",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-FITXL",
+                "net_asset": 288022944,
+                "last_val": 11.1446,
+                "previous_val": 0,
+                "sell_price": 11.2004,
+                "buy_price": 11.0889,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-28T16:05:22.107"
+            },
+            {
+                "nav_date": "2025-05-27",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-FITXL",
+                "net_asset": 291007424,
+                "last_val": 11.2654,
+                "previous_val": 0,
+                "sell_price": 11.3218,
+                "buy_price": 11.2091,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-29T16:08:32.95"
+            },
+            {
+                "nav_date": "2025-05-28",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-FITXL",
+                "net_asset": 289204896,
+                "last_val": 11.2155,
+                "previous_val": 0,
+                "sell_price": 11.2717,
+                "buy_price": 11.1594,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-31T08:08:36.313"
             }
         ]
     }

@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1747415943390,
-    "nextUpdate": 1747501471223,
+    "lastUpdate": 1748663684867,
+    "nextUpdate": 1748749727337,
     "data": {
-        "lastNav": "2025-05-13",
+        "lastNav": "2025-05-27",
         "fund": {
             "proj_id": "M0767_2565",
             "regis_id": "MF0389_2566",
@@ -4277,6 +4277,96 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-05-16T16:10:55.48"
+            },
+            {
+                "nav_date": "2025-05-19",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GTECH",
+                "net_asset": 1132160512,
+                "last_val": 12.9269,
+                "previous_val": 0,
+                "sell_price": 13.1209,
+                "buy_price": 12.9269,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-22T16:09:30.187"
+            },
+            {
+                "nav_date": "2025-05-20",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GTECH",
+                "net_asset": 1125049856,
+                "last_val": 12.9021,
+                "previous_val": 0,
+                "sell_price": 13.0957,
+                "buy_price": 12.9021,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-23T16:08:33.787"
+            },
+            {
+                "nav_date": "2025-05-21",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GTECH",
+                "net_asset": 1094490112,
+                "last_val": 12.6638,
+                "previous_val": 0,
+                "sell_price": 12.8539,
+                "buy_price": 12.6638,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-26T16:04:13.487"
+            },
+            {
+                "nav_date": "2025-05-22",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GTECH",
+                "net_asset": 1115586560,
+                "last_val": 12.6844,
+                "previous_val": 0,
+                "sell_price": 12.8748,
+                "buy_price": 12.6844,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-28T16:05:22.107"
+            },
+            {
+                "nav_date": "2025-05-23",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GTECH",
+                "net_asset": 1107640704,
+                "last_val": 12.5756,
+                "previous_val": 0,
+                "sell_price": 12.7643,
+                "buy_price": 12.5756,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-29T16:08:32.95"
+            },
+            {
+                "nav_date": "2025-05-27",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GTECH",
+                "net_asset": 1134785920,
+                "last_val": 12.8368,
+                "previous_val": 0,
+                "sell_price": 13.0295,
+                "buy_price": 12.8368,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-31T08:08:36.313"
             }
         ]
     }

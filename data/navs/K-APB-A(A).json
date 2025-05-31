@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1747415835525,
-    "nextUpdate": 1747501471223,
+    "lastUpdate": 1748663635384,
+    "nextUpdate": 1748749727337,
     "data": {
-        "lastNav": "2025-05-13",
+        "lastNav": "2025-05-27",
         "fund": {
             "proj_id": "M0588_2560",
             "regis_id": "MF0496_2560",
@@ -1757,6 +1757,96 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-05-16T16:10:55.48"
+            },
+            {
+                "nav_date": "2025-05-19",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-APB-A(A)",
+                "net_asset": 3403504640,
+                "last_val": 9.6119,
+                "previous_val": 0,
+                "sell_price": 9.6601,
+                "buy_price": 9.6119,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-22T16:09:30.187"
+            },
+            {
+                "nav_date": "2025-05-20",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-APB-A(A)",
+                "net_asset": 3430686208,
+                "last_val": 9.6328,
+                "previous_val": 0,
+                "sell_price": 9.6811,
+                "buy_price": 9.6328,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-23T16:08:33.787"
+            },
+            {
+                "nav_date": "2025-05-21",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-APB-A(A)",
+                "net_asset": 3419591168,
+                "last_val": 9.6023,
+                "previous_val": 0,
+                "sell_price": 9.6504,
+                "buy_price": 9.6023,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-26T16:04:13.487"
+            },
+            {
+                "nav_date": "2025-05-22",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-APB-A(A)",
+                "net_asset": 3414042368,
+                "last_val": 9.5717,
+                "previous_val": 0,
+                "sell_price": 9.6197,
+                "buy_price": 9.5717,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-28T16:05:22.107"
+            },
+            {
+                "nav_date": "2025-05-23",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-APB-A(A)",
+                "net_asset": 3438176000,
+                "last_val": 9.5758,
+                "previous_val": 0,
+                "sell_price": 9.6238,
+                "buy_price": 9.5758,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-29T16:08:32.95"
+            },
+            {
+                "nav_date": "2025-05-27",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-APB-A(A)",
+                "net_asset": 3463608576,
+                "last_val": 9.6034,
+                "previous_val": 0,
+                "sell_price": 9.6515,
+                "buy_price": 9.6034,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-05-31T08:08:36.313"
             }
         ]
     }
