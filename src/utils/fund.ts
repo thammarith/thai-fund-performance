@@ -1,7 +1,7 @@
 import { delay } from "https://deno.land/std@0.42.0/util/async.ts";
 
 import { FUNDS_PATH } from '../constants/path.ts';
-import { NEXT_MONTH } from '../constants/time.ts';
+import { NEXT_MONTH, TODAY } from '../constants/time.ts';
 import { AmcEntity } from '../types/AmcEntity.ts';
 import { Cached } from '../types/Cached.ts';
 import { Fund } from '../types/Fund.ts';
@@ -23,7 +23,7 @@ interface getShouldForceFetchProps {
 }
 
 const getShouldForceFetch = ({ isForcedByFlag = false, cachedData }: getShouldForceFetchProps) => {
-    const isNextUpdateDue = cachedData?.nextUpdate && cachedData.nextUpdate <= new Date().valueOf();
+    const isNextUpdateDue = cachedData?.nextUpdate && cachedData.nextUpdate <= TODAY.valueOf();
     return isForcedByFlag || isNextUpdateDue;
 };
 

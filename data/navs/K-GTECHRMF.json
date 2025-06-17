@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1748663647098,
-    "nextUpdate": 1748749727337,
+    "lastUpdate": 1749920400000,
+    "nextUpdate": 1750049833698,
     "data": {
-        "lastNav": "2025-05-27",
+        "lastNav": "2025-06-12",
         "fund": {
             "proj_id": "M0599_2566",
             "regis_id": "MF0505_2566",
@@ -482,6 +482,96 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-05-31T08:08:36.313"
+            },
+            {
+                "nav_date": "2025-06-04",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GTECHRMF",
+                "net_asset": 607714496,
+                "last_val": 12.5345,
+                "previous_val": 0,
+                "sell_price": 12.5346,
+                "buy_price": 12.5345,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-09T16:05:28.413"
+            },
+            {
+                "nav_date": "2025-06-05",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GTECHRMF",
+                "net_asset": 608491456,
+                "last_val": 12.5365,
+                "previous_val": 0,
+                "sell_price": 12.5366,
+                "buy_price": 12.5365,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-11T16:06:28.49"
+            },
+            {
+                "nav_date": "2025-06-06",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GTECHRMF",
+                "net_asset": 615485312,
+                "last_val": 12.6747,
+                "previous_val": 0,
+                "sell_price": 12.6748,
+                "buy_price": 12.6747,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-12T16:03:13.61"
+            },
+            {
+                "nav_date": "2025-06-10",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GTECHRMF",
+                "net_asset": 623644800,
+                "last_val": 12.8401,
+                "previous_val": 0,
+                "sell_price": 12.8402,
+                "buy_price": 12.8401,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-13T16:09:15.553"
+            },
+            {
+                "nav_date": "2025-06-11",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GTECHRMF",
+                "net_asset": 621018816,
+                "last_val": 12.7972,
+                "previous_val": 0,
+                "sell_price": 12.7973,
+                "buy_price": 12.7972,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-16T16:06:39.94"
+            },
+            {
+                "nav_date": "2025-06-12",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GTECHRMF",
+                "net_asset": 623608256,
+                "last_val": 12.8481,
+                "previous_val": 0,
+                "sell_price": 12.8482,
+                "buy_price": 12.8481,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-17T08:08:48.31"
             }
         ]
     }

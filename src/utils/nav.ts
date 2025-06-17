@@ -93,7 +93,7 @@ export const getAllNavs = async (funds: Fund[]): Promise<void> => {
             fetchLog = { ...newFetchLog, lastUpdated: TODAY.valueOf() };
         }
 
-        const today = getDateString(new Date());
+        const today = getDateString(TODAY);
 
         let [lowerBound, upperBound]: [string, string] | undefined = fetchLog.data[fund.proj_id] ?? [today, today];
 

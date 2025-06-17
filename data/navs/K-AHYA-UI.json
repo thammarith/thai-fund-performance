@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1748663654669,
-    "nextUpdate": 1748749727337,
+    "lastUpdate": 1749920400000,
+    "nextUpdate": 1750049833698,
     "data": {
-        "lastNav": "2025-05-27",
+        "lastNav": "2025-06-12",
         "fund": {
             "proj_id": "M0631_2562",
             "regis_id": "MF0533_2562",
@@ -7262,6 +7262,96 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-05-31T08:08:36.313"
+            },
+            {
+                "nav_date": "2025-06-04",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-AHYA-UI",
+                "net_asset": 1123220096,
+                "last_val": 8.4306,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 8.4306,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-09T16:05:28.413"
+            },
+            {
+                "nav_date": "2025-06-05",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-AHYA-UI",
+                "net_asset": 1123760384,
+                "last_val": 8.4346,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 8.4346,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-11T16:06:28.49"
+            },
+            {
+                "nav_date": "2025-06-06",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-AHYA-UI",
+                "net_asset": 1124641920,
+                "last_val": 8.4413,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 8.4413,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-12T16:03:13.61"
+            },
+            {
+                "nav_date": "2025-06-10",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-AHYA-UI",
+                "net_asset": 1130966912,
+                "last_val": 8.4887,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 8.4887,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-13T16:09:15.553"
+            },
+            {
+                "nav_date": "2025-06-11",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-AHYA-UI",
+                "net_asset": 1133231232,
+                "last_val": 8.5057,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 8.5057,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-16T16:06:39.94"
+            },
+            {
+                "nav_date": "2025-06-12",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-AHYA-UI",
+                "net_asset": 1130614784,
+                "last_val": 8.4861,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 8.4861,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-17T08:08:48.31"
             }
         ]
     }

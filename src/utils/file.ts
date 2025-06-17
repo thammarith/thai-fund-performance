@@ -1,3 +1,4 @@
+import { TODAY } from "../constants/time.ts";
 import { Cached } from '../types/Cached.ts';
 
 interface ReadFileOptions {
@@ -34,7 +35,7 @@ export const writeFile = async ({ path, data, nextUpdate }: WriteFileProps): Pro
         await Deno.writeTextFile(
             path,
             JSON.stringify({
-                lastUpdate: new Date().valueOf(),
+                lastUpdate: TODAY.valueOf(),
                 nextUpdate: nextUpdate?.valueOf(),
                 data,
             }, null, 4),

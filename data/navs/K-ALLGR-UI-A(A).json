@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1748663600264,
-    "nextUpdate": 1748749727337,
+    "lastUpdate": 1749920400000,
+    "nextUpdate": 1750049833698,
     "data": {
-        "lastNav": "2025-05-27",
+        "lastNav": "2025-06-12",
         "fund": {
             "proj_id": "M0521_2562",
             "regis_id": "MF0468_2562",
@@ -1967,6 +1967,96 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-05-31T08:08:36.313"
+            },
+            {
+                "nav_date": "2025-06-04",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-ALLGR-UI-A(A)",
+                "net_asset": 8108568576,
+                "last_val": 10.3059,
+                "previous_val": 0,
+                "sell_price": 10.4091,
+                "buy_price": 10.3059,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-09T16:05:28.413"
+            },
+            {
+                "nav_date": "2025-06-05",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-ALLGR-UI-A(A)",
+                "net_asset": 8095379456,
+                "last_val": 10.3175,
+                "previous_val": 0,
+                "sell_price": 10.4208,
+                "buy_price": 10.3175,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-11T16:06:28.49"
+            },
+            {
+                "nav_date": "2025-06-06",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-ALLGR-UI-A(A)",
+                "net_asset": 8112801792,
+                "last_val": 10.343,
+                "previous_val": 0,
+                "sell_price": 10.4465,
+                "buy_price": 10.343,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-12T16:03:13.61"
+            },
+            {
+                "nav_date": "2025-06-10",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-ALLGR-UI-A(A)",
+                "net_asset": 8155782656,
+                "last_val": 10.3952,
+                "previous_val": 0,
+                "sell_price": 10.4993,
+                "buy_price": 10.3952,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-13T16:09:15.553"
+            },
+            {
+                "nav_date": "2025-06-11",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-ALLGR-UI-A(A)",
+                "net_asset": 8172298752,
+                "last_val": 10.4189,
+                "previous_val": 0,
+                "sell_price": 10.5232,
+                "buy_price": 10.4189,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-16T16:06:39.94"
+            },
+            {
+                "nav_date": "2025-06-12",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-ALLGR-UI-A(A)",
+                "net_asset": 8172737024,
+                "last_val": 10.4281,
+                "previous_val": 0,
+                "sell_price": 10.5325,
+                "buy_price": 10.4281,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-17T08:08:48.31"
             }
         ]
     }
