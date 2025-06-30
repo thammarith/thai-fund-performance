@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1749920400000,
-    "nextUpdate": 1750049833698,
+    "lastUpdate": 1751208436185,
+    "nextUpdate": 1751294836185,
     "data": {
-        "lastNav": "2025-06-12",
+        "lastNav": "2025-06-25",
         "fund": {
             "proj_id": "M0431_2560",
             "regis_id": "MF0376_2560",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-05-16T16:11:28.93"
+            "last_upd_date": "2025-06-29T16:09:32.98"
         },
         "navs": [
             {
@@ -12707,6 +12707,96 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-06-17T08:08:48.31"
+            },
+            {
+                "nav_date": "2025-06-16",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-ALLBASIC",
+                "net_asset": 1362315264,
+                "last_val": 11.1424,
+                "previous_val": 0,
+                "sell_price": 11.1982,
+                "buy_price": 11.1424,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-19T16:04:44.08"
+            },
+            {
+                "nav_date": "2025-06-17",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-ALLBASIC",
+                "net_asset": 1362067584,
+                "last_val": 11.1407,
+                "previous_val": 0,
+                "sell_price": 11.1965,
+                "buy_price": 11.1407,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-23T16:05:10.553"
+            },
+            {
+                "nav_date": "2025-06-18",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-ALLBASIC",
+                "net_asset": 1362153088,
+                "last_val": 11.1414,
+                "previous_val": 0,
+                "sell_price": 11.1972,
+                "buy_price": 11.1414,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-25T16:05:37.003"
+            },
+            {
+                "nav_date": "2025-06-20",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-ALLBASIC",
+                "net_asset": 1325262976,
+                "last_val": 11.1479,
+                "previous_val": 0,
+                "sell_price": 11.2037,
+                "buy_price": 11.1479,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-26T16:04:31.517"
+            },
+            {
+                "nav_date": "2025-06-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-ALLBASIC",
+                "net_asset": 1320262656,
+                "last_val": 11.149,
+                "previous_val": 0,
+                "sell_price": 11.2048,
+                "buy_price": 11.149,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-27T16:05:12.01"
+            },
+            {
+                "nav_date": "2025-06-25",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-ALLBASIC",
+                "net_asset": 1318878848,
+                "last_val": 11.1372,
+                "previous_val": 0,
+                "sell_price": 11.193,
+                "buy_price": 11.1372,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-29T16:09:06.92"
             }
         ]
     }

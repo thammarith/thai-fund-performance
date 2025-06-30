@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1749920400000,
-    "nextUpdate": 1750049833698,
+    "lastUpdate": 1751208436185,
+    "nextUpdate": 1751294836185,
     "data": {
-        "lastNav": "2025-06-13",
+        "lastNav": "2025-06-26",
         "fund": {
             "proj_id": "M0184_2561",
             "regis_id": "MF0402_2561",
@@ -15,7 +15,7 @@
             "unique_id": "C0000005025",
             "permit_us_investment": null,
             "invest_country_flag": "4",
-            "last_upd_date": "2025-05-16T16:11:28.93"
+            "last_upd_date": "2025-06-29T16:09:32.98"
         },
         "navs": [
             {
@@ -13262,6 +13262,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-06-17T08:08:48.31"
+            },
+            {
+                "nav_date": "2025-06-16",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SG-AA RMF",
+                "net_asset": 352593952,
+                "last_val": 11.6253,
+                "previous_val": 0,
+                "sell_price": 11.6254,
+                "buy_price": 11.6253,
+                "sell_swap_price": 11.6253,
+                "buy_swap_price": 11.6254,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-18T16:04:38.923"
+            },
+            {
+                "nav_date": "2025-06-17",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SG-AA RMF",
+                "net_asset": 352383392,
+                "last_val": 11.5961,
+                "previous_val": 0,
+                "sell_price": 11.5962,
+                "buy_price": 11.5961,
+                "sell_swap_price": 11.5961,
+                "buy_swap_price": 11.5962,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-19T16:04:44.08"
+            },
+            {
+                "nav_date": "2025-06-18",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SG-AA RMF",
+                "net_asset": 352873184,
+                "last_val": 11.6025,
+                "previous_val": 0,
+                "sell_price": 11.6026,
+                "buy_price": 11.6025,
+                "sell_swap_price": 11.6025,
+                "buy_swap_price": 11.6026,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-23T16:05:10.553"
+            },
+            {
+                "nav_date": "2025-06-20",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SG-AA RMF",
+                "net_asset": 353836032,
+                "last_val": 11.6342,
+                "previous_val": 0,
+                "sell_price": 11.6343,
+                "buy_price": 11.6342,
+                "sell_swap_price": 11.6342,
+                "buy_swap_price": 11.6343,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-24T16:04:04.243"
+            },
+            {
+                "nav_date": "2025-06-23",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SG-AA RMF",
+                "net_asset": 356207104,
+                "last_val": 11.7192,
+                "previous_val": 0,
+                "sell_price": 11.7193,
+                "buy_price": 11.7192,
+                "sell_swap_price": 11.7192,
+                "buy_swap_price": 11.7193,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-25T16:05:37.003"
+            },
+            {
+                "nav_date": "2025-06-24",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SG-AA RMF",
+                "net_asset": 356001856,
+                "last_val": 11.7131,
+                "previous_val": 0,
+                "sell_price": 11.7132,
+                "buy_price": 11.7131,
+                "sell_swap_price": 11.7131,
+                "buy_swap_price": 11.7132,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-26T16:04:31.517"
+            },
+            {
+                "nav_date": "2025-06-25",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SG-AA RMF",
+                "net_asset": 355769472,
+                "last_val": 11.6888,
+                "previous_val": 0,
+                "sell_price": 11.6889,
+                "buy_price": 11.6888,
+                "sell_swap_price": 11.6888,
+                "buy_swap_price": 11.6889,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-27T16:05:12.01"
+            },
+            {
+                "nav_date": "2025-06-26",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SG-AA RMF",
+                "net_asset": 356666848,
+                "last_val": 11.6864,
+                "previous_val": 0,
+                "sell_price": 11.6865,
+                "buy_price": 11.6864,
+                "sell_swap_price": 11.6864,
+                "buy_swap_price": 11.6865,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-29T16:09:06.92"
             }
         ]
     }

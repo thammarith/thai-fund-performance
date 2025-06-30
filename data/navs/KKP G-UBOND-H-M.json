@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1749920400000,
-    "nextUpdate": 1750049833698,
+    "lastUpdate": 1751208436185,
+    "nextUpdate": 1751294836185,
     "data": {
-        "lastNav": "2025-06-13",
+        "lastNav": "2025-06-26",
         "fund": {
             "proj_id": "M0518_2560",
             "regis_id": "MF0471_2560",
@@ -15,7 +15,7 @@
             "unique_id": "C0000005025",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-05-16T16:11:28.93"
+            "last_upd_date": "2025-06-29T16:09:32.98"
         },
         "navs": [
             {
@@ -2252,6 +2252,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-06-17T08:08:48.31"
+            },
+            {
+                "nav_date": "2025-06-16",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP G-UBOND-H-M",
+                "net_asset": 88037448,
+                "last_val": 9.9833,
+                "previous_val": 0,
+                "sell_price": 9.9834,
+                "buy_price": 9.9833,
+                "sell_swap_price": 9.9833,
+                "buy_swap_price": 9.9834,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-18T16:04:38.923"
+            },
+            {
+                "nav_date": "2025-06-17",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP G-UBOND-H-M",
+                "net_asset": 88045896,
+                "last_val": 9.9842,
+                "previous_val": 0,
+                "sell_price": 9.9843,
+                "buy_price": 9.9842,
+                "sell_swap_price": 9.9842,
+                "buy_swap_price": 9.9843,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-19T16:04:44.08"
+            },
+            {
+                "nav_date": "2025-06-18",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP G-UBOND-H-M",
+                "net_asset": 88206296,
+                "last_val": 10.0024,
+                "previous_val": 0,
+                "sell_price": 10.0025,
+                "buy_price": 10.0024,
+                "sell_swap_price": 10.0024,
+                "buy_swap_price": 10.0025,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-23T16:05:10.553"
+            },
+            {
+                "nav_date": "2025-06-20",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP G-UBOND-H-M",
+                "net_asset": 88681656,
+                "last_val": 10.0014,
+                "previous_val": 0,
+                "sell_price": 10.0015,
+                "buy_price": 10.0014,
+                "sell_swap_price": 10.0014,
+                "buy_swap_price": 10.0015,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-25T16:05:37.003"
+            },
+            {
+                "nav_date": "2025-06-24",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP G-UBOND-H-M",
+                "net_asset": 89384352,
+                "last_val": 10.0453,
+                "previous_val": 0,
+                "sell_price": 10.0454,
+                "buy_price": 10.0453,
+                "sell_swap_price": 10.0453,
+                "buy_swap_price": 10.0454,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-26T16:04:31.517"
+            },
+            {
+                "nav_date": "2025-06-25",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP G-UBOND-H-M",
+                "net_asset": 89570488,
+                "last_val": 10.0662,
+                "previous_val": 0,
+                "sell_price": 10.0663,
+                "buy_price": 10.0662,
+                "sell_swap_price": 10.0662,
+                "buy_swap_price": 10.0663,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-27T16:05:12.01"
+            },
+            {
+                "nav_date": "2025-06-26",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP G-UBOND-H-M",
+                "net_asset": 90373576,
+                "last_val": 10.0692,
+                "previous_val": 0,
+                "sell_price": 10.0693,
+                "buy_price": 10.0692,
+                "sell_swap_price": 10.0692,
+                "buy_swap_price": 10.0693,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-29T16:09:06.92"
             }
         ]
     }

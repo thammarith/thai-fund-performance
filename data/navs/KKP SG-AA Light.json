@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1749920400000,
-    "nextUpdate": 1750049833698,
+    "lastUpdate": 1751208436185,
+    "nextUpdate": 1751294836185,
     "data": {
-        "lastNav": "2025-06-13",
+        "lastNav": "2025-06-26",
         "fund": {
             "proj_id": "M0512_2561",
             "regis_id": "MF0105_2562",
@@ -15,7 +15,7 @@
             "unique_id": "C0000005025",
             "permit_us_investment": null,
             "invest_country_flag": "4",
-            "last_upd_date": "2025-05-16T16:11:28.93"
+            "last_upd_date": "2025-06-29T16:09:32.98"
         },
         "navs": [
             {
@@ -2357,6 +2357,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-06-17T08:08:48.31"
+            },
+            {
+                "nav_date": "2025-06-16",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SG-AA Light",
+                "net_asset": 830893120,
+                "last_val": 11.3818,
+                "previous_val": 0,
+                "sell_price": 11.4123,
+                "buy_price": 11.3818,
+                "sell_swap_price": 11.3818,
+                "buy_swap_price": 11.4123,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-18T16:04:38.923"
+            },
+            {
+                "nav_date": "2025-06-17",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SG-AA Light",
+                "net_asset": 809118784,
+                "last_val": 11.3749,
+                "previous_val": 0,
+                "sell_price": 11.4054,
+                "buy_price": 11.3749,
+                "sell_swap_price": 11.3749,
+                "buy_swap_price": 11.4054,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-19T16:04:44.08"
+            },
+            {
+                "nav_date": "2025-06-18",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SG-AA Light",
+                "net_asset": 809786688,
+                "last_val": 11.3837,
+                "previous_val": 0,
+                "sell_price": 11.4143,
+                "buy_price": 11.3837,
+                "sell_swap_price": 11.3837,
+                "buy_swap_price": 11.4143,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-23T16:05:10.553"
+            },
+            {
+                "nav_date": "2025-06-20",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SG-AA Light",
+                "net_asset": 811284416,
+                "last_val": 11.4048,
+                "previous_val": 0,
+                "sell_price": 11.4354,
+                "buy_price": 11.4048,
+                "sell_swap_price": 11.4048,
+                "buy_swap_price": 11.4354,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-24T16:04:04.243"
+            },
+            {
+                "nav_date": "2025-06-23",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SG-AA Light",
+                "net_asset": 806225536,
+                "last_val": 11.4473,
+                "previous_val": 0,
+                "sell_price": 11.478,
+                "buy_price": 11.4473,
+                "sell_swap_price": 11.4473,
+                "buy_swap_price": 11.478,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-25T16:05:37.003"
+            },
+            {
+                "nav_date": "2025-06-24",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SG-AA Light",
+                "net_asset": 798200192,
+                "last_val": 11.4397,
+                "previous_val": 0,
+                "sell_price": 11.4704,
+                "buy_price": 11.4397,
+                "sell_swap_price": 11.4397,
+                "buy_swap_price": 11.4704,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-26T16:04:31.517"
+            },
+            {
+                "nav_date": "2025-06-25",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SG-AA Light",
+                "net_asset": 793914944,
+                "last_val": 11.4314,
+                "previous_val": 0,
+                "sell_price": 11.4621,
+                "buy_price": 11.4314,
+                "sell_swap_price": 11.4314,
+                "buy_swap_price": 11.4621,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-27T16:05:12.01"
+            },
+            {
+                "nav_date": "2025-06-26",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SG-AA Light",
+                "net_asset": 793976512,
+                "last_val": 11.4316,
+                "previous_val": 0,
+                "sell_price": 11.4623,
+                "buy_price": 11.4316,
+                "sell_swap_price": 11.4316,
+                "buy_swap_price": 11.4623,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-29T16:09:06.92"
             }
         ]
     }

@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1749920400000,
-    "nextUpdate": 1750049833698,
+    "lastUpdate": 1751208436185,
+    "nextUpdate": 1751294836185,
     "data": {
-        "lastNav": "2025-06-12",
+        "lastNav": "2025-06-25",
         "fund": {
             "proj_id": "M0245_2559",
             "regis_id": "MF0275_2559",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000239",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-05-16T16:11:28.93"
+            "last_upd_date": "2025-06-29T16:09:32.98"
         },
         "navs": [
             {
@@ -2297,6 +2297,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-06-17T08:08:48.31"
+            },
+            {
+                "nav_date": "2025-06-16",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBDIGI",
+                "net_asset": 1575889280,
+                "last_val": 19.0179,
+                "previous_val": 0,
+                "sell_price": 19.3232,
+                "buy_price": 19.0179,
+                "sell_swap_price": 19.0179,
+                "buy_swap_price": 19.3232,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-19T16:04:44.08"
+            },
+            {
+                "nav_date": "2025-06-17",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBDIGI",
+                "net_asset": 1585169280,
+                "last_val": 18.815,
+                "previous_val": 0,
+                "sell_price": 19.1171,
+                "buy_price": 18.815,
+                "sell_swap_price": 18.815,
+                "buy_swap_price": 19.1171,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-20T16:12:19.95"
+            },
+            {
+                "nav_date": "2025-06-18",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBDIGI",
+                "net_asset": 1565507712,
+                "last_val": 18.7512,
+                "previous_val": 0,
+                "sell_price": 19.0523,
+                "buy_price": 18.7512,
+                "sell_swap_price": 18.7512,
+                "buy_swap_price": 19.0523,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-23T16:05:10.553"
+            },
+            {
+                "nav_date": "2025-06-19",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBDIGI",
+                "net_asset": 1565925888,
+                "last_val": 18.7449,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-24T16:04:04.243"
+            },
+            {
+                "nav_date": "2025-06-20",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBDIGI",
+                "net_asset": 1554025856,
+                "last_val": 18.6025,
+                "previous_val": 0,
+                "sell_price": 18.9012,
+                "buy_price": 18.6025,
+                "sell_swap_price": 18.6025,
+                "buy_swap_price": 18.9012,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-25T16:05:37.003"
+            },
+            {
+                "nav_date": "2025-06-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBDIGI",
+                "net_asset": 1552977920,
+                "last_val": 18.6159,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-26T16:04:31.517"
+            },
+            {
+                "nav_date": "2025-06-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBDIGI",
+                "net_asset": 1605339264,
+                "last_val": 19.2436,
+                "previous_val": 0,
+                "sell_price": 19.5526,
+                "buy_price": 19.2436,
+                "sell_swap_price": 19.2436,
+                "buy_swap_price": 19.5526,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-27T16:05:12.01"
+            },
+            {
+                "nav_date": "2025-06-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBDIGI",
+                "net_asset": 1596550528,
+                "last_val": 19.2816,
+                "previous_val": 0,
+                "sell_price": 19.5912,
+                "buy_price": 19.2816,
+                "sell_swap_price": 19.2816,
+                "buy_swap_price": 19.5912,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-29T16:09:06.92"
             }
         ]
     }

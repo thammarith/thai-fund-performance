@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1749920400000,
-    "nextUpdate": 1750049833698,
+    "lastUpdate": 1751208436185,
+    "nextUpdate": 1751294836185,
     "data": {
-        "lastNav": "2025-06-13",
+        "lastNav": "2025-06-26",
         "fund": {
             "proj_id": "M0363_2558",
             "regis_id": "MF0447_2558",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000569",
             "permit_us_investment": null,
             "invest_country_flag": "4",
-            "last_upd_date": "2025-05-16T16:11:28.93"
+            "last_upd_date": "2025-06-29T16:09:32.98"
         },
         "navs": [
             {
@@ -13952,6 +13952,141 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-06-17T08:08:48.31"
+            },
+            {
+                "nav_date": "2025-06-16",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-ULTRA",
+                "net_asset": 245017056,
+                "last_val": 8.7454,
+                "previous_val": 0,
+                "sell_price": 8.8391,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 8.8391,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-18T16:04:38.923"
+            },
+            {
+                "nav_date": "2025-06-17",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-ULTRA",
+                "net_asset": 244253072,
+                "last_val": 8.718,
+                "previous_val": 0,
+                "sell_price": 8.8114,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 8.8114,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-19T16:04:44.08"
+            },
+            {
+                "nav_date": "2025-06-18",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-ULTRA",
+                "net_asset": 243641344,
+                "last_val": 8.6961,
+                "previous_val": 0,
+                "sell_price": 8.7892,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 8.7892,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-20T16:12:19.95"
+            },
+            {
+                "nav_date": "2025-06-19",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-ULTRA",
+                "net_asset": 242489120,
+                "last_val": 8.655,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-23T16:05:10.553"
+            },
+            {
+                "nav_date": "2025-06-20",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-ULTRA",
+                "net_asset": 242199360,
+                "last_val": 8.6447,
+                "previous_val": 0,
+                "sell_price": 8.7373,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 8.7373,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-24T16:04:04.243"
+            },
+            {
+                "nav_date": "2025-06-23",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-ULTRA",
+                "net_asset": 242772928,
+                "last_val": 8.6652,
+                "previous_val": 0,
+                "sell_price": 8.758,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 8.758,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-25T16:05:37.003"
+            },
+            {
+                "nav_date": "2025-06-24",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-ULTRA",
+                "net_asset": 244674096,
+                "last_val": 8.733,
+                "previous_val": 0,
+                "sell_price": 8.8265,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 8.8265,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-26T16:04:31.517"
+            },
+            {
+                "nav_date": "2025-06-25",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-ULTRA",
+                "net_asset": 246650416,
+                "last_val": 8.7427,
+                "previous_val": 0,
+                "sell_price": 8.8363,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 8.8363,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-27T16:05:12.01"
+            },
+            {
+                "nav_date": "2025-06-26",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-ULTRA",
+                "net_asset": 247091824,
+                "last_val": 8.7584,
+                "previous_val": 0,
+                "sell_price": 8.8522,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 8.8522,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-29T16:09:06.92"
             }
         ]
     }

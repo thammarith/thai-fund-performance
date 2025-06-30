@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1749920400000,
-    "nextUpdate": 1750049833698,
+    "lastUpdate": 1751208436185,
+    "nextUpdate": 1751294836185,
     "data": {
-        "lastNav": "2025-06-13",
+        "lastNav": "2025-06-26",
         "fund": {
             "proj_id": "M0240_2561",
             "regis_id": "MF0273_2561",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000569",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-05-16T16:11:28.93"
+            "last_upd_date": "2025-06-29T16:09:32.98"
         },
         "navs": [
             {
@@ -3422,6 +3422,141 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-06-17T08:08:48.31"
+            },
+            {
+                "nav_date": "2025-06-16",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-ALLCHINA-ASSF",
+                "net_asset": 575183936,
+                "last_val": 8.2167,
+                "previous_val": 0,
+                "sell_price": 8.2168,
+                "buy_price": 8.2167,
+                "sell_swap_price": 8.2167,
+                "buy_swap_price": 8.2168,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-18T16:04:38.923"
+            },
+            {
+                "nav_date": "2025-06-17",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-ALLCHINA-ASSF",
+                "net_asset": 573839424,
+                "last_val": 8.199,
+                "previous_val": 0,
+                "sell_price": 8.1991,
+                "buy_price": 8.199,
+                "sell_swap_price": 8.199,
+                "buy_swap_price": 8.1991,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-19T16:04:44.08"
+            },
+            {
+                "nav_date": "2025-06-18",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-ALLCHINA-ASSF",
+                "net_asset": 568992640,
+                "last_val": 8.1313,
+                "previous_val": 0,
+                "sell_price": 8.1314,
+                "buy_price": 8.1313,
+                "sell_swap_price": 8.1313,
+                "buy_swap_price": 8.1314,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-20T16:12:19.95"
+            },
+            {
+                "nav_date": "2025-06-19",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-ALLCHINA-ASSF",
+                "net_asset": 560596480,
+                "last_val": 8.0116,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-23T16:05:10.553"
+            },
+            {
+                "nav_date": "2025-06-20",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-ALLCHINA-ASSF",
+                "net_asset": 564177600,
+                "last_val": 8.0627,
+                "previous_val": 0,
+                "sell_price": 8.0628,
+                "buy_price": 8.0627,
+                "sell_swap_price": 8.0627,
+                "buy_swap_price": 8.0628,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-24T16:04:04.243"
+            },
+            {
+                "nav_date": "2025-06-23",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-ALLCHINA-ASSF",
+                "net_asset": 565616768,
+                "last_val": 8.0891,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-25T16:05:37.003"
+            },
+            {
+                "nav_date": "2025-06-24",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-ALLCHINA-ASSF",
+                "net_asset": 574475840,
+                "last_val": 8.2158,
+                "previous_val": 0,
+                "sell_price": 8.2159,
+                "buy_price": 8.2158,
+                "sell_swap_price": 8.2158,
+                "buy_swap_price": 8.2159,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-26T16:04:31.517"
+            },
+            {
+                "nav_date": "2025-06-25",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-ALLCHINA-ASSF",
+                "net_asset": 580808512,
+                "last_val": 8.3104,
+                "previous_val": 0,
+                "sell_price": 8.3105,
+                "buy_price": 8.3104,
+                "sell_swap_price": 8.3104,
+                "buy_swap_price": 8.3105,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-27T16:05:12.01"
+            },
+            {
+                "nav_date": "2025-06-26",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-ALLCHINA-ASSF",
+                "net_asset": 577629952,
+                "last_val": 8.2676,
+                "previous_val": 0,
+                "sell_price": 8.2677,
+                "buy_price": 8.2676,
+                "sell_swap_price": 8.2676,
+                "buy_swap_price": 8.2677,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-29T16:09:06.92"
             }
         ]
     }

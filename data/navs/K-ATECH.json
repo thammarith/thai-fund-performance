@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1749920400000,
-    "nextUpdate": 1750049833698,
+    "lastUpdate": 1751208436185,
+    "nextUpdate": 1751294836185,
     "data": {
-        "lastNav": "2025-06-13",
+        "lastNav": "2025-06-26",
         "fund": {
             "proj_id": "M0077_2564",
             "regis_id": "MF0126_2564",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-05-16T16:11:28.93"
+            "last_upd_date": "2025-06-29T16:09:32.98"
         },
         "navs": [
             {
@@ -13037,6 +13037,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-06-17T08:08:48.31"
+            },
+            {
+                "nav_date": "2025-06-16",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-ATECH",
+                "net_asset": 1947912064,
+                "last_val": 6.1777,
+                "previous_val": 0,
+                "sell_price": 6.2705,
+                "buy_price": 6.1777,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-18T16:04:38.923"
+            },
+            {
+                "nav_date": "2025-06-17",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-ATECH",
+                "net_asset": 1953164800,
+                "last_val": 6.1949,
+                "previous_val": 0,
+                "sell_price": 6.2879,
+                "buy_price": 6.1949,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-20T16:12:19.95"
+            },
+            {
+                "nav_date": "2025-06-18",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-ATECH",
+                "net_asset": 1943585024,
+                "last_val": 6.2103,
+                "previous_val": 0,
+                "sell_price": 6.3036,
+                "buy_price": 6.2103,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-23T16:05:10.553"
+            },
+            {
+                "nav_date": "2025-06-20",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-ATECH",
+                "net_asset": 1918607360,
+                "last_val": 6.1375,
+                "previous_val": 0,
+                "sell_price": 6.2297,
+                "buy_price": 6.1375,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-24T16:04:04.243"
+            },
+            {
+                "nav_date": "2025-06-23",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-ATECH",
+                "net_asset": 1907092864,
+                "last_val": 6.0994,
+                "previous_val": 0,
+                "sell_price": 6.191,
+                "buy_price": 6.0994,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-25T16:05:37.003"
+            },
+            {
+                "nav_date": "2025-06-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-ATECH",
+                "net_asset": 1950681856,
+                "last_val": 6.2468,
+                "previous_val": 0,
+                "sell_price": 6.3406,
+                "buy_price": 6.2468,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-26T16:04:31.517"
+            },
+            {
+                "nav_date": "2025-06-25",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-ATECH",
+                "net_asset": 1974801792,
+                "last_val": 6.2896,
+                "previous_val": 0,
+                "sell_price": 6.384,
+                "buy_price": 6.2896,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-27T16:05:12.01"
+            },
+            {
+                "nav_date": "2025-06-26",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-ATECH",
+                "net_asset": 1991384576,
+                "last_val": 6.3524,
+                "previous_val": 0,
+                "sell_price": 6.4478,
+                "buy_price": 6.3524,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-29T16:09:06.92"
             }
         ]
     }

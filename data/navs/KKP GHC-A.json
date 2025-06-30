@@ -1,0 +1,68 @@
+{
+    "lastUpdate": 1751208436185,
+    "nextUpdate": 1751294836185,
+    "data": {
+        "lastNav": "2025-06-26",
+        "fund": {
+            "proj_id": "M0109_2551",
+            "regis_id": "075_2551",
+            "regis_date": "2008-03-12",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิดเคเคพี โกลบอล เฮลธ์แคร์",
+            "proj_name_en": "KKP GLOBAL HEALTH CARE FUND",
+            "proj_abbr_name": "KKP GHC FUND",
+            "fund_status": "RG",
+            "unique_id": "C0000005025",
+            "permit_us_investment": null,
+            "invest_country_flag": "1",
+            "last_upd_date": "2025-06-29T16:09:32.98"
+        },
+        "navs": [
+            {
+                "nav_date": "2025-06-24",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP GHC-A",
+                "net_asset": 0,
+                "last_val": 14.3068,
+                "previous_val": 0,
+                "sell_price": 14.45,
+                "buy_price": 14.3068,
+                "sell_swap_price": 14.3068,
+                "buy_swap_price": 14.45,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-26T16:04:31.517"
+            },
+            {
+                "nav_date": "2025-06-25",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP GHC-A",
+                "net_asset": 0,
+                "last_val": 14.2499,
+                "previous_val": 0,
+                "sell_price": 14.3925,
+                "buy_price": 14.2499,
+                "sell_swap_price": 14.2499,
+                "buy_swap_price": 14.3925,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-27T16:05:12.01"
+            },
+            {
+                "nav_date": "2025-06-26",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP GHC-A",
+                "net_asset": 0,
+                "last_val": 14.2752,
+                "previous_val": 0,
+                "sell_price": 14.4181,
+                "buy_price": 14.2752,
+                "sell_swap_price": 14.2752,
+                "buy_swap_price": 14.4181,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-29T16:09:06.92"
+            }
+        ]
+    }
+}

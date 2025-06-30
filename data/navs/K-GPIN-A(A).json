@@ -1,0 +1,38 @@
+{
+    "lastUpdate": 1751208436185,
+    "nextUpdate": 1751294836185,
+    "data": {
+        "lastNav": "2025-06-26",
+        "fund": {
+            "proj_id": "M0450_2567",
+            "regis_id": "MF0356_2568",
+            "regis_date": "2025-06-26",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิดเค พรีเมียมอินคัมหุ้นโลก",
+            "proj_name_en": "K Global Equity Premium Income Fund",
+            "proj_abbr_name": "K-GPIN",
+            "fund_status": "RG",
+            "unique_id": "C0000000021",
+            "permit_us_investment": null,
+            "invest_country_flag": "1",
+            "last_upd_date": "2025-06-29T16:09:32.98"
+        },
+        "navs": [
+            {
+                "nav_date": "2025-06-26",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GPIN-A(A)",
+                "net_asset": 22076352,
+                "last_val": 9.9872,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-29T16:09:06.92"
+            }
+        ]
+    }
+}

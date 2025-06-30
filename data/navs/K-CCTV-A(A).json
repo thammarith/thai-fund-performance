@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1749920400000,
-    "nextUpdate": 1750049833698,
+    "lastUpdate": 1751208436185,
+    "nextUpdate": 1751294836185,
     "data": {
-        "lastNav": "2025-06-13",
+        "lastNav": "2025-06-26",
         "fund": {
             "proj_id": "M0440_2561",
             "regis_id": "MF0413_2561",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-05-16T16:11:28.93"
+            "last_upd_date": "2025-06-29T16:09:32.98"
         },
         "navs": [
             {
@@ -2012,6 +2012,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-06-17T08:08:48.31"
+            },
+            {
+                "nav_date": "2025-06-16",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-CCTV-A(A)",
+                "net_asset": 4001031424,
+                "last_val": 8.6741,
+                "previous_val": 0,
+                "sell_price": 8.8043,
+                "buy_price": 8.6741,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-18T16:04:38.923"
+            },
+            {
+                "nav_date": "2025-06-17",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-CCTV-A(A)",
+                "net_asset": 3991057664,
+                "last_val": 8.6543,
+                "previous_val": 0,
+                "sell_price": 8.7842,
+                "buy_price": 8.6543,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-19T16:04:44.08"
+            },
+            {
+                "nav_date": "2025-06-18",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-CCTV-A(A)",
+                "net_asset": 3965003008,
+                "last_val": 8.607,
+                "previous_val": 0,
+                "sell_price": 8.7362,
+                "buy_price": 8.607,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-23T16:05:10.553"
+            },
+            {
+                "nav_date": "2025-06-20",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-CCTV-A(A)",
+                "net_asset": 3946252032,
+                "last_val": 8.5733,
+                "previous_val": 0,
+                "sell_price": 8.702,
+                "buy_price": 8.5733,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-25T16:05:37.003"
+            },
+            {
+                "nav_date": "2025-06-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-CCTV-A(A)",
+                "net_asset": 3998769664,
+                "last_val": 8.7012,
+                "previous_val": 0,
+                "sell_price": 8.8318,
+                "buy_price": 8.7012,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-26T16:04:31.517"
+            },
+            {
+                "nav_date": "2025-06-25",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-CCTV-A(A)",
+                "net_asset": 4018321920,
+                "last_val": 8.77,
+                "previous_val": 0,
+                "sell_price": 8.9017,
+                "buy_price": 8.77,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-27T16:05:12.01"
+            },
+            {
+                "nav_date": "2025-06-26",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-CCTV-A(A)",
+                "net_asset": 4010133248,
+                "last_val": 8.7568,
+                "previous_val": 0,
+                "sell_price": 8.8883,
+                "buy_price": 8.7568,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-29T16:09:06.92"
             }
         ]
     }

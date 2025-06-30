@@ -1,0 +1,38 @@
+{
+    "lastUpdate": 1751208436185,
+    "nextUpdate": 1751294836185,
+    "data": {
+        "lastNav": "2025-05-30",
+        "fund": {
+            "proj_id": "M0524_2568",
+            "regis_id": "MF0313_2568",
+            "regis_date": "2025-05-29",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิดเค พันธบัตร 6 เดือน CD",
+            "proj_name_en": "K Government Bond 6 Months CD Fund",
+            "proj_abbr_name": "K-GB6MCD",
+            "fund_status": "RG",
+            "unique_id": "C0000000021",
+            "permit_us_investment": null,
+            "invest_country_flag": "3",
+            "last_upd_date": "2025-06-29T16:09:32.98"
+        },
+        "navs": [
+            {
+                "nav_date": "2025-05-30",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GB6MCD",
+                "net_asset": 5139190272,
+                "last_val": 10.0008,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-29T16:09:06.92"
+            }
+        ]
+    }
+}

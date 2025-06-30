@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1749920400000,
-    "nextUpdate": 1750049833698,
+    "lastUpdate": 1751208436185,
+    "nextUpdate": 1751294836185,
     "data": {
-        "lastNav": "2025-06-13",
+        "lastNav": "2025-06-26",
         "fund": {
             "proj_id": "M0298_2567",
             "regis_id": "MF0214_2567",
@@ -15,7 +15,7 @@
             "unique_id": "C0000005025",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-05-16T16:11:28.93"
+            "last_upd_date": "2025-06-29T16:09:32.98"
         },
         "navs": [
             {
@@ -2357,6 +2357,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-06-17T08:08:48.31"
+            },
+            {
+                "nav_date": "2025-06-16",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP US500-H-SSF",
+                "net_asset": 11801772,
+                "last_val": 11.3563,
+                "previous_val": 0,
+                "sell_price": 11.3564,
+                "buy_price": 11.3563,
+                "sell_swap_price": 11.3563,
+                "buy_swap_price": 11.3564,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-18T16:04:38.923"
+            },
+            {
+                "nav_date": "2025-06-17",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP US500-H-SSF",
+                "net_asset": 11706411,
+                "last_val": 11.2655,
+                "previous_val": 0,
+                "sell_price": 11.2656,
+                "buy_price": 11.2655,
+                "sell_swap_price": 11.2655,
+                "buy_swap_price": 11.2656,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-19T16:04:44.08"
+            },
+            {
+                "nav_date": "2025-06-18",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP US500-H-SSF",
+                "net_asset": 11698868,
+                "last_val": 11.2622,
+                "previous_val": 0,
+                "sell_price": 11.2623,
+                "buy_price": 11.2622,
+                "sell_swap_price": 11.2622,
+                "buy_swap_price": 11.2623,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-23T16:05:10.553"
+            },
+            {
+                "nav_date": "2025-06-20",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP US500-H-SSF",
+                "net_asset": 11709423,
+                "last_val": 11.2276,
+                "previous_val": 0,
+                "sell_price": 11.2277,
+                "buy_price": 11.2276,
+                "sell_swap_price": 11.2276,
+                "buy_swap_price": 11.2277,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-24T16:04:04.243"
+            },
+            {
+                "nav_date": "2025-06-23",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP US500-H-SSF",
+                "net_asset": 11658578,
+                "last_val": 11.3451,
+                "previous_val": 0,
+                "sell_price": 11.3452,
+                "buy_price": 11.3451,
+                "sell_swap_price": 11.3451,
+                "buy_swap_price": 11.3452,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-25T16:05:37.003"
+            },
+            {
+                "nav_date": "2025-06-24",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP US500-H-SSF",
+                "net_asset": 11768664,
+                "last_val": 11.4575,
+                "previous_val": 0,
+                "sell_price": 11.4576,
+                "buy_price": 11.4575,
+                "sell_swap_price": 11.4575,
+                "buy_swap_price": 11.4576,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-26T16:04:31.517"
+            },
+            {
+                "nav_date": "2025-06-25",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP US500-H-SSF",
+                "net_asset": 11773560,
+                "last_val": 11.4622,
+                "previous_val": 0,
+                "sell_price": 11.4623,
+                "buy_price": 11.4622,
+                "sell_swap_price": 11.4622,
+                "buy_swap_price": 11.4623,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-27T16:05:12.01"
+            },
+            {
+                "nav_date": "2025-06-26",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP US500-H-SSF",
+                "net_asset": 11859483,
+                "last_val": 11.5459,
+                "previous_val": 0,
+                "sell_price": 11.546,
+                "buy_price": 11.5459,
+                "sell_swap_price": 11.5459,
+                "buy_swap_price": 11.546,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-29T16:09:06.92"
             }
         ]
     }

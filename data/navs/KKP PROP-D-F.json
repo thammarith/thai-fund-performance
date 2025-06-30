@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1749920400000,
-    "nextUpdate": 1750049833698,
+    "lastUpdate": 1751208436185,
+    "nextUpdate": 1751294836185,
     "data": {
-        "lastNav": "2025-06-13",
+        "lastNav": "2025-06-26",
         "fund": {
             "proj_id": "M0529_2556",
             "regis_id": "MF0567_2556",
@@ -15,7 +15,7 @@
             "unique_id": "C0000005025",
             "permit_us_investment": null,
             "invest_country_flag": "4",
-            "last_upd_date": "2025-05-16T16:11:28.93"
+            "last_upd_date": "2025-06-29T16:09:32.98"
         },
         "navs": [
             {
@@ -2297,6 +2297,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-06-17T08:08:48.31"
+            },
+            {
+                "nav_date": "2025-06-16",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP PROP-D-F",
+                "net_asset": 41.74,
+                "last_val": 9.8702,
+                "previous_val": 0,
+                "sell_price": 9.8703,
+                "buy_price": 9.8702,
+                "sell_swap_price": 9.8702,
+                "buy_swap_price": 9.8703,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-18T16:04:38.923"
+            },
+            {
+                "nav_date": "2025-06-17",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP PROP-D-F",
+                "net_asset": 41.98,
+                "last_val": 9.9256,
+                "previous_val": 0,
+                "sell_price": 9.9257,
+                "buy_price": 9.9256,
+                "sell_swap_price": 9.9256,
+                "buy_swap_price": 9.9257,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-19T16:04:44.08"
+            },
+            {
+                "nav_date": "2025-06-18",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP PROP-D-F",
+                "net_asset": 42.06,
+                "last_val": 9.9449,
+                "previous_val": 0,
+                "sell_price": 9.945,
+                "buy_price": 9.9449,
+                "sell_swap_price": 9.9449,
+                "buy_swap_price": 9.945,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-23T16:05:10.553"
+            },
+            {
+                "nav_date": "2025-06-20",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP PROP-D-F",
+                "net_asset": 41.77,
+                "last_val": 9.875,
+                "previous_val": 0,
+                "sell_price": 9.8751,
+                "buy_price": 9.875,
+                "sell_swap_price": 9.875,
+                "buy_swap_price": 9.8751,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-24T16:04:04.243"
+            },
+            {
+                "nav_date": "2025-06-23",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP PROP-D-F",
+                "net_asset": 41.77,
+                "last_val": 9.8746,
+                "previous_val": 0,
+                "sell_price": 9.8747,
+                "buy_price": 9.8746,
+                "sell_swap_price": 9.8746,
+                "buy_swap_price": 9.8747,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-25T16:05:37.003"
+            },
+            {
+                "nav_date": "2025-06-24",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP PROP-D-F",
+                "net_asset": 41.85,
+                "last_val": 9.8925,
+                "previous_val": 0,
+                "sell_price": 9.8926,
+                "buy_price": 9.8925,
+                "sell_swap_price": 9.8925,
+                "buy_swap_price": 9.8926,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-26T16:04:31.517"
+            },
+            {
+                "nav_date": "2025-06-25",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP PROP-D-F",
+                "net_asset": 41.76,
+                "last_val": 9.8711,
+                "previous_val": 0,
+                "sell_price": 9.8712,
+                "buy_price": 9.8711,
+                "sell_swap_price": 9.8711,
+                "buy_swap_price": 9.8712,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-27T16:05:12.01"
+            },
+            {
+                "nav_date": "2025-06-26",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP PROP-D-F",
+                "net_asset": 41.89,
+                "last_val": 9.9014,
+                "previous_val": 0,
+                "sell_price": 9.9015,
+                "buy_price": 9.9014,
+                "sell_swap_price": 9.9014,
+                "buy_swap_price": 9.9015,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-29T16:09:06.92"
             }
         ]
     }

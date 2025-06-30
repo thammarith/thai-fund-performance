@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1749920400000,
-    "nextUpdate": 1750049833698,
+    "lastUpdate": 1751208436185,
+    "nextUpdate": 1751294836185,
     "data": {
-        "lastNav": "2025-06-12",
+        "lastNav": "2025-06-25",
         "fund": {
             "proj_id": "M0381_2563",
             "regis_id": "MF0262_2563",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-05-16T16:11:28.93"
+            "last_upd_date": "2025-06-29T16:09:32.98"
         },
         "navs": [
             {
@@ -2057,6 +2057,96 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-06-17T08:08:48.31"
+            },
+            {
+                "nav_date": "2025-06-16",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-PLANET-A(A)",
+                "net_asset": 1061457728,
+                "last_val": 11.4246,
+                "previous_val": 0,
+                "sell_price": 11.5961,
+                "buy_price": 11.4246,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-19T16:04:44.08"
+            },
+            {
+                "nav_date": "2025-06-17",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-PLANET-A(A)",
+                "net_asset": 1051539712,
+                "last_val": 11.3335,
+                "previous_val": 0,
+                "sell_price": 11.5036,
+                "buy_price": 11.3335,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-23T16:05:10.553"
+            },
+            {
+                "nav_date": "2025-06-18",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-PLANET-A(A)",
+                "net_asset": 1048544320,
+                "last_val": 11.3013,
+                "previous_val": 0,
+                "sell_price": 11.4709,
+                "buy_price": 11.3013,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-25T16:05:37.003"
+            },
+            {
+                "nav_date": "2025-06-20",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-PLANET-A(A)",
+                "net_asset": 1040610944,
+                "last_val": 11.2155,
+                "previous_val": 0,
+                "sell_price": 11.3838,
+                "buy_price": 11.2155,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-26T16:04:31.517"
+            },
+            {
+                "nav_date": "2025-06-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-PLANET-A(A)",
+                "net_asset": 1061110080,
+                "last_val": 11.4706,
+                "previous_val": 0,
+                "sell_price": 11.6428,
+                "buy_price": 11.4706,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-27T16:05:12.01"
+            },
+            {
+                "nav_date": "2025-06-25",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-PLANET-A(A)",
+                "net_asset": 1056561920,
+                "last_val": 11.4754,
+                "previous_val": 0,
+                "sell_price": 11.6476,
+                "buy_price": 11.4754,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-29T16:09:06.92"
             }
         ]
     }

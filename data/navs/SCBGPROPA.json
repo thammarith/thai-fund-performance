@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1749920400000,
-    "nextUpdate": 1750049833698,
+    "lastUpdate": 1751208436185,
+    "nextUpdate": 1751294836185,
     "data": {
-        "lastNav": "2025-06-13",
+        "lastNav": "2025-06-26",
         "fund": {
             "proj_id": "M0406_2559",
             "regis_id": "MF0435_2559",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000239",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-05-16T16:11:28.93"
+            "last_upd_date": "2025-06-29T16:09:32.98"
         },
         "navs": [
             {
@@ -12722,6 +12722,141 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-06-17T08:08:48.31"
+            },
+            {
+                "nav_date": "2025-06-16",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGPROPA",
+                "net_asset": 93368920,
+                "last_val": 8.6609,
+                "previous_val": 0,
+                "sell_price": 8.8,
+                "buy_price": 8.6609,
+                "sell_swap_price": 8.6609,
+                "buy_swap_price": 8.8,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-18T16:04:38.923"
+            },
+            {
+                "nav_date": "2025-06-17",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGPROPA",
+                "net_asset": 92811840,
+                "last_val": 8.6156,
+                "previous_val": 0,
+                "sell_price": 8.754,
+                "buy_price": 8.6156,
+                "sell_swap_price": 8.6156,
+                "buy_swap_price": 8.754,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-19T16:04:44.08"
+            },
+            {
+                "nav_date": "2025-06-18",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGPROPA",
+                "net_asset": 92811104,
+                "last_val": 8.6154,
+                "previous_val": 0,
+                "sell_price": 8.7538,
+                "buy_price": 8.6154,
+                "sell_swap_price": 8.6154,
+                "buy_swap_price": 8.7538,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-20T16:12:19.95"
+            },
+            {
+                "nav_date": "2025-06-19",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGPROPA",
+                "net_asset": 94041840,
+                "last_val": 8.6344,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-23T16:05:10.553"
+            },
+            {
+                "nav_date": "2025-06-20",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGPROPA",
+                "net_asset": 94596400,
+                "last_val": 8.6853,
+                "previous_val": 0,
+                "sell_price": 8.8248,
+                "buy_price": 8.6853,
+                "sell_swap_price": 8.6853,
+                "buy_swap_price": 8.8248,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-24T16:04:04.243"
+            },
+            {
+                "nav_date": "2025-06-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGPROPA",
+                "net_asset": 94192832,
+                "last_val": 8.6888,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-25T16:05:37.003"
+            },
+            {
+                "nav_date": "2025-06-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGPROPA",
+                "net_asset": 94372688,
+                "last_val": 8.7054,
+                "previous_val": 0,
+                "sell_price": 8.8452,
+                "buy_price": 8.7054,
+                "sell_swap_price": 8.7054,
+                "buy_swap_price": 8.8452,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-26T16:04:31.517"
+            },
+            {
+                "nav_date": "2025-06-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGPROPA",
+                "net_asset": 93768768,
+                "last_val": 8.677,
+                "previous_val": 0,
+                "sell_price": 8.8164,
+                "buy_price": 8.677,
+                "sell_swap_price": 8.677,
+                "buy_swap_price": 8.8164,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-27T16:05:12.01"
+            },
+            {
+                "nav_date": "2025-06-26",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGPROPA",
+                "net_asset": 92265184,
+                "last_val": 8.544,
+                "previous_val": 0,
+                "sell_price": 8.6812,
+                "buy_price": 8.544,
+                "sell_swap_price": 8.544,
+                "buy_swap_price": 8.6812,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-29T16:09:06.92"
             }
         ]
     }

@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1749920400000,
-    "nextUpdate": 1750049833698,
+    "lastUpdate": 1751208436185,
+    "nextUpdate": 1751294836185,
     "data": {
-        "lastNav": "2025-06-13",
+        "lastNav": "2025-06-26",
         "fund": {
             "proj_id": "M0207_2568",
             "regis_id": "MF0148_2568",
@@ -15,7 +15,7 @@
             "unique_id": "C0000005025",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-05-16T16:11:28.93"
+            "last_upd_date": "2025-06-29T16:09:32.98"
         },
         "navs": [
             {
@@ -707,6 +707,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-06-17T08:08:48.31"
+            },
+            {
+                "nav_date": "2025-06-16",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SIB-USD",
+                "net_asset": 4238289.5,
+                "last_val": 10.1126,
+                "previous_val": 0,
+                "sell_price": 10.2138,
+                "buy_price": 10.1126,
+                "sell_swap_price": 10.1126,
+                "buy_swap_price": 10.1127,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-18T16:04:38.923"
+            },
+            {
+                "nav_date": "2025-06-17",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SIB-USD",
+                "net_asset": 4243933,
+                "last_val": 10.126,
+                "previous_val": 0,
+                "sell_price": 10.2274,
+                "buy_price": 10.126,
+                "sell_swap_price": 10.126,
+                "buy_swap_price": 10.1261,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-19T16:04:44.08"
+            },
+            {
+                "nav_date": "2025-06-18",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SIB-USD",
+                "net_asset": 4246597.5,
+                "last_val": 10.1326,
+                "previous_val": 0,
+                "sell_price": 10.234,
+                "buy_price": 10.1326,
+                "sell_swap_price": 10.1326,
+                "buy_swap_price": 10.1327,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-23T16:05:10.553"
+            },
+            {
+                "nav_date": "2025-06-20",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SIB-USD",
+                "net_asset": 4249249,
+                "last_val": 10.139,
+                "previous_val": 0,
+                "sell_price": 10.2405,
+                "buy_price": 10.139,
+                "sell_swap_price": 10.139,
+                "buy_swap_price": 10.1391,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-24T16:04:04.243"
+            },
+            {
+                "nav_date": "2025-06-23",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SIB-USD",
+                "net_asset": 4271303,
+                "last_val": 10.1587,
+                "previous_val": 0,
+                "sell_price": 10.2604,
+                "buy_price": 10.1587,
+                "sell_swap_price": 10.1587,
+                "buy_swap_price": 10.1588,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-25T16:05:37.003"
+            },
+            {
+                "nav_date": "2025-06-24",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SIB-USD",
+                "net_asset": 4285581.5,
+                "last_val": 10.1926,
+                "previous_val": 0,
+                "sell_price": 10.2946,
+                "buy_price": 10.1926,
+                "sell_swap_price": 10.1926,
+                "buy_swap_price": 10.1927,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-26T16:04:31.517"
+            },
+            {
+                "nav_date": "2025-06-25",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SIB-USD",
+                "net_asset": 4318134,
+                "last_val": 10.1992,
+                "previous_val": 0,
+                "sell_price": 10.3013,
+                "buy_price": 10.1992,
+                "sell_swap_price": 10.1992,
+                "buy_swap_price": 10.1993,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-27T16:05:12.01"
+            },
+            {
+                "nav_date": "2025-06-26",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SIB-USD",
+                "net_asset": 4329649.5,
+                "last_val": 10.2264,
+                "previous_val": 0,
+                "sell_price": 10.3288,
+                "buy_price": 10.2264,
+                "sell_swap_price": 10.2264,
+                "buy_swap_price": 10.2265,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-29T16:09:06.92"
             }
         ]
     }

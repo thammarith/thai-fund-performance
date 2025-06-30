@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1749920400000,
-    "nextUpdate": 1750049833698,
+    "lastUpdate": 1751208436185,
+    "nextUpdate": 1751294836185,
     "data": {
-        "lastNav": "2025-06-13",
+        "lastNav": "2025-06-26",
         "fund": {
             "proj_id": "M0717_2558",
             "regis_id": "MF0045_2559",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000569",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-05-16T16:11:28.93"
+            "last_upd_date": "2025-06-29T16:09:32.98"
         },
         "navs": [
             {
@@ -3407,6 +3407,141 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-06-17T08:08:48.31"
+            },
+            {
+                "nav_date": "2025-06-16",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-UGG-ASSF",
+                "net_asset": 1893515648,
+                "last_val": 31.2716,
+                "previous_val": 0,
+                "sell_price": 31.2717,
+                "buy_price": 31.2716,
+                "sell_swap_price": 31.2716,
+                "buy_swap_price": 31.2717,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-18T16:04:38.923"
+            },
+            {
+                "nav_date": "2025-06-17",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-UGG-ASSF",
+                "net_asset": 1926437760,
+                "last_val": 31.8284,
+                "previous_val": 0,
+                "sell_price": 31.8285,
+                "buy_price": 31.8284,
+                "sell_swap_price": 31.8284,
+                "buy_swap_price": 31.8285,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-19T16:04:44.08"
+            },
+            {
+                "nav_date": "2025-06-18",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-UGG-ASSF",
+                "net_asset": 1906896896,
+                "last_val": 31.5143,
+                "previous_val": 0,
+                "sell_price": 31.5144,
+                "buy_price": 31.5143,
+                "sell_swap_price": 31.5143,
+                "buy_swap_price": 31.5144,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-20T16:12:19.95"
+            },
+            {
+                "nav_date": "2025-06-19",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-UGG-ASSF",
+                "net_asset": 1906201472,
+                "last_val": 31.5115,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-23T16:05:10.553"
+            },
+            {
+                "nav_date": "2025-06-20",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-UGG-ASSF",
+                "net_asset": 1908794368,
+                "last_val": 31.5544,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-24T16:04:04.243"
+            },
+            {
+                "nav_date": "2025-06-23",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-UGG-ASSF",
+                "net_asset": 1891566592,
+                "last_val": 31.2696,
+                "previous_val": 0,
+                "sell_price": 31.2697,
+                "buy_price": 31.2696,
+                "sell_swap_price": 31.2696,
+                "buy_swap_price": 31.2697,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-25T16:05:37.003"
+            },
+            {
+                "nav_date": "2025-06-24",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-UGG-ASSF",
+                "net_asset": 1903617024,
+                "last_val": 31.5088,
+                "previous_val": 0,
+                "sell_price": 31.5089,
+                "buy_price": 31.5088,
+                "sell_swap_price": 31.5088,
+                "buy_swap_price": 31.5089,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-26T16:04:31.517"
+            },
+            {
+                "nav_date": "2025-06-25",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-UGG-ASSF",
+                "net_asset": 1953022208,
+                "last_val": 32.3255,
+                "previous_val": 0,
+                "sell_price": 32.3256,
+                "buy_price": 32.3255,
+                "sell_swap_price": 32.3255,
+                "buy_swap_price": 32.3256,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-27T16:05:12.01"
+            },
+            {
+                "nav_date": "2025-06-26",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-UGG-ASSF",
+                "net_asset": 1939193216,
+                "last_val": 32.1011,
+                "previous_val": 0,
+                "sell_price": 32.1012,
+                "buy_price": 32.1011,
+                "sell_swap_price": 32.1011,
+                "buy_swap_price": 32.1012,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-29T16:09:06.92"
             }
         ]
     }

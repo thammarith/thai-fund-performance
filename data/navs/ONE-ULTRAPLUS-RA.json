@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1749920400000,
-    "nextUpdate": 1750049833698,
+    "lastUpdate": 1751208436185,
+    "nextUpdate": 1751294836185,
     "data": {
-        "lastNav": "2025-06-13",
+        "lastNav": "2025-06-26",
         "fund": {
             "proj_id": "M0672_2566",
             "regis_id": "MF0555_2566",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000569",
             "permit_us_investment": null,
             "invest_country_flag": "4",
-            "last_upd_date": "2025-05-16T16:11:28.93"
+            "last_upd_date": "2025-06-29T16:09:32.98"
         },
         "navs": [
             {
@@ -2477,6 +2477,141 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-06-17T08:08:48.31"
+            },
+            {
+                "nav_date": "2025-06-16",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-ULTRAPLUS-RA",
+                "net_asset": 9361511,
+                "last_val": 11.0602,
+                "previous_val": 0,
+                "sell_price": 11.1786,
+                "buy_price": 11.0602,
+                "sell_swap_price": 11.0602,
+                "buy_swap_price": 11.1786,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-18T16:04:38.923"
+            },
+            {
+                "nav_date": "2025-06-17",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-ULTRAPLUS-RA",
+                "net_asset": 9326127,
+                "last_val": 11.0184,
+                "previous_val": 0,
+                "sell_price": 11.1364,
+                "buy_price": 11.0184,
+                "sell_swap_price": 11.0184,
+                "buy_swap_price": 11.1364,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-19T16:04:44.08"
+            },
+            {
+                "nav_date": "2025-06-18",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-ULTRAPLUS-RA",
+                "net_asset": 9301317,
+                "last_val": 10.9891,
+                "previous_val": 0,
+                "sell_price": 11.1068,
+                "buy_price": 10.9891,
+                "sell_swap_price": 10.9891,
+                "buy_swap_price": 11.1068,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-20T16:12:19.95"
+            },
+            {
+                "nav_date": "2025-06-19",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-ULTRAPLUS-RA",
+                "net_asset": 9277774,
+                "last_val": 10.9612,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-23T16:05:10.553"
+            },
+            {
+                "nav_date": "2025-06-20",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-ULTRAPLUS-RA",
+                "net_asset": 9265970,
+                "last_val": 10.9473,
+                "previous_val": 0,
+                "sell_price": 11.0645,
+                "buy_price": 10.9473,
+                "sell_swap_price": 10.9473,
+                "buy_swap_price": 11.0645,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-24T16:04:04.243"
+            },
+            {
+                "nav_date": "2025-06-23",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-ULTRAPLUS-RA",
+                "net_asset": 9304556,
+                "last_val": 10.9929,
+                "previous_val": 0,
+                "sell_price": 11.1106,
+                "buy_price": 10.9929,
+                "sell_swap_price": 10.9929,
+                "buy_swap_price": 11.1106,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-25T16:05:37.003"
+            },
+            {
+                "nav_date": "2025-06-24",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-ULTRAPLUS-RA",
+                "net_asset": 9375694,
+                "last_val": 11.0769,
+                "previous_val": 0,
+                "sell_price": 11.1955,
+                "buy_price": 11.0769,
+                "sell_swap_price": 11.0769,
+                "buy_swap_price": 11.1955,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-26T16:04:31.517"
+            },
+            {
+                "nav_date": "2025-06-25",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-ULTRAPLUS-RA",
+                "net_asset": 9389705,
+                "last_val": 11.0935,
+                "previous_val": 0,
+                "sell_price": 11.2123,
+                "buy_price": 11.0935,
+                "sell_swap_price": 11.0935,
+                "buy_swap_price": 11.2123,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-27T16:05:12.01"
+            },
+            {
+                "nav_date": "2025-06-26",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-ULTRAPLUS-RA",
+                "net_asset": 9417726,
+                "last_val": 11.1266,
+                "previous_val": 0,
+                "sell_price": 11.2458,
+                "buy_price": 11.1266,
+                "sell_swap_price": 11.1266,
+                "buy_swap_price": 11.2458,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-29T16:09:06.92"
             }
         ]
     }

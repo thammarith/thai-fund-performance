@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1749920400000,
-    "nextUpdate": 1750049833698,
+    "lastUpdate": 1751208436185,
+    "nextUpdate": 1751294836185,
     "data": {
-        "lastNav": "2025-06-13",
+        "lastNav": "2025-06-26",
         "fund": {
             "proj_id": "M0662_2560",
             "regis_id": "MF0048_2561",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000239",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-05-16T16:11:28.93"
+            "last_upd_date": "2025-06-29T16:09:32.98"
         },
         "navs": [
             {
@@ -13832,6 +13832,141 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-06-17T08:08:48.31"
+            },
+            {
+                "nav_date": "2025-06-16",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBINCA",
+                "net_asset": 2355303424,
+                "last_val": 10.7883,
+                "previous_val": 0,
+                "sell_price": 10.9038,
+                "buy_price": 10.7883,
+                "sell_swap_price": 10.7883,
+                "buy_swap_price": 10.9038,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-18T16:04:38.923"
+            },
+            {
+                "nav_date": "2025-06-17",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBINCA",
+                "net_asset": 2397303552,
+                "last_val": 10.8059,
+                "previous_val": 0,
+                "sell_price": 10.9216,
+                "buy_price": 10.8059,
+                "sell_swap_price": 10.8059,
+                "buy_swap_price": 10.9216,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-19T16:04:44.08"
+            },
+            {
+                "nav_date": "2025-06-18",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBINCA",
+                "net_asset": 2412395776,
+                "last_val": 10.8109,
+                "previous_val": 0,
+                "sell_price": 10.9267,
+                "buy_price": 10.8109,
+                "sell_swap_price": 10.8109,
+                "buy_swap_price": 10.9267,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-20T16:12:19.95"
+            },
+            {
+                "nav_date": "2025-06-19",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBINCA",
+                "net_asset": 2407869184,
+                "last_val": 10.8133,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-23T16:05:10.553"
+            },
+            {
+                "nav_date": "2025-06-20",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBINCA",
+                "net_asset": 2408904704,
+                "last_val": 10.8179,
+                "previous_val": 0,
+                "sell_price": 10.9338,
+                "buy_price": 10.8179,
+                "sell_swap_price": 10.8179,
+                "buy_swap_price": 10.9338,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-24T16:04:04.243"
+            },
+            {
+                "nav_date": "2025-06-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBINCA",
+                "net_asset": 2411154432,
+                "last_val": 10.8392,
+                "previous_val": 0,
+                "sell_price": 10.9553,
+                "buy_price": 10.8392,
+                "sell_swap_price": 10.8392,
+                "buy_swap_price": 10.9553,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-25T16:05:37.003"
+            },
+            {
+                "nav_date": "2025-06-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBINCA",
+                "net_asset": 2427979264,
+                "last_val": 10.8769,
+                "previous_val": 0,
+                "sell_price": 10.9934,
+                "buy_price": 10.8769,
+                "sell_swap_price": 10.8769,
+                "buy_swap_price": 10.9934,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-26T16:04:31.517"
+            },
+            {
+                "nav_date": "2025-06-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBINCA",
+                "net_asset": 2436011264,
+                "last_val": 10.8797,
+                "previous_val": 0,
+                "sell_price": 10.9962,
+                "buy_price": 10.8797,
+                "sell_swap_price": 10.8797,
+                "buy_swap_price": 10.9962,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-27T16:05:12.01"
+            },
+            {
+                "nav_date": "2025-06-26",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBINCA",
+                "net_asset": 2442625024,
+                "last_val": 10.9121,
+                "previous_val": 0,
+                "sell_price": 11.029,
+                "buy_price": 10.9121,
+                "sell_swap_price": 10.9121,
+                "buy_swap_price": 11.029,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-29T16:09:06.92"
             }
         ]
     }

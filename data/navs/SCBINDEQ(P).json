@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1749920400000,
-    "nextUpdate": 1750049833698,
+    "lastUpdate": 1751208436185,
+    "nextUpdate": 1751294836185,
     "data": {
-        "lastNav": "2025-06-13",
+        "lastNav": "2025-06-26",
         "fund": {
             "proj_id": "M0396_2564",
             "regis_id": "MF0351_2564",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000239",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-05-16T16:11:28.93"
+            "last_upd_date": "2025-06-29T16:09:32.98"
         },
         "navs": [
             {
@@ -11432,6 +11432,141 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-06-17T08:08:48.31"
+            },
+            {
+                "nav_date": "2025-06-16",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBINDEQ(P)",
+                "net_asset": 829773.06,
+                "last_val": 9.1321,
+                "previous_val": 0,
+                "sell_price": 9.1322,
+                "buy_price": 9.1321,
+                "sell_swap_price": 9.1321,
+                "buy_swap_price": 9.1322,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-18T16:04:38.923"
+            },
+            {
+                "nav_date": "2025-06-17",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBINDEQ(P)",
+                "net_asset": 825493.75,
+                "last_val": 9.085,
+                "previous_val": 0,
+                "sell_price": 9.0851,
+                "buy_price": 9.085,
+                "sell_swap_price": 9.085,
+                "buy_swap_price": 9.0851,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-19T16:04:44.08"
+            },
+            {
+                "nav_date": "2025-06-18",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBINDEQ(P)",
+                "net_asset": 824318.44,
+                "last_val": 9.072,
+                "previous_val": 0,
+                "sell_price": 9.0721,
+                "buy_price": 9.072,
+                "sell_swap_price": 9.072,
+                "buy_swap_price": 9.0721,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-20T16:12:19.95"
+            },
+            {
+                "nav_date": "2025-06-19",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBINDEQ(P)",
+                "net_asset": 814725.44,
+                "last_val": 8.9665,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-23T16:05:10.553"
+            },
+            {
+                "nav_date": "2025-06-20",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBINDEQ(P)",
+                "net_asset": 823800.31,
+                "last_val": 9.0663,
+                "previous_val": 0,
+                "sell_price": 9.0664,
+                "buy_price": 9.0663,
+                "sell_swap_price": 9.0663,
+                "buy_swap_price": 9.0664,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-24T16:04:04.243"
+            },
+            {
+                "nav_date": "2025-06-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBINDEQ(P)",
+                "net_asset": 823535.81,
+                "last_val": 9.0634,
+                "previous_val": 0,
+                "sell_price": 9.0635,
+                "buy_price": 9.0634,
+                "sell_swap_price": 9.0634,
+                "buy_swap_price": 9.0635,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-25T16:05:37.003"
+            },
+            {
+                "nav_date": "2025-06-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBINDEQ(P)",
+                "net_asset": 830094.44,
+                "last_val": 9.1356,
+                "previous_val": 0,
+                "sell_price": 9.1357,
+                "buy_price": 9.1356,
+                "sell_swap_price": 9.1356,
+                "buy_swap_price": 9.1357,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-26T16:04:31.517"
+            },
+            {
+                "nav_date": "2025-06-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBINDEQ(P)",
+                "net_asset": 839327.63,
+                "last_val": 9.2372,
+                "previous_val": 0,
+                "sell_price": 9.2373,
+                "buy_price": 9.2372,
+                "sell_swap_price": 9.2372,
+                "buy_swap_price": 9.2373,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-27T16:05:12.01"
+            },
+            {
+                "nav_date": "2025-06-26",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBINDEQ(P)",
+                "net_asset": 844983,
+                "last_val": 9.2995,
+                "previous_val": 0,
+                "sell_price": 9.2996,
+                "buy_price": 9.2995,
+                "sell_swap_price": 9.2995,
+                "buy_swap_price": 9.2996,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-29T16:09:06.92"
             }
         ]
     }

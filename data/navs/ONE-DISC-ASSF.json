@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1749920400000,
-    "nextUpdate": 1750049833698,
+    "lastUpdate": 1751208436185,
+    "nextUpdate": 1751294836185,
     "data": {
-        "lastNav": "2025-06-13",
+        "lastNav": "2025-06-26",
         "fund": {
             "proj_id": "M0618_2562",
             "regis_id": "MF0528_2562",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000569",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-05-16T16:11:28.93"
+            "last_upd_date": "2025-06-29T16:09:32.98"
         },
         "navs": [
             {
@@ -13922,6 +13922,141 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-06-17T08:08:48.31"
+            },
+            {
+                "nav_date": "2025-06-16",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-DISC-ASSF",
+                "net_asset": 51392320,
+                "last_val": 7.0163,
+                "previous_val": 0,
+                "sell_price": 7.0164,
+                "buy_price": 7.0163,
+                "sell_swap_price": 7.0163,
+                "buy_swap_price": 7.0164,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-18T16:04:38.923"
+            },
+            {
+                "nav_date": "2025-06-17",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-DISC-ASSF",
+                "net_asset": 51782668,
+                "last_val": 7.075,
+                "previous_val": 0,
+                "sell_price": 7.0751,
+                "buy_price": 7.075,
+                "sell_swap_price": 7.075,
+                "buy_swap_price": 7.0751,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-19T16:04:44.08"
+            },
+            {
+                "nav_date": "2025-06-18",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-DISC-ASSF",
+                "net_asset": 51588040,
+                "last_val": 7.0484,
+                "previous_val": 0,
+                "sell_price": 7.0485,
+                "buy_price": 7.0484,
+                "sell_swap_price": 7.0484,
+                "buy_swap_price": 7.0485,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-20T16:12:19.95"
+            },
+            {
+                "nav_date": "2025-06-19",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-DISC-ASSF",
+                "net_asset": 51596324,
+                "last_val": 7.0495,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-23T16:05:10.553"
+            },
+            {
+                "nav_date": "2025-06-20",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-DISC-ASSF",
+                "net_asset": 51666912,
+                "last_val": 7.0592,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-24T16:04:04.243"
+            },
+            {
+                "nav_date": "2025-06-23",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-DISC-ASSF",
+                "net_asset": 51033484,
+                "last_val": 6.9726,
+                "previous_val": 0,
+                "sell_price": 6.9727,
+                "buy_price": 6.9726,
+                "sell_swap_price": 6.9726,
+                "buy_swap_price": 6.9727,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-25T16:05:37.003"
+            },
+            {
+                "nav_date": "2025-06-24",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-DISC-ASSF",
+                "net_asset": 51760712,
+                "last_val": 7.0819,
+                "previous_val": 0,
+                "sell_price": 7.082,
+                "buy_price": 7.0819,
+                "sell_swap_price": 7.0819,
+                "buy_swap_price": 7.082,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-26T16:04:31.517"
+            },
+            {
+                "nav_date": "2025-06-25",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-DISC-ASSF",
+                "net_asset": 52485456,
+                "last_val": 7.1796,
+                "previous_val": 0,
+                "sell_price": 7.1797,
+                "buy_price": 7.1796,
+                "sell_swap_price": 7.1796,
+                "buy_swap_price": 7.1797,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-27T16:05:12.01"
+            },
+            {
+                "nav_date": "2025-06-26",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-DISC-ASSF",
+                "net_asset": 53103020,
+                "last_val": 7.2641,
+                "previous_val": 0,
+                "sell_price": 7.2642,
+                "buy_price": 7.2641,
+                "sell_swap_price": 7.2641,
+                "buy_swap_price": 7.2642,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-29T16:09:06.92"
             }
         ]
     }

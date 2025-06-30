@@ -1,6 +1,6 @@
 {
-    "lastUpdate": 1747415076714,
-    "nextUpdate": 1750093471224,
+    "lastUpdate": 1751208436185,
+    "nextUpdate": 1753800436185,
     "data": [
         {
             "proj_id": "M0055_2568",
@@ -14,7 +14,7 @@
             "unique_id": "C0000024008",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-05-16T16:11:28.93"
+            "last_upd_date": "2025-06-29T16:09:32.98"
         },
         {
             "proj_id": "M0071_2561",
@@ -28,7 +28,7 @@
             "unique_id": "C0000024008",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2025-05-16T16:11:28.93"
+            "last_upd_date": "2025-06-29T16:09:32.98"
         },
         {
             "proj_id": "M0074_2568",
@@ -42,7 +42,7 @@
             "unique_id": "C0000024008",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-05-16T16:11:28.93"
+            "last_upd_date": "2025-06-29T16:09:32.98"
         },
         {
             "proj_id": "M0096_2567",
@@ -56,7 +56,7 @@
             "unique_id": "C0000024008",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-05-16T16:11:28.93"
+            "last_upd_date": "2025-06-29T16:09:32.98"
         },
         {
             "proj_id": "M0130_2567",
@@ -70,7 +70,7 @@
             "unique_id": "C0000024008",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-05-16T16:11:28.93"
+            "last_upd_date": "2025-06-29T16:09:32.98"
         },
         {
             "proj_id": "M0140_2568",
@@ -84,7 +84,7 @@
             "unique_id": "C0000024008",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-05-16T16:11:28.93"
+            "last_upd_date": "2025-06-29T16:09:32.98"
         },
         {
             "proj_id": "M0146_2568",
@@ -98,7 +98,7 @@
             "unique_id": "C0000024008",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-05-16T16:11:28.93"
+            "last_upd_date": "2025-06-29T16:09:32.98"
         },
         {
             "proj_id": "M0155_2565",
@@ -112,7 +112,7 @@
             "unique_id": "C0000024008",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2025-05-16T16:11:28.93"
+            "last_upd_date": "2025-06-29T16:09:32.98"
         },
         {
             "proj_id": "M0187_2568",
@@ -126,7 +126,7 @@
             "unique_id": "C0000024008",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-05-16T16:11:28.93"
+            "last_upd_date": "2025-06-29T16:09:32.98"
         },
         {
             "proj_id": "M0209_2568",
@@ -140,7 +140,7 @@
             "unique_id": "C0000024008",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-05-16T16:11:28.93"
+            "last_upd_date": "2025-06-29T16:09:32.98"
         },
         {
             "proj_id": "M0241_2567",
@@ -154,7 +154,7 @@
             "unique_id": "C0000024008",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-05-16T16:11:28.93"
+            "last_upd_date": "2025-06-29T16:09:32.98"
         },
         {
             "proj_id": "M0242_2568",
@@ -168,7 +168,21 @@
             "unique_id": "C0000024008",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-05-16T16:11:28.93"
+            "last_upd_date": "2025-06-29T16:09:32.98"
+        },
+        {
+            "proj_id": "M0244_2568",
+            "regis_id": "MF0344_2568",
+            "regis_date": "2025-06-19",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิด MEGA 10 HEALTHCARE",
+            "proj_name_en": "MEGA 10 HEALTHCARE FUND",
+            "proj_abbr_name": "MEGA10HEALTH",
+            "fund_status": "RG",
+            "unique_id": "C0000024008",
+            "permit_us_investment": null,
+            "invest_country_flag": "1",
+            "last_upd_date": "2025-06-29T16:09:32.98"
         },
         {
             "proj_id": "M0344_2564",
@@ -182,7 +196,7 @@
             "unique_id": "C0000024008",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-05-16T16:11:28.93"
+            "last_upd_date": "2025-06-29T16:09:32.98"
         },
         {
             "proj_id": "M0358_2568",
@@ -196,7 +210,21 @@
             "unique_id": "C0000024008",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-05-16T16:11:28.93"
+            "last_upd_date": "2025-06-29T16:09:32.98"
+        },
+        {
+            "proj_id": "M0396_2568",
+            "regis_id": "MF0339_2568",
+            "regis_date": "2025-06-17",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิดทาลิส เซมิคอนดักเตอร์-UNHEDGE",
+            "proj_name_en": "TALIS SEMICONDUCTOR-UNHEDGE",
+            "proj_abbr_name": "TLSEMICON-UH",
+            "fund_status": "RG",
+            "unique_id": "C0000024008",
+            "permit_us_investment": null,
+            "invest_country_flag": "1",
+            "last_upd_date": "2025-06-29T16:09:32.98"
         },
         {
             "proj_id": "M0408_2568",
@@ -210,7 +238,7 @@
             "unique_id": "C0000024008",
             "permit_us_investment": null,
             "invest_country_flag": "4",
-            "last_upd_date": "2025-05-16T16:11:28.93"
+            "last_upd_date": "2025-06-29T16:09:32.98"
         },
         {
             "proj_id": "M0442_2567",
@@ -224,7 +252,7 @@
             "unique_id": "C0000024008",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-05-16T16:11:28.93"
+            "last_upd_date": "2025-06-29T16:09:32.98"
         },
         {
             "proj_id": "M0457_2564",
@@ -238,7 +266,7 @@
             "unique_id": "C0000024008",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2025-05-16T16:11:28.93"
+            "last_upd_date": "2025-06-29T16:09:32.98"
         },
         {
             "proj_id": "M0473_2568",
@@ -252,7 +280,7 @@
             "unique_id": "C0000024008",
             "permit_us_investment": null,
             "invest_country_flag": "4",
-            "last_upd_date": "2025-05-16T16:11:28.93"
+            "last_upd_date": "2025-06-29T16:09:32.98"
         },
         {
             "proj_id": "M0478_2564",
@@ -266,7 +294,7 @@
             "unique_id": "C0000024008",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-05-16T16:11:28.93"
+            "last_upd_date": "2025-06-29T16:09:32.98"
         },
         {
             "proj_id": "M0485_2560",
@@ -280,7 +308,7 @@
             "unique_id": "C0000024008",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2025-05-16T16:11:28.93"
+            "last_upd_date": "2025-06-29T16:09:32.98"
         },
         {
             "proj_id": "M0525_2566",
@@ -294,7 +322,21 @@
             "unique_id": "C0000024008",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-05-16T16:11:28.93"
+            "last_upd_date": "2025-06-29T16:09:32.98"
+        },
+        {
+            "proj_id": "M0526_2568",
+            "regis_id": "MF0345_2568",
+            "regis_date": "2025-06-19",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิด MEGA 10 HEALTHCARE เพื่อการเลี้ยงชีพ",
+            "proj_name_en": "MEGA 10 HEALTHCARE RETIREMENT MUTUAL FUND",
+            "proj_abbr_name": "MEGA10HEALTHRMF",
+            "fund_status": "RG",
+            "unique_id": "C0000024008",
+            "permit_us_investment": null,
+            "invest_country_flag": "1",
+            "last_upd_date": "2025-06-29T16:09:32.98"
         },
         {
             "proj_id": "M0532_2559",
@@ -308,7 +350,7 @@
             "unique_id": "C0000024008",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2025-05-16T16:11:28.93"
+            "last_upd_date": "2025-06-29T16:09:32.98"
         },
         {
             "proj_id": "M0539_2567",
@@ -322,7 +364,21 @@
             "unique_id": "C0000024008",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-05-16T16:11:28.93"
+            "last_upd_date": "2025-06-29T16:09:32.98"
+        },
+        {
+            "proj_id": "M0569_2568",
+            "regis_id": "MF0340_2568",
+            "regis_date": "2025-06-17",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิดทาลิส เซมิคอนดักเตอร์-HEDGE",
+            "proj_name_en": "TALIS SEMICONDUCTOR-HEDGE",
+            "proj_abbr_name": "TLSEMICON-H",
+            "fund_status": "RG",
+            "unique_id": "C0000024008",
+            "permit_us_investment": null,
+            "invest_country_flag": "1",
+            "last_upd_date": "2025-06-29T16:09:32.98"
         },
         {
             "proj_id": "M0574_2567",
@@ -336,7 +392,7 @@
             "unique_id": "C0000024008",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-05-16T16:11:28.93"
+            "last_upd_date": "2025-06-29T16:09:32.98"
         },
         {
             "proj_id": "M0585_2559",
@@ -350,7 +406,7 @@
             "unique_id": "C0000024008",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2025-05-16T16:11:28.93"
+            "last_upd_date": "2025-06-29T16:09:32.98"
         },
         {
             "proj_id": "M0595_2565",
@@ -364,7 +420,7 @@
             "unique_id": "C0000024008",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-05-16T16:11:28.93"
+            "last_upd_date": "2025-06-29T16:09:32.98"
         },
         {
             "proj_id": "M0596_2559",
@@ -378,7 +434,7 @@
             "unique_id": "C0000024008",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2025-05-16T16:11:28.93"
+            "last_upd_date": "2025-06-29T16:09:32.98"
         },
         {
             "proj_id": "M0598_2559",
@@ -392,7 +448,7 @@
             "unique_id": "C0000024008",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2025-05-16T16:11:28.93"
+            "last_upd_date": "2025-06-29T16:09:32.98"
         },
         {
             "proj_id": "M0614_2560",
@@ -406,7 +462,7 @@
             "unique_id": "C0000024008",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2025-05-16T16:11:28.93"
+            "last_upd_date": "2025-06-29T16:09:32.98"
         },
         {
             "proj_id": "M0616_2560",
@@ -420,7 +476,7 @@
             "unique_id": "C0000024008",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2025-05-16T16:11:28.93"
+            "last_upd_date": "2025-06-29T16:09:32.98"
         },
         {
             "proj_id": "M0619_2565",
@@ -434,7 +490,7 @@
             "unique_id": "C0000024008",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-05-16T16:11:28.93"
+            "last_upd_date": "2025-06-29T16:09:32.98"
         },
         {
             "proj_id": "M0628_2559",
@@ -448,7 +504,7 @@
             "unique_id": "C0000024008",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2025-05-16T16:11:28.93"
+            "last_upd_date": "2025-06-29T16:09:32.98"
         },
         {
             "proj_id": "M0669_2559",
@@ -462,7 +518,7 @@
             "unique_id": "C0000024008",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2025-05-16T16:11:28.93"
+            "last_upd_date": "2025-06-29T16:09:32.98"
         },
         {
             "proj_id": "M0681_2559",
@@ -476,7 +532,7 @@
             "unique_id": "C0000024008",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2025-05-16T16:11:28.93"
+            "last_upd_date": "2025-06-29T16:09:32.98"
         },
         {
             "proj_id": "M0682_2566",
@@ -490,7 +546,7 @@
             "unique_id": "C0000024008",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-05-16T16:11:28.93"
+            "last_upd_date": "2025-06-29T16:09:32.98"
         },
         {
             "proj_id": "M0683_2559",
@@ -504,7 +560,7 @@
             "unique_id": "C0000024008",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2025-05-16T16:11:28.93"
+            "last_upd_date": "2025-06-29T16:09:32.98"
         },
         {
             "proj_id": "M0761_2566",
@@ -518,7 +574,7 @@
             "unique_id": "C0000024008",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-05-16T16:11:28.93"
+            "last_upd_date": "2025-06-29T16:09:32.98"
         },
         {
             "proj_id": "M0822_2566",
@@ -532,7 +588,7 @@
             "unique_id": "C0000024008",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2025-05-16T16:11:28.93"
+            "last_upd_date": "2025-06-29T16:09:32.98"
         },
         {
             "proj_id": "M0864_2567",
@@ -546,21 +602,21 @@
             "unique_id": "C0000024008",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-05-16T16:11:28.93"
+            "last_upd_date": "2025-06-29T16:09:32.98"
         },
         {
             "proj_id": "M0976_2567",
-            "regis_id": null,
-            "regis_date": "-",
+            "regis_id": "MF0296_2568",
+            "regis_date": "2025-05-20",
             "cancel_date": "-",
             "proj_name_th": "กองทุนเปิด ทาลิส โกลบอล ซีเล็ค",
             "proj_name_en": "TALIS GLOBAL SELECT FUND",
             "proj_abbr_name": "TLGSELECT",
-            "fund_status": "SE",
+            "fund_status": "RG",
             "unique_id": "C0000024008",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-05-16T16:11:28.93"
+            "last_upd_date": "2025-06-29T16:09:32.98"
         }
     ]
 }

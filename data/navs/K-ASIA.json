@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1749920400000,
-    "nextUpdate": 1750049833698,
+    "lastUpdate": 1751208436185,
+    "nextUpdate": 1751294836185,
     "data": {
-        "lastNav": "2025-06-13",
+        "lastNav": "2025-06-26",
         "fund": {
             "proj_id": "M0208_2556",
             "regis_id": "MF0697_2556",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-05-16T16:11:28.93"
+            "last_upd_date": "2025-06-29T16:09:32.98"
         },
         "navs": [
             {
@@ -13832,6 +13832,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-06-17T08:08:48.31"
+            },
+            {
+                "nav_date": "2025-06-16",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-ASIA",
+                "net_asset": 726941888,
+                "last_val": 10.7958,
+                "previous_val": 0,
+                "sell_price": 10.9578,
+                "buy_price": 10.7958,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-18T16:04:38.923"
+            },
+            {
+                "nav_date": "2025-06-17",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-ASIA",
+                "net_asset": 710277248,
+                "last_val": 10.5669,
+                "previous_val": 0,
+                "sell_price": 10.7255,
+                "buy_price": 10.5669,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-19T16:04:44.08"
+            },
+            {
+                "nav_date": "2025-06-18",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-ASIA",
+                "net_asset": 718274240,
+                "last_val": 10.7022,
+                "previous_val": 0,
+                "sell_price": 10.8628,
+                "buy_price": 10.7022,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-23T16:05:10.553"
+            },
+            {
+                "nav_date": "2025-06-20",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-ASIA",
+                "net_asset": 710569472,
+                "last_val": 10.5878,
+                "previous_val": 0,
+                "sell_price": 10.7467,
+                "buy_price": 10.5878,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-24T16:04:04.243"
+            },
+            {
+                "nav_date": "2025-06-23",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-ASIA",
+                "net_asset": 706966976,
+                "last_val": 10.5769,
+                "previous_val": 0,
+                "sell_price": 10.7357,
+                "buy_price": 10.5769,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-25T16:05:37.003"
+            },
+            {
+                "nav_date": "2025-06-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-ASIA",
+                "net_asset": 714579392,
+                "last_val": 10.7371,
+                "previous_val": 0,
+                "sell_price": 10.8983,
+                "buy_price": 10.7371,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-26T16:04:31.517"
+            },
+            {
+                "nav_date": "2025-06-25",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-ASIA",
+                "net_asset": 717955328,
+                "last_val": 10.7878,
+                "previous_val": 0,
+                "sell_price": 10.9497,
+                "buy_price": 10.7878,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-27T16:05:12.01"
+            },
+            {
+                "nav_date": "2025-06-26",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-ASIA",
+                "net_asset": 718560512,
+                "last_val": 10.8286,
+                "previous_val": 0,
+                "sell_price": 10.9911,
+                "buy_price": 10.8286,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-29T16:09:06.92"
             }
         ]
     }

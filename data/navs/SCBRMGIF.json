@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1749920400000,
-    "nextUpdate": 1750049833698,
+    "lastUpdate": 1751208436185,
+    "nextUpdate": 1751294836185,
     "data": {
-        "lastNav": "2025-06-13",
+        "lastNav": "2025-06-26",
         "fund": {
             "proj_id": "M0518_2558",
             "regis_id": "MF0516_2558",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000239",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-05-16T16:11:28.93"
+            "last_upd_date": "2025-06-29T16:09:32.98"
         },
         "navs": [
             {
@@ -13847,6 +13847,141 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-06-17T08:08:48.31"
+            },
+            {
+                "nav_date": "2025-06-16",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBRMGIF",
+                "net_asset": 521089440,
+                "last_val": 14.9051,
+                "previous_val": 0,
+                "sell_price": 14.9052,
+                "buy_price": 14.9051,
+                "sell_swap_price": 14.9051,
+                "buy_swap_price": 14.9052,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-18T16:04:38.923"
+            },
+            {
+                "nav_date": "2025-06-17",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBRMGIF",
+                "net_asset": 517211936,
+                "last_val": 14.7817,
+                "previous_val": 0,
+                "sell_price": 14.7818,
+                "buy_price": 14.7817,
+                "sell_swap_price": 14.7817,
+                "buy_swap_price": 14.7818,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-19T16:04:44.08"
+            },
+            {
+                "nav_date": "2025-06-18",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBRMGIF",
+                "net_asset": 515845984,
+                "last_val": 14.746,
+                "previous_val": 0,
+                "sell_price": 14.7461,
+                "buy_price": 14.746,
+                "sell_swap_price": 14.746,
+                "buy_swap_price": 14.7461,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-20T16:12:19.95"
+            },
+            {
+                "nav_date": "2025-06-19",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBRMGIF",
+                "net_asset": 516179104,
+                "last_val": 14.7558,
+                "previous_val": 0,
+                "sell_price": 14.7559,
+                "buy_price": 14.7558,
+                "sell_swap_price": 14.7558,
+                "buy_swap_price": 14.7559,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-23T16:05:10.553"
+            },
+            {
+                "nav_date": "2025-06-20",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBRMGIF",
+                "net_asset": 517780000,
+                "last_val": 14.8041,
+                "previous_val": 0,
+                "sell_price": 14.8042,
+                "buy_price": 14.8041,
+                "sell_swap_price": 14.8041,
+                "buy_swap_price": 14.8042,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-24T16:04:04.243"
+            },
+            {
+                "nav_date": "2025-06-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBRMGIF",
+                "net_asset": 518174688,
+                "last_val": 14.8114,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-25T16:05:37.003"
+            },
+            {
+                "nav_date": "2025-06-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBRMGIF",
+                "net_asset": 521069632,
+                "last_val": 14.8942,
+                "previous_val": 0,
+                "sell_price": 14.8943,
+                "buy_price": 14.8942,
+                "sell_swap_price": 14.8942,
+                "buy_swap_price": 14.8943,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-26T16:04:31.517"
+            },
+            {
+                "nav_date": "2025-06-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBRMGIF",
+                "net_asset": 520660448,
+                "last_val": 14.8858,
+                "previous_val": 0,
+                "sell_price": 14.8859,
+                "buy_price": 14.8858,
+                "sell_swap_price": 14.8858,
+                "buy_swap_price": 14.8859,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-27T16:05:12.01"
+            },
+            {
+                "nav_date": "2025-06-26",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBRMGIF",
+                "net_asset": 521005664,
+                "last_val": 14.8904,
+                "previous_val": 0,
+                "sell_price": 14.8905,
+                "buy_price": 14.8904,
+                "sell_swap_price": 14.8904,
+                "buy_swap_price": 14.8905,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-29T16:09:06.92"
             }
         ]
     }

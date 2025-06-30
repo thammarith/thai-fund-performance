@@ -1,0 +1,83 @@
+{
+    "lastUpdate": 1751208436185,
+    "nextUpdate": 1751294836185,
+    "data": {
+        "lastNav": "2025-06-24",
+        "fund": {
+            "proj_id": "M0616_2568",
+            "regis_id": "MF0351_2568",
+            "regis_date": "2025-06-24",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิดไทยพาณิชย์ตราสารภาครัฐ 3 เดือน 50",
+            "proj_name_en": "SCB Sovereign Bond 3M50",
+            "proj_abbr_name": "SCBSB3M50",
+            "fund_status": "RG",
+            "unique_id": "C0000000239",
+            "permit_us_investment": null,
+            "invest_country_flag": "3",
+            "last_upd_date": "2025-06-29T16:09:32.98"
+        },
+        "navs": [
+            {
+                "nav_date": "2025-06-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSB3M50",
+                "net_asset": 3335824896,
+                "last_val": 10.1051,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-25T16:05:37.003"
+            },
+            {
+                "nav_date": "2025-06-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSB3M50",
+                "net_asset": 3346320640,
+                "last_val": 10.1369,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-26T16:04:31.517"
+            },
+            {
+                "nav_date": "2025-06-26",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSB3M50",
+                "net_asset": 3360786944,
+                "last_val": 10.1807,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-27T16:05:12.01"
+            },
+            {
+                "nav_date": "2025-06-27",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSB3M50",
+                "net_asset": 3406801152,
+                "last_val": 10.3201,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-29T16:09:06.92"
+            }
+        ]
+    }
+}

@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1749920400000,
-    "nextUpdate": 1750049833698,
+    "lastUpdate": 1751208436185,
+    "nextUpdate": 1751294836185,
     "data": {
-        "lastNav": "2025-06-12",
+        "lastNav": "2025-06-25",
         "fund": {
             "proj_id": "M0322_2561",
             "regis_id": "MF0301_2561",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000239",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-05-16T16:11:28.93"
+            "last_upd_date": "2025-06-29T16:09:32.98"
         },
         "navs": [
             {
@@ -13637,6 +13637,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-06-17T08:08:48.31"
+            },
+            {
+                "nav_date": "2025-06-16",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGEARA",
+                "net_asset": 134820992,
+                "last_val": 11.6668,
+                "previous_val": 0,
+                "sell_price": 11.8542,
+                "buy_price": 11.6668,
+                "sell_swap_price": 11.6668,
+                "buy_swap_price": 11.8542,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-19T16:04:44.08"
+            },
+            {
+                "nav_date": "2025-06-17",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGEARA",
+                "net_asset": 135417280,
+                "last_val": 11.6351,
+                "previous_val": 0,
+                "sell_price": 11.8219,
+                "buy_price": 11.6351,
+                "sell_swap_price": 11.6351,
+                "buy_swap_price": 11.8219,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-20T16:12:19.95"
+            },
+            {
+                "nav_date": "2025-06-18",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGEARA",
+                "net_asset": 136230816,
+                "last_val": 11.6444,
+                "previous_val": 0,
+                "sell_price": 11.8314,
+                "buy_price": 11.6444,
+                "sell_swap_price": 11.6444,
+                "buy_swap_price": 11.8314,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-23T16:05:10.553"
+            },
+            {
+                "nav_date": "2025-06-19",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGEARA",
+                "net_asset": 138466528,
+                "last_val": 11.631,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-24T16:04:04.243"
+            },
+            {
+                "nav_date": "2025-06-20",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGEARA",
+                "net_asset": 138550016,
+                "last_val": 11.638,
+                "previous_val": 0,
+                "sell_price": 11.8249,
+                "buy_price": 11.638,
+                "sell_swap_price": 11.638,
+                "buy_swap_price": 11.8249,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-25T16:05:37.003"
+            },
+            {
+                "nav_date": "2025-06-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGEARA",
+                "net_asset": 148022208,
+                "last_val": 11.6319,
+                "previous_val": 0,
+                "sell_price": 11.8187,
+                "buy_price": 11.6319,
+                "sell_swap_price": 11.6319,
+                "buy_swap_price": 11.8187,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-26T16:04:31.517"
+            },
+            {
+                "nav_date": "2025-06-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGEARA",
+                "net_asset": 149842048,
+                "last_val": 11.6846,
+                "previous_val": 0,
+                "sell_price": 11.8722,
+                "buy_price": 11.6846,
+                "sell_swap_price": 11.6846,
+                "buy_swap_price": 11.8722,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-27T16:05:12.01"
+            },
+            {
+                "nav_date": "2025-06-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGEARA",
+                "net_asset": 155161920,
+                "last_val": 11.6594,
+                "previous_val": 0,
+                "sell_price": 11.8466,
+                "buy_price": 11.6594,
+                "sell_swap_price": 11.6594,
+                "buy_swap_price": 11.8466,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-29T16:09:06.92"
             }
         ]
     }

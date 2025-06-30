@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1749920400000,
-    "nextUpdate": 1750049833698,
+    "lastUpdate": 1751208436185,
+    "nextUpdate": 1751294836185,
     "data": {
-        "lastNav": "2025-06-13",
+        "lastNav": "2025-06-26",
         "fund": {
             "proj_id": "M0429_2557",
             "regis_id": "MF0611_2557",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-05-16T16:11:28.93"
+            "last_upd_date": "2025-06-29T16:09:32.98"
         },
         "navs": [
             {
@@ -12572,6 +12572,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-06-17T08:08:48.31"
+            },
+            {
+                "nav_date": "2025-06-16",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GPROP-A(A)",
+                "net_asset": 92424424,
+                "last_val": 8.0788,
+                "previous_val": 0,
+                "sell_price": 8.2001,
+                "buy_price": 8.0788,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-18T16:04:38.923"
+            },
+            {
+                "nav_date": "2025-06-17",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GPROP-A(A)",
+                "net_asset": 91923328,
+                "last_val": 8.0469,
+                "previous_val": 0,
+                "sell_price": 8.1677,
+                "buy_price": 8.0469,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-19T16:04:44.08"
+            },
+            {
+                "nav_date": "2025-06-18",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GPROP-A(A)",
+                "net_asset": 91735888,
+                "last_val": 8.0298,
+                "previous_val": 0,
+                "sell_price": 8.1503,
+                "buy_price": 8.0298,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-23T16:05:10.553"
+            },
+            {
+                "nav_date": "2025-06-20",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GPROP-A(A)",
+                "net_asset": 92425104,
+                "last_val": 8.1032,
+                "previous_val": 0,
+                "sell_price": 8.2248,
+                "buy_price": 8.1032,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-25T16:05:37.003"
+            },
+            {
+                "nav_date": "2025-06-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GPROP-A(A)",
+                "net_asset": 92601568,
+                "last_val": 8.1175,
+                "previous_val": 0,
+                "sell_price": 8.2394,
+                "buy_price": 8.1175,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-26T16:04:31.517"
+            },
+            {
+                "nav_date": "2025-06-25",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GPROP-A(A)",
+                "net_asset": 92137768,
+                "last_val": 8.0792,
+                "previous_val": 0,
+                "sell_price": 8.2005,
+                "buy_price": 8.0792,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-27T16:05:12.01"
+            },
+            {
+                "nav_date": "2025-06-26",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GPROP-A(A)",
+                "net_asset": 90413912,
+                "last_val": 7.9367,
+                "previous_val": 0,
+                "sell_price": 8.0559,
+                "buy_price": 7.9367,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-29T16:09:06.92"
             }
         ]
     }

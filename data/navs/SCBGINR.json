@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1749920400000,
-    "nextUpdate": 1750049833698,
+    "lastUpdate": 1751208436185,
+    "nextUpdate": 1751294836185,
     "data": {
-        "lastNav": "2025-06-13",
+        "lastNav": "2025-06-26",
         "fund": {
             "proj_id": "M0684_2559",
             "regis_id": "MF0029_2560",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000239",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-05-16T16:11:28.93"
+            "last_upd_date": "2025-06-29T16:09:32.98"
         },
         "navs": [
             {
@@ -13847,6 +13847,141 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-06-17T08:08:48.31"
+            },
+            {
+                "nav_date": "2025-06-16",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGINR",
+                "net_asset": 432231104,
+                "last_val": 11.294,
+                "previous_val": 0,
+                "sell_price": 11.4754,
+                "buy_price": 11.294,
+                "sell_swap_price": 11.294,
+                "buy_swap_price": 11.4754,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-18T16:04:38.923"
+            },
+            {
+                "nav_date": "2025-06-17",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGINR",
+                "net_asset": 432479328,
+                "last_val": 11.2877,
+                "previous_val": 0,
+                "sell_price": 11.469,
+                "buy_price": 11.2877,
+                "sell_swap_price": 11.2877,
+                "buy_swap_price": 11.469,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-19T16:04:44.08"
+            },
+            {
+                "nav_date": "2025-06-18",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGINR",
+                "net_asset": 432287296,
+                "last_val": 11.2833,
+                "previous_val": 0,
+                "sell_price": 11.4645,
+                "buy_price": 11.2833,
+                "sell_swap_price": 11.2833,
+                "buy_swap_price": 11.4645,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-23T16:05:10.553"
+            },
+            {
+                "nav_date": "2025-06-19",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGINR",
+                "net_asset": 430868704,
+                "last_val": 11.2485,
+                "previous_val": 0,
+                "sell_price": 11.4291,
+                "buy_price": 11.2485,
+                "sell_swap_price": 11.2485,
+                "buy_swap_price": 11.4291,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-23T16:05:10.553"
+            },
+            {
+                "nav_date": "2025-06-20",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGINR",
+                "net_asset": 430992032,
+                "last_val": 11.2518,
+                "previous_val": 0,
+                "sell_price": 11.4325,
+                "buy_price": 11.2518,
+                "sell_swap_price": 11.2518,
+                "buy_swap_price": 11.4325,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-24T16:04:04.243"
+            },
+            {
+                "nav_date": "2025-06-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGINR",
+                "net_asset": 430007136,
+                "last_val": 11.2518,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-25T16:05:37.003"
+            },
+            {
+                "nav_date": "2025-06-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGINR",
+                "net_asset": 428938816,
+                "last_val": 11.2239,
+                "previous_val": 0,
+                "sell_price": 11.4041,
+                "buy_price": 11.2239,
+                "sell_swap_price": 11.2239,
+                "buy_swap_price": 11.4041,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-26T16:04:31.517"
+            },
+            {
+                "nav_date": "2025-06-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGINR",
+                "net_asset": 430181632,
+                "last_val": 11.2563,
+                "previous_val": 0,
+                "sell_price": 11.4371,
+                "buy_price": 11.2563,
+                "sell_swap_price": 11.2563,
+                "buy_swap_price": 11.4371,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-27T16:05:12.01"
+            },
+            {
+                "nav_date": "2025-06-26",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGINR",
+                "net_asset": 427714528,
+                "last_val": 11.2512,
+                "previous_val": 0,
+                "sell_price": 11.4319,
+                "buy_price": 11.2512,
+                "sell_swap_price": 11.2512,
+                "buy_swap_price": 11.4319,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-29T16:09:06.92"
             }
         ]
     }

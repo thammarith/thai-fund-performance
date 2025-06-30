@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1749920400000,
-    "nextUpdate": 1750049833698,
+    "lastUpdate": 1751208436185,
+    "nextUpdate": 1751294836185,
     "data": {
-        "lastNav": "2025-06-13",
+        "lastNav": "2025-06-26",
         "fund": {
             "proj_id": "M0065_2568",
             "regis_id": "MF0172_2568",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-05-16T16:11:28.93"
+            "last_upd_date": "2025-06-29T16:09:32.98"
         },
         "navs": [
             {
@@ -602,6 +602,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-06-17T08:08:48.31"
+            },
+            {
+                "nav_date": "2025-06-16",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-WORLDXRMF",
+                "net_asset": 38293968,
+                "last_val": 10.7105,
+                "previous_val": 0,
+                "sell_price": 10.7106,
+                "buy_price": 10.7105,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-18T16:04:38.923"
+            },
+            {
+                "nav_date": "2025-06-17",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-WORLDXRMF",
+                "net_asset": 39611504,
+                "last_val": 10.6092,
+                "previous_val": 0,
+                "sell_price": 10.6093,
+                "buy_price": 10.6092,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-19T16:04:44.08"
+            },
+            {
+                "nav_date": "2025-06-18",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-WORLDXRMF",
+                "net_asset": 40417536,
+                "last_val": 10.61,
+                "previous_val": 0,
+                "sell_price": 10.6101,
+                "buy_price": 10.61,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-23T16:05:10.553"
+            },
+            {
+                "nav_date": "2025-06-20",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-WORLDXRMF",
+                "net_asset": 44107648,
+                "last_val": 10.5689,
+                "previous_val": 0,
+                "sell_price": 10.569,
+                "buy_price": 10.5689,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-24T16:04:04.243"
+            },
+            {
+                "nav_date": "2025-06-23",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-WORLDXRMF",
+                "net_asset": 47987488,
+                "last_val": 10.6614,
+                "previous_val": 0,
+                "sell_price": 10.6615,
+                "buy_price": 10.6614,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-25T16:05:37.003"
+            },
+            {
+                "nav_date": "2025-06-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-WORLDXRMF",
+                "net_asset": 49229896,
+                "last_val": 10.7843,
+                "previous_val": 0,
+                "sell_price": 10.7844,
+                "buy_price": 10.7843,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-26T16:04:31.517"
+            },
+            {
+                "nav_date": "2025-06-25",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-WORLDXRMF",
+                "net_asset": 50077096,
+                "last_val": 10.7694,
+                "previous_val": 0,
+                "sell_price": 10.7695,
+                "buy_price": 10.7694,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-27T16:05:12.01"
+            },
+            {
+                "nav_date": "2025-06-26",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-WORLDXRMF",
+                "net_asset": 51090636,
+                "last_val": 10.8467,
+                "previous_val": 0,
+                "sell_price": 10.8468,
+                "buy_price": 10.8467,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-29T16:09:06.92"
             }
         ]
     }

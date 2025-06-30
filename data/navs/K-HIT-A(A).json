@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1749920400000,
-    "nextUpdate": 1750049833698,
+    "lastUpdate": 1751208436185,
+    "nextUpdate": 1751294836185,
     "data": {
-        "lastNav": "2025-06-13",
+        "lastNav": "2025-06-26",
         "fund": {
             "proj_id": "M0345_2562",
             "regis_id": "MF0342_2562",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-05-16T16:11:28.93"
+            "last_upd_date": "2025-06-29T16:09:32.98"
         },
         "navs": [
             {
@@ -2162,6 +2162,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-06-17T08:08:48.31"
+            },
+            {
+                "nav_date": "2025-06-16",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-HIT-A(A)",
+                "net_asset": 899067712,
+                "last_val": 14.753,
+                "previous_val": 0,
+                "sell_price": 14.9744,
+                "buy_price": 14.753,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-18T16:04:38.923"
+            },
+            {
+                "nav_date": "2025-06-17",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-HIT-A(A)",
+                "net_asset": 903302976,
+                "last_val": 14.8215,
+                "previous_val": 0,
+                "sell_price": 15.0439,
+                "buy_price": 14.8215,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-19T16:04:44.08"
+            },
+            {
+                "nav_date": "2025-06-18",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-HIT-A(A)",
+                "net_asset": 900176768,
+                "last_val": 14.768,
+                "previous_val": 0,
+                "sell_price": 14.9896,
+                "buy_price": 14.768,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-23T16:05:10.553"
+            },
+            {
+                "nav_date": "2025-06-20",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-HIT-A(A)",
+                "net_asset": 891649344,
+                "last_val": 14.6823,
+                "previous_val": 0,
+                "sell_price": 14.9026,
+                "buy_price": 14.6823,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-25T16:05:37.003"
+            },
+            {
+                "nav_date": "2025-06-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-HIT-A(A)",
+                "net_asset": 909553600,
+                "last_val": 14.8377,
+                "previous_val": 0,
+                "sell_price": 15.0604,
+                "buy_price": 14.8377,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-26T16:04:31.517"
+            },
+            {
+                "nav_date": "2025-06-25",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-HIT-A(A)",
+                "net_asset": 914584640,
+                "last_val": 14.916,
+                "previous_val": 0,
+                "sell_price": 15.1398,
+                "buy_price": 14.916,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-27T16:05:12.01"
+            },
+            {
+                "nav_date": "2025-06-26",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-HIT-A(A)",
+                "net_asset": 904106688,
+                "last_val": 14.8001,
+                "previous_val": 0,
+                "sell_price": 15.0222,
+                "buy_price": 14.8001,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-29T16:09:06.92"
             }
         ]
     }

@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1749920400000,
-    "nextUpdate": 1750049833698,
+    "lastUpdate": 1751208436185,
+    "nextUpdate": 1751294836185,
     "data": {
-        "lastNav": "2025-06-13",
+        "lastNav": "2025-06-26",
         "fund": {
             "proj_id": "M0277_2564",
             "regis_id": "MF0260_2564",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000239",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-05-16T16:11:28.93"
+            "last_upd_date": "2025-06-29T16:09:32.98"
         },
         "navs": [
             {
@@ -11747,6 +11747,141 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-06-17T08:08:48.31"
+            },
+            {
+                "nav_date": "2025-06-16",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBBLOC(P)",
+                "net_asset": 0,
+                "last_val": 8.8701,
+                "previous_val": 0,
+                "sell_price": 8.8764,
+                "buy_price": 8.8639,
+                "sell_swap_price": 8.8639,
+                "buy_swap_price": 8.8764,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-18T16:04:38.923"
+            },
+            {
+                "nav_date": "2025-06-17",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBBLOC(P)",
+                "net_asset": 0,
+                "last_val": 8.7742,
+                "previous_val": 0,
+                "sell_price": 8.7804,
+                "buy_price": 8.7681,
+                "sell_swap_price": 8.7681,
+                "buy_swap_price": 8.7804,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-19T16:04:44.08"
+            },
+            {
+                "nav_date": "2025-06-18",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBBLOC(P)",
+                "net_asset": 0,
+                "last_val": 8.798,
+                "previous_val": 0,
+                "sell_price": 8.8043,
+                "buy_price": 8.7918,
+                "sell_swap_price": 8.7918,
+                "buy_swap_price": 8.8043,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-20T16:12:19.95"
+            },
+            {
+                "nav_date": "2025-06-19",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBBLOC(P)",
+                "net_asset": 0,
+                "last_val": 8.7177,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-23T16:05:10.553"
+            },
+            {
+                "nav_date": "2025-06-20",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBBLOC(P)",
+                "net_asset": 0,
+                "last_val": 8.8897,
+                "previous_val": 0,
+                "sell_price": 8.896,
+                "buy_price": 8.8835,
+                "sell_swap_price": 8.8835,
+                "buy_swap_price": 8.896,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-24T16:04:04.243"
+            },
+            {
+                "nav_date": "2025-06-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBBLOC(P)",
+                "net_asset": 0,
+                "last_val": 8.7105,
+                "previous_val": 0,
+                "sell_price": 8.7167,
+                "buy_price": 8.7044,
+                "sell_swap_price": 8.7044,
+                "buy_swap_price": 8.7167,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-25T16:05:37.003"
+            },
+            {
+                "nav_date": "2025-06-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBBLOC(P)",
+                "net_asset": 0,
+                "last_val": 8.8093,
+                "previous_val": 0,
+                "sell_price": 8.8156,
+                "buy_price": 8.8031,
+                "sell_swap_price": 8.8031,
+                "buy_swap_price": 8.8156,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-26T16:04:31.517"
+            },
+            {
+                "nav_date": "2025-06-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBBLOC(P)",
+                "net_asset": 0,
+                "last_val": 9.0313,
+                "previous_val": 0,
+                "sell_price": 9.0377,
+                "buy_price": 9.025,
+                "sell_swap_price": 9.025,
+                "buy_swap_price": 9.0377,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-27T16:05:12.01"
+            },
+            {
+                "nav_date": "2025-06-26",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBBLOC(P)",
+                "net_asset": 0,
+                "last_val": 8.9654,
+                "previous_val": 0,
+                "sell_price": 8.9718,
+                "buy_price": 8.9591,
+                "sell_swap_price": 8.9591,
+                "buy_swap_price": 8.9718,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-29T16:09:06.92"
             }
         ]
     }

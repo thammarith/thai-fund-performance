@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1749920400000,
-    "nextUpdate": 1750049833698,
+    "lastUpdate": 1751208436185,
+    "nextUpdate": 1751294836185,
     "data": {
-        "lastNav": "2025-06-12",
+        "lastNav": "2025-06-25",
         "fund": {
             "proj_id": "M0211_2564",
             "regis_id": "MF0219_2564",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000239",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-05-16T16:11:28.93"
+            "last_upd_date": "2025-06-29T16:09:32.98"
         },
         "navs": [
             {
@@ -13007,6 +13007,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-06-17T08:08:48.31"
+            },
+            {
+                "nav_date": "2025-06-16",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBIHEALTH(A)",
+                "net_asset": 427913824,
+                "last_val": 3.5971,
+                "previous_val": 0,
+                "sell_price": 3.6512,
+                "buy_price": 3.5971,
+                "sell_swap_price": 3.5971,
+                "buy_swap_price": 3.6512,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-19T16:04:44.08"
+            },
+            {
+                "nav_date": "2025-06-17",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBIHEALTH(A)",
+                "net_asset": 423489216,
+                "last_val": 3.5599,
+                "previous_val": 0,
+                "sell_price": 3.6134,
+                "buy_price": 3.5599,
+                "sell_swap_price": 3.5599,
+                "buy_swap_price": 3.6134,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-20T16:12:19.95"
+            },
+            {
+                "nav_date": "2025-06-18",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBIHEALTH(A)",
+                "net_asset": 422215584,
+                "last_val": 3.5562,
+                "previous_val": 0,
+                "sell_price": 3.6096,
+                "buy_price": 3.5562,
+                "sell_swap_price": 3.5562,
+                "buy_swap_price": 3.6096,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-23T16:05:10.553"
+            },
+            {
+                "nav_date": "2025-06-19",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBIHEALTH(A)",
+                "net_asset": 423502432,
+                "last_val": 3.567,
+                "previous_val": 0,
+                "sell_price": 3.6206,
+                "buy_price": 3.567,
+                "sell_swap_price": 3.567,
+                "buy_swap_price": 3.6206,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-24T16:04:04.243"
+            },
+            {
+                "nav_date": "2025-06-20",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBIHEALTH(A)",
+                "net_asset": 420541664,
+                "last_val": 3.5431,
+                "previous_val": 0,
+                "sell_price": 3.5963,
+                "buy_price": 3.5431,
+                "sell_swap_price": 3.5431,
+                "buy_swap_price": 3.5963,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-25T16:05:37.003"
+            },
+            {
+                "nav_date": "2025-06-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBIHEALTH(A)",
+                "net_asset": 420548256,
+                "last_val": 3.5432,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-26T16:04:31.517"
+            },
+            {
+                "nav_date": "2025-06-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBIHEALTH(A)",
+                "net_asset": 424219904,
+                "last_val": 3.5741,
+                "previous_val": 0,
+                "sell_price": 3.6278,
+                "buy_price": 3.5741,
+                "sell_swap_price": 3.5741,
+                "buy_swap_price": 3.6278,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-27T16:05:12.01"
+            },
+            {
+                "nav_date": "2025-06-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBIHEALTH(A)",
+                "net_asset": 422765792,
+                "last_val": 3.5621,
+                "previous_val": 0,
+                "sell_price": 3.6156,
+                "buy_price": 3.5621,
+                "sell_swap_price": 3.5621,
+                "buy_swap_price": 3.6156,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-29T16:09:06.92"
             }
         ]
     }

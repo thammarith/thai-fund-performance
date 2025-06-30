@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1749920400000,
-    "nextUpdate": 1750049833698,
+    "lastUpdate": 1751208436185,
+    "nextUpdate": 1751294836185,
     "data": {
-        "lastNav": "2025-06-12",
+        "lastNav": "2025-06-25",
         "fund": {
             "proj_id": "M0454_2560",
             "regis_id": "MF0462_2560",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000569",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-05-16T16:11:28.93"
+            "last_upd_date": "2025-06-29T16:09:32.98"
         },
         "navs": [
             {
@@ -13727,6 +13727,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-06-17T08:08:48.31"
+            },
+            {
+                "nav_date": "2025-06-16",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-GLOBHY-I",
+                "net_asset": 35343512,
+                "last_val": 11.8803,
+                "previous_val": 0,
+                "sell_price": 11.9101,
+                "buy_price": 11.8803,
+                "sell_swap_price": 11.8803,
+                "buy_swap_price": 11.9101,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-19T16:04:44.08"
+            },
+            {
+                "nav_date": "2025-06-17",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-GLOBHY-I",
+                "net_asset": 35340204,
+                "last_val": 11.8792,
+                "previous_val": 0,
+                "sell_price": 11.909,
+                "buy_price": 11.8792,
+                "sell_swap_price": 11.8792,
+                "buy_swap_price": 11.909,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-20T16:12:19.95"
+            },
+            {
+                "nav_date": "2025-06-18",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-GLOBHY-I",
+                "net_asset": 35333132,
+                "last_val": 11.8769,
+                "previous_val": 0,
+                "sell_price": 11.9067,
+                "buy_price": 11.8769,
+                "sell_swap_price": 11.8769,
+                "buy_swap_price": 11.9067,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-23T16:05:10.553"
+            },
+            {
+                "nav_date": "2025-06-19",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-GLOBHY-I",
+                "net_asset": 35289136,
+                "last_val": 11.8621,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-24T16:04:04.243"
+            },
+            {
+                "nav_date": "2025-06-20",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-GLOBHY-I",
+                "net_asset": 35360912,
+                "last_val": 11.8862,
+                "previous_val": 0,
+                "sell_price": 11.916,
+                "buy_price": 11.8862,
+                "sell_swap_price": 11.8862,
+                "buy_swap_price": 11.916,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-25T16:05:37.003"
+            },
+            {
+                "nav_date": "2025-06-23",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-GLOBHY-I",
+                "net_asset": 35360472,
+                "last_val": 11.886,
+                "previous_val": 0,
+                "sell_price": 11.9158,
+                "buy_price": 11.886,
+                "sell_swap_price": 11.886,
+                "buy_swap_price": 11.9158,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-26T16:04:31.517"
+            },
+            {
+                "nav_date": "2025-06-24",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-GLOBHY-I",
+                "net_asset": 35404028,
+                "last_val": 11.9007,
+                "previous_val": 0,
+                "sell_price": 11.9306,
+                "buy_price": 11.9007,
+                "sell_swap_price": 11.9007,
+                "buy_swap_price": 11.9306,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-27T16:05:12.01"
+            },
+            {
+                "nav_date": "2025-06-25",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-GLOBHY-I",
+                "net_asset": 35393436,
+                "last_val": 11.8971,
+                "previous_val": 0,
+                "sell_price": 11.9269,
+                "buy_price": 11.8971,
+                "sell_swap_price": 11.8971,
+                "buy_swap_price": 11.9269,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-29T16:09:06.92"
             }
         ]
     }

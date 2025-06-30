@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1749920400000,
-    "nextUpdate": 1750049833698,
+    "lastUpdate": 1751208436185,
+    "nextUpdate": 1751294836185,
     "data": {
-        "lastNav": "2025-06-13",
+        "lastNav": "2025-06-26",
         "fund": {
             "proj_id": "M0612_2567",
             "regis_id": "MF0485_2567",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-05-16T16:11:28.93"
+            "last_upd_date": "2025-06-29T16:09:32.98"
         },
         "navs": [
             {
@@ -677,6 +677,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-06-17T08:08:48.31"
+            },
+            {
+                "nav_date": "2025-06-16",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GSELECTRMF",
+                "net_asset": 130990248,
+                "last_val": 10.2334,
+                "previous_val": 0,
+                "sell_price": 10.2335,
+                "buy_price": 10.2334,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-18T16:04:38.923"
+            },
+            {
+                "nav_date": "2025-06-17",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GSELECTRMF",
+                "net_asset": 130617640,
+                "last_val": 10.1366,
+                "previous_val": 0,
+                "sell_price": 10.1367,
+                "buy_price": 10.1366,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-19T16:04:44.08"
+            },
+            {
+                "nav_date": "2025-06-18",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GSELECTRMF",
+                "net_asset": 130522920,
+                "last_val": 10.1424,
+                "previous_val": 0,
+                "sell_price": 10.1425,
+                "buy_price": 10.1424,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-23T16:05:10.553"
+            },
+            {
+                "nav_date": "2025-06-20",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GSELECTRMF",
+                "net_asset": 131002680,
+                "last_val": 10.0909,
+                "previous_val": 0,
+                "sell_price": 10.091,
+                "buy_price": 10.0909,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-24T16:04:04.243"
+            },
+            {
+                "nav_date": "2025-06-23",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GSELECTRMF",
+                "net_asset": 132908560,
+                "last_val": 10.1722,
+                "previous_val": 0,
+                "sell_price": 10.1723,
+                "buy_price": 10.1722,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-25T16:05:37.003"
+            },
+            {
+                "nav_date": "2025-06-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GSELECTRMF",
+                "net_asset": 134185880,
+                "last_val": 10.2684,
+                "previous_val": 0,
+                "sell_price": 10.2685,
+                "buy_price": 10.2684,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-26T16:04:31.517"
+            },
+            {
+                "nav_date": "2025-06-25",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GSELECTRMF",
+                "net_asset": 133788048,
+                "last_val": 10.2604,
+                "previous_val": 0,
+                "sell_price": 10.2605,
+                "buy_price": 10.2604,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-27T16:05:12.01"
+            },
+            {
+                "nav_date": "2025-06-26",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GSELECTRMF",
+                "net_asset": 134695392,
+                "last_val": 10.3268,
+                "previous_val": 0,
+                "sell_price": 10.3269,
+                "buy_price": 10.3268,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-29T16:09:06.92"
             }
         ]
     }

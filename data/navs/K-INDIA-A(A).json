@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1749920400000,
-    "nextUpdate": 1750049833698,
+    "lastUpdate": 1751208436185,
+    "nextUpdate": 1751294836185,
     "data": {
-        "lastNav": "2025-06-13",
+        "lastNav": "2025-06-26",
         "fund": {
             "proj_id": "M0059_2554",
             "regis_id": "MF0278_2554",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-05-16T16:11:28.93"
+            "last_upd_date": "2025-06-29T16:09:32.98"
         },
         "navs": [
             {
@@ -2567,6 +2567,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-06-17T08:08:48.31"
+            },
+            {
+                "nav_date": "2025-06-16",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-INDIA-A(A)",
+                "net_asset": 1206650368,
+                "last_val": 13.1666,
+                "previous_val": 0,
+                "sell_price": 13.3642,
+                "buy_price": 13.1666,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-18T16:04:38.923"
+            },
+            {
+                "nav_date": "2025-06-17",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-INDIA-A(A)",
+                "net_asset": 1216549760,
+                "last_val": 13.0873,
+                "previous_val": 0,
+                "sell_price": 13.2837,
+                "buy_price": 13.0873,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-19T16:04:44.08"
+            },
+            {
+                "nav_date": "2025-06-18",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-INDIA-A(A)",
+                "net_asset": 1227724928,
+                "last_val": 13.0195,
+                "previous_val": 0,
+                "sell_price": 13.2149,
+                "buy_price": 13.0195,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-23T16:05:10.553"
+            },
+            {
+                "nav_date": "2025-06-20",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-INDIA-A(A)",
+                "net_asset": 1229312000,
+                "last_val": 13.0533,
+                "previous_val": 0,
+                "sell_price": 13.2492,
+                "buy_price": 13.0533,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-25T16:05:37.003"
+            },
+            {
+                "nav_date": "2025-06-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-INDIA-A(A)",
+                "net_asset": 1250997376,
+                "last_val": 13.1604,
+                "previous_val": 0,
+                "sell_price": 13.3579,
+                "buy_price": 13.1604,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-26T16:04:31.517"
+            },
+            {
+                "nav_date": "2025-06-25",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-INDIA-A(A)",
+                "net_asset": 1258353920,
+                "last_val": 13.2469,
+                "previous_val": 0,
+                "sell_price": 13.4457,
+                "buy_price": 13.2469,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-27T16:05:12.01"
+            },
+            {
+                "nav_date": "2025-06-26",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-INDIA-A(A)",
+                "net_asset": 1273161728,
+                "last_val": 13.3875,
+                "previous_val": 0,
+                "sell_price": 13.5884,
+                "buy_price": 13.3875,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-29T16:09:06.92"
             }
         ]
     }

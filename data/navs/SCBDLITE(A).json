@@ -1,0 +1,83 @@
+{
+    "lastUpdate": 1751208436185,
+    "nextUpdate": 1751294836185,
+    "data": {
+        "lastNav": "2025-06-24",
+        "fund": {
+            "proj_id": "M0368_2568",
+            "regis_id": "MF0352_2568",
+            "regis_date": "2025-06-24",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิดไทยพาณิชย์ Dynamic Bond Lite",
+            "proj_name_en": "SCB Dynamic Bond Lite",
+            "proj_abbr_name": "SCBDLITE",
+            "fund_status": "RG",
+            "unique_id": "C0000000239",
+            "permit_us_investment": null,
+            "invest_country_flag": "4",
+            "last_upd_date": "2025-06-29T16:09:32.98"
+        },
+        "navs": [
+            {
+                "nav_date": "2025-06-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBDLITE(A)",
+                "net_asset": 546822592,
+                "last_val": 10.0011,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-25T16:05:37.003"
+            },
+            {
+                "nav_date": "2025-06-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBDLITE(A)",
+                "net_asset": 547035264,
+                "last_val": 10.005,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-26T16:04:31.517"
+            },
+            {
+                "nav_date": "2025-06-26",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBDLITE(A)",
+                "net_asset": 547699008,
+                "last_val": 10.0171,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-27T16:05:12.01"
+            },
+            {
+                "nav_date": "2025-06-27",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBDLITE(A)",
+                "net_asset": 548280000,
+                "last_val": 10.0278,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-29T16:09:06.92"
+            }
+        ]
+    }
+}

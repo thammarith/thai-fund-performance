@@ -1,6 +1,6 @@
 {
-    "lastUpdate": 1747415074759,
-    "nextUpdate": 1750093471224,
+    "lastUpdate": 1751208436185,
+    "nextUpdate": 1753800436185,
     "data": [
         {
             "proj_id": "M0262_2560",
@@ -14,7 +14,7 @@
             "unique_id": "C0000003575",
             "permit_us_investment": "Y",
             "invest_country_flag": "4",
-            "last_upd_date": "2025-05-16T16:11:28.93"
+            "last_upd_date": "2025-06-29T16:09:32.98"
         },
         {
             "proj_id": "M0640_2560",
@@ -28,7 +28,7 @@
             "unique_id": "C0000003575",
             "permit_us_investment": "Y",
             "invest_country_flag": "3",
-            "last_upd_date": "2025-05-16T16:11:28.93"
+            "last_upd_date": "2025-06-29T16:09:32.98"
         }
     ]
 }

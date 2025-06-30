@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1749920400000,
-    "nextUpdate": 1750049833698,
+    "lastUpdate": 1751208436185,
+    "nextUpdate": 1751294836185,
     "data": {
-        "lastNav": "2025-06-13",
+        "lastNav": "2025-06-26",
         "fund": {
             "proj_id": "M0152_2564",
             "regis_id": "MF0277_2564",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000239",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-05-16T16:11:28.93"
+            "last_upd_date": "2025-06-29T16:09:32.98"
         },
         "navs": [
             {
@@ -9782,6 +9782,141 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-06-17T08:08:48.31"
+            },
+            {
+                "nav_date": "2025-06-16",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBFINTEC(SSFE)",
+                "net_asset": 4436698,
+                "last_val": 7.6433,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 7.6433,
+                "sell_swap_price": 7.6433,
+                "buy_swap_price": 7.6434,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-18T16:04:38.923"
+            },
+            {
+                "nav_date": "2025-06-17",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBFINTEC(SSFE)",
+                "net_asset": 4391391.5,
+                "last_val": 7.5652,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 7.5652,
+                "sell_swap_price": 7.5652,
+                "buy_swap_price": 7.5653,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-19T16:04:44.08"
+            },
+            {
+                "nav_date": "2025-06-18",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBFINTEC(SSFE)",
+                "net_asset": 4478353.5,
+                "last_val": 7.715,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 7.715,
+                "sell_swap_price": 7.715,
+                "buy_swap_price": 7.7151,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-20T16:12:19.95"
+            },
+            {
+                "nav_date": "2025-06-19",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBFINTEC(SSFE)",
+                "net_asset": 4486857,
+                "last_val": 7.7297,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-23T16:05:10.553"
+            },
+            {
+                "nav_date": "2025-06-20",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBFINTEC(SSFE)",
+                "net_asset": 4522483,
+                "last_val": 7.791,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 7.791,
+                "sell_swap_price": 7.791,
+                "buy_swap_price": 7.7911,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-24T16:04:04.243"
+            },
+            {
+                "nav_date": "2025-06-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBFINTEC(SSFE)",
+                "net_asset": 4592728,
+                "last_val": 7.9121,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 7.9121,
+                "sell_swap_price": 7.9121,
+                "buy_swap_price": 7.9122,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-25T16:05:37.003"
+            },
+            {
+                "nav_date": "2025-06-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBFINTEC(SSFE)",
+                "net_asset": 4721241,
+                "last_val": 8.0889,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 8.0889,
+                "sell_swap_price": 8.0889,
+                "buy_swap_price": 8.089,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-26T16:04:31.517"
+            },
+            {
+                "nav_date": "2025-06-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBFINTEC(SSFE)",
+                "net_asset": 4676324,
+                "last_val": 8.0128,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 8.0128,
+                "sell_swap_price": 8.0128,
+                "buy_swap_price": 8.0129,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-27T16:05:12.01"
+            },
+            {
+                "nav_date": "2025-06-26",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBFINTEC(SSFE)",
+                "net_asset": 4738360.5,
+                "last_val": 8.1066,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 8.1066,
+                "sell_swap_price": 8.1066,
+                "buy_swap_price": 8.1067,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-29T16:09:06.92"
             }
         ]
     }

@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1749920400000,
-    "nextUpdate": 1750049833698,
+    "lastUpdate": 1751208436185,
+    "nextUpdate": 1751294836185,
     "data": {
-        "lastNav": "2025-06-13",
+        "lastNav": "2025-06-26",
         "fund": {
             "proj_id": "M0749_2558",
             "regis_id": "MF0176_2559",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000239",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-05-16T16:11:28.93"
+            "last_upd_date": "2025-06-29T16:09:32.98"
         },
         "navs": [
             {
@@ -13847,6 +13847,141 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-06-17T08:08:48.31"
+            },
+            {
+                "nav_date": "2025-06-16",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBLEQ-SSF",
+                "net_asset": 784556160,
+                "last_val": 15.756,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 15.756,
+                "sell_swap_price": 15.756,
+                "buy_swap_price": 15.7561,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-18T16:04:38.923"
+            },
+            {
+                "nav_date": "2025-06-17",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBLEQ-SSF",
+                "net_asset": 777967872,
+                "last_val": 15.6242,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 15.6242,
+                "sell_swap_price": 15.6242,
+                "buy_swap_price": 15.6243,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-19T16:04:44.08"
+            },
+            {
+                "nav_date": "2025-06-18",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBLEQ-SSF",
+                "net_asset": 776031424,
+                "last_val": 15.5852,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 15.5852,
+                "sell_swap_price": 15.5852,
+                "buy_swap_price": 15.5853,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-20T16:12:19.95"
+            },
+            {
+                "nav_date": "2025-06-19",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBLEQ-SSF",
+                "net_asset": 776606592,
+                "last_val": 15.5938,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-23T16:05:10.553"
+            },
+            {
+                "nav_date": "2025-06-20",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBLEQ-SSF",
+                "net_asset": 773175744,
+                "last_val": 15.5249,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 15.5249,
+                "sell_swap_price": 15.5249,
+                "buy_swap_price": 15.525,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-24T16:04:04.243"
+            },
+            {
+                "nav_date": "2025-06-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBLEQ-SSF",
+                "net_asset": 773334016,
+                "last_val": 15.5281,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-25T16:05:37.003"
+            },
+            {
+                "nav_date": "2025-06-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBLEQ-SSF",
+                "net_asset": 784222784,
+                "last_val": 15.7467,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 15.7467,
+                "sell_swap_price": 15.7467,
+                "buy_swap_price": 15.7468,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-26T16:04:31.517"
+            },
+            {
+                "nav_date": "2025-06-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBLEQ-SSF",
+                "net_asset": 781670272,
+                "last_val": 15.6936,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 15.6936,
+                "sell_swap_price": 15.6936,
+                "buy_swap_price": 15.6937,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-27T16:05:12.01"
+            },
+            {
+                "nav_date": "2025-06-26",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBLEQ-SSF",
+                "net_asset": 786373568,
+                "last_val": 15.785,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 15.785,
+                "sell_swap_price": 15.785,
+                "buy_swap_price": 15.7851,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-29T16:09:06.92"
             }
         ]
     }

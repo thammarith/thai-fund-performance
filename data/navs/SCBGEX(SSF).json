@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1749920400000,
-    "nextUpdate": 1750049833698,
+    "lastUpdate": 1751208436185,
+    "nextUpdate": 1751294836185,
     "data": {
-        "lastNav": "2025-06-12",
+        "lastNav": "2025-06-25",
         "fund": {
             "proj_id": "M0110_2564",
             "regis_id": "MF0167_2564",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000239",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-05-16T16:11:28.93"
+            "last_upd_date": "2025-06-29T16:09:32.98"
         },
         "navs": [
             {
@@ -10997,6 +10997,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-06-17T08:08:48.31"
+            },
+            {
+                "nav_date": "2025-06-16",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGEX(SSF)",
+                "net_asset": 14489596,
+                "last_val": 10.4693,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 10.4693,
+                "sell_swap_price": 10.4693,
+                "buy_swap_price": 10.4694,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-19T16:04:44.08"
+            },
+            {
+                "nav_date": "2025-06-17",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGEX(SSF)",
+                "net_asset": 14404327,
+                "last_val": 10.4002,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 10.4002,
+                "sell_swap_price": 10.4002,
+                "buy_swap_price": 10.4003,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-23T16:05:10.553"
+            },
+            {
+                "nav_date": "2025-06-19",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGEX(SSF)",
+                "net_asset": 14389366,
+                "last_val": 10.3398,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-25T16:05:37.003"
+            },
+            {
+                "nav_date": "2025-06-20",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGEX(SSF)",
+                "net_asset": 14354313,
+                "last_val": 10.3146,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 10.3146,
+                "sell_swap_price": 10.3146,
+                "buy_swap_price": 10.3147,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-25T16:05:37.003"
+            },
+            {
+                "nav_date": "2025-06-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGEX(SSF)",
+                "net_asset": 14364835,
+                "last_val": 10.3222,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-26T16:04:31.517"
+            },
+            {
+                "nav_date": "2025-06-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGEX(SSF)",
+                "net_asset": 14608148,
+                "last_val": 10.497,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 10.497,
+                "sell_swap_price": 10.497,
+                "buy_swap_price": 10.4971,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-27T16:05:12.01"
+            },
+            {
+                "nav_date": "2025-06-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGEX(SSF)",
+                "net_asset": 14608484,
+                "last_val": 10.4973,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 10.4973,
+                "sell_swap_price": 10.4973,
+                "buy_swap_price": 10.4974,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-29T16:09:06.92"
             }
         ]
     }

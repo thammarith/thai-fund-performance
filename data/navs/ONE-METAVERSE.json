@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1749920400000,
-    "nextUpdate": 1750049833698,
+    "lastUpdate": 1751208436185,
+    "nextUpdate": 1751294836185,
     "data": {
-        "lastNav": "2025-06-13",
+        "lastNav": "2025-06-26",
         "fund": {
             "proj_id": "M0519_2564",
             "regis_id": "MF0046_2565",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000569",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-05-16T16:11:28.93"
+            "last_upd_date": "2025-06-29T16:09:32.98"
         },
         "navs": [
             {
@@ -10922,6 +10922,141 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-06-17T08:08:48.31"
+            },
+            {
+                "nav_date": "2025-06-16",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-METAVERSE",
+                "net_asset": 23715060,
+                "last_val": 12.4359,
+                "previous_val": 0,
+                "sell_price": 12.6225,
+                "buy_price": 12.4359,
+                "sell_swap_price": 12.4359,
+                "buy_swap_price": 12.6225,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-18T16:04:38.923"
+            },
+            {
+                "nav_date": "2025-06-17",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-METAVERSE",
+                "net_asset": 23496442,
+                "last_val": 12.3239,
+                "previous_val": 0,
+                "sell_price": 12.5089,
+                "buy_price": 12.3239,
+                "sell_swap_price": 12.3239,
+                "buy_swap_price": 12.5089,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-19T16:04:44.08"
+            },
+            {
+                "nav_date": "2025-06-18",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-METAVERSE",
+                "net_asset": 23714012,
+                "last_val": 12.4485,
+                "previous_val": 0,
+                "sell_price": 12.6353,
+                "buy_price": 12.4485,
+                "sell_swap_price": 12.4485,
+                "buy_swap_price": 12.6353,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-20T16:12:19.95"
+            },
+            {
+                "nav_date": "2025-06-19",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-METAVERSE",
+                "net_asset": 23276898,
+                "last_val": 12.4555,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-23T16:05:10.553"
+            },
+            {
+                "nav_date": "2025-06-20",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-METAVERSE",
+                "net_asset": 23147576,
+                "last_val": 12.3863,
+                "previous_val": 0,
+                "sell_price": 12.5722,
+                "buy_price": 12.3863,
+                "sell_swap_price": 12.3863,
+                "buy_swap_price": 12.5722,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-24T16:04:04.243"
+            },
+            {
+                "nav_date": "2025-06-23",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-METAVERSE",
+                "net_asset": 23324194,
+                "last_val": 12.4874,
+                "previous_val": 0,
+                "sell_price": 12.6748,
+                "buy_price": 12.4874,
+                "sell_swap_price": 12.4874,
+                "buy_swap_price": 12.6748,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-25T16:05:37.003"
+            },
+            {
+                "nav_date": "2025-06-24",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-METAVERSE",
+                "net_asset": 23754348,
+                "last_val": 12.7169,
+                "previous_val": 0,
+                "sell_price": 12.9078,
+                "buy_price": 12.7169,
+                "sell_swap_price": 12.7169,
+                "buy_swap_price": 12.9078,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-26T16:04:31.517"
+            },
+            {
+                "nav_date": "2025-06-25",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-METAVERSE",
+                "net_asset": 23787762,
+                "last_val": 12.7353,
+                "previous_val": 0,
+                "sell_price": 12.9264,
+                "buy_price": 12.7353,
+                "sell_swap_price": 12.7353,
+                "buy_swap_price": 12.9264,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-27T16:05:12.01"
+            },
+            {
+                "nav_date": "2025-06-26",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-METAVERSE",
+                "net_asset": 23915272,
+                "last_val": 12.8225,
+                "previous_val": 0,
+                "sell_price": 13.0149,
+                "buy_price": 12.8225,
+                "sell_swap_price": 12.8225,
+                "buy_swap_price": 13.0149,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-29T16:09:06.92"
             }
         ]
     }

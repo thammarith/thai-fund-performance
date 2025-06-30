@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1749920400000,
-    "nextUpdate": 1750049833698,
+    "lastUpdate": 1751208436185,
+    "nextUpdate": 1751294836185,
     "data": {
-        "lastNav": "2025-06-13",
+        "lastNav": "2025-06-26",
         "fund": {
             "proj_id": "M0639_2558",
             "regis_id": "MF0629_2558",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-05-16T16:11:28.93"
+            "last_upd_date": "2025-06-29T16:09:32.98"
         },
         "navs": [
             {
@@ -12422,6 +12422,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-06-17T08:08:48.31"
+            },
+            {
+                "nav_date": "2025-06-16",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GHEALTH(UH)",
+                "net_asset": 733723328,
+                "last_val": 9.5507,
+                "previous_val": 0,
+                "sell_price": 9.6941,
+                "buy_price": 9.5507,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-18T16:04:38.923"
+            },
+            {
+                "nav_date": "2025-06-17",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GHEALTH(UH)",
+                "net_asset": 726377600,
+                "last_val": 9.4375,
+                "previous_val": 0,
+                "sell_price": 9.5792,
+                "buy_price": 9.4375,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-19T16:04:44.08"
+            },
+            {
+                "nav_date": "2025-06-18",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GHEALTH(UH)",
+                "net_asset": 722177152,
+                "last_val": 9.339,
+                "previous_val": 0,
+                "sell_price": 9.4792,
+                "buy_price": 9.339,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-23T16:05:10.553"
+            },
+            {
+                "nav_date": "2025-06-20",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GHEALTH(UH)",
+                "net_asset": 729404224,
+                "last_val": 9.3856,
+                "previous_val": 0,
+                "sell_price": 9.5265,
+                "buy_price": 9.3856,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-24T16:04:04.243"
+            },
+            {
+                "nav_date": "2025-06-23",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GHEALTH(UH)",
+                "net_asset": 730948864,
+                "last_val": 9.4209,
+                "previous_val": 0,
+                "sell_price": 9.5623,
+                "buy_price": 9.4209,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-25T16:05:37.003"
+            },
+            {
+                "nav_date": "2025-06-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GHEALTH(UH)",
+                "net_asset": 731724288,
+                "last_val": 9.3604,
+                "previous_val": 0,
+                "sell_price": 9.5009,
+                "buy_price": 9.3604,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-26T16:04:31.517"
+            },
+            {
+                "nav_date": "2025-06-25",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GHEALTH(UH)",
+                "net_asset": 733013184,
+                "last_val": 9.3998,
+                "previous_val": 0,
+                "sell_price": 9.5409,
+                "buy_price": 9.3998,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-27T16:05:12.01"
+            },
+            {
+                "nav_date": "2025-06-26",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GHEALTH(UH)",
+                "net_asset": 732610880,
+                "last_val": 9.3938,
+                "previous_val": 0,
+                "sell_price": 9.5348,
+                "buy_price": 9.3938,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-29T16:09:06.92"
             }
         ]
     }

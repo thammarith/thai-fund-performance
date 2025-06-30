@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1749920400000,
-    "nextUpdate": 1750049833698,
+    "lastUpdate": 1751208436185,
+    "nextUpdate": 1751294836185,
     "data": {
-        "lastNav": "2025-06-13",
+        "lastNav": "2025-06-26",
         "fund": {
             "proj_id": "M0430_2558",
             "regis_id": "MF0068_2559",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-05-16T16:11:28.93"
+            "last_upd_date": "2025-06-29T16:09:32.98"
         },
         "navs": [
             {
@@ -29177,6 +29177,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-06-16T16:06:39.94"
+            },
+            {
+                "nav_date": "2025-06-16",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-AEC",
+                "net_asset": 90464488,
+                "last_val": 10.6911,
+                "previous_val": 0,
+                "sell_price": 10.8516,
+                "buy_price": 10.6911,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-17T16:05:01.333"
+            },
+            {
+                "nav_date": "2025-06-17",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-AEC",
+                "net_asset": 90524896,
+                "last_val": 10.7171,
+                "previous_val": 0,
+                "sell_price": 10.878,
+                "buy_price": 10.7171,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-18T16:04:38.923"
+            },
+            {
+                "nav_date": "2025-06-18",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-AEC",
+                "net_asset": 89679360,
+                "last_val": 10.6188,
+                "previous_val": 0,
+                "sell_price": 10.7782,
+                "buy_price": 10.6188,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-20T16:12:19.95"
+            },
+            {
+                "nav_date": "2025-06-20",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-AEC",
+                "net_asset": 89161568,
+                "last_val": 10.5565,
+                "previous_val": 0,
+                "sell_price": 10.7149,
+                "buy_price": 10.5565,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-23T16:05:10.553"
+            },
+            {
+                "nav_date": "2025-06-23",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-AEC",
+                "net_asset": 86285968,
+                "last_val": 10.5062,
+                "previous_val": 0,
+                "sell_price": 10.6639,
+                "buy_price": 10.5062,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-24T16:04:04.243"
+            },
+            {
+                "nav_date": "2025-06-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-AEC",
+                "net_asset": 86196136,
+                "last_val": 10.496,
+                "previous_val": 0,
+                "sell_price": 10.6535,
+                "buy_price": 10.496,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-25T16:05:37.003"
+            },
+            {
+                "nav_date": "2025-06-25",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-AEC",
+                "net_asset": 86774800,
+                "last_val": 10.5662,
+                "previous_val": 0,
+                "sell_price": 10.7248,
+                "buy_price": 10.5662,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-26T16:04:31.517"
+            },
+            {
+                "nav_date": "2025-06-26",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-AEC",
+                "net_asset": 86466048,
+                "last_val": 10.5286,
+                "previous_val": 0,
+                "sell_price": 10.6866,
+                "buy_price": 10.5286,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-29T16:09:06.92"
             }
         ]
     }

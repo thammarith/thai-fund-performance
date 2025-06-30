@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1749920400000,
-    "nextUpdate": 1750049833698,
+    "lastUpdate": 1751208436185,
+    "nextUpdate": 1751294836185,
     "data": {
-        "lastNav": "2025-06-13",
+        "lastNav": "2025-06-26",
         "fund": {
             "proj_id": "M0672_2566",
             "regis_id": "MF0555_2566",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000569",
             "permit_us_investment": null,
             "invest_country_flag": "4",
-            "last_upd_date": "2025-05-16T16:11:28.93"
+            "last_upd_date": "2025-06-29T16:09:32.98"
         },
         "navs": [
             {
@@ -2477,6 +2477,141 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-06-17T08:08:48.31"
+            },
+            {
+                "nav_date": "2025-06-16",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-ULTRAPLUS-ASSF",
+                "net_asset": 11311221,
+                "last_val": 11.0063,
+                "previous_val": 0,
+                "sell_price": 11.0064,
+                "buy_price": 11.0063,
+                "sell_swap_price": 11.0063,
+                "buy_swap_price": 11.0064,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-18T16:04:38.923"
+            },
+            {
+                "nav_date": "2025-06-17",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-ULTRAPLUS-ASSF",
+                "net_asset": 11298052,
+                "last_val": 10.9646,
+                "previous_val": 0,
+                "sell_price": 10.9647,
+                "buy_price": 10.9646,
+                "sell_swap_price": 10.9646,
+                "buy_swap_price": 10.9647,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-19T16:04:44.08"
+            },
+            {
+                "nav_date": "2025-06-18",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-ULTRAPLUS-ASSF",
+                "net_asset": 11267894,
+                "last_val": 10.9354,
+                "previous_val": 0,
+                "sell_price": 10.9355,
+                "buy_price": 10.9354,
+                "sell_swap_price": 10.9354,
+                "buy_swap_price": 10.9355,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-20T16:12:19.95"
+            },
+            {
+                "nav_date": "2025-06-19",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-ULTRAPLUS-ASSF",
+                "net_asset": 11246992,
+                "last_val": 10.9076,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-23T16:05:10.553"
+            },
+            {
+                "nav_date": "2025-06-20",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-ULTRAPLUS-ASSF",
+                "net_asset": 11232581,
+                "last_val": 10.8936,
+                "previous_val": 0,
+                "sell_price": 10.8937,
+                "buy_price": 10.8936,
+                "sell_swap_price": 10.8936,
+                "buy_swap_price": 10.8937,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-24T16:04:04.243"
+            },
+            {
+                "nav_date": "2025-06-23",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-ULTRAPLUS-ASSF",
+                "net_asset": 11287630,
+                "last_val": 10.9387,
+                "previous_val": 0,
+                "sell_price": 10.9388,
+                "buy_price": 10.9387,
+                "sell_swap_price": 10.9387,
+                "buy_swap_price": 10.9388,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-25T16:05:37.003"
+            },
+            {
+                "nav_date": "2025-06-24",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-ULTRAPLUS-ASSF",
+                "net_asset": 11382023,
+                "last_val": 11.0222,
+                "previous_val": 0,
+                "sell_price": 11.0223,
+                "buy_price": 11.0222,
+                "sell_swap_price": 11.0222,
+                "buy_swap_price": 11.0223,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-26T16:04:31.517"
+            },
+            {
+                "nav_date": "2025-06-25",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-ULTRAPLUS-ASSF",
+                "net_asset": 11398929,
+                "last_val": 11.0386,
+                "previous_val": 0,
+                "sell_price": 11.0387,
+                "buy_price": 11.0386,
+                "sell_swap_price": 11.0386,
+                "buy_swap_price": 11.0387,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-27T16:05:12.01"
+            },
+            {
+                "nav_date": "2025-06-26",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-ULTRAPLUS-ASSF",
+                "net_asset": 11587989,
+                "last_val": 11.0714,
+                "previous_val": 0,
+                "sell_price": 11.0715,
+                "buy_price": 11.0714,
+                "sell_swap_price": 11.0714,
+                "buy_swap_price": 11.0715,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-29T16:09:06.92"
             }
         ]
     }

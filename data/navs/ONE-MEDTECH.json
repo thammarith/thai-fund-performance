@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1749920400000,
-    "nextUpdate": 1750049833698,
+    "lastUpdate": 1751208436185,
+    "nextUpdate": 1751294836185,
     "data": {
-        "lastNav": "2025-06-13",
+        "lastNav": "2025-06-26",
         "fund": {
             "proj_id": "M0509_2564",
             "regis_id": "MF0014_2565",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000569",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-05-16T16:11:28.93"
+            "last_upd_date": "2025-06-29T16:09:32.98"
         },
         "navs": [
             {
@@ -11222,6 +11222,141 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-06-17T08:08:48.31"
+            },
+            {
+                "nav_date": "2025-06-16",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-MEDTECH",
+                "net_asset": 53104228,
+                "last_val": 9.1138,
+                "previous_val": 0,
+                "sell_price": 9.2506,
+                "buy_price": 9.1138,
+                "sell_swap_price": 9.1138,
+                "buy_swap_price": 9.2506,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-18T16:04:38.923"
+            },
+            {
+                "nav_date": "2025-06-17",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-MEDTECH",
+                "net_asset": 52487780,
+                "last_val": 9.001,
+                "previous_val": 0,
+                "sell_price": 9.1361,
+                "buy_price": 9.001,
+                "sell_swap_price": 9.001,
+                "buy_swap_price": 9.1361,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-19T16:04:44.08"
+            },
+            {
+                "nav_date": "2025-06-18",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-MEDTECH",
+                "net_asset": 52435096,
+                "last_val": 8.9917,
+                "previous_val": 0,
+                "sell_price": 9.1267,
+                "buy_price": 8.9917,
+                "sell_swap_price": 8.9917,
+                "buy_swap_price": 9.1267,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-20T16:12:19.95"
+            },
+            {
+                "nav_date": "2025-06-19",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-MEDTECH",
+                "net_asset": 52389984,
+                "last_val": 8.9839,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-23T16:05:10.553"
+            },
+            {
+                "nav_date": "2025-06-20",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-MEDTECH",
+                "net_asset": 52500340,
+                "last_val": 9.0029,
+                "previous_val": 0,
+                "sell_price": 9.138,
+                "buy_price": 9.0029,
+                "sell_swap_price": 9.0029,
+                "buy_swap_price": 9.138,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-24T16:04:04.243"
+            },
+            {
+                "nav_date": "2025-06-23",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-MEDTECH",
+                "net_asset": 52799984,
+                "last_val": 9.0541,
+                "previous_val": 0,
+                "sell_price": 9.19,
+                "buy_price": 9.0541,
+                "sell_swap_price": 9.0541,
+                "buy_swap_price": 9.19,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-25T16:05:37.003"
+            },
+            {
+                "nav_date": "2025-06-24",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-MEDTECH",
+                "net_asset": 53807084,
+                "last_val": 9.2286,
+                "previous_val": 0,
+                "sell_price": 9.3671,
+                "buy_price": 9.2286,
+                "sell_swap_price": 9.2286,
+                "buy_swap_price": 9.3671,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-26T16:04:31.517"
+            },
+            {
+                "nav_date": "2025-06-25",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-MEDTECH",
+                "net_asset": 53618248,
+                "last_val": 9.1963,
+                "previous_val": 0,
+                "sell_price": 9.3343,
+                "buy_price": 9.1963,
+                "sell_swap_price": 9.1963,
+                "buy_swap_price": 9.3343,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-27T16:05:12.01"
+            },
+            {
+                "nav_date": "2025-06-26",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-MEDTECH",
+                "net_asset": 53669692,
+                "last_val": 9.2045,
+                "previous_val": 0,
+                "sell_price": 9.3427,
+                "buy_price": 9.2045,
+                "sell_swap_price": 9.2045,
+                "buy_swap_price": 9.3427,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-29T16:09:06.92"
             }
         ]
     }

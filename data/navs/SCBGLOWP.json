@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1749920400000,
-    "nextUpdate": 1750049833698,
+    "lastUpdate": 1751208436185,
+    "nextUpdate": 1751294836185,
     "data": {
-        "lastNav": "2025-06-12",
+        "lastNav": "2025-06-25",
         "fund": {
             "proj_id": "M0932_2554",
             "regis_id": "MF0596_2555",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000239",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-05-16T16:11:28.93"
+            "last_upd_date": "2025-06-29T16:09:32.98"
         },
         "navs": [
             {
@@ -13652,6 +13652,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-06-17T08:08:48.31"
+            },
+            {
+                "nav_date": "2025-06-16",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGLOWP",
+                "net_asset": 56118400,
+                "last_val": 12.891,
+                "previous_val": 0,
+                "sell_price": 12.9601,
+                "buy_price": 12.891,
+                "sell_swap_price": 12.891,
+                "buy_swap_price": 12.9601,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-19T16:04:44.08"
+            },
+            {
+                "nav_date": "2025-06-17",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGLOWP",
+                "net_asset": 55764828,
+                "last_val": 12.81,
+                "previous_val": 0,
+                "sell_price": 12.8786,
+                "buy_price": 12.81,
+                "sell_swap_price": 12.81,
+                "buy_swap_price": 12.8786,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-20T16:12:19.95"
+            },
+            {
+                "nav_date": "2025-06-18",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGLOWP",
+                "net_asset": 55743028,
+                "last_val": 12.805,
+                "previous_val": 0,
+                "sell_price": 12.8736,
+                "buy_price": 12.805,
+                "sell_swap_price": 12.805,
+                "buy_swap_price": 12.8736,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-23T16:05:10.553"
+            },
+            {
+                "nav_date": "2025-06-19",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGLOWP",
+                "net_asset": 55758032,
+                "last_val": 12.8084,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-24T16:04:04.243"
+            },
+            {
+                "nav_date": "2025-06-20",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGLOWP",
+                "net_asset": 55618432,
+                "last_val": 12.7764,
+                "previous_val": 0,
+                "sell_price": 12.8449,
+                "buy_price": 12.7764,
+                "sell_swap_price": 12.7764,
+                "buy_swap_price": 12.8449,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-25T16:05:37.003"
+            },
+            {
+                "nav_date": "2025-06-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGLOWP",
+                "net_asset": 55949036,
+                "last_val": 12.8523,
+                "previous_val": 0,
+                "sell_price": 12.9212,
+                "buy_price": 12.8523,
+                "sell_swap_price": 12.8523,
+                "buy_swap_price": 12.9212,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-26T16:04:31.517"
+            },
+            {
+                "nav_date": "2025-06-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGLOWP",
+                "net_asset": 56473924,
+                "last_val": 12.9729,
+                "previous_val": 0,
+                "sell_price": 13.0424,
+                "buy_price": 12.9729,
+                "sell_swap_price": 12.9729,
+                "buy_swap_price": 13.0424,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-27T16:05:12.01"
+            },
+            {
+                "nav_date": "2025-06-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGLOWP",
+                "net_asset": 56489588,
+                "last_val": 12.98,
+                "previous_val": 0,
+                "sell_price": 13.0495,
+                "buy_price": 12.98,
+                "sell_swap_price": 12.98,
+                "buy_swap_price": 13.0495,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-29T16:09:06.92"
             }
         ]
     }

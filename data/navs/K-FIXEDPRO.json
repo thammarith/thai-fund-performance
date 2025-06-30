@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1749920400000,
-    "nextUpdate": 1750049833698,
+    "lastUpdate": 1751208436185,
+    "nextUpdate": 1751294836185,
     "data": {
-        "lastNav": "2025-06-13",
+        "lastNav": "2025-06-26",
         "fund": {
             "proj_id": "M0415_2562",
             "regis_id": "MF0439_2562",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "4",
-            "last_upd_date": "2025-05-16T16:11:28.93"
+            "last_upd_date": "2025-06-29T16:09:32.98"
         },
         "navs": [
             {
@@ -12482,6 +12482,126 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-06-17T08:08:48.31"
+            },
+            {
+                "nav_date": "2025-06-16",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-FIXEDPRO",
+                "net_asset": 798819456,
+                "last_val": 10.3069,
+                "previous_val": 0,
+                "sell_price": 10.307,
+                "buy_price": 10.3069,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-18T16:04:38.923"
+            },
+            {
+                "nav_date": "2025-06-17",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-FIXEDPRO",
+                "net_asset": 792101248,
+                "last_val": 10.3103,
+                "previous_val": 0,
+                "sell_price": 10.3104,
+                "buy_price": 10.3103,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-20T16:12:19.95"
+            },
+            {
+                "nav_date": "2025-06-18",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-FIXEDPRO",
+                "net_asset": 793346112,
+                "last_val": 10.3251,
+                "previous_val": 0,
+                "sell_price": 10.3252,
+                "buy_price": 10.3251,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-23T16:05:10.553"
+            },
+            {
+                "nav_date": "2025-06-20",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-FIXEDPRO",
+                "net_asset": 786815488,
+                "last_val": 10.335,
+                "previous_val": 0,
+                "sell_price": 10.3351,
+                "buy_price": 10.335,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-24T16:04:04.243"
+            },
+            {
+                "nav_date": "2025-06-23",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-FIXEDPRO",
+                "net_asset": 767644864,
+                "last_val": 10.3445,
+                "previous_val": 0,
+                "sell_price": 10.3446,
+                "buy_price": 10.3445,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-25T16:05:37.003"
+            },
+            {
+                "nav_date": "2025-06-24",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-FIXEDPRO",
+                "net_asset": 767934080,
+                "last_val": 10.3487,
+                "previous_val": 0,
+                "sell_price": 10.3488,
+                "buy_price": 10.3487,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-26T16:04:31.517"
+            },
+            {
+                "nav_date": "2025-06-25",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-FIXEDPRO",
+                "net_asset": 764796480,
+                "last_val": 10.3566,
+                "previous_val": 0,
+                "sell_price": 10.3567,
+                "buy_price": 10.3566,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-27T16:05:12.01"
+            },
+            {
+                "nav_date": "2025-06-26",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-FIXEDPRO",
+                "net_asset": 756889344,
+                "last_val": 10.3754,
+                "previous_val": 0,
+                "sell_price": 10.3755,
+                "buy_price": 10.3754,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-29T16:09:06.92"
             }
         ]
     }

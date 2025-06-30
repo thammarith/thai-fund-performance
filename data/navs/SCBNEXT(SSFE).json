@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1749920400000,
-    "nextUpdate": 1750049833698,
+    "lastUpdate": 1751208436185,
+    "nextUpdate": 1751294836185,
     "data": {
-        "lastNav": "2025-06-13",
+        "lastNav": "2025-06-26",
         "fund": {
             "proj_id": "M0163_2564",
             "regis_id": "MF0278_2564",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000239",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-05-16T16:11:28.93"
+            "last_upd_date": "2025-06-29T16:09:32.98"
         },
         "navs": [
             {
@@ -9767,6 +9767,141 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-06-17T08:08:48.31"
+            },
+            {
+                "nav_date": "2025-06-16",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBNEXT(SSFE)",
+                "net_asset": 8184376,
+                "last_val": 7.2772,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 7.2772,
+                "sell_swap_price": 7.2772,
+                "buy_swap_price": 7.2773,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-18T16:04:38.923"
+            },
+            {
+                "nav_date": "2025-06-17",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBNEXT(SSFE)",
+                "net_asset": 8126085.5,
+                "last_val": 7.199,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 7.199,
+                "sell_swap_price": 7.199,
+                "buy_swap_price": 7.1991,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-19T16:04:44.08"
+            },
+            {
+                "nav_date": "2025-06-18",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBNEXT(SSFE)",
+                "net_asset": 8185411.5,
+                "last_val": 7.3094,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 7.3094,
+                "sell_swap_price": 7.3094,
+                "buy_swap_price": 7.3095,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-20T16:12:19.95"
+            },
+            {
+                "nav_date": "2025-06-19",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBNEXT(SSFE)",
+                "net_asset": 8202784,
+                "last_val": 7.3257,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-23T16:05:10.553"
+            },
+            {
+                "nav_date": "2025-06-20",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBNEXT(SSFE)",
+                "net_asset": 8214354.5,
+                "last_val": 7.3361,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 7.3361,
+                "sell_swap_price": 7.3361,
+                "buy_swap_price": 7.3362,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-24T16:04:04.243"
+            },
+            {
+                "nav_date": "2025-06-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBNEXT(SSFE)",
+                "net_asset": 8349842,
+                "last_val": 7.445,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 7.445,
+                "sell_swap_price": 7.445,
+                "buy_swap_price": 7.4451,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-25T16:05:37.003"
+            },
+            {
+                "nav_date": "2025-06-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBNEXT(SSFE)",
+                "net_asset": 8406541,
+                "last_val": 7.582,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 7.582,
+                "sell_swap_price": 7.582,
+                "buy_swap_price": 7.5821,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-26T16:04:31.517"
+            },
+            {
+                "nav_date": "2025-06-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBNEXT(SSFE)",
+                "net_asset": 8337786.5,
+                "last_val": 7.5259,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 7.5259,
+                "sell_swap_price": 7.5259,
+                "buy_swap_price": 7.526,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-27T16:05:12.01"
+            },
+            {
+                "nav_date": "2025-06-26",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBNEXT(SSFE)",
+                "net_asset": 8404223,
+                "last_val": 7.6067,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 7.6067,
+                "sell_swap_price": 7.6067,
+                "buy_swap_price": 7.6068,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-06-29T16:09:06.92"
             }
         ]
     }
