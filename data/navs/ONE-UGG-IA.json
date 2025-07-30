@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1751208436185,
-    "nextUpdate": 1751294836185,
+    "lastUpdate": 1753866765197,
+    "nextUpdate": 1753953165197,
     "data": {
-        "lastNav": "2025-06-26",
+        "lastNav": "2025-07-01",
         "fund": {
             "proj_id": "M0717_2558",
             "regis_id": "MF0045_2559",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000569",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-06-29T16:09:32.98"
+            "last_upd_date": "2025-07-30T08:09:12.753"
         },
         "navs": [
             {
@@ -14057,6 +14057,36 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-06-29T16:09:06.92"
+            },
+            {
+                "nav_date": "2025-06-30",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-UGG-IA",
+                "net_asset": 0,
+                "last_val": 32.6297,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-02T21:04:29.917"
+            },
+            {
+                "nav_date": "2025-07-01",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-UGG-IA",
+                "net_asset": 0,
+                "last_val": 32.7225,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-03T16:09:09.247"
             }
         ]
     }
