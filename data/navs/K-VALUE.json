@@ -1,21 +1,21 @@
 {
-    "lastUpdate": 1751208436185,
-    "nextUpdate": 1751294836185,
+    "lastUpdate": 1753865012894,
+    "nextUpdate": 1753951412894,
     "data": {
-        "lastNav": "2025-06-27",
+        "lastNav": "2025-07-02",
         "fund": {
             "proj_id": "M0023_2538",
             "regis_id": "005_2538",
             "regis_date": "1995-01-27",
             "cancel_date": "-",
-            "proj_name_th": " กองทุนเปิดเค หุ้นปันผล",
+            "proj_name_th": "กองทุนเปิดเค หุ้นปันผล",
             "proj_name_en": "K Valued Stock Fund",
             "proj_abbr_name": "K-VALUE",
             "fund_status": "RG",
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2025-06-29T16:09:32.98"
+            "last_upd_date": "2025-07-30T08:09:12.753"
         },
         "navs": [
             {
@@ -109982,6 +109982,51 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-06-29T16:09:06.92"
+            },
+            {
+                "nav_date": "2025-06-30",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-VALUE",
+                "net_asset": 1908016512,
+                "last_val": 4.8571,
+                "previous_val": 0,
+                "sell_price": 4.9058,
+                "buy_price": 4.8571,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-01T16:06:31.6"
+            },
+            {
+                "nav_date": "2025-07-01",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-VALUE",
+                "net_asset": 1935464832,
+                "last_val": 4.9262,
+                "previous_val": 0,
+                "sell_price": 4.9756,
+                "buy_price": 4.9262,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-02T21:04:29.917"
+            },
+            {
+                "nav_date": "2025-07-02",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-VALUE",
+                "net_asset": 1951678336,
+                "last_val": 4.9683,
+                "previous_val": 0,
+                "sell_price": 5.0181,
+                "buy_price": 4.9683,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-03T08:13:14.103"
             }
         ]
     }

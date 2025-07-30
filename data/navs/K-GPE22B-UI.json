@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1743675643632,
-    "nextUpdate": 1743761853878,
+    "lastUpdate": 1753865012894,
+    "nextUpdate": 1753951412894,
     "data": {
-        "lastNav": "2025-03-31",
+        "lastNav": "2025-06-30",
         "fund": {
             "proj_id": "M0420_2565",
             "regis_id": "MF0340_2565",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-04-03T16:09:10.253"
+            "last_upd_date": "2025-07-30T08:09:12.753"
         },
         "navs": [
             {
@@ -77,6 +77,21 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-04-03T16:08:34.66"
+            },
+            {
+                "nav_date": "2025-06-30",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GPE22B-UI",
+                "net_asset": 3127893248,
+                "last_val": 10.9402,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-30T08:14:11.913"
             }
         ]
     }
