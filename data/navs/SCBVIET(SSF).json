@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1753866765197,
-    "nextUpdate": 1753953165197,
+    "lastUpdate": 1754220415062,
+    "nextUpdate": 1754306815062,
     "data": {
-        "lastNav": "2025-07-25",
+        "lastNav": "2025-08-01",
         "fund": {
             "proj_id": "M0539_2564",
             "regis_id": "MF0064_2565",
@@ -11327,6 +11327,66 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-07-29T16:11:57.867"
+            },
+            {
+                "nav_date": "2025-07-29",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBVIET(SSF)",
+                "net_asset": 478657984,
+                "last_val": 7.139,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 7.139,
+                "sell_swap_price": 7.139,
+                "buy_swap_price": 7.1391,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-30T16:05:23.493"
+            },
+            {
+                "nav_date": "2025-07-30",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBVIET(SSF)",
+                "net_asset": 486229184,
+                "last_val": 7.2543,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 7.2543,
+                "sell_swap_price": 7.2543,
+                "buy_swap_price": 7.2544,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-31T16:06:43.98"
+            },
+            {
+                "nav_date": "2025-07-31",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBVIET(SSF)",
+                "net_asset": 485946656,
+                "last_val": 7.2526,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 7.2526,
+                "sell_swap_price": 7.2526,
+                "buy_swap_price": 7.2527,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-01T16:09:58.13"
+            },
+            {
+                "nav_date": "2025-08-01",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBVIET(SSF)",
+                "net_asset": 489703712,
+                "last_val": 7.3104,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 7.3104,
+                "sell_swap_price": 7.3104,
+                "buy_swap_price": 7.3105,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-03T16:09:04.327"
             }
         ]
     }

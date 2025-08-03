@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1753866765197,
-    "nextUpdate": 1753953165197,
+    "lastUpdate": 1754220415062,
+    "nextUpdate": 1754306815062,
     "data": {
-        "lastNav": "2025-07-25",
+        "lastNav": "2025-07-31",
         "fund": {
             "proj_id": "M0274_2564",
             "regis_id": "MF0232_2564",
@@ -13157,6 +13157,51 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-07-30T08:14:11.913"
+            },
+            {
+                "nav_date": "2025-07-29",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBEUROPE(P)",
+                "net_asset": 545065.75,
+                "last_val": 9.1007,
+                "previous_val": 0,
+                "sell_price": 9.1008,
+                "buy_price": 9.1007,
+                "sell_swap_price": 9.1007,
+                "buy_swap_price": 9.1008,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-31T16:06:43.98"
+            },
+            {
+                "nav_date": "2025-07-30",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBEUROPE(P)",
+                "net_asset": 543773.5,
+                "last_val": 9.0791,
+                "previous_val": 0,
+                "sell_price": 9.0792,
+                "buy_price": 9.0791,
+                "sell_swap_price": 9.0791,
+                "buy_swap_price": 9.0792,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-01T16:09:58.13"
+            },
+            {
+                "nav_date": "2025-07-31",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBEUROPE(P)",
+                "net_asset": 534749.31,
+                "last_val": 8.9285,
+                "previous_val": 0,
+                "sell_price": 8.9286,
+                "buy_price": 8.9285,
+                "sell_swap_price": 8.9285,
+                "buy_swap_price": 8.9286,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-03T16:09:04.327"
             }
         ]
     }

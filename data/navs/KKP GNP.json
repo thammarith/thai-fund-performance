@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1753866765197,
-    "nextUpdate": 1753953165197,
+    "lastUpdate": 1754220415062,
+    "nextUpdate": 1754306815062,
     "data": {
-        "lastNav": "2025-07-25",
+        "lastNav": "2025-07-31",
         "fund": {
             "proj_id": "M0645_2558",
             "regis_id": "MF0617_2558",
@@ -2627,6 +2627,51 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-07-30T08:14:11.913"
+            },
+            {
+                "nav_date": "2025-07-29",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP GNP",
+                "net_asset": 5654085120,
+                "last_val": 22.4993,
+                "previous_val": 0,
+                "sell_price": 22.7806,
+                "buy_price": 22.4993,
+                "sell_swap_price": 22.4993,
+                "buy_swap_price": 22.7806,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-31T16:06:43.98"
+            },
+            {
+                "nav_date": "2025-07-30",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP GNP",
+                "net_asset": 5648178176,
+                "last_val": 22.467,
+                "previous_val": 0,
+                "sell_price": 22.7479,
+                "buy_price": 22.467,
+                "sell_swap_price": 22.467,
+                "buy_swap_price": 22.7479,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-01T16:09:58.13"
+            },
+            {
+                "nav_date": "2025-07-31",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP GNP",
+                "net_asset": 5643949056,
+                "last_val": 22.4793,
+                "previous_val": 0,
+                "sell_price": 22.7604,
+                "buy_price": 22.4793,
+                "sell_swap_price": 22.4793,
+                "buy_swap_price": 22.7604,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-03T16:09:04.327"
             }
         ]
     }

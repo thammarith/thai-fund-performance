@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1753865012894,
-    "nextUpdate": 1753951412894,
+    "lastUpdate": 1754220415062,
+    "nextUpdate": 1754306815062,
     "data": {
-        "lastNav": "2025-07-25",
+        "lastNav": "2025-07-31",
         "fund": {
             "proj_id": "M0612_2567",
             "regis_id": "MF0485_2567",
@@ -1067,6 +1067,51 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-07-30T08:14:11.913"
+            },
+            {
+                "nav_date": "2025-07-29",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GSELECTRMF",
+                "net_asset": 144556848,
+                "last_val": 10.6001,
+                "previous_val": 0,
+                "sell_price": 10.6002,
+                "buy_price": 10.6001,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-31T16:06:43.98"
+            },
+            {
+                "nav_date": "2025-07-30",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GSELECTRMF",
+                "net_asset": 144339744,
+                "last_val": 10.5489,
+                "previous_val": 0,
+                "sell_price": 10.549,
+                "buy_price": 10.5489,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-01T16:09:58.13"
+            },
+            {
+                "nav_date": "2025-07-31",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GSELECTRMF",
+                "net_asset": 144539760,
+                "last_val": 10.5459,
+                "previous_val": 0,
+                "sell_price": 10.546,
+                "buy_price": 10.5459,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-03T16:09:04.327"
             }
         ]
     }

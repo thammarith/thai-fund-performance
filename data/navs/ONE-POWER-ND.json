@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1753866765197,
-    "nextUpdate": 1753953165197,
+    "lastUpdate": 1754220415062,
+    "nextUpdate": 1754306815062,
     "data": {
-        "lastNav": "2025-07-25",
+        "lastNav": "2025-08-01",
         "fund": {
             "proj_id": "M0016_2560",
             "regis_id": "MF0076_2560",
@@ -3092,6 +3092,66 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-07-29T16:11:57.867"
+            },
+            {
+                "nav_date": "2025-07-29",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-POWER-ND",
+                "net_asset": 5351405.5,
+                "last_val": 7.6557,
+                "previous_val": 0,
+                "sell_price": 7.7324,
+                "buy_price": 7.6557,
+                "sell_swap_price": 7.6557,
+                "buy_swap_price": 7.7324,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-30T16:05:23.493"
+            },
+            {
+                "nav_date": "2025-07-30",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-POWER-ND",
+                "net_asset": 5418631,
+                "last_val": 7.7505,
+                "previous_val": 0,
+                "sell_price": 7.8281,
+                "buy_price": 7.7505,
+                "sell_swap_price": 7.7505,
+                "buy_swap_price": 7.8281,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-31T16:06:43.98"
+            },
+            {
+                "nav_date": "2025-07-31",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-POWER-ND",
+                "net_asset": 5406211.5,
+                "last_val": 7.7327,
+                "previous_val": 0,
+                "sell_price": 7.8101,
+                "buy_price": 7.7327,
+                "sell_swap_price": 7.7327,
+                "buy_swap_price": 7.8101,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-01T16:09:58.13"
+            },
+            {
+                "nav_date": "2025-08-01",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-POWER-ND",
+                "net_asset": 5245458.5,
+                "last_val": 7.5028,
+                "previous_val": 0,
+                "sell_price": 7.5779,
+                "buy_price": 7.5028,
+                "sell_swap_price": 7.5028,
+                "buy_swap_price": 7.5779,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-03T16:09:04.327"
             }
         ]
     }

@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1753866765197,
-    "nextUpdate": 1753953165197,
+    "lastUpdate": 1754220415062,
+    "nextUpdate": 1754306815062,
     "data": {
-        "lastNav": "2025-07-24",
+        "lastNav": "2025-07-30",
         "fund": {
             "proj_id": "M0207_2549",
             "regis_id": "210_2549",
@@ -2687,6 +2687,36 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-07-30T08:14:11.913"
+            },
+            {
+                "nav_date": "2025-07-29",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBPGF",
+                "net_asset": 464591744,
+                "last_val": 23.27,
+                "previous_val": 0,
+                "sell_price": 23.5191,
+                "buy_price": 23.27,
+                "sell_swap_price": 23.27,
+                "buy_swap_price": 23.5191,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-01T16:09:58.13"
+            },
+            {
+                "nav_date": "2025-07-30",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBPGF",
+                "net_asset": 459902496,
+                "last_val": 23.3066,
+                "previous_val": 0,
+                "sell_price": 23.5561,
+                "buy_price": 23.3066,
+                "sell_swap_price": 23.3066,
+                "buy_swap_price": 23.5561,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-03T16:09:04.327"
             }
         ]
     }

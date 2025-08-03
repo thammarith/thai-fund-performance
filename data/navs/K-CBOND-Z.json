@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1753865012894,
-    "nextUpdate": 1753951412894,
+    "lastUpdate": 1754220415062,
+    "nextUpdate": 1754306815062,
     "data": {
-        "lastNav": "2025-07-25",
+        "lastNav": "2025-08-01",
         "fund": {
             "proj_id": "M0154_2541",
             "regis_id": "039_2542",
@@ -11702,6 +11702,66 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-07-29T16:11:57.867"
+            },
+            {
+                "nav_date": "2025-07-29",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-CBOND-Z",
+                "net_asset": 613170688,
+                "last_val": 19.9765,
+                "previous_val": 0,
+                "sell_price": 19.9766,
+                "buy_price": 19.9765,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-30T16:05:23.493"
+            },
+            {
+                "nav_date": "2025-07-30",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-CBOND-Z",
+                "net_asset": 613312960,
+                "last_val": 19.9811,
+                "previous_val": 0,
+                "sell_price": 19.9812,
+                "buy_price": 19.9811,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-31T16:06:43.98"
+            },
+            {
+                "nav_date": "2025-07-31",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-CBOND-Z",
+                "net_asset": 613395008,
+                "last_val": 19.9838,
+                "previous_val": 0,
+                "sell_price": 19.9839,
+                "buy_price": 19.9838,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-01T16:09:58.13"
+            },
+            {
+                "nav_date": "2025-08-01",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-CBOND-Z",
+                "net_asset": 613418112,
+                "last_val": 19.9846,
+                "previous_val": 0,
+                "sell_price": 19.9847,
+                "buy_price": 19.9846,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-03T16:09:04.327"
             }
         ]
     }

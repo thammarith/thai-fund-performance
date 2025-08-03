@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1753866765197,
-    "nextUpdate": 1753953165197,
+    "lastUpdate": 1754220415062,
+    "nextUpdate": 1754306815062,
     "data": {
-        "lastNav": "2025-07-25",
+        "lastNav": "2025-08-01",
         "fund": {
             "proj_id": "M0768_2546",
             "regis_id": "027_2547",
@@ -16577,6 +16577,66 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-07-29T16:11:57.867"
+            },
+            {
+                "nav_date": "2025-07-29",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-EC14-RA",
+                "net_asset": 7040070,
+                "last_val": 8.4844,
+                "previous_val": 0,
+                "sell_price": 8.4845,
+                "buy_price": 8.4844,
+                "sell_swap_price": 8.4844,
+                "buy_swap_price": 8.4845,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-30T16:05:23.493"
+            },
+            {
+                "nav_date": "2025-07-30",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-EC14-RA",
+                "net_asset": 7069922.5,
+                "last_val": 8.5204,
+                "previous_val": 0,
+                "sell_price": 8.5205,
+                "buy_price": 8.5204,
+                "sell_swap_price": 8.5204,
+                "buy_swap_price": 8.5205,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-31T16:06:43.98"
+            },
+            {
+                "nav_date": "2025-07-31",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-EC14-RA",
+                "net_asset": 7062526,
+                "last_val": 8.5143,
+                "previous_val": 0,
+                "sell_price": 8.5144,
+                "buy_price": 8.5143,
+                "sell_swap_price": 8.5143,
+                "buy_swap_price": 8.5144,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-01T16:09:58.13"
+            },
+            {
+                "nav_date": "2025-08-01",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-EC14-RA",
+                "net_asset": 6911640.5,
+                "last_val": 8.3326,
+                "previous_val": 0,
+                "sell_price": 8.3327,
+                "buy_price": 8.3326,
+                "sell_swap_price": 8.3326,
+                "buy_swap_price": 8.3327,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-03T16:09:04.327"
             }
         ]
     }

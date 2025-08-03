@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1753865012894,
-    "nextUpdate": 1753951412894,
+    "lastUpdate": 1754220415062,
+    "nextUpdate": 1754306815062,
     "data": {
-        "lastNav": "2025-07-25",
+        "lastNav": "2025-07-31",
         "fund": {
             "proj_id": "M0455_2567",
             "regis_id": "MF0537_2567",
@@ -992,6 +992,51 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-07-30T08:14:11.913"
+            },
+            {
+                "nav_date": "2025-07-29",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-WPSPEEDRMF",
+                "net_asset": 142113456,
+                "last_val": 10.473,
+                "previous_val": 0,
+                "sell_price": 10.4731,
+                "buy_price": 10.473,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-31T16:06:43.98"
+            },
+            {
+                "nav_date": "2025-07-30",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-WPSPEEDRMF",
+                "net_asset": 141850256,
+                "last_val": 10.4519,
+                "previous_val": 0,
+                "sell_price": 10.452,
+                "buy_price": 10.4519,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-01T16:09:58.13"
+            },
+            {
+                "nav_date": "2025-07-31",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-WPSPEEDRMF",
+                "net_asset": 144526416,
+                "last_val": 10.4972,
+                "previous_val": 0,
+                "sell_price": 10.4973,
+                "buy_price": 10.4972,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-03T16:09:04.327"
             }
         ]
     }

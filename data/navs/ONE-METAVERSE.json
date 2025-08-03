@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1753866765197,
-    "nextUpdate": 1753953165197,
+    "lastUpdate": 1754220415062,
+    "nextUpdate": 1754306815062,
     "data": {
-        "lastNav": "2025-07-25",
+        "lastNav": "2025-07-31",
         "fund": {
             "proj_id": "M0519_2564",
             "regis_id": "MF0046_2565",
@@ -11342,6 +11342,51 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-07-30T08:14:11.913"
+            },
+            {
+                "nav_date": "2025-07-29",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-METAVERSE",
+                "net_asset": 24286036,
+                "last_val": 13.7442,
+                "previous_val": 0,
+                "sell_price": 13.9505,
+                "buy_price": 13.7442,
+                "sell_swap_price": 13.7442,
+                "buy_swap_price": 13.9505,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-31T16:06:43.98"
+            },
+            {
+                "nav_date": "2025-07-30",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-METAVERSE",
+                "net_asset": 24296198,
+                "last_val": 13.8214,
+                "previous_val": 0,
+                "sell_price": 14.0288,
+                "buy_price": 13.8214,
+                "sell_swap_price": 13.8214,
+                "buy_swap_price": 14.0288,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-01T16:09:58.13"
+            },
+            {
+                "nav_date": "2025-07-31",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-METAVERSE",
+                "net_asset": 24552146,
+                "last_val": 13.9661,
+                "previous_val": 0,
+                "sell_price": 14.1757,
+                "buy_price": 13.9661,
+                "sell_swap_price": 13.9661,
+                "buy_swap_price": 14.1757,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-03T16:09:04.327"
             }
         ]
     }

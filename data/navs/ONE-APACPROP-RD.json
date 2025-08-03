@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1753866765197,
-    "nextUpdate": 1753953165197,
+    "lastUpdate": 1754220415062,
+    "nextUpdate": 1754306815062,
     "data": {
-        "lastNav": "2025-07-25",
+        "lastNav": "2025-08-01",
         "fund": {
             "proj_id": "M0280_2560",
             "regis_id": "MF0250_2560",
@@ -7892,6 +7892,66 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-07-29T16:11:57.867"
+            },
+            {
+                "nav_date": "2025-07-29",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-APACPROP-RD",
+                "net_asset": 11325364,
+                "last_val": 7.5744,
+                "previous_val": 0,
+                "sell_price": 7.6502,
+                "buy_price": 7.5744,
+                "sell_swap_price": 7.5744,
+                "buy_swap_price": 7.6502,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-30T16:05:23.493"
+            },
+            {
+                "nav_date": "2025-07-30",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-APACPROP-RD",
+                "net_asset": 11398093,
+                "last_val": 7.6224,
+                "previous_val": 0,
+                "sell_price": 7.6987,
+                "buy_price": 7.6224,
+                "sell_swap_price": 7.6224,
+                "buy_swap_price": 7.6987,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-31T16:06:43.98"
+            },
+            {
+                "nav_date": "2025-07-31",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-APACPROP-RD",
+                "net_asset": 11328780,
+                "last_val": 7.5753,
+                "previous_val": 0,
+                "sell_price": 7.6512,
+                "buy_price": 7.5753,
+                "sell_swap_price": 7.5753,
+                "buy_swap_price": 7.6512,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-01T16:09:58.13"
+            },
+            {
+                "nav_date": "2025-08-01",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-APACPROP-RD",
+                "net_asset": 11243701,
+                "last_val": 7.5185,
+                "previous_val": 0,
+                "sell_price": 7.5938,
+                "buy_price": 7.5185,
+                "sell_swap_price": 7.5185,
+                "buy_swap_price": 7.5938,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-03T16:09:04.327"
             }
         ]
     }

@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1753866765197,
-    "nextUpdate": 1753953165197,
+    "lastUpdate": 1754220415062,
+    "nextUpdate": 1754306815062,
     "data": {
-        "lastNav": "2025-07-25",
+        "lastNav": "2025-08-01",
         "fund": {
             "proj_id": "M0638_2560",
             "regis_id": "MF0506_2560",
@@ -26087,6 +26087,66 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-07-29T16:11:57.867"
+            },
+            {
+                "nav_date": "2025-07-29",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-TOP5M",
+                "net_asset": 23451504,
+                "last_val": 6.0192,
+                "previous_val": 0,
+                "sell_price": 6.0193,
+                "buy_price": 6.0192,
+                "sell_swap_price": 6.0192,
+                "buy_swap_price": 6.0193,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-30T16:05:23.493"
+            },
+            {
+                "nav_date": "2025-07-30",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-TOP5M",
+                "net_asset": 23547582,
+                "last_val": 6.0439,
+                "previous_val": 0,
+                "sell_price": 6.044,
+                "buy_price": 6.0439,
+                "sell_swap_price": 6.0439,
+                "buy_swap_price": 6.044,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-31T16:06:43.98"
+            },
+            {
+                "nav_date": "2025-07-31",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-TOP5M",
+                "net_asset": 23517774,
+                "last_val": 6.0363,
+                "previous_val": 0,
+                "sell_price": 6.0364,
+                "buy_price": 6.0363,
+                "sell_swap_price": 6.0363,
+                "buy_swap_price": 6.0364,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-01T16:09:58.13"
+            },
+            {
+                "nav_date": "2025-08-01",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-TOP5M",
+                "net_asset": 23021332,
+                "last_val": 5.9088,
+                "previous_val": 0,
+                "sell_price": 5.9089,
+                "buy_price": 5.9088,
+                "sell_swap_price": 5.9088,
+                "buy_swap_price": 5.9089,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-03T16:09:04.327"
             }
         ]
     }

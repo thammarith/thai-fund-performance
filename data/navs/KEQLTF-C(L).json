@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1753865012894,
-    "nextUpdate": 1753951412894,
+    "lastUpdate": 1754220415062,
+    "nextUpdate": 1754306815062,
     "data": {
-        "lastNav": "2025-07-25",
+        "lastNav": "2025-08-01",
         "fund": {
             "proj_id": "M0265_2547",
             "regis_id": "074_2547",
@@ -17132,6 +17132,66 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-07-29T16:11:57.867"
+            },
+            {
+                "nav_date": "2025-07-29",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KEQLTF-C(L)",
+                "net_asset": 3727233280,
+                "last_val": 25.5423,
+                "previous_val": 0,
+                "sell_price": 25.5424,
+                "buy_price": 25.5423,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-30T16:05:23.493"
+            },
+            {
+                "nav_date": "2025-07-30",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KEQLTF-C(L)",
+                "net_asset": 3750387456,
+                "last_val": 25.717,
+                "previous_val": 0,
+                "sell_price": 25.7171,
+                "buy_price": 25.717,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-31T16:06:43.98"
+            },
+            {
+                "nav_date": "2025-07-31",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KEQLTF-C(L)",
+                "net_asset": 3744005376,
+                "last_val": 25.7027,
+                "previous_val": 0,
+                "sell_price": 25.7028,
+                "buy_price": 25.7027,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-01T16:09:58.13"
+            },
+            {
+                "nav_date": "2025-08-01",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KEQLTF-C(L)",
+                "net_asset": 3656166656,
+                "last_val": 25.1152,
+                "previous_val": 0,
+                "sell_price": 25.1153,
+                "buy_price": 25.1152,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-03T16:09:04.327"
             }
         ]
     }

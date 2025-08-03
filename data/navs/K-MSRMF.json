@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1753865012894,
-    "nextUpdate": 1753951412894,
+    "lastUpdate": 1754220415062,
+    "nextUpdate": 1754306815062,
     "data": {
-        "lastNav": "2025-07-25",
+        "lastNav": "2025-08-01",
         "fund": {
             "proj_id": "M0433_2558",
             "regis_id": "MF0501_2558",
@@ -1187,6 +1187,66 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-07-29T16:11:57.867"
+            },
+            {
+                "nav_date": "2025-07-29",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-MSRMF",
+                "net_asset": 2404974336,
+                "last_val": 10.959,
+                "previous_val": 0,
+                "sell_price": 10.9591,
+                "buy_price": 10.959,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-30T16:05:23.493"
+            },
+            {
+                "nav_date": "2025-07-30",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-MSRMF",
+                "net_asset": 2450714624,
+                "last_val": 11.1727,
+                "previous_val": 0,
+                "sell_price": 11.1728,
+                "buy_price": 11.1727,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-31T16:06:43.98"
+            },
+            {
+                "nav_date": "2025-07-31",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-MSRMF",
+                "net_asset": 2420762880,
+                "last_val": 11.0399,
+                "previous_val": 0,
+                "sell_price": 11.04,
+                "buy_price": 11.0399,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-01T16:09:58.13"
+            },
+            {
+                "nav_date": "2025-08-01",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-MSRMF",
+                "net_asset": 2376951808,
+                "last_val": 10.8402,
+                "previous_val": 0,
+                "sell_price": 10.8403,
+                "buy_price": 10.8402,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-03T16:09:04.327"
             }
         ]
     }

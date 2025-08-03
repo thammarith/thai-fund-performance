@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1753865012894,
-    "nextUpdate": 1753951412894,
+    "lastUpdate": 1754220415062,
+    "nextUpdate": 1754306815062,
     "data": {
-        "lastNav": "2025-07-25",
+        "lastNav": "2025-08-01",
         "fund": {
             "proj_id": "M0135_2545",
             "regis_id": "065_2545",
@@ -80027,6 +80027,66 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-07-29T16:11:57.867"
+            },
+            {
+                "nav_date": "2025-07-29",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KAEQ",
+                "net_asset": 1068547648,
+                "last_val": 99.4621,
+                "previous_val": 0,
+                "sell_price": 102.4461,
+                "buy_price": 96.4782,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-30T16:05:23.493"
+            },
+            {
+                "nav_date": "2025-07-30",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KAEQ",
+                "net_asset": 1069679104,
+                "last_val": 100.4484,
+                "previous_val": 0,
+                "sell_price": 103.462,
+                "buy_price": 97.4349,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-31T16:06:43.98"
+            },
+            {
+                "nav_date": "2025-07-31",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KAEQ",
+                "net_asset": 1052019072,
+                "last_val": 100.1662,
+                "previous_val": 0,
+                "sell_price": 103.1713,
+                "buy_price": 97.1612,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-01T16:09:58.13"
+            },
+            {
+                "nav_date": "2025-08-01",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KAEQ",
+                "net_asset": 1027602432,
+                "last_val": 97.8414,
+                "previous_val": 0,
+                "sell_price": 100.7767,
+                "buy_price": 94.9062,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-03T16:09:04.327"
             }
         ]
     }

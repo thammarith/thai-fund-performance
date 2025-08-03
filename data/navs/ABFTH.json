@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1753865012894,
-    "nextUpdate": 1753951412894,
+    "lastUpdate": 1754220415062,
+    "nextUpdate": 1754306815062,
     "data": {
-        "lastNav": "2025-07-25",
+        "lastNav": "2025-08-01",
         "fund": {
             "proj_id": "M0145_2549",
             "regis_id": "036_2549",
@@ -69332,6 +69332,66 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-07-29T16:11:57.867"
+            },
+            {
+                "nav_date": "2025-07-29",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "ABFTH",
+                "net_asset": 12413749248,
+                "last_val": 1410.085,
+                "previous_val": 0,
+                "sell_price": 1412.9052,
+                "buy_price": 1407.2646,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-30T16:05:23.493"
+            },
+            {
+                "nav_date": "2025-07-30",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "ABFTH",
+                "net_asset": 12415787008,
+                "last_val": 1410.3164,
+                "previous_val": 0,
+                "sell_price": 1413.1371,
+                "buy_price": 1407.4958,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-31T16:06:43.98"
+            },
+            {
+                "nav_date": "2025-07-31",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "ABFTH",
+                "net_asset": 12430173184,
+                "last_val": 1411.9504,
+                "previous_val": 0,
+                "sell_price": 1414.7745,
+                "buy_price": 1409.1266,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-01T16:09:58.13"
+            },
+            {
+                "nav_date": "2025-08-01",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "ABFTH",
+                "net_asset": 12419171328,
+                "last_val": 1410.7008,
+                "previous_val": 0,
+                "sell_price": 1413.5223,
+                "buy_price": 1407.8794,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-03T16:09:04.327"
             }
         ]
     }

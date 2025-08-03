@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1753866765197,
-    "nextUpdate": 1753953165197,
+    "lastUpdate": 1754220415062,
+    "nextUpdate": 1754306815062,
     "data": {
-        "lastNav": "2025-07-24",
+        "lastNav": "2025-07-30",
         "fund": {
             "proj_id": "M0641_2558",
             "regis_id": "MF0227_2559",
@@ -13757,6 +13757,36 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-07-30T08:14:11.913"
+            },
+            {
+                "nav_date": "2025-07-29",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBUSSMP",
+                "net_asset": 0,
+                "last_val": 13.4041,
+                "previous_val": 0,
+                "sell_price": 13.4042,
+                "buy_price": 13.4041,
+                "sell_swap_price": 13.4041,
+                "buy_swap_price": 13.4042,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-01T16:09:58.13"
+            },
+            {
+                "nav_date": "2025-07-30",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBUSSMP",
+                "net_asset": 0,
+                "last_val": 13.5198,
+                "previous_val": 0,
+                "sell_price": 13.5199,
+                "buy_price": 13.5198,
+                "sell_swap_price": 13.5198,
+                "buy_swap_price": 13.5199,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-03T16:09:04.327"
             }
         ]
     }

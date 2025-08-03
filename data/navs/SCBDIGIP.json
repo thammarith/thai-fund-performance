@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1753866765197,
-    "nextUpdate": 1753953165197,
+    "lastUpdate": 1754220415062,
+    "nextUpdate": 1754306815062,
     "data": {
-        "lastNav": "2025-07-24",
+        "lastNav": "2025-07-30",
         "fund": {
             "proj_id": "M0245_2559",
             "regis_id": "MF0275_2559",
@@ -13997,6 +13997,36 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-07-30T08:14:11.913"
+            },
+            {
+                "nav_date": "2025-07-29",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBDIGIP",
+                "net_asset": 0,
+                "last_val": 20.5051,
+                "previous_val": 0,
+                "sell_price": 20.5052,
+                "buy_price": 20.5051,
+                "sell_swap_price": 20.5051,
+                "buy_swap_price": 20.5052,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-01T16:09:58.13"
+            },
+            {
+                "nav_date": "2025-07-30",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBDIGIP",
+                "net_asset": 0,
+                "last_val": 20.4945,
+                "previous_val": 0,
+                "sell_price": 20.4946,
+                "buy_price": 20.4945,
+                "sell_swap_price": 20.4945,
+                "buy_swap_price": 20.4946,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-03T16:09:04.327"
             }
         ]
     }

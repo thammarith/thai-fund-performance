@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1753866765197,
-    "nextUpdate": 1753953165197,
+    "lastUpdate": 1754220415062,
+    "nextUpdate": 1754306815062,
     "data": {
-        "lastNav": "2025-07-25",
+        "lastNav": "2025-08-01",
         "fund": {
             "proj_id": "M0363_2559",
             "regis_id": "MF0500_2559",
@@ -3077,6 +3077,66 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-07-29T16:11:57.867"
+            },
+            {
+                "nav_date": "2025-07-29",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SM CAP-M",
+                "net_asset": 0,
+                "last_val": 11.0651,
+                "previous_val": 0,
+                "sell_price": 11.0652,
+                "buy_price": 11.0651,
+                "sell_swap_price": 11.0651,
+                "buy_swap_price": 11.0652,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-30T16:05:23.493"
+            },
+            {
+                "nav_date": "2025-07-30",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SM CAP-M",
+                "net_asset": 0,
+                "last_val": 11.2236,
+                "previous_val": 0,
+                "sell_price": 11.2237,
+                "buy_price": 11.2236,
+                "sell_swap_price": 11.2236,
+                "buy_swap_price": 11.2237,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-31T16:06:43.98"
+            },
+            {
+                "nav_date": "2025-07-31",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SM CAP-M",
+                "net_asset": 0,
+                "last_val": 11.2025,
+                "previous_val": 0,
+                "sell_price": 11.2026,
+                "buy_price": 11.2025,
+                "sell_swap_price": 11.2025,
+                "buy_swap_price": 11.2026,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-01T16:09:58.13"
+            },
+            {
+                "nav_date": "2025-08-01",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SM CAP-M",
+                "net_asset": 0,
+                "last_val": 11.0572,
+                "previous_val": 0,
+                "sell_price": 11.0573,
+                "buy_price": 11.0572,
+                "sell_swap_price": 11.0572,
+                "buy_swap_price": 11.0573,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-03T16:09:04.327"
             }
         ]
     }

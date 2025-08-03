@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1753866765197,
-    "nextUpdate": 1753953165197,
+    "lastUpdate": 1754220415062,
+    "nextUpdate": 1754306815062,
     "data": {
-        "lastNav": "2025-07-25",
+        "lastNav": "2025-08-01",
         "fund": {
             "proj_id": "M0050_2536",
             "regis_id": "011_2536",
@@ -3077,6 +3077,66 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-07-29T16:11:57.867"
+            },
+            {
+                "nav_date": "2025-07-29",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "SYRUS-M",
+                "net_asset": 33061140,
+                "last_val": 9.9928,
+                "previous_val": 0,
+                "sell_price": 10.0998,
+                "buy_price": 9.9661,
+                "sell_swap_price": 9.9661,
+                "buy_swap_price": 10.0998,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-30T16:05:23.493"
+            },
+            {
+                "nav_date": "2025-07-30",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "SYRUS-M",
+                "net_asset": 33219336,
+                "last_val": 10.0406,
+                "previous_val": 0,
+                "sell_price": 10.1481,
+                "buy_price": 10.0137,
+                "sell_swap_price": 10.0137,
+                "buy_swap_price": 10.1481,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-31T16:06:43.98"
+            },
+            {
+                "nav_date": "2025-07-31",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "SYRUS-M",
+                "net_asset": 33182148,
+                "last_val": 10.0294,
+                "previous_val": 0,
+                "sell_price": 10.1368,
+                "buy_price": 10.0026,
+                "sell_swap_price": 10.0026,
+                "buy_swap_price": 10.1368,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-01T16:09:58.13"
+            },
+            {
+                "nav_date": "2025-08-01",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "SYRUS-M",
+                "net_asset": 30960786,
+                "last_val": 9.8024,
+                "previous_val": 0,
+                "sell_price": 9.9074,
+                "buy_price": 9.7762,
+                "sell_swap_price": 9.7762,
+                "buy_swap_price": 9.9074,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-03T16:09:04.327"
             }
         ]
     }

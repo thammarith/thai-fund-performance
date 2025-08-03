@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1753865012894,
-    "nextUpdate": 1753951412894,
+    "lastUpdate": 1754220415062,
+    "nextUpdate": 1754306815062,
     "data": {
-        "lastNav": "2025-07-25",
+        "lastNav": "2025-08-01",
         "fund": {
             "proj_id": "M0062_2544",
             "regis_id": "041_2544",
@@ -1187,6 +1187,66 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-07-29T16:11:57.867"
+            },
+            {
+                "nav_date": "2025-07-29",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-BLRMF",
+                "net_asset": 5984482816,
+                "last_val": 26.9507,
+                "previous_val": 0,
+                "sell_price": 26.9508,
+                "buy_price": 26.9507,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-30T16:05:23.493"
+            },
+            {
+                "nav_date": "2025-07-30",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-BLRMF",
+                "net_asset": 6005271552,
+                "last_val": 27.0499,
+                "previous_val": 0,
+                "sell_price": 27.05,
+                "buy_price": 27.0499,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-31T16:06:43.98"
+            },
+            {
+                "nav_date": "2025-07-31",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-BLRMF",
+                "net_asset": 5995564544,
+                "last_val": 27.0221,
+                "previous_val": 0,
+                "sell_price": 27.0222,
+                "buy_price": 27.0221,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-01T16:09:58.13"
+            },
+            {
+                "nav_date": "2025-08-01",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-BLRMF",
+                "net_asset": 5941943808,
+                "last_val": 26.7935,
+                "previous_val": 0,
+                "sell_price": 26.7936,
+                "buy_price": 26.7935,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-03T16:09:04.327"
             }
         ]
     }

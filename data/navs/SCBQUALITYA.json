@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1753866765197,
-    "nextUpdate": 1753953165197,
+    "lastUpdate": 1754220415062,
+    "nextUpdate": 1754306815062,
     "data": {
-        "lastNav": "2025-07-25",
+        "lastNav": "2025-08-01",
         "fund": {
             "proj_id": "M0537_2562",
             "regis_id": "MF0561_2562",
@@ -16502,6 +16502,66 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-07-29T16:11:57.867"
+            },
+            {
+                "nav_date": "2025-07-29",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBQUALITYA",
+                "net_asset": 10055717,
+                "last_val": 9.1635,
+                "previous_val": 0,
+                "sell_price": 9.2175,
+                "buy_price": 9.1586,
+                "sell_swap_price": 9.1586,
+                "buy_swap_price": 9.2175,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-30T16:05:23.493"
+            },
+            {
+                "nav_date": "2025-07-30",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBQUALITYA",
+                "net_asset": 6870709.5,
+                "last_val": 9.2579,
+                "previous_val": 0,
+                "sell_price": 9.3125,
+                "buy_price": 9.2529,
+                "sell_swap_price": 9.2529,
+                "buy_swap_price": 9.3125,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-31T16:06:43.98"
+            },
+            {
+                "nav_date": "2025-07-31",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBQUALITYA",
+                "net_asset": 6929312,
+                "last_val": 9.2965,
+                "previous_val": 0,
+                "sell_price": 9.3513,
+                "buy_price": 9.2915,
+                "sell_swap_price": 9.2915,
+                "buy_swap_price": 9.3513,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-01T16:09:58.13"
+            },
+            {
+                "nav_date": "2025-08-01",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBQUALITYA",
+                "net_asset": 6765765,
+                "last_val": 9.0782,
+                "previous_val": 0,
+                "sell_price": 9.1318,
+                "buy_price": 9.0733,
+                "sell_swap_price": 9.0733,
+                "buy_swap_price": 9.1318,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-03T16:09:04.327"
             }
         ]
     }

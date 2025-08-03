@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1753866765197,
-    "nextUpdate": 1753953165197,
+    "lastUpdate": 1754220415062,
+    "nextUpdate": 1754306815062,
     "data": {
-        "lastNav": "2025-07-24",
+        "lastNav": "2025-07-30",
         "fund": {
             "proj_id": "M0150_2565",
             "regis_id": "MF0191_2565",
@@ -9962,6 +9962,36 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-07-30T08:14:11.913"
+            },
+            {
+                "nav_date": "2025-07-29",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-CHINATOP10M-UH",
+                "net_asset": 51302416,
+                "last_val": 8.7814,
+                "previous_val": 0,
+                "sell_price": 8.9571,
+                "buy_price": 8.7814,
+                "sell_swap_price": 8.7814,
+                "buy_swap_price": 8.9571,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-01T16:09:58.13"
+            },
+            {
+                "nav_date": "2025-07-30",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-CHINATOP10M-UH",
+                "net_asset": 50704672,
+                "last_val": 8.7083,
+                "previous_val": 0,
+                "sell_price": 8.8826,
+                "buy_price": 8.7083,
+                "sell_swap_price": 8.7083,
+                "buy_swap_price": 8.8826,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-03T16:09:04.327"
             }
         ]
     }

@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1753866765197,
-    "nextUpdate": 1753953165197,
+    "lastUpdate": 1754220415062,
+    "nextUpdate": 1754306815062,
     "data": {
-        "lastNav": "2025-07-25",
+        "lastNav": "2025-08-01",
         "fund": {
             "proj_id": "M0513_2564",
             "regis_id": "MF0146_2565",
@@ -10667,6 +10667,66 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-07-29T16:11:57.867"
+            },
+            {
+                "nav_date": "2025-07-29",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBAXJ(SSF)",
+                "net_asset": 28773428,
+                "last_val": 11.2642,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 11.2574,
+                "sell_swap_price": 11.2574,
+                "buy_swap_price": 11.2711,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-30T16:05:23.493"
+            },
+            {
+                "nav_date": "2025-07-30",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBAXJ(SSF)",
+                "net_asset": 29165716,
+                "last_val": 11.2554,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 11.2486,
+                "sell_swap_price": 11.2486,
+                "buy_swap_price": 11.2623,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-31T16:06:43.98"
+            },
+            {
+                "nav_date": "2025-07-31",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBAXJ(SSF)",
+                "net_asset": 29113548,
+                "last_val": 11.2104,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 11.2037,
+                "sell_swap_price": 11.2037,
+                "buy_swap_price": 11.2172,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-01T16:09:58.13"
+            },
+            {
+                "nav_date": "2025-08-01",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBAXJ(SSF)",
+                "net_asset": 28501776,
+                "last_val": 10.9766,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 10.97,
+                "sell_swap_price": 10.97,
+                "buy_swap_price": 10.9833,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-03T16:09:04.327"
             }
         ]
     }

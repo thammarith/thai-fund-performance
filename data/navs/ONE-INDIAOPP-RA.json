@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1753866765197,
-    "nextUpdate": 1753953165197,
+    "lastUpdate": 1754220415062,
+    "nextUpdate": 1754306815062,
     "data": {
-        "lastNav": "2025-07-25",
+        "lastNav": "2025-07-31",
         "fund": {
             "proj_id": "M0609_2560",
             "regis_id": "MF0068_2561",
@@ -14342,6 +14342,51 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-07-30T08:14:11.913"
+            },
+            {
+                "nav_date": "2025-07-29",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-INDIAOPP-RA",
+                "net_asset": 42996496,
+                "last_val": 13.6953,
+                "previous_val": 0,
+                "sell_price": 13.9008,
+                "buy_price": 13.6953,
+                "sell_swap_price": 13.6953,
+                "buy_swap_price": 13.9008,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-31T16:06:43.98"
+            },
+            {
+                "nav_date": "2025-07-30",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-INDIAOPP-RA",
+                "net_asset": 42623860,
+                "last_val": 13.6058,
+                "previous_val": 0,
+                "sell_price": 13.81,
+                "buy_price": 13.6058,
+                "sell_swap_price": 13.6058,
+                "buy_swap_price": 13.81,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-01T16:09:58.13"
+            },
+            {
+                "nav_date": "2025-07-31",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-INDIAOPP-RA",
+                "net_asset": 42337888,
+                "last_val": 13.5142,
+                "previous_val": 0,
+                "sell_price": 13.717,
+                "buy_price": 13.5142,
+                "sell_swap_price": 13.5142,
+                "buy_swap_price": 13.717,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-03T16:09:04.327"
             }
         ]
     }

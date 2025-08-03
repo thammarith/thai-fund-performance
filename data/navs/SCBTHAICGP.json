@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1753866765197,
-    "nextUpdate": 1753953165197,
+    "lastUpdate": 1754220415062,
+    "nextUpdate": 1754306815062,
     "data": {
-        "lastNav": "2025-07-25",
+        "lastNav": "2025-08-01",
         "fund": {
             "proj_id": "M0462_2560",
             "regis_id": "MF0392_2560",
@@ -16517,6 +16517,66 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-07-29T16:11:57.867"
+            },
+            {
+                "nav_date": "2025-07-29",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBTHAICGP",
+                "net_asset": 717275.63,
+                "last_val": 11.1098,
+                "previous_val": 0,
+                "sell_price": 11.1099,
+                "buy_price": 11.1098,
+                "sell_swap_price": 11.1098,
+                "buy_swap_price": 11.1099,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-30T16:05:23.493"
+            },
+            {
+                "nav_date": "2025-07-30",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBTHAICGP",
+                "net_asset": 725433.25,
+                "last_val": 11.2361,
+                "previous_val": 0,
+                "sell_price": 11.2362,
+                "buy_price": 11.2361,
+                "sell_swap_price": 11.2361,
+                "buy_swap_price": 11.2362,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-31T16:06:43.98"
+            },
+            {
+                "nav_date": "2025-07-31",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBTHAICGP",
+                "net_asset": 846350.25,
+                "last_val": 11.2086,
+                "previous_val": 0,
+                "sell_price": 11.2087,
+                "buy_price": 11.2086,
+                "sell_swap_price": 11.2086,
+                "buy_swap_price": 11.2087,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-01T16:09:58.13"
+            },
+            {
+                "nav_date": "2025-08-01",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBTHAICGP",
+                "net_asset": 826877.31,
+                "last_val": 10.9507,
+                "previous_val": 0,
+                "sell_price": 10.9508,
+                "buy_price": 10.9507,
+                "sell_swap_price": 10.9507,
+                "buy_swap_price": 10.9508,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-03T16:09:04.327"
             }
         ]
     }

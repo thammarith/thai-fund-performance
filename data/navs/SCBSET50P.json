@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1753866765197,
-    "nextUpdate": 1753953165197,
+    "lastUpdate": 1754220415062,
+    "nextUpdate": 1754306815062,
     "data": {
-        "lastNav": "2025-07-25",
+        "lastNav": "2025-08-01",
         "fund": {
             "proj_id": "M0597_2552",
             "regis_id": "MF0575_2554",
@@ -16517,6 +16517,66 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-07-29T16:11:57.867"
+            },
+            {
+                "nav_date": "2025-07-29",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSET50P",
+                "net_asset": 8336172.5,
+                "last_val": 18.2976,
+                "previous_val": 0,
+                "sell_price": 18.3123,
+                "buy_price": 18.283,
+                "sell_swap_price": 18.283,
+                "buy_swap_price": 18.3123,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-30T16:05:23.493"
+            },
+            {
+                "nav_date": "2025-07-30",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSET50P",
+                "net_asset": 8390164,
+                "last_val": 18.4161,
+                "previous_val": 0,
+                "sell_price": 18.4309,
+                "buy_price": 18.4014,
+                "sell_swap_price": 18.4014,
+                "buy_swap_price": 18.4309,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-31T16:06:43.98"
+            },
+            {
+                "nav_date": "2025-07-31",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSET50P",
+                "net_asset": 8383655,
+                "last_val": 18.4018,
+                "previous_val": 0,
+                "sell_price": 18.4166,
+                "buy_price": 18.3871,
+                "sell_swap_price": 18.3871,
+                "buy_swap_price": 18.4166,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-01T16:09:58.13"
+            },
+            {
+                "nav_date": "2025-08-01",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSET50P",
+                "net_asset": 8195861.5,
+                "last_val": 17.9896,
+                "previous_val": 0,
+                "sell_price": 18.0041,
+                "buy_price": 17.9752,
+                "sell_swap_price": 17.9752,
+                "buy_swap_price": 18.0041,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-03T16:09:04.327"
             }
         ]
     }

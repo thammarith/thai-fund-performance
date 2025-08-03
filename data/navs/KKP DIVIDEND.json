@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1753866765197,
-    "nextUpdate": 1753953165197,
+    "lastUpdate": 1754220415062,
+    "nextUpdate": 1754306815062,
     "data": {
-        "lastNav": "2025-07-25",
+        "lastNav": "2025-08-01",
         "fund": {
             "proj_id": "M0376_2555",
             "regis_id": "MF0383_2555",
@@ -3077,6 +3077,66 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-07-29T16:11:57.867"
+            },
+            {
+                "nav_date": "2025-07-29",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP DIVIDEND",
+                "net_asset": 132062120,
+                "last_val": 11.1395,
+                "previous_val": 0,
+                "sell_price": 11.1953,
+                "buy_price": 11.1395,
+                "sell_swap_price": 11.1395,
+                "buy_swap_price": 11.1953,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-30T16:05:23.493"
+            },
+            {
+                "nav_date": "2025-07-30",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP DIVIDEND",
+                "net_asset": 133620720,
+                "last_val": 11.2723,
+                "previous_val": 0,
+                "sell_price": 11.3288,
+                "buy_price": 11.2723,
+                "sell_swap_price": 11.2723,
+                "buy_swap_price": 11.3288,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-31T16:06:43.98"
+            },
+            {
+                "nav_date": "2025-07-31",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP DIVIDEND",
+                "net_asset": 133743944,
+                "last_val": 11.2826,
+                "previous_val": 0,
+                "sell_price": 11.3391,
+                "buy_price": 11.2826,
+                "sell_swap_price": 11.2826,
+                "buy_swap_price": 11.3391,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-01T16:09:58.13"
+            },
+            {
+                "nav_date": "2025-08-01",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP DIVIDEND",
+                "net_asset": 132953976,
+                "last_val": 11.2161,
+                "previous_val": 0,
+                "sell_price": 11.2723,
+                "buy_price": 11.2161,
+                "sell_swap_price": 11.2161,
+                "buy_swap_price": 11.2723,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-03T16:09:04.327"
             }
         ]
     }

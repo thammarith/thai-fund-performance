@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1753866765197,
-    "nextUpdate": 1753953165197,
+    "lastUpdate": 1754220415062,
+    "nextUpdate": 1754306815062,
     "data": {
-        "lastNav": "2025-07-25",
+        "lastNav": "2025-07-31",
         "fund": {
             "proj_id": "M0465_2564",
             "regis_id": "MF0417_2564",
@@ -12092,6 +12092,51 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-07-30T08:14:11.913"
+            },
+            {
+                "nav_date": "2025-07-29",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBWORLD(A)",
+                "net_asset": 4727493632,
+                "last_val": 12.0742,
+                "previous_val": 0,
+                "sell_price": 12.1407,
+                "buy_price": 12.0682,
+                "sell_swap_price": 12.0682,
+                "buy_swap_price": 12.1407,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-31T16:06:43.98"
+            },
+            {
+                "nav_date": "2025-07-30",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBWORLD(A)",
+                "net_asset": 4726807040,
+                "last_val": 12.0417,
+                "previous_val": 0,
+                "sell_price": 12.108,
+                "buy_price": 12.0357,
+                "sell_swap_price": 12.0357,
+                "buy_swap_price": 12.108,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-01T16:09:58.13"
+            },
+            {
+                "nav_date": "2025-07-31",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBWORLD(A)",
+                "net_asset": 4744484864,
+                "last_val": 11.9748,
+                "previous_val": 0,
+                "sell_price": 12.0408,
+                "buy_price": 11.9688,
+                "sell_swap_price": 11.9688,
+                "buy_swap_price": 12.0408,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-03T16:09:04.327"
             }
         ]
     }

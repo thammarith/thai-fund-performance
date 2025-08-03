@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1753866765197,
-    "nextUpdate": 1753953165197,
+    "lastUpdate": 1754220415062,
+    "nextUpdate": 1754306815062,
     "data": {
-        "lastNav": "2025-07-25",
+        "lastNav": "2025-08-01",
         "fund": {
             "proj_id": "M0582_2554",
             "regis_id": "MF0533_2554",
@@ -6047,6 +6047,66 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-07-29T16:11:57.867"
+            },
+            {
+                "nav_date": "2025-07-29",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP ACT EQ-A",
+                "net_asset": 12568549,
+                "last_val": 13.9565,
+                "previous_val": 0,
+                "sell_price": 14.0264,
+                "buy_price": 13.9565,
+                "sell_swap_price": 13.9565,
+                "buy_swap_price": 14.0264,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-30T16:05:23.493"
+            },
+            {
+                "nav_date": "2025-07-30",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP ACT EQ-A",
+                "net_asset": 12741277,
+                "last_val": 14.1483,
+                "previous_val": 0,
+                "sell_price": 14.2191,
+                "buy_price": 14.1483,
+                "sell_swap_price": 14.1483,
+                "buy_swap_price": 14.2191,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-31T16:06:43.98"
+            },
+            {
+                "nav_date": "2025-07-31",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP ACT EQ-A",
+                "net_asset": 12673709,
+                "last_val": 14.0733,
+                "previous_val": 0,
+                "sell_price": 14.1438,
+                "buy_price": 14.0733,
+                "sell_swap_price": 14.0733,
+                "buy_swap_price": 14.1438,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-01T16:09:58.13"
+            },
+            {
+                "nav_date": "2025-08-01",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP ACT EQ-A",
+                "net_asset": 12437932,
+                "last_val": 13.8151,
+                "previous_val": 0,
+                "sell_price": 13.8843,
+                "buy_price": 13.8151,
+                "sell_swap_price": 13.8151,
+                "buy_swap_price": 13.8843,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-03T16:09:04.327"
             }
         ]
     }

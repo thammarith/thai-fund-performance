@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1753866765197,
-    "nextUpdate": 1753953165197,
+    "lastUpdate": 1754220415062,
+    "nextUpdate": 1754306815062,
     "data": {
-        "lastNav": "2025-07-25",
+        "lastNav": "2025-07-31",
         "fund": {
             "proj_id": "M0424_2567",
             "regis_id": "MF0331_2567",
@@ -2477,6 +2477,51 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-07-30T08:14:11.913"
+            },
+            {
+                "nav_date": "2025-07-29",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP INDIA-H-SSF",
+                "net_asset": 4967022.5,
+                "last_val": 9.5476,
+                "previous_val": 0,
+                "sell_price": 9.5477,
+                "buy_price": 9.5476,
+                "sell_swap_price": 9.5476,
+                "buy_swap_price": 9.5477,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-31T16:06:43.98"
+            },
+            {
+                "nav_date": "2025-07-30",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP INDIA-H-SSF",
+                "net_asset": 5003241.5,
+                "last_val": 9.4666,
+                "previous_val": 0,
+                "sell_price": 9.4667,
+                "buy_price": 9.4666,
+                "sell_swap_price": 9.4666,
+                "buy_swap_price": 9.4667,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-01T16:09:58.13"
+            },
+            {
+                "nav_date": "2025-07-31",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP INDIA-H-SSF",
+                "net_asset": 4965195.5,
+                "last_val": 9.3946,
+                "previous_val": 0,
+                "sell_price": 9.3947,
+                "buy_price": 9.3946,
+                "sell_swap_price": 9.3946,
+                "buy_swap_price": 9.3947,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-03T16:09:04.327"
             }
         ]
     }

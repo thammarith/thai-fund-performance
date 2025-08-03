@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1753866765197,
-    "nextUpdate": 1753953165197,
+    "lastUpdate": 1754220415062,
+    "nextUpdate": 1754306815062,
     "data": {
-        "lastNav": "2025-07-25",
+        "lastNav": "2025-08-01",
         "fund": {
             "proj_id": "M0640_2566",
             "regis_id": "MF0017_2567",
@@ -3062,6 +3062,66 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-07-29T16:11:57.867"
+            },
+            {
+                "nav_date": "2025-07-29",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBDBOND(A)",
+                "net_asset": 53398224896,
+                "last_val": 10.7589,
+                "previous_val": 0,
+                "sell_price": 10.8128,
+                "buy_price": 10.7589,
+                "sell_swap_price": 10.7589,
+                "buy_swap_price": 10.8128,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-30T16:05:23.493"
+            },
+            {
+                "nav_date": "2025-07-30",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBDBOND(A)",
+                "net_asset": 54223474688,
+                "last_val": 10.778,
+                "previous_val": 0,
+                "sell_price": 10.832,
+                "buy_price": 10.778,
+                "sell_swap_price": 10.778,
+                "buy_swap_price": 10.832,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-31T16:06:43.98"
+            },
+            {
+                "nav_date": "2025-07-31",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBDBOND(A)",
+                "net_asset": 54370488320,
+                "last_val": 10.7711,
+                "previous_val": 0,
+                "sell_price": 10.8251,
+                "buy_price": 10.7711,
+                "sell_swap_price": 10.7711,
+                "buy_swap_price": 10.8251,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-01T16:09:58.13"
+            },
+            {
+                "nav_date": "2025-08-01",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBDBOND(A)",
+                "net_asset": 54424178688,
+                "last_val": 10.766,
+                "previous_val": 0,
+                "sell_price": 10.8199,
+                "buy_price": 10.766,
+                "sell_swap_price": 10.766,
+                "buy_swap_price": 10.8199,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-03T16:09:04.327"
             }
         ]
     }

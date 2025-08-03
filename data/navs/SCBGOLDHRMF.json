@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1753866765197,
-    "nextUpdate": 1753953165197,
+    "lastUpdate": 1754220415062,
+    "nextUpdate": 1754306815062,
     "data": {
-        "lastNav": "2025-07-25",
+        "lastNav": "2025-08-01",
         "fund": {
             "proj_id": "M0778_2554",
             "regis_id": "MF0577_2554",
@@ -48602,6 +48602,66 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-07-29T16:11:57.867"
+            },
+            {
+                "nav_date": "2025-07-29",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGOLDHRMF",
+                "net_asset": 2772920832,
+                "last_val": 15.2962,
+                "previous_val": 0,
+                "sell_price": 15.2963,
+                "buy_price": 15.2962,
+                "sell_swap_price": 15.2962,
+                "buy_swap_price": 15.2963,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-30T16:05:23.493"
+            },
+            {
+                "nav_date": "2025-07-30",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGOLDHRMF",
+                "net_asset": 2790547712,
+                "last_val": 15.327,
+                "previous_val": 0,
+                "sell_price": 15.3271,
+                "buy_price": 15.327,
+                "sell_swap_price": 15.327,
+                "buy_swap_price": 15.3271,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-31T16:06:43.98"
+            },
+            {
+                "nav_date": "2025-07-31",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGOLDHRMF",
+                "net_asset": 2773308416,
+                "last_val": 15.2114,
+                "previous_val": 0,
+                "sell_price": 15.2115,
+                "buy_price": 15.2114,
+                "sell_swap_price": 15.2114,
+                "buy_swap_price": 15.2115,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-01T16:09:58.13"
+            },
+            {
+                "nav_date": "2025-08-01",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBGOLDHRMF",
+                "net_asset": 2775451904,
+                "last_val": 15.1427,
+                "previous_val": 0,
+                "sell_price": 15.1428,
+                "buy_price": 15.1427,
+                "sell_swap_price": 15.1427,
+                "buy_swap_price": 15.1428,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-03T16:09:04.327"
             }
         ]
     }

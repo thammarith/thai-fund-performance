@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1753865012894,
-    "nextUpdate": 1753951412894,
+    "lastUpdate": 1754220415062,
+    "nextUpdate": 1754306815062,
     "data": {
-        "lastNav": "2025-07-25",
+        "lastNav": "2025-08-01",
         "fund": {
             "proj_id": "M0455_2568",
             "regis_id": "MF0269_2568",
@@ -737,6 +737,66 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-07-29T16:11:57.867"
+            },
+            {
+                "nav_date": "2025-07-29",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-70ThaiESGX-L",
+                "net_asset": 3978717184,
+                "last_val": 10.1075,
+                "previous_val": 0,
+                "sell_price": 10.1076,
+                "buy_price": 10.1075,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-30T16:05:23.493"
+            },
+            {
+                "nav_date": "2025-07-30",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-70ThaiESGX-L",
+                "net_asset": 4012202496,
+                "last_val": 10.1931,
+                "previous_val": 0,
+                "sell_price": 10.1932,
+                "buy_price": 10.1931,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-31T16:06:43.98"
+            },
+            {
+                "nav_date": "2025-07-31",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-70ThaiESGX-L",
+                "net_asset": 4018239232,
+                "last_val": 10.2084,
+                "previous_val": 0,
+                "sell_price": 10.2085,
+                "buy_price": 10.2084,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-01T16:09:58.13"
+            },
+            {
+                "nav_date": "2025-08-01",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-70ThaiESGX-L",
+                "net_asset": 3977289728,
+                "last_val": 10.105,
+                "previous_val": 0,
+                "sell_price": 10.1051,
+                "buy_price": 10.105,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-03T16:09:04.327"
             }
         ]
     }

@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1753866765197,
-    "nextUpdate": 1753953165197,
+    "lastUpdate": 1754220415062,
+    "nextUpdate": 1754306815062,
     "data": {
-        "lastNav": "2025-07-24",
+        "lastNav": "2025-07-30",
         "fund": {
             "proj_id": "M0259_2563",
             "regis_id": "MF0204_2563",
@@ -11477,6 +11477,36 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-07-30T08:14:11.913"
+            },
+            {
+                "nav_date": "2025-07-29",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBWIPR",
+                "net_asset": 133360.69,
+                "last_val": 9.6174,
+                "previous_val": 0,
+                "sell_price": 9.7204,
+                "buy_price": 9.6174,
+                "sell_swap_price": 9.6174,
+                "buy_swap_price": 9.7204,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-01T16:09:58.13"
+            },
+            {
+                "nav_date": "2025-07-30",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBWIPR",
+                "net_asset": 133386.52,
+                "last_val": 9.6192,
+                "previous_val": 0,
+                "sell_price": 9.7222,
+                "buy_price": 9.6192,
+                "sell_swap_price": 9.6192,
+                "buy_swap_price": 9.7222,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-03T16:09:04.327"
             }
         ]
     }

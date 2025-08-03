@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1753866765197,
-    "nextUpdate": 1753953165197,
+    "lastUpdate": 1754220415062,
+    "nextUpdate": 1754306815062,
     "data": {
-        "lastNav": "2025-07-25",
+        "lastNav": "2025-08-01",
         "fund": {
             "proj_id": "M0148_2559",
             "regis_id": "MF0193_2559",
@@ -7907,6 +7907,66 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-07-29T16:11:57.867"
+            },
+            {
+                "nav_date": "2025-07-29",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-ACT-RD",
+                "net_asset": 55033676,
+                "last_val": 6.8704,
+                "previous_val": 0,
+                "sell_price": 6.9392,
+                "buy_price": 6.8704,
+                "sell_swap_price": 6.8704,
+                "buy_swap_price": 6.9392,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-30T16:05:23.493"
+            },
+            {
+                "nav_date": "2025-07-30",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-ACT-RD",
+                "net_asset": 55170060,
+                "last_val": 6.8874,
+                "previous_val": 0,
+                "sell_price": 6.9564,
+                "buy_price": 6.8874,
+                "sell_swap_price": 6.8874,
+                "buy_swap_price": 6.9564,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-31T16:06:43.98"
+            },
+            {
+                "nav_date": "2025-07-31",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-ACT-RD",
+                "net_asset": 55131308,
+                "last_val": 6.8877,
+                "previous_val": 0,
+                "sell_price": 6.9567,
+                "buy_price": 6.8877,
+                "sell_swap_price": 6.8877,
+                "buy_swap_price": 6.9567,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-01T16:09:58.13"
+            },
+            {
+                "nav_date": "2025-08-01",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-ACT-RD",
+                "net_asset": 54586404,
+                "last_val": 6.8196,
+                "previous_val": 0,
+                "sell_price": 6.8879,
+                "buy_price": 6.8196,
+                "sell_swap_price": 6.8196,
+                "buy_swap_price": 6.8879,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-03T16:09:04.327"
             }
         ]
     }

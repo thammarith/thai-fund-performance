@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1753866765197,
-    "nextUpdate": 1753953165197,
+    "lastUpdate": 1754220415062,
+    "nextUpdate": 1754306815062,
     "data": {
-        "lastNav": "2025-07-25",
+        "lastNav": "2025-08-01",
         "fund": {
             "proj_id": "M0489_2553",
             "regis_id": "679_2553",
@@ -16532,6 +16532,66 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-07-29T16:11:57.867"
+            },
+            {
+                "nav_date": "2025-07-29",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBFPP",
+                "net_asset": 12328601,
+                "last_val": 13.8353,
+                "previous_val": 0,
+                "sell_price": 13.8354,
+                "buy_price": 13.8353,
+                "sell_swap_price": 13.8353,
+                "buy_swap_price": 13.8354,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-30T16:05:23.493"
+            },
+            {
+                "nav_date": "2025-07-30",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBFPP",
+                "net_asset": 12335481,
+                "last_val": 13.843,
+                "previous_val": 0,
+                "sell_price": 13.8431,
+                "buy_price": 13.843,
+                "sell_swap_price": 13.843,
+                "buy_swap_price": 13.8431,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-31T16:06:43.98"
+            },
+            {
+                "nav_date": "2025-07-31",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBFPP",
+                "net_asset": 12331508,
+                "last_val": 13.8385,
+                "previous_val": 0,
+                "sell_price": 13.8386,
+                "buy_price": 13.8385,
+                "sell_swap_price": 13.8385,
+                "buy_swap_price": 13.8386,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-01T16:09:58.13"
+            },
+            {
+                "nav_date": "2025-08-01",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBFPP",
+                "net_asset": 12330667,
+                "last_val": 13.8376,
+                "previous_val": 0,
+                "sell_price": 13.8377,
+                "buy_price": 13.8376,
+                "sell_swap_price": 13.8376,
+                "buy_swap_price": 13.8377,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-03T16:09:04.327"
             }
         ]
     }

@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1753866765197,
-    "nextUpdate": 1753953165197,
+    "lastUpdate": 1754220415062,
+    "nextUpdate": 1754306815062,
     "data": {
-        "lastNav": "2025-07-25",
+        "lastNav": "2025-08-01",
         "fund": {
             "proj_id": "M0458_2559",
             "regis_id": "MF0463_2559",
@@ -16502,6 +16502,66 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-07-29T16:11:57.867"
+            },
+            {
+                "nav_date": "2025-07-29",
+                "unique_id": "C0000000709",
+                "class_abbr_name": "KFAFIXSSF",
+                "net_asset": 1036067200,
+                "last_val": 12.2903,
+                "previous_val": 0,
+                "sell_price": 12.2904,
+                "buy_price": 12.2288,
+                "sell_swap_price": 12.2288,
+                "buy_swap_price": 12.2904,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-30T16:05:23.493"
+            },
+            {
+                "nav_date": "2025-07-30",
+                "unique_id": "C0000000709",
+                "class_abbr_name": "KFAFIXSSF",
+                "net_asset": 1037597952,
+                "last_val": 12.2914,
+                "previous_val": 0,
+                "sell_price": 12.2915,
+                "buy_price": 12.2299,
+                "sell_swap_price": 12.2299,
+                "buy_swap_price": 12.2915,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-31T16:06:43.98"
+            },
+            {
+                "nav_date": "2025-07-31",
+                "unique_id": "C0000000709",
+                "class_abbr_name": "KFAFIXSSF",
+                "net_asset": 1037687680,
+                "last_val": 12.2944,
+                "previous_val": 0,
+                "sell_price": 12.2945,
+                "buy_price": 12.2329,
+                "sell_swap_price": 12.2329,
+                "buy_swap_price": 12.2945,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-01T16:09:58.13"
+            },
+            {
+                "nav_date": "2025-08-01",
+                "unique_id": "C0000000709",
+                "class_abbr_name": "KFAFIXSSF",
+                "net_asset": 1037252864,
+                "last_val": 12.2922,
+                "previous_val": 0,
+                "sell_price": 12.2923,
+                "buy_price": 12.2307,
+                "sell_swap_price": 12.2307,
+                "buy_swap_price": 12.2923,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-03T16:09:04.327"
             }
         ]
     }

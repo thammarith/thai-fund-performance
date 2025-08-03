@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1753866765197,
-    "nextUpdate": 1753953165197,
+    "lastUpdate": 1754220415062,
+    "nextUpdate": 1754306815062,
     "data": {
-        "lastNav": "2025-07-25",
+        "lastNav": "2025-07-31",
         "fund": {
             "proj_id": "M0743_2562",
             "regis_id": "MF0056_2563",
@@ -13082,6 +13082,51 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-07-30T08:14:11.913"
+            },
+            {
+                "nav_date": "2025-07-29",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP GINFRAEQ-H",
+                "net_asset": 1479787264,
+                "last_val": 17.2853,
+                "previous_val": 0,
+                "sell_price": 17.4583,
+                "buy_price": 17.2853,
+                "sell_swap_price": 17.2853,
+                "buy_swap_price": 17.4583,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-31T16:06:43.98"
+            },
+            {
+                "nav_date": "2025-07-30",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP GINFRAEQ-H",
+                "net_asset": 1479973248,
+                "last_val": 17.2735,
+                "previous_val": 0,
+                "sell_price": 17.4463,
+                "buy_price": 17.2735,
+                "sell_swap_price": 17.2735,
+                "buy_swap_price": 17.4463,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-01T16:09:58.13"
+            },
+            {
+                "nav_date": "2025-07-31",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP GINFRAEQ-H",
+                "net_asset": 1477901184,
+                "last_val": 17.2651,
+                "previous_val": 0,
+                "sell_price": 17.4379,
+                "buy_price": 17.2651,
+                "sell_swap_price": 17.2651,
+                "buy_swap_price": 17.4379,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-03T16:09:04.327"
             }
         ]
     }

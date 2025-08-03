@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1753866765197,
-    "nextUpdate": 1753953165197,
+    "lastUpdate": 1754220415062,
+    "nextUpdate": 1754306815062,
     "data": {
-        "lastNav": "2025-07-25",
+        "lastNav": "2025-07-31",
         "fund": {
             "proj_id": "M0088_2562",
             "regis_id": "MF0149_2562",
@@ -2912,6 +2912,51 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-07-30T08:14:11.913"
+            },
+            {
+                "nav_date": "2025-07-29",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-GECOM",
+                "net_asset": 1053086720,
+                "last_val": 12.887,
+                "previous_val": 0,
+                "sell_price": 13.0595,
+                "buy_price": 12.887,
+                "sell_swap_price": 12.887,
+                "buy_swap_price": 13.0595,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-31T16:06:43.98"
+            },
+            {
+                "nav_date": "2025-07-30",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-GECOM",
+                "net_asset": 1046873792,
+                "last_val": 12.8486,
+                "previous_val": 0,
+                "sell_price": 13.0206,
+                "buy_price": 12.8486,
+                "sell_swap_price": 12.8486,
+                "buy_swap_price": 13.0206,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-01T16:09:58.13"
+            },
+            {
+                "nav_date": "2025-07-31",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-GECOM",
+                "net_asset": 1048140160,
+                "last_val": 12.8706,
+                "previous_val": 0,
+                "sell_price": 13.0428,
+                "buy_price": 12.8706,
+                "sell_swap_price": 12.8706,
+                "buy_swap_price": 13.0428,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-03T16:09:04.327"
             }
         ]
     }

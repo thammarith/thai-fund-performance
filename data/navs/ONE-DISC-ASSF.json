@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1753866765197,
-    "nextUpdate": 1753953165197,
+    "lastUpdate": 1754220415062,
+    "nextUpdate": 1754306815062,
     "data": {
-        "lastNav": "2025-07-25",
+        "lastNav": "2025-07-31",
         "fund": {
             "proj_id": "M0618_2562",
             "regis_id": "MF0528_2562",
@@ -14342,6 +14342,51 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-07-30T08:14:11.913"
+            },
+            {
+                "nav_date": "2025-07-29",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-DISC-ASSF",
+                "net_asset": 55875208,
+                "last_val": 7.7301,
+                "previous_val": 0,
+                "sell_price": 7.7302,
+                "buy_price": 7.7301,
+                "sell_swap_price": 7.7301,
+                "buy_swap_price": 7.7302,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-31T16:06:43.98"
+            },
+            {
+                "nav_date": "2025-07-30",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-DISC-ASSF",
+                "net_asset": 55127640,
+                "last_val": 7.6353,
+                "previous_val": 0,
+                "sell_price": 7.6354,
+                "buy_price": 7.6353,
+                "sell_swap_price": 7.6353,
+                "buy_swap_price": 7.6354,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-01T16:09:58.13"
+            },
+            {
+                "nav_date": "2025-07-31",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-DISC-ASSF",
+                "net_asset": 55555708,
+                "last_val": 7.6913,
+                "previous_val": 0,
+                "sell_price": 7.6914,
+                "buy_price": 7.6913,
+                "sell_swap_price": 7.6913,
+                "buy_swap_price": 7.6914,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-03T16:09:04.327"
             }
         ]
     }

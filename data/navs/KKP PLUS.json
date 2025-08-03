@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1753866765197,
-    "nextUpdate": 1753953165197,
+    "lastUpdate": 1754220415062,
+    "nextUpdate": 1754306815062,
     "data": {
-        "lastNav": "2025-07-25",
+        "lastNav": "2025-08-01",
         "fund": {
             "proj_id": "M0359_2547",
             "regis_id": "096_2547",
@@ -3077,6 +3077,66 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-07-29T16:11:57.867"
+            },
+            {
+                "nav_date": "2025-07-29",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP PLUS",
+                "net_asset": 82065735680,
+                "last_val": 15.0217,
+                "previous_val": 0,
+                "sell_price": 15.0218,
+                "buy_price": 15.0217,
+                "sell_swap_price": 15.0217,
+                "buy_swap_price": 15.0218,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-30T16:05:23.493"
+            },
+            {
+                "nav_date": "2025-07-30",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP PLUS",
+                "net_asset": 81819385856,
+                "last_val": 15.0224,
+                "previous_val": 0,
+                "sell_price": 15.0225,
+                "buy_price": 15.0224,
+                "sell_swap_price": 15.0224,
+                "buy_swap_price": 15.0225,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-31T16:06:43.98"
+            },
+            {
+                "nav_date": "2025-07-31",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP PLUS",
+                "net_asset": 81954922496,
+                "last_val": 15.0231,
+                "previous_val": 0,
+                "sell_price": 15.0232,
+                "buy_price": 15.0231,
+                "sell_swap_price": 15.0231,
+                "buy_swap_price": 15.0232,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-01T16:09:58.13"
+            },
+            {
+                "nav_date": "2025-08-01",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP PLUS",
+                "net_asset": 81881538560,
+                "last_val": 15.0234,
+                "previous_val": 0,
+                "sell_price": 15.0235,
+                "buy_price": 15.0234,
+                "sell_swap_price": 15.0234,
+                "buy_swap_price": 15.0235,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-03T16:09:04.327"
             }
         ]
     }

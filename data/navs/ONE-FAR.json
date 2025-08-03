@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1753866765197,
-    "nextUpdate": 1753953165197,
+    "lastUpdate": 1754220415062,
+    "nextUpdate": 1754306815062,
     "data": {
-        "lastNav": "2025-07-25",
+        "lastNav": "2025-08-01",
         "fund": {
             "proj_id": "M0001_2540",
             "regis_id": "007_2540",
@@ -3092,6 +3092,66 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-07-29T16:11:57.867"
+            },
+            {
+                "nav_date": "2025-07-29",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-FAR",
+                "net_asset": 365342688,
+                "last_val": 27.4196,
+                "previous_val": 0,
+                "sell_price": 27.4197,
+                "buy_price": 27.4196,
+                "sell_swap_price": 27.4196,
+                "buy_swap_price": 27.4197,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-30T16:05:23.493"
+            },
+            {
+                "nav_date": "2025-07-30",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-FAR",
+                "net_asset": 366367552,
+                "last_val": 27.4218,
+                "previous_val": 0,
+                "sell_price": 27.4219,
+                "buy_price": 27.4218,
+                "sell_swap_price": 27.4218,
+                "buy_swap_price": 27.4219,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-31T16:06:43.98"
+            },
+            {
+                "nav_date": "2025-07-31",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-FAR",
+                "net_asset": 366353248,
+                "last_val": 27.4236,
+                "previous_val": 0,
+                "sell_price": 27.4237,
+                "buy_price": 27.4236,
+                "sell_swap_price": 27.4236,
+                "buy_swap_price": 27.4237,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-01T16:09:58.13"
+            },
+            {
+                "nav_date": "2025-08-01",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-FAR",
+                "net_asset": 366432288,
+                "last_val": 27.4253,
+                "previous_val": 0,
+                "sell_price": 27.4254,
+                "buy_price": 27.4253,
+                "sell_swap_price": 27.4253,
+                "buy_swap_price": 27.4254,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-03T16:09:04.327"
             }
         ]
     }

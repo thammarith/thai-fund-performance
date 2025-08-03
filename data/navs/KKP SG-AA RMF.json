@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1753866765197,
-    "nextUpdate": 1753953165197,
+    "lastUpdate": 1754220415062,
+    "nextUpdate": 1754306815062,
     "data": {
-        "lastNav": "2025-07-25",
+        "lastNav": "2025-07-30",
         "fund": {
             "proj_id": "M0184_2561",
             "regis_id": "MF0402_2561",
@@ -13652,6 +13652,36 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-07-30T08:14:11.913"
+            },
+            {
+                "nav_date": "2025-07-29",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SG-AA RMF",
+                "net_asset": 359656864,
+                "last_val": 11.8882,
+                "previous_val": 0,
+                "sell_price": 11.8883,
+                "buy_price": 11.8882,
+                "sell_swap_price": 11.8882,
+                "buy_swap_price": 11.8883,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-31T16:06:43.98"
+            },
+            {
+                "nav_date": "2025-07-30",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SG-AA RMF",
+                "net_asset": 359339776,
+                "last_val": 11.8724,
+                "previous_val": 0,
+                "sell_price": 11.8725,
+                "buy_price": 11.8724,
+                "sell_swap_price": 11.8724,
+                "buy_swap_price": 11.8725,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-03T16:09:04.327"
             }
         ]
     }

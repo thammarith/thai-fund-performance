@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1753866765197,
-    "nextUpdate": 1753953165197,
+    "lastUpdate": 1754220415062,
+    "nextUpdate": 1754306815062,
     "data": {
-        "lastNav": "2025-07-25",
+        "lastNav": "2025-07-31",
         "fund": {
             "proj_id": "M0672_2566",
             "regis_id": "MF0555_2566",
@@ -2897,6 +2897,51 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-07-30T08:14:11.913"
+            },
+            {
+                "nav_date": "2025-07-29",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-ULTRAPLUS-RA",
+                "net_asset": 9640348,
+                "last_val": 11.3896,
+                "previous_val": 0,
+                "sell_price": 11.5116,
+                "buy_price": 11.3896,
+                "sell_swap_price": 11.3896,
+                "buy_swap_price": 11.5116,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-31T16:06:43.98"
+            },
+            {
+                "nav_date": "2025-07-30",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-ULTRAPLUS-RA",
+                "net_asset": 9626196,
+                "last_val": 11.3729,
+                "previous_val": 0,
+                "sell_price": 11.4947,
+                "buy_price": 11.3729,
+                "sell_swap_price": 11.3729,
+                "buy_swap_price": 11.4947,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-01T16:09:58.13"
+            },
+            {
+                "nav_date": "2025-07-31",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-ULTRAPLUS-RA",
+                "net_asset": 9600026,
+                "last_val": 11.342,
+                "previous_val": 0,
+                "sell_price": 11.4635,
+                "buy_price": 11.342,
+                "sell_swap_price": 11.342,
+                "buy_swap_price": 11.4635,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-03T16:09:04.327"
             }
         ]
     }

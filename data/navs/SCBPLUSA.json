@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1753866765197,
-    "nextUpdate": 1753953165197,
+    "lastUpdate": 1754220415062,
+    "nextUpdate": 1754306815062,
     "data": {
-        "lastNav": "2025-07-25",
+        "lastNav": "2025-07-31",
         "fund": {
             "proj_id": "M0772_2558",
             "regis_id": "MF0112_2559",
@@ -16397,6 +16397,51 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-07-30T08:14:11.913"
+            },
+            {
+                "nav_date": "2025-07-29",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBPLUSA",
+                "net_asset": 36026904,
+                "last_val": 10.8053,
+                "previous_val": 0,
+                "sell_price": 10.8748,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 10.8748,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-31T16:06:43.98"
+            },
+            {
+                "nav_date": "2025-07-30",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBPLUSA",
+                "net_asset": 36015696,
+                "last_val": 10.8016,
+                "previous_val": 0,
+                "sell_price": 10.871,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 10.871,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-01T16:09:58.13"
+            },
+            {
+                "nav_date": "2025-07-31",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBPLUSA",
+                "net_asset": 36018520,
+                "last_val": 10.8025,
+                "previous_val": 0,
+                "sell_price": 10.872,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 10.872,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-03T16:09:04.327"
             }
         ]
     }

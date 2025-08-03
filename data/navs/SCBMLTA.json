@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1753866765197,
-    "nextUpdate": 1753953165197,
+    "lastUpdate": 1754220415062,
+    "nextUpdate": 1754306815062,
     "data": {
-        "lastNav": "2025-07-25",
+        "lastNav": "2025-08-01",
         "fund": {
             "proj_id": "M0550_2560",
             "regis_id": "MF0491_2560",
@@ -16517,6 +16517,66 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-07-29T16:11:57.867"
+            },
+            {
+                "nav_date": "2025-07-29",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBMLTA",
+                "net_asset": 290066144,
+                "last_val": 8.1837,
+                "previous_val": 0,
+                "sell_price": 8.2714,
+                "buy_price": 8.1837,
+                "sell_swap_price": 8.1837,
+                "buy_swap_price": 8.2714,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-30T16:05:23.493"
+            },
+            {
+                "nav_date": "2025-07-30",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBMLTA",
+                "net_asset": 291829952,
+                "last_val": 8.2371,
+                "previous_val": 0,
+                "sell_price": 8.3253,
+                "buy_price": 8.2371,
+                "sell_swap_price": 8.2371,
+                "buy_swap_price": 8.3253,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-31T16:06:43.98"
+            },
+            {
+                "nav_date": "2025-07-31",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBMLTA",
+                "net_asset": 291653120,
+                "last_val": 8.2324,
+                "previous_val": 0,
+                "sell_price": 8.3206,
+                "buy_price": 8.2324,
+                "sell_swap_price": 8.2324,
+                "buy_swap_price": 8.3206,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-01T16:09:58.13"
+            },
+            {
+                "nav_date": "2025-08-01",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBMLTA",
+                "net_asset": 286318560,
+                "last_val": 8.0819,
+                "previous_val": 0,
+                "sell_price": 8.1685,
+                "buy_price": 8.0819,
+                "sell_swap_price": 8.0819,
+                "buy_swap_price": 8.1685,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-03T16:09:04.327"
             }
         ]
     }

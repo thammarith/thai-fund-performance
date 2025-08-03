@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1753866765197,
-    "nextUpdate": 1753953165197,
+    "lastUpdate": 1754220415062,
+    "nextUpdate": 1754306815062,
     "data": {
-        "lastNav": "2025-07-25",
+        "lastNav": "2025-07-31",
         "fund": {
             "proj_id": "M0690_2566",
             "regis_id": "MF0512_2566",
@@ -2747,6 +2747,51 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-07-30T08:14:11.913"
+            },
+            {
+                "nav_date": "2025-07-29",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP NDQ100-UH",
+                "net_asset": 1874565120,
+                "last_val": 13.73,
+                "previous_val": 0,
+                "sell_price": 13.7301,
+                "buy_price": 13.73,
+                "sell_swap_price": 13.73,
+                "buy_swap_price": 13.7301,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-31T16:06:43.98"
+            },
+            {
+                "nav_date": "2025-07-30",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP NDQ100-UH",
+                "net_asset": 1880946944,
+                "last_val": 13.7626,
+                "previous_val": 0,
+                "sell_price": 13.7627,
+                "buy_price": 13.7626,
+                "sell_swap_price": 13.7626,
+                "buy_swap_price": 13.7627,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-01T16:09:58.13"
+            },
+            {
+                "nav_date": "2025-07-31",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP NDQ100-UH",
+                "net_asset": 1878823680,
+                "last_val": 13.763,
+                "previous_val": 0,
+                "sell_price": 13.7631,
+                "buy_price": 13.763,
+                "sell_swap_price": 13.763,
+                "buy_swap_price": 13.7631,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-03T16:09:04.327"
             }
         ]
     }

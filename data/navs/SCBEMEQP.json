@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1753866765197,
-    "nextUpdate": 1753953165197,
+    "lastUpdate": 1754220415062,
+    "nextUpdate": 1754306815062,
     "data": {
-        "lastNav": "2025-07-24",
+        "lastNav": "2025-07-30",
         "fund": {
             "proj_id": "M0792_2555",
             "regis_id": "MF0820_2555",
@@ -14042,6 +14042,36 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-07-30T08:14:11.913"
+            },
+            {
+                "nav_date": "2025-07-29",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBEMEQP",
+                "net_asset": 0,
+                "last_val": 7.8078,
+                "previous_val": 0,
+                "sell_price": 7.8079,
+                "buy_price": 7.8078,
+                "sell_swap_price": 7.8078,
+                "buy_swap_price": 7.8079,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-01T16:09:58.13"
+            },
+            {
+                "nav_date": "2025-07-30",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBEMEQP",
+                "net_asset": 0,
+                "last_val": 7.7622,
+                "previous_val": 0,
+                "sell_price": 7.7623,
+                "buy_price": 7.7622,
+                "sell_swap_price": 7.7622,
+                "buy_swap_price": 7.7623,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-03T16:09:04.327"
             }
         ]
     }

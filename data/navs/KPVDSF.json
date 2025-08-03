@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1753865012894,
-    "nextUpdate": 1753951412894,
+    "lastUpdate": 1754220415062,
+    "nextUpdate": 1754306815062,
     "data": {
-        "lastNav": "2025-07-25",
+        "lastNav": "2025-08-01",
         "fund": {
             "proj_id": "M0430_2562",
             "regis_id": "MF0378_2562",
@@ -5927,6 +5927,66 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-07-29T16:11:57.867"
+            },
+            {
+                "nav_date": "2025-07-29",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KPVDSF",
+                "net_asset": 691781760,
+                "last_val": 11.2351,
+                "previous_val": 0,
+                "sell_price": 11.2352,
+                "buy_price": 11.2351,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-30T16:05:23.493"
+            },
+            {
+                "nav_date": "2025-07-30",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KPVDSF",
+                "net_asset": 686835840,
+                "last_val": 11.236,
+                "previous_val": 0,
+                "sell_price": 11.2361,
+                "buy_price": 11.236,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-31T16:06:43.98"
+            },
+            {
+                "nav_date": "2025-07-31",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KPVDSF",
+                "net_asset": 687149120,
+                "last_val": 11.2363,
+                "previous_val": 0,
+                "sell_price": 11.2364,
+                "buy_price": 11.2363,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-01T16:09:58.13"
+            },
+            {
+                "nav_date": "2025-08-01",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "KPVDSF",
+                "net_asset": 691530880,
+                "last_val": 11.2375,
+                "previous_val": 0,
+                "sell_price": 11.2376,
+                "buy_price": 11.2375,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-03T16:09:04.327"
             }
         ]
     }

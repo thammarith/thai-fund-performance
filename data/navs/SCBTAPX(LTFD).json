@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1753866765197,
-    "nextUpdate": 1753953165197,
+    "lastUpdate": 1754220415062,
+    "nextUpdate": 1754306815062,
     "data": {
-        "lastNav": "2025-07-25",
+        "lastNav": "2025-08-01",
         "fund": {
             "proj_id": "M0445_2568",
             "regis_id": "MF0272_2568",
@@ -752,6 +752,66 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-07-29T16:11:57.867"
+            },
+            {
+                "nav_date": "2025-07-29",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBTAPX(LTFD)",
+                "net_asset": 398310624,
+                "last_val": 10.1508,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 10.1508,
+                "sell_swap_price": 10.1508,
+                "buy_swap_price": 10.1509,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-30T16:05:23.493"
+            },
+            {
+                "nav_date": "2025-07-30",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBTAPX(LTFD)",
+                "net_asset": 400424288,
+                "last_val": 10.2091,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 10.2091,
+                "sell_swap_price": 10.2091,
+                "buy_swap_price": 10.2092,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-31T16:06:43.98"
+            },
+            {
+                "nav_date": "2025-07-31",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBTAPX(LTFD)",
+                "net_asset": 400478208,
+                "last_val": 10.2105,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 10.2105,
+                "sell_swap_price": 10.2105,
+                "buy_swap_price": 10.2106,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-01T16:09:58.13"
+            },
+            {
+                "nav_date": "2025-08-01",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBTAPX(LTFD)",
+                "net_asset": 394195872,
+                "last_val": 10.0503,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 10.0503,
+                "sell_swap_price": 10.0503,
+                "buy_swap_price": 10.0504,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-03T16:09:04.327"
             }
         ]
     }

@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1753866765197,
-    "nextUpdate": 1753953165197,
+    "lastUpdate": 1754220415062,
+    "nextUpdate": 1754306815062,
     "data": {
-        "lastNav": "2025-07-25",
+        "lastNav": "2025-07-31",
         "fund": {
             "proj_id": "M0643_2555",
             "regis_id": "MF0819_2555",
@@ -13157,6 +13157,51 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-07-30T08:14:11.913"
+            },
+            {
+                "nav_date": "2025-07-29",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBS&P500A",
+                "net_asset": 3251883776,
+                "last_val": 33.2724,
+                "previous_val": 0,
+                "sell_price": 33.4539,
+                "buy_price": 33.2574,
+                "sell_swap_price": 33.2574,
+                "buy_swap_price": 33.4539,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-31T16:06:43.98"
+            },
+            {
+                "nav_date": "2025-07-30",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBS&P500A",
+                "net_asset": 3300219392,
+                "last_val": 33.2324,
+                "previous_val": 0,
+                "sell_price": 33.4137,
+                "buy_price": 33.2174,
+                "sell_swap_price": 33.2174,
+                "buy_swap_price": 33.4137,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-01T16:09:58.13"
+            },
+            {
+                "nav_date": "2025-07-31",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBS&P500A",
+                "net_asset": 3283730176,
+                "last_val": 33.1142,
+                "previous_val": 0,
+                "sell_price": 33.2948,
+                "buy_price": 33.0993,
+                "sell_swap_price": 33.0993,
+                "buy_swap_price": 33.2948,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-03T16:09:04.327"
             }
         ]
     }

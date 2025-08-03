@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1753866765197,
-    "nextUpdate": 1753953165197,
+    "lastUpdate": 1754220415062,
+    "nextUpdate": 1754306815062,
     "data": {
-        "lastNav": "2025-07-25",
+        "lastNav": "2025-08-01",
         "fund": {
             "proj_id": "M0512_2546",
             "regis_id": "073_2546",
@@ -16577,6 +16577,66 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-07-29T16:11:57.867"
+            },
+            {
+                "nav_date": "2025-07-29",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "1AMSET50-RA",
+                "net_asset": 1247700992,
+                "last_val": 52.3506,
+                "previous_val": 0,
+                "sell_price": 52.4907,
+                "buy_price": 52.2197,
+                "sell_swap_price": 52.2197,
+                "buy_swap_price": 52.4907,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-30T16:05:23.493"
+            },
+            {
+                "nav_date": "2025-07-30",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "1AMSET50-RA",
+                "net_asset": 1252690944,
+                "last_val": 52.5635,
+                "previous_val": 0,
+                "sell_price": 52.7042,
+                "buy_price": 52.4321,
+                "sell_swap_price": 52.4321,
+                "buy_swap_price": 52.7042,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-31T16:06:43.98"
+            },
+            {
+                "nav_date": "2025-07-31",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "1AMSET50-RA",
+                "net_asset": 1251312896,
+                "last_val": 52.5103,
+                "previous_val": 0,
+                "sell_price": 52.6509,
+                "buy_price": 52.379,
+                "sell_swap_price": 52.379,
+                "buy_swap_price": 52.6509,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-01T16:09:58.13"
+            },
+            {
+                "nav_date": "2025-08-01",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "1AMSET50-RA",
+                "net_asset": 1224666624,
+                "last_val": 51.3958,
+                "previous_val": 0,
+                "sell_price": 51.5334,
+                "buy_price": 51.2673,
+                "sell_swap_price": 51.2673,
+                "buy_swap_price": 51.5334,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-03T16:09:04.327"
             }
         ]
     }

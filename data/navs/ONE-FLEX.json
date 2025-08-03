@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1753866765197,
-    "nextUpdate": 1753953165197,
+    "lastUpdate": 1754220415062,
+    "nextUpdate": 1754306815062,
     "data": {
-        "lastNav": "2025-07-25",
+        "lastNav": "2025-08-01",
         "fund": {
             "proj_id": "M0114_2542",
             "regis_id": "027_2542",
@@ -3077,6 +3077,66 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-07-29T16:11:57.867"
+            },
+            {
+                "nav_date": "2025-07-29",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-FLEX",
+                "net_asset": 23777666,
+                "last_val": 12.4042,
+                "previous_val": 0,
+                "sell_price": 12.4043,
+                "buy_price": 12.4042,
+                "sell_swap_price": 12.4042,
+                "buy_swap_price": 12.4043,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-30T16:05:23.493"
+            },
+            {
+                "nav_date": "2025-07-30",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-FLEX",
+                "net_asset": 23885576,
+                "last_val": 12.4605,
+                "previous_val": 0,
+                "sell_price": 12.4606,
+                "buy_price": 12.4605,
+                "sell_swap_price": 12.4605,
+                "buy_swap_price": 12.4606,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-31T16:06:43.98"
+            },
+            {
+                "nav_date": "2025-07-31",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-FLEX",
+                "net_asset": 23859674,
+                "last_val": 12.447,
+                "previous_val": 0,
+                "sell_price": 12.4471,
+                "buy_price": 12.447,
+                "sell_swap_price": 12.447,
+                "buy_swap_price": 12.4471,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-01T16:09:58.13"
+            },
+            {
+                "nav_date": "2025-08-01",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-FLEX",
+                "net_asset": 23376770,
+                "last_val": 12.1951,
+                "previous_val": 0,
+                "sell_price": 12.1952,
+                "buy_price": 12.1951,
+                "sell_swap_price": 12.1951,
+                "buy_swap_price": 12.1952,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-03T16:09:04.327"
             }
         ]
     }

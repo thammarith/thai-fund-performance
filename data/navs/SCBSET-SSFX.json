@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1753865012894,
-    "nextUpdate": 1753951412894,
+    "lastUpdate": 1754220415062,
+    "nextUpdate": 1754306815062,
     "data": {
-        "lastNav": "2025-07-25",
+        "lastNav": "2025-08-01",
         "fund": {
             "proj_id": "M0144_2563",
             "regis_id": "MF0079_2563",
@@ -16502,6 +16502,66 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-07-29T16:11:57.867"
+            },
+            {
+                "nav_date": "2025-07-29",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSET-SSFX",
+                "net_asset": 623441280,
+                "last_val": 10.2107,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 10.2107,
+                "sell_swap_price": 10.2107,
+                "buy_swap_price": 10.2108,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-30T16:05:23.493"
+            },
+            {
+                "nav_date": "2025-07-30",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSET-SSFX",
+                "net_asset": 629018880,
+                "last_val": 10.3003,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 10.3003,
+                "sell_swap_price": 10.3003,
+                "buy_swap_price": 10.3004,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-31T16:06:43.98"
+            },
+            {
+                "nav_date": "2025-07-31",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSET-SSFX",
+                "net_asset": 628307264,
+                "last_val": 10.2853,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 10.2853,
+                "sell_swap_price": 10.2853,
+                "buy_swap_price": 10.2854,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-01T16:09:58.13"
+            },
+            {
+                "nav_date": "2025-08-01",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSET-SSFX",
+                "net_asset": 615889792,
+                "last_val": 10.0839,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 10.0839,
+                "sell_swap_price": 10.0839,
+                "buy_swap_price": 10.084,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-03T16:09:04.327"
             }
         ]
     }

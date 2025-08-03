@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1753866765197,
-    "nextUpdate": 1753953165197,
+    "lastUpdate": 1754220415062,
+    "nextUpdate": 1754306815062,
     "data": {
-        "lastNav": "2025-07-25",
+        "lastNav": "2025-07-31",
         "fund": {
             "proj_id": "M0293_2567",
             "regis_id": "MF0292_2567",
@@ -3137,6 +3137,51 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-07-30T08:14:11.913"
+            },
+            {
+                "nav_date": "2025-07-29",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-BTCETFOF-UI",
+                "net_asset": 696239296,
+                "last_val": 14.6099,
+                "previous_val": 0,
+                "sell_price": 14.7663,
+                "buy_price": 14.6099,
+                "sell_swap_price": 14.6099,
+                "buy_swap_price": 14.7663,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-31T16:06:43.98"
+            },
+            {
+                "nav_date": "2025-07-30",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-BTCETFOF-UI",
+                "net_asset": 693705984,
+                "last_val": 14.5536,
+                "previous_val": 0,
+                "sell_price": 14.7094,
+                "buy_price": 14.5536,
+                "sell_swap_price": 14.5536,
+                "buy_swap_price": 14.7094,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-01T16:09:58.13"
+            },
+            {
+                "nav_date": "2025-07-31",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-BTCETFOF-UI",
+                "net_asset": 695705408,
+                "last_val": 14.6122,
+                "previous_val": 0,
+                "sell_price": 14.7687,
+                "buy_price": 14.6122,
+                "sell_swap_price": 14.6122,
+                "buy_swap_price": 14.7687,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-03T16:09:04.327"
             }
         ]
     }

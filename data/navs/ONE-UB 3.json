@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1753866765197,
-    "nextUpdate": 1753953165197,
+    "lastUpdate": 1754220415062,
+    "nextUpdate": 1754306815062,
     "data": {
-        "lastNav": "2025-07-25",
+        "lastNav": "2025-08-01",
         "fund": {
             "proj_id": "M0015_2536",
             "regis_id": "024_2536",
@@ -3077,6 +3077,66 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-07-29T16:11:57.867"
+            },
+            {
+                "nav_date": "2025-07-29",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-UB 3",
+                "net_asset": 49088244,
+                "last_val": 10.2229,
+                "previous_val": 0,
+                "sell_price": 10.3324,
+                "buy_price": 10.2229,
+                "sell_swap_price": 10.2229,
+                "buy_swap_price": 10.3324,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-30T16:05:23.493"
+            },
+            {
+                "nav_date": "2025-07-30",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-UB 3",
+                "net_asset": 49288844,
+                "last_val": 10.2647,
+                "previous_val": 0,
+                "sell_price": 10.3746,
+                "buy_price": 10.2647,
+                "sell_swap_price": 10.2647,
+                "buy_swap_price": 10.3746,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-31T16:06:43.98"
+            },
+            {
+                "nav_date": "2025-07-31",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-UB 3",
+                "net_asset": 49229064,
+                "last_val": 10.2522,
+                "previous_val": 0,
+                "sell_price": 10.362,
+                "buy_price": 10.2522,
+                "sell_swap_price": 10.2522,
+                "buy_swap_price": 10.362,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-01T16:09:58.13"
+            },
+            {
+                "nav_date": "2025-08-01",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-UB 3",
+                "net_asset": 47160868,
+                "last_val": 10.0304,
+                "previous_val": 0,
+                "sell_price": 10.1378,
+                "buy_price": 10.0304,
+                "sell_swap_price": 10.0304,
+                "buy_swap_price": 10.1378,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-03T16:09:04.327"
             }
         ]
     }

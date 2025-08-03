@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1753866765197,
-    "nextUpdate": 1753953165197,
+    "lastUpdate": 1754220415062,
+    "nextUpdate": 1754306815062,
     "data": {
-        "lastNav": "2025-07-25",
+        "lastNav": "2025-08-01",
         "fund": {
             "proj_id": "M0669_2552",
             "regis_id": "578_2552",
@@ -3077,6 +3077,66 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-07-29T16:11:57.867"
+            },
+            {
+                "nav_date": "2025-07-29",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP MMRMF",
+                "net_asset": 497347968,
+                "last_val": 12.4283,
+                "previous_val": 0,
+                "sell_price": 12.4284,
+                "buy_price": 12.4283,
+                "sell_swap_price": 12.4283,
+                "buy_swap_price": 12.4284,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-30T16:05:23.493"
+            },
+            {
+                "nav_date": "2025-07-30",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP MMRMF",
+                "net_asset": 497995680,
+                "last_val": 12.4289,
+                "previous_val": 0,
+                "sell_price": 12.429,
+                "buy_price": 12.4289,
+                "sell_swap_price": 12.4289,
+                "buy_swap_price": 12.429,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-31T16:06:43.98"
+            },
+            {
+                "nav_date": "2025-07-31",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP MMRMF",
+                "net_asset": 498556640,
+                "last_val": 12.4291,
+                "previous_val": 0,
+                "sell_price": 12.4292,
+                "buy_price": 12.4291,
+                "sell_swap_price": 12.4291,
+                "buy_swap_price": 12.4292,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-01T16:09:58.13"
+            },
+            {
+                "nav_date": "2025-08-01",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP MMRMF",
+                "net_asset": 498907008,
+                "last_val": 12.4297,
+                "previous_val": 0,
+                "sell_price": 12.4298,
+                "buy_price": 12.4297,
+                "sell_swap_price": 12.4297,
+                "buy_swap_price": 12.4298,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-03T16:09:04.327"
             }
         ]
     }

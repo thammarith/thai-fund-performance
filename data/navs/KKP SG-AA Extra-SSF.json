@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1753866765197,
-    "nextUpdate": 1753953165197,
+    "lastUpdate": 1754220415062,
+    "nextUpdate": 1754306815062,
     "data": {
-        "lastNav": "2025-07-25",
+        "lastNav": "2025-07-30",
         "fund": {
             "proj_id": "M0471_2561",
             "regis_id": "MF0104_2562",
@@ -2747,6 +2747,36 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-07-30T08:14:11.913"
+            },
+            {
+                "nav_date": "2025-07-29",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SG-AA Extra-SSF",
+                "net_asset": 57106164,
+                "last_val": 11.604,
+                "previous_val": 0,
+                "sell_price": 11.6041,
+                "buy_price": 11.604,
+                "sell_swap_price": 11.604,
+                "buy_swap_price": 11.6041,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-31T16:06:43.98"
+            },
+            {
+                "nav_date": "2025-07-30",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SG-AA Extra-SSF",
+                "net_asset": 57087688,
+                "last_val": 11.6002,
+                "previous_val": 0,
+                "sell_price": 11.6003,
+                "buy_price": 11.6002,
+                "sell_swap_price": 11.6002,
+                "buy_swap_price": 11.6003,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-03T16:09:04.327"
             }
         ]
     }

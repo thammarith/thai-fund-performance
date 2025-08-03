@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1753866765197,
-    "nextUpdate": 1753953165197,
+    "lastUpdate": 1754220415062,
+    "nextUpdate": 1754306815062,
     "data": {
-        "lastNav": "2025-07-25",
+        "lastNav": "2025-08-01",
         "fund": {
             "proj_id": "M0306_2552",
             "regis_id": "272_2552",
@@ -56762,6 +56762,66 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-07-29T16:11:57.867"
+            },
+            {
+                "nav_date": "2025-07-29",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBTMF",
+                "net_asset": 4629776896,
+                "last_val": 12.0081,
+                "previous_val": 0,
+                "sell_price": 12.0082,
+                "buy_price": 12.0081,
+                "sell_swap_price": 12.0081,
+                "buy_swap_price": 12.0082,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-30T16:05:23.493"
+            },
+            {
+                "nav_date": "2025-07-30",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBTMF",
+                "net_asset": 4686000640,
+                "last_val": 12.0085,
+                "previous_val": 0,
+                "sell_price": 12.0086,
+                "buy_price": 12.0085,
+                "sell_swap_price": 12.0085,
+                "buy_swap_price": 12.0086,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-31T16:06:43.98"
+            },
+            {
+                "nav_date": "2025-07-31",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBTMF",
+                "net_asset": 4684643328,
+                "last_val": 12.0089,
+                "previous_val": 0,
+                "sell_price": 12.009,
+                "buy_price": 12.0089,
+                "sell_swap_price": 12.0089,
+                "buy_swap_price": 12.009,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-01T16:09:58.13"
+            },
+            {
+                "nav_date": "2025-08-01",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBTMF",
+                "net_asset": 4673771008,
+                "last_val": 12.0092,
+                "previous_val": 0,
+                "sell_price": 12.0093,
+                "buy_price": 12.0092,
+                "sell_swap_price": 12.0092,
+                "buy_swap_price": 12.0093,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-03T16:09:04.327"
             }
         ]
     }

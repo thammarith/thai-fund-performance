@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1753866765197,
-    "nextUpdate": 1753953165197,
+    "lastUpdate": 1754220415062,
+    "nextUpdate": 1754306815062,
     "data": {
-        "lastNav": "2025-07-25",
+        "lastNav": "2025-07-31",
         "fund": {
             "proj_id": "M0664_2560",
             "regis_id": "MF0039_2561",
@@ -14342,6 +14342,51 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-07-30T08:14:11.913"
+            },
+            {
+                "nav_date": "2025-07-29",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-GLOBFIN-RA",
+                "net_asset": 210829616,
+                "last_val": 18.1007,
+                "previous_val": 0,
+                "sell_price": 18.3723,
+                "buy_price": 18.1007,
+                "sell_swap_price": 18.1007,
+                "buy_swap_price": 18.3723,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-31T16:06:43.98"
+            },
+            {
+                "nav_date": "2025-07-30",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-GLOBFIN-RA",
+                "net_asset": 208575760,
+                "last_val": 18.038,
+                "previous_val": 0,
+                "sell_price": 18.3087,
+                "buy_price": 18.038,
+                "sell_swap_price": 18.038,
+                "buy_swap_price": 18.3087,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-01T16:09:58.13"
+            },
+            {
+                "nav_date": "2025-07-31",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-GLOBFIN-RA",
+                "net_asset": 208695232,
+                "last_val": 18.0141,
+                "previous_val": 0,
+                "sell_price": 18.2844,
+                "buy_price": 18.0141,
+                "sell_swap_price": 18.0141,
+                "buy_swap_price": 18.2844,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-03T16:09:04.327"
             }
         ]
     }

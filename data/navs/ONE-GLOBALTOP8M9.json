@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1753866765197,
-    "nextUpdate": 1753953165197,
+    "lastUpdate": 1754220415062,
+    "nextUpdate": 1754306815062,
     "data": {
-        "lastNav": "2025-07-24",
+        "lastNav": "2025-07-30",
         "fund": {
             "proj_id": "M0622_2563",
             "regis_id": "MF0021_2564",
@@ -14132,6 +14132,36 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-07-30T08:14:11.913"
+            },
+            {
+                "nav_date": "2025-07-29",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-GLOBALTOP8M9",
+                "net_asset": 749801792,
+                "last_val": 7.9399,
+                "previous_val": 0,
+                "sell_price": 8.025,
+                "buy_price": 7.9399,
+                "sell_swap_price": 7.9399,
+                "buy_swap_price": 8.025,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-01T16:09:58.13"
+            },
+            {
+                "nav_date": "2025-07-30",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-GLOBALTOP8M9",
+                "net_asset": 749130176,
+                "last_val": 7.9334,
+                "previous_val": 0,
+                "sell_price": 8.0184,
+                "buy_price": 7.9334,
+                "sell_swap_price": 7.9334,
+                "buy_swap_price": 8.0184,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-03T16:09:04.327"
             }
         ]
     }

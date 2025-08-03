@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1753866765197,
-    "nextUpdate": 1753953165197,
+    "lastUpdate": 1754220415062,
+    "nextUpdate": 1754306815062,
     "data": {
-        "lastNav": "2025-07-25",
+        "lastNav": "2025-08-01",
         "fund": {
             "proj_id": "M0348_2561",
             "regis_id": "MF0294_2561",
@@ -16517,6 +16517,66 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-07-29T16:11:57.867"
+            },
+            {
+                "nav_date": "2025-07-29",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBLTSETA",
+                "net_asset": 105175576,
+                "last_val": 7.7375,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 7.7375,
+                "sell_swap_price": 7.7375,
+                "buy_swap_price": 7.7376,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-30T16:05:23.493"
+            },
+            {
+                "nav_date": "2025-07-30",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBLTSETA",
+                "net_asset": 106099904,
+                "last_val": 7.8055,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 7.8055,
+                "sell_swap_price": 7.8055,
+                "buy_swap_price": 7.8056,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-31T16:06:43.98"
+            },
+            {
+                "nav_date": "2025-07-31",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBLTSETA",
+                "net_asset": 105891552,
+                "last_val": 7.7945,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 7.7945,
+                "sell_swap_price": 7.7945,
+                "buy_swap_price": 7.7946,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-01T16:09:58.13"
+            },
+            {
+                "nav_date": "2025-08-01",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBLTSETA",
+                "net_asset": 103486464,
+                "last_val": 7.641,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 7.641,
+                "sell_swap_price": 7.641,
+                "buy_swap_price": 7.6411,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-03T16:09:04.327"
             }
         ]
     }

@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1753866765197,
-    "nextUpdate": 1753953165197,
+    "lastUpdate": 1754220415062,
+    "nextUpdate": 1754306815062,
     "data": {
-        "lastNav": "2025-07-25",
+        "lastNav": "2025-08-01",
         "fund": {
             "proj_id": "M0022_2562",
             "regis_id": "MF0061_2562",
@@ -3092,6 +3092,66 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-07-29T16:11:57.867"
+            },
+            {
+                "nav_date": "2025-07-29",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-SETHD",
+                "net_asset": 66796144,
+                "last_val": 9.0482,
+                "previous_val": 0,
+                "sell_price": 9.1451,
+                "buy_price": 9.0482,
+                "sell_swap_price": 9.0482,
+                "buy_swap_price": 9.1451,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-30T16:05:23.493"
+            },
+            {
+                "nav_date": "2025-07-30",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-SETHD",
+                "net_asset": 67479216,
+                "last_val": 9.1406,
+                "previous_val": 0,
+                "sell_price": 9.2385,
+                "buy_price": 9.1406,
+                "sell_swap_price": 9.1406,
+                "buy_swap_price": 9.2385,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-31T16:06:43.98"
+            },
+            {
+                "nav_date": "2025-07-31",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-SETHD",
+                "net_asset": 67628024,
+                "last_val": 9.1603,
+                "previous_val": 0,
+                "sell_price": 9.2584,
+                "buy_price": 9.1603,
+                "sell_swap_price": 9.1603,
+                "buy_swap_price": 9.2584,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-01T16:09:58.13"
+            },
+            {
+                "nav_date": "2025-08-01",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-SETHD",
+                "net_asset": 66273772,
+                "last_val": 9.0535,
+                "previous_val": 0,
+                "sell_price": 9.1505,
+                "buy_price": 9.0535,
+                "sell_swap_price": 9.0535,
+                "buy_swap_price": 9.1505,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-03T16:09:04.327"
             }
         ]
     }

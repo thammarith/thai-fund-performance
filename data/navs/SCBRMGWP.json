@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1753866765197,
-    "nextUpdate": 1753953165197,
+    "lastUpdate": 1754220415062,
+    "nextUpdate": 1754306815062,
     "data": {
-        "lastNav": "2025-07-24",
+        "lastNav": "2025-07-30",
         "fund": {
             "proj_id": "M0935_2554",
             "regis_id": "MF0598_2555",
@@ -14042,6 +14042,36 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-07-30T08:14:11.913"
+            },
+            {
+                "nav_date": "2025-07-29",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBRMGWP",
+                "net_asset": 161969616,
+                "last_val": 12.71,
+                "previous_val": 0,
+                "sell_price": 12.7101,
+                "buy_price": 12.71,
+                "sell_swap_price": 12.71,
+                "buy_swap_price": 12.7101,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-01T16:09:58.13"
+            },
+            {
+                "nav_date": "2025-07-30",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBRMGWP",
+                "net_asset": 161687824,
+                "last_val": 12.6726,
+                "previous_val": 0,
+                "sell_price": 12.6727,
+                "buy_price": 12.6726,
+                "sell_swap_price": 12.6726,
+                "buy_swap_price": 12.6727,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-03T16:09:04.327"
             }
         ]
     }

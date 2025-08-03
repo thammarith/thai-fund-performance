@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1753866765197,
-    "nextUpdate": 1753953165197,
+    "lastUpdate": 1754220415062,
+    "nextUpdate": 1754306815062,
     "data": {
-        "lastNav": "2025-07-25",
+        "lastNav": "2025-08-01",
         "fund": {
             "proj_id": "M0768_2555",
             "regis_id": "MF0748_2555",
@@ -44447,6 +44447,66 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-07-29T16:11:57.867"
+            },
+            {
+                "nav_date": "2025-07-29",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONEPROP-RMF",
+                "net_asset": 104396448,
+                "last_val": 8.8223,
+                "previous_val": 0,
+                "sell_price": 8.8224,
+                "buy_price": 8.8002,
+                "sell_swap_price": 8.8002,
+                "buy_swap_price": 8.8224,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-30T16:05:23.493"
+            },
+            {
+                "nav_date": "2025-07-30",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONEPROP-RMF",
+                "net_asset": 103327696,
+                "last_val": 8.8243,
+                "previous_val": 0,
+                "sell_price": 8.8244,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 8.8244,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-31T16:06:43.98"
+            },
+            {
+                "nav_date": "2025-07-31",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONEPROP-RMF",
+                "net_asset": 102755000,
+                "last_val": 8.7754,
+                "previous_val": 0,
+                "sell_price": 8.7755,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 8.7755,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-01T16:09:58.13"
+            },
+            {
+                "nav_date": "2025-08-01",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONEPROP-RMF",
+                "net_asset": 102585384,
+                "last_val": 8.7609,
+                "previous_val": 0,
+                "sell_price": 8.761,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 8.761,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-03T16:09:04.327"
             }
         ]
     }

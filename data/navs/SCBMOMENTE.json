@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1753866765197,
-    "nextUpdate": 1753953165197,
+    "lastUpdate": 1754220415062,
+    "nextUpdate": 1754306815062,
     "data": {
-        "lastNav": "2025-07-25",
+        "lastNav": "2025-08-01",
         "fund": {
             "proj_id": "M0536_2562",
             "regis_id": "MF0563_2562",
@@ -16502,6 +16502,66 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-07-29T16:11:57.867"
+            },
+            {
+                "nav_date": "2025-07-29",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBMOMENTE",
+                "net_asset": 500514.03,
+                "last_val": 7.1998,
+                "previous_val": 0,
+                "sell_price": 7.2038,
+                "buy_price": 7.1882,
+                "sell_swap_price": 7.1882,
+                "buy_swap_price": 7.2038,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-30T16:05:23.493"
+            },
+            {
+                "nav_date": "2025-07-30",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBMOMENTE",
+                "net_asset": 499012.78,
+                "last_val": 7.1698,
+                "previous_val": 0,
+                "sell_price": 7.1737,
+                "buy_price": 7.1583,
+                "sell_swap_price": 7.1583,
+                "buy_swap_price": 7.1737,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-31T16:06:43.98"
+            },
+            {
+                "nav_date": "2025-07-31",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBMOMENTE",
+                "net_asset": 501550.94,
+                "last_val": 7.1882,
+                "previous_val": 0,
+                "sell_price": 7.1921,
+                "buy_price": 7.1767,
+                "sell_swap_price": 7.1767,
+                "buy_swap_price": 7.1921,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-01T16:09:58.13"
+            },
+            {
+                "nav_date": "2025-08-01",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBMOMENTE",
+                "net_asset": 496752.41,
+                "last_val": 7.1164,
+                "previous_val": 0,
+                "sell_price": 7.1203,
+                "buy_price": 7.105,
+                "sell_swap_price": 7.105,
+                "buy_swap_price": 7.1203,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-03T16:09:04.327"
             }
         ]
     }

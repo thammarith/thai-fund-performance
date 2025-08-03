@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1753865012894,
-    "nextUpdate": 1753951412894,
+    "lastUpdate": 1754220415062,
+    "nextUpdate": 1754306815062,
     "data": {
-        "lastNav": "2025-07-25",
+        "lastNav": "2025-07-31",
         "fund": {
             "proj_id": "M0124_2561",
             "regis_id": "MF0137_2561",
@@ -14267,6 +14267,51 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-07-30T08:14:11.913"
+            },
+            {
+                "nav_date": "2025-07-29",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBCHEQP",
+                "net_asset": 0,
+                "last_val": 6.7619,
+                "previous_val": 0,
+                "sell_price": 6.762,
+                "buy_price": 6.7619,
+                "sell_swap_price": 6.7619,
+                "buy_swap_price": 6.762,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-31T16:06:43.98"
+            },
+            {
+                "nav_date": "2025-07-30",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBCHEQP",
+                "net_asset": 0,
+                "last_val": 6.6867,
+                "previous_val": 0,
+                "sell_price": 6.6868,
+                "buy_price": 6.6867,
+                "sell_swap_price": 6.6867,
+                "buy_swap_price": 6.6868,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-01T16:09:58.13"
+            },
+            {
+                "nav_date": "2025-07-31",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBCHEQP",
+                "net_asset": 0,
+                "last_val": 6.563,
+                "previous_val": 0,
+                "sell_price": 6.5631,
+                "buy_price": 6.563,
+                "sell_swap_price": 6.563,
+                "buy_swap_price": 6.5631,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-03T16:09:04.327"
             }
         ]
     }

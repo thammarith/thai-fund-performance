@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1753865012894,
-    "nextUpdate": 1753951412894,
+    "lastUpdate": 1754220415062,
+    "nextUpdate": 1754306815062,
     "data": {
-        "lastNav": "2025-07-25",
+        "lastNav": "2025-08-01",
         "fund": {
             "proj_id": "M0074_2558",
             "regis_id": "MF0171_2559",
@@ -3272,6 +3272,66 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-07-29T16:11:57.867"
+            },
+            {
+                "nav_date": "2025-07-29",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-JPX-A(A)",
+                "net_asset": 707579200,
+                "last_val": 23.3287,
+                "previous_val": 0,
+                "sell_price": 23.3521,
+                "buy_price": 23.2937,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-30T16:05:23.493"
+            },
+            {
+                "nav_date": "2025-07-30",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-JPX-A(A)",
+                "net_asset": 712443648,
+                "last_val": 23.4385,
+                "previous_val": 0,
+                "sell_price": 23.462,
+                "buy_price": 23.4033,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-31T16:06:43.98"
+            },
+            {
+                "nav_date": "2025-07-31",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-JPX-A(A)",
+                "net_asset": 716662528,
+                "last_val": 23.5942,
+                "previous_val": 0,
+                "sell_price": 23.6179,
+                "buy_price": 23.5588,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-01T16:09:58.13"
+            },
+            {
+                "nav_date": "2025-08-01",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-JPX-A(A)",
+                "net_asset": 721146176,
+                "last_val": 23.647,
+                "previous_val": 0,
+                "sell_price": 23.6707,
+                "buy_price": 23.6115,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-03T16:09:04.327"
             }
         ]
     }

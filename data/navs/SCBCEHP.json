@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1753866765197,
-    "nextUpdate": 1753953165197,
+    "lastUpdate": 1754220415062,
+    "nextUpdate": 1754306815062,
     "data": {
-        "lastNav": "2025-07-25",
+        "lastNav": "2025-08-01",
         "fund": {
             "proj_id": "M0155_2556",
             "regis_id": "MF0183_2556",
@@ -16517,6 +16517,66 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-07-29T16:11:57.867"
+            },
+            {
+                "nav_date": "2025-07-29",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBCEHP",
+                "net_asset": 0,
+                "last_val": 9.1076,
+                "previous_val": 0,
+                "sell_price": 9.115,
+                "buy_price": 9.1003,
+                "sell_swap_price": 9.1003,
+                "buy_swap_price": 9.115,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-30T16:05:23.493"
+            },
+            {
+                "nav_date": "2025-07-30",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBCEHP",
+                "net_asset": 0,
+                "last_val": 8.9953,
+                "previous_val": 0,
+                "sell_price": 9.0026,
+                "buy_price": 8.9881,
+                "sell_swap_price": 8.9881,
+                "buy_swap_price": 9.0026,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-31T16:06:43.98"
+            },
+            {
+                "nav_date": "2025-07-31",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBCEHP",
+                "net_asset": 29018844,
+                "last_val": 8.8557,
+                "previous_val": 0,
+                "sell_price": 8.8629,
+                "buy_price": 8.8486,
+                "sell_swap_price": 8.8486,
+                "buy_swap_price": 8.8629,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-01T16:09:58.13"
+            },
+            {
+                "nav_date": "2025-08-01",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBCEHP",
+                "net_asset": 28763522,
+                "last_val": 8.7778,
+                "previous_val": 0,
+                "sell_price": 8.7849,
+                "buy_price": 8.7708,
+                "sell_swap_price": 8.7708,
+                "buy_swap_price": 8.7849,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-03T16:09:04.327"
             }
         ]
     }

@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1753866765197,
-    "nextUpdate": 1753953165197,
+    "lastUpdate": 1754220415062,
+    "nextUpdate": 1754306815062,
     "data": {
-        "lastNav": "2025-07-25",
+        "lastNav": "2025-07-31",
         "fund": {
             "proj_id": "M0317_2565",
             "regis_id": "MF0220_2565",
@@ -4832,6 +4832,51 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-07-30T08:14:11.913"
+            },
+            {
+                "nav_date": "2025-07-29",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBRMWORLD(A)",
+                "net_asset": 392301536,
+                "last_val": 14.0968,
+                "previous_val": 0,
+                "sell_price": 14.0969,
+                "buy_price": 14.0968,
+                "sell_swap_price": 14.0968,
+                "buy_swap_price": 14.0969,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-31T16:06:43.98"
+            },
+            {
+                "nav_date": "2025-07-30",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBRMWORLD(A)",
+                "net_asset": 392566496,
+                "last_val": 14.0592,
+                "previous_val": 0,
+                "sell_price": 14.0593,
+                "buy_price": 14.0592,
+                "sell_swap_price": 14.0592,
+                "buy_swap_price": 14.0593,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-01T16:09:58.13"
+            },
+            {
+                "nav_date": "2025-07-31",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBRMWORLD(A)",
+                "net_asset": 391554912,
+                "last_val": 13.9823,
+                "previous_val": 0,
+                "sell_price": 13.9824,
+                "buy_price": 13.9823,
+                "sell_swap_price": 13.9823,
+                "buy_swap_price": 13.9824,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-03T16:09:04.327"
             }
         ]
     }

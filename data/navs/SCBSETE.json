@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1753865012894,
-    "nextUpdate": 1753951412894,
+    "lastUpdate": 1754220415062,
+    "nextUpdate": 1754306815062,
     "data": {
-        "lastNav": "2025-07-25",
+        "lastNav": "2025-08-01",
         "fund": {
             "proj_id": "M0026_2539",
             "regis_id": "045_2539",
@@ -16502,6 +16502,66 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-07-29T16:11:57.867"
+            },
+            {
+                "nav_date": "2025-07-29",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSETE",
+                "net_asset": 139954208,
+                "last_val": 18.0598,
+                "previous_val": 0,
+                "sell_price": 18.0599,
+                "buy_price": 18.0405,
+                "sell_swap_price": 18.0405,
+                "buy_swap_price": 18.0599,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-30T16:05:23.493"
+            },
+            {
+                "nav_date": "2025-07-30",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSETE",
+                "net_asset": 140063312,
+                "last_val": 18.2192,
+                "previous_val": 0,
+                "sell_price": 18.2193,
+                "buy_price": 18.1997,
+                "sell_swap_price": 18.1997,
+                "buy_swap_price": 18.2193,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-31T16:06:43.98"
+            },
+            {
+                "nav_date": "2025-07-31",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSETE",
+                "net_asset": 139693264,
+                "last_val": 18.1929,
+                "previous_val": 0,
+                "sell_price": 18.193,
+                "buy_price": 18.1734,
+                "sell_swap_price": 18.1734,
+                "buy_swap_price": 18.193,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-01T16:09:58.13"
+            },
+            {
+                "nav_date": "2025-08-01",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSETE",
+                "net_asset": 135573952,
+                "last_val": 17.8357,
+                "previous_val": 0,
+                "sell_price": 17.8358,
+                "buy_price": 17.8166,
+                "sell_swap_price": 17.8166,
+                "buy_swap_price": 17.8358,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-03T16:09:04.327"
             }
         ]
     }

@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1753866765197,
-    "nextUpdate": 1753953165197,
+    "lastUpdate": 1754220415062,
+    "nextUpdate": 1754306815062,
     "data": {
-        "lastNav": "2025-07-25",
+        "lastNav": "2025-08-01",
         "fund": {
             "proj_id": "M0529_2562",
             "regis_id": "MF0562_2562",
@@ -16502,6 +16502,66 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-07-29T16:11:57.867"
+            },
+            {
+                "nav_date": "2025-07-29",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBLARGEE",
+                "net_asset": 3434694.25,
+                "last_val": 9.6863,
+                "previous_val": 0,
+                "sell_price": 9.6916,
+                "buy_price": 9.6707,
+                "sell_swap_price": 9.6707,
+                "buy_swap_price": 9.6916,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-30T16:05:23.493"
+            },
+            {
+                "nav_date": "2025-07-30",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBLARGEE",
+                "net_asset": 3459059,
+                "last_val": 9.7498,
+                "previous_val": 0,
+                "sell_price": 9.7551,
+                "buy_price": 9.7342,
+                "sell_swap_price": 9.7342,
+                "buy_swap_price": 9.7551,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-31T16:06:43.98"
+            },
+            {
+                "nav_date": "2025-07-31",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBLARGEE",
+                "net_asset": 3120210.75,
+                "last_val": 9.7648,
+                "previous_val": 0,
+                "sell_price": 9.7701,
+                "buy_price": 9.7492,
+                "sell_swap_price": 9.7492,
+                "buy_swap_price": 9.7701,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-01T16:09:58.13"
+            },
+            {
+                "nav_date": "2025-08-01",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBLARGEE",
+                "net_asset": 2975687,
+                "last_val": 9.5554,
+                "previous_val": 0,
+                "sell_price": 9.5606,
+                "buy_price": 9.5401,
+                "sell_swap_price": 9.5401,
+                "buy_swap_price": 9.5606,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-03T16:09:04.327"
             }
         ]
     }

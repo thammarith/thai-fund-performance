@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1753865012894,
-    "nextUpdate": 1753951412894,
+    "lastUpdate": 1754220415062,
+    "nextUpdate": 1754306815062,
     "data": {
-        "lastNav": "2025-07-24",
+        "lastNav": "2025-07-30",
         "fund": {
             "proj_id": "M0059_2564",
             "regis_id": "MF0073_2564",
@@ -11897,6 +11897,36 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-07-30T08:14:11.913"
+            },
+            {
+                "nav_date": "2025-07-29",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBCLEANP",
+                "net_asset": 0,
+                "last_val": 4.0383,
+                "previous_val": 0,
+                "sell_price": 4.0384,
+                "buy_price": 4.0383,
+                "sell_swap_price": 4.0383,
+                "buy_swap_price": 4.0384,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-01T16:09:58.13"
+            },
+            {
+                "nav_date": "2025-07-30",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBCLEANP",
+                "net_asset": 0,
+                "last_val": 3.999,
+                "previous_val": 0,
+                "sell_price": 3.9991,
+                "buy_price": 3.999,
+                "sell_swap_price": 3.999,
+                "buy_swap_price": 3.9991,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-03T16:09:04.327"
             }
         ]
     }

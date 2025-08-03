@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1753866765197,
-    "nextUpdate": 1753953165197,
+    "lastUpdate": 1754220415062,
+    "nextUpdate": 1754306815062,
     "data": {
-        "lastNav": "2025-07-25",
+        "lastNav": "2025-08-01",
         "fund": {
             "proj_id": "M0155_2556",
             "regis_id": "MF0183_2556",
@@ -16517,6 +16517,66 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-07-29T16:11:57.867"
+            },
+            {
+                "nav_date": "2025-07-29",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBCEHE",
+                "net_asset": 67273824,
+                "last_val": 9.6465,
+                "previous_val": 0,
+                "sell_price": 9.6543,
+                "buy_price": 9.6285,
+                "sell_swap_price": 9.6285,
+                "buy_swap_price": 9.6543,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-30T16:05:23.493"
+            },
+            {
+                "nav_date": "2025-07-30",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBCEHE",
+                "net_asset": 67954392,
+                "last_val": 9.5276,
+                "previous_val": 0,
+                "sell_price": 9.5353,
+                "buy_price": 9.5098,
+                "sell_swap_price": 9.5098,
+                "buy_swap_price": 9.5353,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-07-31T16:06:43.98"
+            },
+            {
+                "nav_date": "2025-07-31",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBCEHE",
+                "net_asset": 67125584,
+                "last_val": 9.3797,
+                "previous_val": 0,
+                "sell_price": 9.3873,
+                "buy_price": 9.3622,
+                "sell_swap_price": 9.3622,
+                "buy_swap_price": 9.3873,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-01T16:09:58.13"
+            },
+            {
+                "nav_date": "2025-08-01",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBCEHE",
+                "net_asset": 66702220,
+                "last_val": 9.2971,
+                "previous_val": 0,
+                "sell_price": 9.3046,
+                "buy_price": 9.2798,
+                "sell_swap_price": 9.2798,
+                "buy_swap_price": 9.3046,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-03T16:09:04.327"
             }
         ]
     }
