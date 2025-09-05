@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1754220415062,
-    "nextUpdate": 1754306815062,
+    "lastUpdate": 1757090598483,
+    "nextUpdate": 1757176998483,
     "data": {
-        "lastNav": "2025-07-31",
+        "lastNav": "2025-08-29",
         "fund": {
             "proj_id": "M0488_2568",
             "regis_id": "MF0285_2568",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2025-07-30T08:09:12.753"
+            "last_upd_date": "2025-09-05T16:10:12.523"
         },
         "navs": [
             {
@@ -62,6 +62,21 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-08-03T16:09:04.327"
+            },
+            {
+                "nav_date": "2025-08-29",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GB6MCC",
+                "net_asset": 6480432128,
+                "last_val": 10.0441,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-09-05T16:05:25.647"
             }
         ]
     }
