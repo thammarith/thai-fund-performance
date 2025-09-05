@@ -1,0 +1,113 @@
+{
+    "lastUpdate": 1757090598483,
+    "nextUpdate": 1757176998483,
+    "data": {
+        "lastNav": "2025-08-27",
+        "fund": {
+            "proj_id": "M0540_2568",
+            "regis_id": "MF0461_2568",
+            "regis_date": "2025-08-27",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิดไทยพาณิชย์ Short Term Yield USD",
+            "proj_name_en": "SCB Short Term Yield USD",
+            "proj_abbr_name": "SCBUSDYIELD",
+            "fund_status": "RG",
+            "unique_id": "C0000000239",
+            "permit_us_investment": null,
+            "invest_country_flag": "1",
+            "last_upd_date": "2025-09-05T16:10:12.523"
+        },
+        "navs": [
+            {
+                "nav_date": "2025-08-27",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBUSDYIELD",
+                "net_asset": 3755468.5,
+                "last_val": 9.9998,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-29T16:04:40.147"
+            },
+            {
+                "nav_date": "2025-08-28",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBUSDYIELD",
+                "net_asset": 3755845.75,
+                "last_val": 10.0008,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-09-01T16:07:54.06"
+            },
+            {
+                "nav_date": "2025-08-29",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBUSDYIELD",
+                "net_asset": 3756228.5,
+                "last_val": 10.0019,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-09-02T21:08:42.35"
+            },
+            {
+                "nav_date": "2025-09-01",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBUSDYIELD",
+                "net_asset": 3756038,
+                "last_val": 10.0014,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-09-03T16:06:21.81"
+            },
+            {
+                "nav_date": "2025-09-02",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBUSDYIELD",
+                "net_asset": 3757758,
+                "last_val": 10.0059,
+                "previous_val": 0,
+                "sell_price": 10.006,
+                "buy_price": 10.0059,
+                "sell_swap_price": 10.0059,
+                "buy_swap_price": 10.006,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-09-04T16:10:12.2"
+            },
+            {
+                "nav_date": "2025-09-03",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBUSDYIELD",
+                "net_asset": 4218264.5,
+                "last_val": 10.007,
+                "previous_val": 0,
+                "sell_price": 10.0071,
+                "buy_price": 10.007,
+                "sell_swap_price": 10.007,
+                "buy_swap_price": 10.0071,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-09-05T16:05:25.647"
+            }
+        ]
+    }
+}
