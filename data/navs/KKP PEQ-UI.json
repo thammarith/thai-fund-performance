@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1753866765197,
-    "nextUpdate": 1753953165197,
+    "lastUpdate": 1757090598483,
+    "nextUpdate": 1757176998483,
     "data": {
-        "lastNav": "2025-06-30",
+        "lastNav": "2025-08-29",
         "fund": {
             "proj_id": "M0578_2567",
             "regis_id": "MF0531_2567",
@@ -15,7 +15,7 @@
             "unique_id": "C0000005025",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-07-30T08:09:12.753"
+            "last_upd_date": "2025-09-05T16:10:12.523"
         },
         "navs": [
             {
@@ -92,6 +92,21 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-07-30T08:14:11.913"
+            },
+            {
+                "nav_date": "2025-08-29",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP PEQ-UI",
+                "net_asset": 3090625792,
+                "last_val": 10.4546,
+                "previous_val": 0,
+                "sell_price": 10.6638,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-09-05T16:05:25.647"
             }
         ]
     }

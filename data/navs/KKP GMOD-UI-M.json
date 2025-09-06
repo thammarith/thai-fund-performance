@@ -1,0 +1,53 @@
+{
+    "lastUpdate": 1757090598483,
+    "nextUpdate": 1757176998483,
+    "data": {
+        "lastNav": "2025-08-29",
+        "fund": {
+            "proj_id": "M0717_2568",
+            "regis_id": "MF0470_2568",
+            "regis_date": "2025-08-29",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิดเคเคพี โกลบอล โมเดอเรท อโลเคชั่น ห้ามขายผู้ลงทุนรายย่อย",
+            "proj_name_en": "KKP GLOBAL MODERATE ALLOCATION FUND NOT FOR RETAIL INVESTORS",
+            "proj_abbr_name": "KKP GMOD-UI FUND",
+            "fund_status": "RG",
+            "unique_id": "C0000005025",
+            "permit_us_investment": null,
+            "invest_country_flag": "1",
+            "last_upd_date": "2025-09-05T16:10:12.523"
+        },
+        "navs": [
+            {
+                "nav_date": "2025-08-29",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP GMOD-UI-M",
+                "net_asset": 213965072,
+                "last_val": 9.9996,
+                "previous_val": 0,
+                "sell_price": 9.9997,
+                "buy_price": 9.9996,
+                "sell_swap_price": 9.9996,
+                "buy_swap_price": 9.9997,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-09-04T16:10:12.2"
+            },
+            {
+                "nav_date": "2025-09-02",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP GMOD-UI-M",
+                "net_asset": 213014528,
+                "last_val": 9.9551,
+                "previous_val": 0,
+                "sell_price": 9.9552,
+                "buy_price": 9.9551,
+                "sell_swap_price": 9.9551,
+                "buy_swap_price": 9.9552,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-09-05T16:05:25.647"
+            }
+        ]
+    }
+}

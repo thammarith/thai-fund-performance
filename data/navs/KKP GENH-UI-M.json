@@ -1,0 +1,53 @@
+{
+    "lastUpdate": 1757090598483,
+    "nextUpdate": 1757176998483,
+    "data": {
+        "lastNav": "2025-08-29",
+        "fund": {
+            "proj_id": "M0730_2568",
+            "regis_id": "MF0475_2568",
+            "regis_date": "2025-08-29",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิดเคเคพี โกลบอล เอ็นแฮนซ์ อินคัม ห้ามขายผู้ลงทุนรายย่อย",
+            "proj_name_en": "KKP GLOBAL ENHANCED INCOME FUND NOT FOR RETAIL INVESTORS",
+            "proj_abbr_name": "KKP GENH-UI FUND",
+            "fund_status": "RG",
+            "unique_id": "C0000005025",
+            "permit_us_investment": null,
+            "invest_country_flag": "1",
+            "last_upd_date": "2025-09-05T16:10:12.523"
+        },
+        "navs": [
+            {
+                "nav_date": "2025-08-29",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP GENH-UI-M",
+                "net_asset": 157822112,
+                "last_val": 9.998,
+                "previous_val": 0,
+                "sell_price": 9.9981,
+                "buy_price": 9.998,
+                "sell_swap_price": 9.998,
+                "buy_swap_price": 9.9981,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-09-04T16:10:12.2"
+            },
+            {
+                "nav_date": "2025-09-02",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP GENH-UI-M",
+                "net_asset": 157055488,
+                "last_val": 9.9494,
+                "previous_val": 0,
+                "sell_price": 9.9495,
+                "buy_price": 9.9494,
+                "sell_swap_price": 9.9494,
+                "buy_swap_price": 9.9495,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-09-05T16:05:25.647"
+            }
+        ]
+    }
+}

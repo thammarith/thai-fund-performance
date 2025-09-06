@@ -1,0 +1,53 @@
+{
+    "lastUpdate": 1757090598483,
+    "nextUpdate": 1757176998483,
+    "data": {
+        "lastNav": "2025-08-29",
+        "fund": {
+            "proj_id": "M0726_2568",
+            "regis_id": "MF0474_2568",
+            "regis_date": "2025-08-29",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิดเคเคพี โกลบอล คอร์ อินคัม ห้ามขายผู้ลงทุนรายย่อย",
+            "proj_name_en": "KKP GLOBAL CORE INCOME FUND NOT FOR RETAIL INVESTORS",
+            "proj_abbr_name": "KKP GCORE-UI FUND",
+            "fund_status": "RG",
+            "unique_id": "C0000005025",
+            "permit_us_investment": null,
+            "invest_country_flag": "1",
+            "last_upd_date": "2025-09-05T16:10:12.523"
+        },
+        "navs": [
+            {
+                "nav_date": "2025-08-29",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP GCORE-UI-M",
+                "net_asset": 406896032,
+                "last_val": 10.0022,
+                "previous_val": 0,
+                "sell_price": 10.0023,
+                "buy_price": 10.0022,
+                "sell_swap_price": 10.0022,
+                "buy_swap_price": 10.0023,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-09-04T16:10:12.2"
+            },
+            {
+                "nav_date": "2025-09-02",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP GCORE-UI-M",
+                "net_asset": 406090080,
+                "last_val": 9.9824,
+                "previous_val": 0,
+                "sell_price": 9.9825,
+                "buy_price": 9.9824,
+                "sell_swap_price": 9.9824,
+                "buy_swap_price": 9.9825,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-09-05T16:05:25.647"
+            }
+        ]
+    }
+}

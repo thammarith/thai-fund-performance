@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1753866765197,
-    "nextUpdate": 1753953165197,
+    "lastUpdate": 1757090598483,
+    "nextUpdate": 1757176998483,
     "data": {
-        "lastNav": "2025-07-15",
+        "lastNav": "2025-08-29",
         "fund": {
             "proj_id": "M0404_2565",
             "regis_id": "MF0189_2566",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000569",
             "permit_us_investment": null,
             "invest_country_flag": "4",
-            "last_upd_date": "2025-07-30T08:09:12.753"
+            "last_upd_date": "2025-09-05T16:10:12.523"
         },
         "navs": [
             {
@@ -662,6 +662,36 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-07-18T16:05:46.223"
+            },
+            {
+                "nav_date": "2025-08-15",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-COMPLEXRETURN",
+                "net_asset": 155911840,
+                "last_val": 10.033,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-08-20T16:04:42.563"
+            },
+            {
+                "nav_date": "2025-08-29",
+                "unique_id": "C0000000569",
+                "class_abbr_name": "ONE-COMPLEXRETURN",
+                "net_asset": 155783808,
+                "last_val": 10.0247,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-09-03T16:06:21.81"
             }
         ]
     }
