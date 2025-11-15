@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1734433281934,
-    "nextUpdate": 1734518851283,
+    "lastUpdate": 1763141357287,
+    "nextUpdate": 1763227757287,
     "data": {
-        "lastNav": "2024-11-04",
+        "lastNav": "2025-10-01",
         "fund": {
             "proj_id": "M0214_2567",
             "regis_id": "MF0255_2567",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2024-12-17T16:03:03.58"
+            "last_upd_date": "2025-11-14T09:39:17.42"
         },
         "navs": [
             {
@@ -47,6 +47,21 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2024-12-17T16:07:18.81"
+            },
+            {
+                "nav_date": "2025-10-01",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GPEQ-UI",
+                "net_asset": 1169501568,
+                "last_val": 10.8644,
+                "previous_val": 0,
+                "sell_price": 11.0818,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-11-14T09:38:21.393"
             }
         ]
     }

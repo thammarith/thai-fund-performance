@@ -1,0 +1,38 @@
+{
+    "lastUpdate": 1763141357287,
+    "nextUpdate": 1763227757287,
+    "data": {
+        "lastNav": "2025-10-31",
+        "fund": {
+            "proj_id": "M0985_2568",
+            "regis_id": "MF0581_2568",
+            "regis_date": "2025-10-28",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิดเค พันธบัตร 6 เดือน CO",
+            "proj_name_en": "K Government Bond 6 Months CO Fund",
+            "proj_abbr_name": "K-GB6MCO",
+            "fund_status": "RG",
+            "unique_id": "C0000000021",
+            "permit_us_investment": null,
+            "invest_country_flag": "3",
+            "last_upd_date": "2025-11-14T09:39:17.42"
+        },
+        "navs": [
+            {
+                "nav_date": "2025-10-31",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GB6MCO",
+                "net_asset": 2128934144,
+                "last_val": 10.0003,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-11-14T09:38:21.393"
+            }
+        ]
+    }
+}

@@ -1,49 +1,7 @@
 {
-    "lastUpdate": 1757090598483,
-    "nextUpdate": 1759682598486,
+    "lastUpdate": 1763141357287,
+    "nextUpdate": 1765733357290,
     "data": [
-        {
-            "proj_id": "M0096_2559",
-            "regis_id": null,
-            "regis_date": "-",
-            "cancel_date": "-",
-            "proj_name_th": "กองทุนเปิดเมย์แบงก์ ยูโรเปียน สมอลเลอร์ คอมพานี",
-            "proj_name_en": "Maybank Ultimate Global Growth Fund",
-            "proj_abbr_name": "M-EUR",
-            "fund_status": "EX",
-            "unique_id": "C0000006466",
-            "permit_us_investment": null,
-            "invest_country_flag": "1",
-            "last_upd_date": "2025-09-05T16:10:12.523"
-        },
-        {
-            "proj_id": "M0159_2558",
-            "regis_id": "MF0326_2558",
-            "regis_date": "2015-06-05",
-            "cancel_date": "2016-06-24",
-            "proj_name_th": "กองทุนเปิดเมย์แบงก์ โกลบอล แอบโซลูท รีเทิร์น",
-            "proj_name_en": "Maybank Global Absolute Return Fund",
-            "proj_abbr_name": "M-GARS",
-            "fund_status": "LI",
-            "unique_id": "C0000006466",
-            "permit_us_investment": null,
-            "invest_country_flag": "1",
-            "last_upd_date": "2025-09-05T16:10:12.523"
-        },
-        {
-            "proj_id": "M0486_2558",
-            "regis_id": "MF0510_2558",
-            "regis_date": "2015-10-02",
-            "cancel_date": "2016-05-26",
-            "proj_name_th": "กองทุนเปิดเมย์แบงก์ ยูเอส แอคทีฟ อิควิตี้",
-            "proj_name_en": "Maybank US Active Equity Fund",
-            "proj_abbr_name": "M-USA",
-            "fund_status": "LI",
-            "unique_id": "C0000006466",
-            "permit_us_investment": null,
-            "invest_country_flag": "1",
-            "last_upd_date": "2025-09-05T16:10:12.523"
-        },
         {
             "proj_id": "M0513_2559",
             "regis_id": "MF0474_2559",
@@ -56,35 +14,7 @@
             "unique_id": "C0000006466",
             "permit_us_investment": "N",
             "invest_country_flag": "3",
-            "last_upd_date": "2025-09-05T16:10:12.523"
-        },
-        {
-            "proj_id": "M0554_2553",
-            "regis_id": "629_2553",
-            "regis_date": "2010-09-23",
-            "cancel_date": "2016-06-06",
-            "proj_name_th": "กองทุนเปิดกิมเอ็งบริหารเงิน",
-            "proj_name_en": "Kim Eng Cash Management Fund",
-            "proj_abbr_name": "KECASH",
-            "fund_status": "LI",
-            "unique_id": "C0000006466",
-            "permit_us_investment": null,
-            "invest_country_flag": "3",
-            "last_upd_date": "2025-09-05T16:10:12.523"
-        },
-        {
-            "proj_id": "M0590_2558",
-            "regis_id": null,
-            "regis_date": "-",
-            "cancel_date": "2015-12-03",
-            "proj_name_th": "กองทุนเปิดเมย์แบงก์ ไดนามิค โกลบอล ไฮยิลด์",
-            "proj_name_en": "Maybank Dynamic Global High Yield Fund",
-            "proj_abbr_name": "M-HY",
-            "fund_status": "EX",
-            "unique_id": "C0000006466",
-            "permit_us_investment": null,
-            "invest_country_flag": "1",
-            "last_upd_date": "2025-09-05T16:10:12.523"
+            "last_upd_date": "2025-11-14T09:39:17.42"
         },
         {
             "proj_id": "M0612_2559",
@@ -98,7 +28,21 @@
             "unique_id": "C0000006466",
             "permit_us_investment": "N",
             "invest_country_flag": "3",
-            "last_upd_date": "2025-09-05T16:10:12.523"
+            "last_upd_date": "2025-11-14T09:39:17.42"
+        },
+        {
+            "proj_id": "M0554_2553",
+            "regis_id": "629_2553",
+            "regis_date": "2010-09-23",
+            "cancel_date": "2016-06-06",
+            "proj_name_th": "กองทุนเปิดกิมเอ็งบริหารเงิน",
+            "proj_name_en": "Kim Eng Cash Management Fund",
+            "proj_abbr_name": "KECASH",
+            "fund_status": "LI",
+            "unique_id": "C0000006466",
+            "permit_us_investment": null,
+            "invest_country_flag": "3",
+            "last_upd_date": "2025-11-14T09:39:17.42"
         },
         {
             "proj_id": "M0665_2557",
@@ -112,49 +56,7 @@
             "unique_id": "C0000006466",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2025-09-05T16:10:12.523"
-        },
-        {
-            "proj_id": "M0708_2557",
-            "regis_id": "MF0668_2557",
-            "regis_date": "2014-10-02",
-            "cancel_date": "2016-05-19",
-            "proj_name_th": "กองทุนเปิดเมย์แบงก์ ตลาดเงิน",
-            "proj_name_en": "Maybank Money Market Fund",
-            "proj_abbr_name": "M-MMF",
-            "fund_status": "LI",
-            "unique_id": "C0000006466",
-            "permit_us_investment": null,
-            "invest_country_flag": "2",
-            "last_upd_date": "2025-09-05T16:10:12.523"
-        },
-        {
-            "proj_id": "M0750_2557",
-            "regis_id": "MF0831_2557",
-            "regis_date": "2014-12-09",
-            "cancel_date": "2016-05-23",
-            "proj_name_th": "กองทุนเปิดเมย์แบงก์ ยูเอส อีทีเอฟ",
-            "proj_name_en": "Maybank US ETF",
-            "proj_abbr_name": "MUS",
-            "fund_status": "LI",
-            "unique_id": "C0000006466",
-            "permit_us_investment": null,
-            "invest_country_flag": "1",
-            "last_upd_date": "2025-09-05T16:10:12.523"
-        },
-        {
-            "proj_id": "M0751_2557",
-            "regis_id": "MF0829_2557",
-            "regis_date": "2014-12-09",
-            "cancel_date": "2016-06-15",
-            "proj_name_th": "กองทุนเปิดเมย์แบงก์ ยูโร อีทีเอฟ",
-            "proj_name_en": "Maybank Euro ETF",
-            "proj_abbr_name": "MEU",
-            "fund_status": "LI",
-            "unique_id": "C0000006466",
-            "permit_us_investment": null,
-            "invest_country_flag": "1",
-            "last_upd_date": "2025-09-05T16:10:12.523"
+            "last_upd_date": "2025-11-14T09:39:17.42"
         },
         {
             "proj_id": "M0752_2557",
@@ -168,7 +70,63 @@
             "unique_id": "C0000006466",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-09-05T16:10:12.523"
+            "last_upd_date": "2025-11-14T09:39:17.42"
+        },
+        {
+            "proj_id": "M0751_2557",
+            "regis_id": "MF0829_2557",
+            "regis_date": "2014-12-09",
+            "cancel_date": "2016-06-15",
+            "proj_name_th": "กองทุนเปิดเมย์แบงก์ ยูโร อีทีเอฟ",
+            "proj_name_en": "Maybank Euro ETF",
+            "proj_abbr_name": "MEU",
+            "fund_status": "LI",
+            "unique_id": "C0000006466",
+            "permit_us_investment": null,
+            "invest_country_flag": "1",
+            "last_upd_date": "2025-11-14T09:39:17.42"
+        },
+        {
+            "proj_id": "M0096_2559",
+            "regis_id": null,
+            "regis_date": "-",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิดเมย์แบงก์ ยูโรเปียน สมอลเลอร์ คอมพานี",
+            "proj_name_en": "Maybank Ultimate Global Growth Fund",
+            "proj_abbr_name": "M-EUR",
+            "fund_status": "EX",
+            "unique_id": "C0000006466",
+            "permit_us_investment": null,
+            "invest_country_flag": "1",
+            "last_upd_date": "2025-11-14T09:39:17.42"
+        },
+        {
+            "proj_id": "M0159_2558",
+            "regis_id": "MF0326_2558",
+            "regis_date": "2015-06-05",
+            "cancel_date": "2016-06-24",
+            "proj_name_th": "กองทุนเปิดเมย์แบงก์ โกลบอล แอบโซลูท รีเทิร์น",
+            "proj_name_en": "Maybank Global Absolute Return Fund",
+            "proj_abbr_name": "M-GARS",
+            "fund_status": "LI",
+            "unique_id": "C0000006466",
+            "permit_us_investment": null,
+            "invest_country_flag": "1",
+            "last_upd_date": "2025-11-14T09:39:17.42"
+        },
+        {
+            "proj_id": "M0590_2558",
+            "regis_id": null,
+            "regis_date": "-",
+            "cancel_date": "2015-12-03",
+            "proj_name_th": "กองทุนเปิดเมย์แบงก์ ไดนามิค โกลบอล ไฮยิลด์",
+            "proj_name_en": "Maybank Dynamic Global High Yield Fund",
+            "proj_abbr_name": "M-HY",
+            "fund_status": "EX",
+            "unique_id": "C0000006466",
+            "permit_us_investment": null,
+            "invest_country_flag": "1",
+            "last_upd_date": "2025-11-14T09:39:17.42"
         },
         {
             "proj_id": "M0753_2557",
@@ -182,7 +140,49 @@
             "unique_id": "C0000006466",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-09-05T16:10:12.523"
+            "last_upd_date": "2025-11-14T09:39:17.42"
+        },
+        {
+            "proj_id": "M0708_2557",
+            "regis_id": "MF0668_2557",
+            "regis_date": "2014-10-02",
+            "cancel_date": "2016-05-19",
+            "proj_name_th": "กองทุนเปิดเมย์แบงก์ ตลาดเงิน",
+            "proj_name_en": "Maybank Money Market Fund",
+            "proj_abbr_name": "M-MMF",
+            "fund_status": "LI",
+            "unique_id": "C0000006466",
+            "permit_us_investment": null,
+            "invest_country_flag": "2",
+            "last_upd_date": "2025-11-14T09:39:17.42"
+        },
+        {
+            "proj_id": "M0750_2557",
+            "regis_id": "MF0831_2557",
+            "regis_date": "2014-12-09",
+            "cancel_date": "2016-05-23",
+            "proj_name_th": "กองทุนเปิดเมย์แบงก์ ยูเอส อีทีเอฟ",
+            "proj_name_en": "Maybank US ETF",
+            "proj_abbr_name": "MUS",
+            "fund_status": "LI",
+            "unique_id": "C0000006466",
+            "permit_us_investment": null,
+            "invest_country_flag": "1",
+            "last_upd_date": "2025-11-14T09:39:17.42"
+        },
+        {
+            "proj_id": "M0486_2558",
+            "regis_id": "MF0510_2558",
+            "regis_date": "2015-10-02",
+            "cancel_date": "2016-05-26",
+            "proj_name_th": "กองทุนเปิดเมย์แบงก์ ยูเอส แอคทีฟ อิควิตี้",
+            "proj_name_en": "Maybank US Active Equity Fund",
+            "proj_abbr_name": "M-USA",
+            "fund_status": "LI",
+            "unique_id": "C0000006466",
+            "permit_us_investment": null,
+            "invest_country_flag": "1",
+            "last_upd_date": "2025-11-14T09:39:17.42"
         }
     ]
 }

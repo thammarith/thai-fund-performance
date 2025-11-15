@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1757090598483,
-    "nextUpdate": 1757176998483,
+    "lastUpdate": 1763141357287,
+    "nextUpdate": 1763227757287,
     "data": {
-        "lastNav": "2025-08-31",
+        "lastNav": "2025-09-30",
         "fund": {
             "proj_id": "M0110_2568",
             "regis_id": "MF0367_2568",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-09-05T16:10:12.523"
+            "last_upd_date": "2025-11-14T09:39:17.42"
         },
         "navs": [
             {
@@ -32,6 +32,21 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-09-05T16:05:25.647"
+            },
+            {
+                "nav_date": "2025-09-30",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-CHINNO25A-UI",
+                "net_asset": 500894144,
+                "last_val": 9.9885,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-11-14T09:38:21.393"
             }
         ]
     }
