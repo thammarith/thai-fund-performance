@@ -1,0 +1,68 @@
+{
+    "lastUpdate": 1763183461476,
+    "nextUpdate": 1763269861476,
+    "data": {
+        "lastNav": "2025-11-11",
+        "fund": {
+            "proj_id": "M1007_2568",
+            "regis_id": "MF0599_2568",
+            "regis_date": "2025-11-11",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิดไทยพาณิชย์ตราสารภาครัฐ 3 เดือน 71",
+            "proj_name_en": "SCB Sovereign Bond 3M71",
+            "proj_abbr_name": "SCBSB3M71",
+            "fund_status": "RG",
+            "unique_id": "C0000000239",
+            "permit_us_investment": null,
+            "invest_country_flag": "3",
+            "last_upd_date": "2025-11-14T09:39:17.42"
+        },
+        "navs": [
+            {
+                "nav_date": "2025-11-11",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSB3M71",
+                "net_asset": 2606397696,
+                "last_val": 10.0016,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-11-12T16:10:36.647"
+            },
+            {
+                "nav_date": "2025-11-12",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSB3M71",
+                "net_asset": 2607843584,
+                "last_val": 10.0071,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-11-13T08:16:14.42"
+            },
+            {
+                "nav_date": "2025-11-13",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSB3M71",
+                "net_asset": 2608675584,
+                "last_val": 10.0103,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-11-14T16:58:54.717"
+            }
+        ]
+    }
+}

@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1757090598483,
-    "nextUpdate": 1757176998483,
+    "lastUpdate": 1763183461476,
+    "nextUpdate": 1763269861476,
     "data": {
-        "lastNav": "2025-08-29",
+        "lastNav": "2025-10-31",
         "fund": {
             "proj_id": "M0371_2565",
             "regis_id": "MF0296_2565",
@@ -15,7 +15,7 @@
             "unique_id": "C0000005025",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-09-05T16:10:12.523"
+            "last_upd_date": "2025-11-14T09:39:17.42"
         },
         "navs": [
             {
@@ -437,6 +437,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-09-05T16:05:25.647"
+            },
+            {
+                "nav_date": "2025-09-26",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP PREIT-UI-R",
+                "net_asset": 148623808,
+                "last_val": 8.6655,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 8.4922,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-10-03T16:07:06.887"
+            },
+            {
+                "nav_date": "2025-09-29",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP PREIT-UI-R",
+                "net_asset": 148845984,
+                "last_val": 8.6785,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 8.5049,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-10-03T16:07:06.887"
+            },
+            {
+                "nav_date": "2025-09-30",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP PREIT-UI-R",
+                "net_asset": 149294176,
+                "last_val": 8.7046,
+                "previous_val": 0,
+                "sell_price": 8.8135,
+                "buy_price": 8.5305,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-11-03T16:07:47.003"
+            },
+            {
+                "nav_date": "2025-10-01",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP PREIT-UI-R",
+                "net_asset": 149481136,
+                "last_val": 8.7478,
+                "previous_val": 0,
+                "sell_price": 8.8572,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-11-04T16:06:34.707"
+            },
+            {
+                "nav_date": "2025-10-29",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP PREIT-UI-R",
+                "net_asset": 149137008,
+                "last_val": 8.7276,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 8.553,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-11-05T16:10:55.16"
+            },
+            {
+                "nav_date": "2025-10-30",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP PREIT-UI-R",
+                "net_asset": 149622736,
+                "last_val": 8.756,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 8.5809,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-11-05T16:10:55.16"
+            },
+            {
+                "nav_date": "2025-10-31",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP PREIT-UI-R",
+                "net_asset": 149397680,
+                "last_val": 8.7429,
+                "previous_val": 0,
+                "sell_price": 8.8523,
+                "buy_price": 8.568,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-11-14T16:58:54.717"
             }
         ]
     }
