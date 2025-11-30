@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1763183461476,
-    "nextUpdate": 1763269861476,
+    "lastUpdate": 1764473759562,
+    "nextUpdate": 1764560159562,
     "data": {
-        "lastNav": "2025-10-31",
+        "lastNav": "2025-11-28",
         "fund": {
             "proj_id": "M0557_2568",
             "regis_id": "MF0330_2568",
@@ -92,6 +92,21 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-11-14T16:58:54.717"
+            },
+            {
+                "nav_date": "2025-11-28",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-GB6MCE",
+                "net_asset": 4837913088,
+                "last_val": 10.0639,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-11-30T07:09:45.723"
             }
         ]
     }

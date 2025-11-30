@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1763183461476,
-    "nextUpdate": 1763269861476,
+    "lastUpdate": 1764473759562,
+    "nextUpdate": 1764560159562,
     "data": {
-        "lastNav": "2025-11-13",
+        "lastNav": "2025-11-20",
         "fund": {
             "proj_id": "M0545_2568",
             "regis_id": "MF0320_2568",
@@ -1637,6 +1637,66 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-11-14T16:58:54.717"
+            },
+            {
+                "nav_date": "2025-11-17",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSB6M38",
+                "net_asset": 990363200,
+                "last_val": 10.0744,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-11-18T15:07:25.63"
+            },
+            {
+                "nav_date": "2025-11-18",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSB6M38",
+                "net_asset": 988148352,
+                "last_val": 10.0519,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-11-19T15:09:08.133"
+            },
+            {
+                "nav_date": "2025-11-19",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSB6M38",
+                "net_asset": 985542144,
+                "last_val": 10.0254,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-11-20T15:06:42.74"
+            },
+            {
+                "nav_date": "2025-11-20",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSB6M38",
+                "net_asset": 989424960,
+                "last_val": 10.0649,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 10.0649,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-11-21T15:05:30.35"
             }
         ]
     }
