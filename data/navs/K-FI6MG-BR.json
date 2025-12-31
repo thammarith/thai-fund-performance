@@ -1,0 +1,38 @@
+{
+    "lastUpdate": 1767154634967,
+    "nextUpdate": 1767241034967,
+    "data": {
+        "lastNav": "2025-12-30",
+        "fund": {
+            "proj_id": "M1102_2568",
+            "regis_id": "MF0659_2568",
+            "regis_date": "2025-12-09",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิดเค ตราสารหนี้ 6 เดือน G ห้ามขายผู้ลงทุนรายย่อย",
+            "proj_name_en": "K Fixed Income 6 Months G Fund Not for Retail Investors",
+            "proj_abbr_name": "K-FI6MG-BR",
+            "fund_status": "RG",
+            "unique_id": "C0000000021",
+            "permit_us_investment": null,
+            "invest_country_flag": "4",
+            "last_upd_date": "2025-12-31T07:12:31.313"
+        },
+        "navs": [
+            {
+                "nav_date": "2025-12-30",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-FI6MG-BR",
+                "net_asset": 1901200128,
+                "last_val": 10.0138,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-12-31T07:12:10.3"
+            }
+        ]
+    }
+}

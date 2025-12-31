@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1764473759562,
-    "nextUpdate": 1764560159562,
+    "lastUpdate": 1767154634967,
+    "nextUpdate": 1767241034967,
     "data": {
-        "lastNav": "2025-11-28",
+        "lastNav": "2025-12-11",
         "fund": {
             "proj_id": "M0705_2548",
             "regis_id": "203_2548",
@@ -15,7 +15,7 @@
             "unique_id": "C0000000021",
             "permit_us_investment": null,
             "invest_country_flag": "3",
-            "last_upd_date": "2025-11-14T09:39:17.42"
+            "last_upd_date": "2025-12-31T07:12:31.313"
         },
         "navs": [
             {
@@ -71177,6 +71177,111 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-11-30T07:09:45.723"
+            },
+            {
+                "nav_date": "2025-12-01",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-CASH",
+                "net_asset": 57698230272,
+                "last_val": 13.9189,
+                "previous_val": 0,
+                "sell_price": 13.919,
+                "buy_price": 13.9189,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-12-02T21:08:37.4"
+            },
+            {
+                "nav_date": "2025-12-02",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-CASH",
+                "net_asset": 57652359168,
+                "last_val": 13.9195,
+                "previous_val": 0,
+                "sell_price": 13.9196,
+                "buy_price": 13.9195,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-12-03T15:05:37.223"
+            },
+            {
+                "nav_date": "2025-12-03",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-CASH",
+                "net_asset": 57565761536,
+                "last_val": 13.9199,
+                "previous_val": 0,
+                "sell_price": 13.92,
+                "buy_price": 13.9199,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-12-04T15:08:50.833"
+            },
+            {
+                "nav_date": "2025-12-04",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-CASH",
+                "net_asset": 57649815552,
+                "last_val": 13.9203,
+                "previous_val": 0,
+                "sell_price": 13.9204,
+                "buy_price": 13.9203,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-12-08T15:05:40.89"
+            },
+            {
+                "nav_date": "2025-12-08",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-CASH",
+                "net_asset": 57557258240,
+                "last_val": 13.922,
+                "previous_val": 0,
+                "sell_price": 13.9221,
+                "buy_price": 13.922,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-12-09T15:04:55.25"
+            },
+            {
+                "nav_date": "2025-12-09",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-CASH",
+                "net_asset": 55977230336,
+                "last_val": 13.9222,
+                "previous_val": 0,
+                "sell_price": 13.9223,
+                "buy_price": 13.9222,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-12-11T15:11:11.353"
+            },
+            {
+                "nav_date": "2025-12-11",
+                "unique_id": "C0000000021",
+                "class_abbr_name": "K-CASH",
+                "net_asset": 55408766976,
+                "last_val": 13.9233,
+                "previous_val": 0,
+                "sell_price": 13.9234,
+                "buy_price": 13.9233,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-12-12T07:12:48.887"
             }
         ]
     }
