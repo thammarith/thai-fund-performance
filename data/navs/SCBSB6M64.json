@@ -1,0 +1,113 @@
+{
+    "lastUpdate": 1767155893589,
+    "nextUpdate": 1767242293589,
+    "data": {
+        "lastNav": "2025-12-23",
+        "fund": {
+            "proj_id": "M1113_2568",
+            "regis_id": "MF0673_2568",
+            "regis_date": "2025-12-23",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิดไทยพาณิชย์ตราสารภาครัฐ 6 เดือน 64",
+            "proj_name_en": "SCB Sovereign Bond 6M64",
+            "proj_abbr_name": "SCBSB6M64",
+            "fund_status": "RG",
+            "unique_id": "C0000000239",
+            "permit_us_investment": null,
+            "invest_country_flag": "1",
+            "last_upd_date": "2025-12-31T07:12:31.313"
+        },
+        "navs": [
+            {
+                "nav_date": "2025-12-23",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSB6M64",
+                "net_asset": 1087155584,
+                "last_val": 10.014,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-12-24T15:06:43.02"
+            },
+            {
+                "nav_date": "2025-12-24",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSB6M64",
+                "net_asset": 1098987008,
+                "last_val": 10.123,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-12-25T15:07:15.32"
+            },
+            {
+                "nav_date": "2025-12-25",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSB6M64",
+                "net_asset": 1098990592,
+                "last_val": 10.123,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-12-26T15:07:07.81"
+            },
+            {
+                "nav_date": "2025-12-26",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSB6M64",
+                "net_asset": 1106550528,
+                "last_val": 10.1926,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-12-29T15:06:50.54"
+            },
+            {
+                "nav_date": "2025-12-29",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSB6M64",
+                "net_asset": 1125760640,
+                "last_val": 10.3696,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-12-30T15:08:48.93"
+            },
+            {
+                "nav_date": "2025-12-30",
+                "unique_id": "C0000000239",
+                "class_abbr_name": "SCBSB6M64",
+                "net_asset": 1079028480,
+                "last_val": 9.9391,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 0,
+                "sell_swap_price": 0,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-12-31T07:12:10.3"
+            }
+        ]
+    }
+}
