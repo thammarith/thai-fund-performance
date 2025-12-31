@@ -1,8 +1,8 @@
 {
-    "lastUpdate": 1764473759562,
-    "nextUpdate": 1764560159562,
+    "lastUpdate": 1767163208113,
+    "nextUpdate": 1767249608113,
     "data": {
-        "lastNav": "2025-11-21",
+        "lastNav": "2025-12-19",
         "fund": {
             "proj_id": "M0694_2568",
             "regis_id": "MF0544_2568",
@@ -15,7 +15,7 @@
             "unique_id": "C0000005025",
             "permit_us_investment": null,
             "invest_country_flag": "1",
-            "last_upd_date": "2025-11-14T09:39:17.42"
+            "last_upd_date": "2025-12-31T07:12:31.313"
         },
         "navs": [
             {
@@ -167,6 +167,96 @@
                 "remark_th": " ",
                 "remark_en": " ",
                 "last_upd_date": "2025-11-30T07:09:45.723"
+            },
+            {
+                "nav_date": "2025-12-04",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP CAT-UI",
+                "net_asset": 207619360,
+                "last_val": 10.0222,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 10.0222,
+                "sell_swap_price": 10.0222,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-12-12T15:09:52.57"
+            },
+            {
+                "nav_date": "2025-12-08",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP CAT-UI",
+                "net_asset": 207622992,
+                "last_val": 10.0223,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 10.0223,
+                "sell_swap_price": 10.0223,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-12-17T15:16:49.96"
+            },
+            {
+                "nav_date": "2025-12-11",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP CAT-UI",
+                "net_asset": 207521632,
+                "last_val": 10.0174,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 10.0174,
+                "sell_swap_price": 10.0174,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-12-18T15:07:19.687"
+            },
+            {
+                "nav_date": "2025-12-12",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP CAT-UI",
+                "net_asset": 207597280,
+                "last_val": 10.0211,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 10.0211,
+                "sell_swap_price": 10.0211,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-12-24T15:06:43.02"
+            },
+            {
+                "nav_date": "2025-12-18",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP CAT-UI",
+                "net_asset": 207497872,
+                "last_val": 10.0163,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 10.0163,
+                "sell_swap_price": 10.0163,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-12-25T15:07:15.32"
+            },
+            {
+                "nav_date": "2025-12-19",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP CAT-UI",
+                "net_asset": 207747040,
+                "last_val": 10.0283,
+                "previous_val": 0,
+                "sell_price": 0,
+                "buy_price": 10.0283,
+                "sell_swap_price": 10.0283,
+                "buy_swap_price": 0,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-12-31T07:12:10.3"
             }
         ]
     }

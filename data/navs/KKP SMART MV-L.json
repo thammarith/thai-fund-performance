@@ -1,0 +1,68 @@
+{
+    "lastUpdate": 1767163208113,
+    "nextUpdate": 1767249608113,
+    "data": {
+        "lastNav": "2025-12-30",
+        "fund": {
+            "proj_id": "M0561_2559",
+            "regis_id": "MF0529_2559",
+            "regis_date": "2016-11-24",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิดเคเคพี สมาร์ท มินิมั่ม โวลาติลิตี้-L",
+            "proj_name_en": "KKP SMART MINIMUM VOLATILITY-L FUND",
+            "proj_abbr_name": "KKP SMART MV-L FUND",
+            "fund_status": "RG",
+            "unique_id": "C0000005025",
+            "permit_us_investment": null,
+            "invest_country_flag": "3",
+            "last_upd_date": "2025-12-31T07:12:31.313"
+        },
+        "navs": [
+            {
+                "nav_date": "2025-12-26",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SMART MV-L",
+                "net_asset": 0,
+                "last_val": 10.2355,
+                "previous_val": 0,
+                "sell_price": 10.2356,
+                "buy_price": 10.2355,
+                "sell_swap_price": 10.2355,
+                "buy_swap_price": 10.2356,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-12-29T15:06:50.54"
+            },
+            {
+                "nav_date": "2025-12-29",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SMART MV-L",
+                "net_asset": 0,
+                "last_val": 10.181,
+                "previous_val": 0,
+                "sell_price": 10.1811,
+                "buy_price": 10.181,
+                "sell_swap_price": 10.181,
+                "buy_swap_price": 10.1811,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-12-30T15:08:48.93"
+            },
+            {
+                "nav_date": "2025-12-30",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SMART MV-L",
+                "net_asset": 0,
+                "last_val": 10.2183,
+                "previous_val": 0,
+                "sell_price": 10.2184,
+                "buy_price": 10.2183,
+                "sell_swap_price": 10.2183,
+                "buy_swap_price": 10.2184,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-12-31T07:12:10.3"
+            }
+        ]
+    }
+}

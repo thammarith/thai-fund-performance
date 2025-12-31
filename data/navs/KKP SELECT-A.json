@@ -1,0 +1,68 @@
+{
+    "lastUpdate": 1767163208113,
+    "nextUpdate": 1767249608113,
+    "data": {
+        "lastNav": "2025-12-30",
+        "fund": {
+            "proj_id": "M0601_2547",
+            "regis_id": "080_2547",
+            "regis_date": "2004-10-22",
+            "cancel_date": "-",
+            "proj_name_th": "กองทุนเปิดเคเคพี ซีเล็ค อิควิตี้",
+            "proj_name_en": "KKP SELECT EQUITY FUND",
+            "proj_abbr_name": "KKP SELECT FUND",
+            "fund_status": "RG",
+            "unique_id": "C0000005025",
+            "permit_us_investment": null,
+            "invest_country_flag": "3",
+            "last_upd_date": "2025-12-31T07:12:31.313"
+        },
+        "navs": [
+            {
+                "nav_date": "2025-12-26",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SELECT-A",
+                "net_asset": 0,
+                "last_val": 17.6002,
+                "previous_val": 0,
+                "sell_price": 17.6883,
+                "buy_price": 17.6002,
+                "sell_swap_price": 17.6002,
+                "buy_swap_price": 17.6883,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-12-29T15:06:50.54"
+            },
+            {
+                "nav_date": "2025-12-29",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SELECT-A",
+                "net_asset": 0,
+                "last_val": 17.5155,
+                "previous_val": 0,
+                "sell_price": 17.6032,
+                "buy_price": 17.5155,
+                "sell_swap_price": 17.5155,
+                "buy_swap_price": 17.6032,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-12-30T15:08:48.93"
+            },
+            {
+                "nav_date": "2025-12-30",
+                "unique_id": "C0000005025",
+                "class_abbr_name": "KKP SELECT-A",
+                "net_asset": 0,
+                "last_val": 17.5995,
+                "previous_val": 0,
+                "sell_price": 17.6876,
+                "buy_price": 17.5995,
+                "sell_swap_price": 17.5995,
+                "buy_swap_price": 17.6876,
+                "remark_th": " ",
+                "remark_en": " ",
+                "last_upd_date": "2025-12-31T07:12:10.3"
+            }
+        ]
+    }
+}
